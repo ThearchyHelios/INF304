@@ -1,4 +1,4 @@
-CC=clang
+CC=clang -g
 
 all: exec_test_tri
 

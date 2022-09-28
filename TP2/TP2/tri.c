@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2020-11-03 16:10:26
- * @LastEditTime: 2022-09-22 15:29:22
+ * @LastEditTime: 2022-09-25 16:56:43
  * @LastEditors: ThearchyHelios
  * @Description: 
  * @FilePath: /TP2/TP2/tri.c
@@ -18,22 +18,15 @@ void tri_insertion(tableau_entiers *t)
 {
     int i, j;
     int Clef;
-
-    for (i = 1; i < t->taille; i++)
+    for (j = 1; j < t->taille; j++)
     {
-        /* Assertion : le sous-tableau t->tab[0..i-2] est trié */
-        Clef = t->tab[i];
-
-        j = i - 1;
-
-        /* Decalage des valeurs du tableau */
-        while ((j >= 0) && (Clef < (t->tab[j] - 1)))
+        Clef = t->tab[j];
+        i = j - 1;
+        while (i >= 0 && t->tab[i] > Clef)
         {
-            t->tab[j + 1] = t->tab[j];
-            j = j - 1;
+            t->tab[i + 1] = t->tab[i];
+            i--;
         }
-
-        /* insertion de la clef */
-        t->tab[j + 1] = Clef;
+        t->tab[i + 1] = Clef;
     }
 }

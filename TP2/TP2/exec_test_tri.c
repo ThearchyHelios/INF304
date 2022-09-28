@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2020-11-03 16:10:26
- * @LastEditTime: 2022-09-22 15:26:29
+ * @LastEditTime: 2022-09-28 17:12:20
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /TP2/TP2/exec_test_tri.c
@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 {
 
     tableau_entiers t;
-    FILE *ftab;
+    // FILE *ftab;
     char nom_fichier[256];
 
     if (argc < 2)
@@ -29,12 +29,16 @@ int main(int argc, char **argv)
     else
     {
         /* À modifier pour les exercices 3 à 6 */
-        lire_tableau(argv[1], &t);
-        tri_insertion(&t);
-        strcpy(nom_fichier, argv[1]);
-        strcat(nom_fichier, ".out");
-        ecrire_tableau(nom_fichier, &t);
-        /* test_tri_insertion(argc, argv); */
-        /* test_tri_insertion_alea(argc, argv); */
+        // lire_tableau(argv[1], &t);
+        // tri_insertion(&t);
+        // test_tri_insertion(argc, argv);
+        test_tri_insertion_alea(argc, argv);
+        // strcpy(nom_fichier, argv[1]);
+        // strcat(nom_fichier, ".out");
+        // ecrire_tableau(nom_fichier, &t);
+
+        // test_tri_insertion(argc, argv);
+
+        // test_tri_insertion_alea(argc, argv);
     }
 }
