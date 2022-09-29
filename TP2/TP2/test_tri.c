@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-09-27 11:13:23
- * @LastEditTime: 2022-09-28 17:02:45
+ * @LastEditTime: 2022-09-29 08:46:52
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /TP2/TP2/test_tri.c
+ * @FilePath: /INF304/TP2/TP2/test_tri.c
  */
 #include <stdio.h>
 #include <stdlib.h>
