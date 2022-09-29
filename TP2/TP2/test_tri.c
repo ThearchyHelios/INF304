@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-09-27 11:13:23
- * @LastEditTime: 2022-09-29 08:46:52
+ * @LastEditTime: 2022-09-29 12:31:57
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /INF304/TP2/TP2/test_tri.c
@@ -97,9 +97,9 @@ void test_tri_insertion_alea(int argc, char **argv)
     ecrire_tableau(nomFichier, &t);
     strcat(nomFichier, ".out");
     tri_insertion(&t);
-    // if (oracle(t) == 0)
-    // {
-    //     printf("Erreur client \n");
-    // }
+    if (oracle(t) == 0)
+    {
+        printf("Erreur client \n");
+    }
     ecrire_tableau(nomFichier, &t);
 }

@@ -2,8 +2,6 @@
 
 <p align="right">EL-BOUCH ISMAIL JIANG Yilun MAMADOU DIALLO</p>
 
-## Première partie: Tests et déboggage
-
 ### Exercice 0:
 
 Dans l'exercice 0 on a tester la procédure `tri_insertion` du paquetage `tri`
@@ -27,4 +25,12 @@ while ((j >= 0) && (Clef <= (t->tab[j] - 1)))
 Dans la fonction `oracle` qui a en paramètre un tableau d'entier dont le rôle est de vérifier que le résultat retenu par la procédure testée correspond bien a sa spécification; donc la fonction oracle compare compare 2 valeur de tableau consécutivement par exemple la valeur qui est stocker dans le tableau d'indice 0 et la valeur qui stocker dans le tableau d'indicatrices 0+1 = 1. Et qui retourne 0 si la valeur stocker dans le tableau de l'indice i est supérieur que la valeur stocker d'indice i+1, sinon il retourne 1.
 
 Après nous avons compléter la procédure test_tri_insertion, en utilisant cet oracle, afin d'afficher automatiquement quels tests échouent.
+
+**Conclusion**
+
+Nous constatons que la fonction `test_tri_insertion_alea`est le meilleur façon pour faire les tests, parce que a chaque fois qu'on va faire des tests, il va générer les 100 valeurs different pour tester. Ainsi on a constater que le test sert a rechercher des erreur éventuelle. Et nous avons utiliser beaucoup de tests fonctionnels et après nous avons tester avec les test de robustesse.
+
+-Exemple de teste de la fonction `test_tri_insertion_alea`: donc on va insérer 100 valeur dans le fichier original de façon aléatoire et on reçoit le tri des nombre insérer de manière croissante.(fichier Ismail et Ismail.out) 
+
+
 
