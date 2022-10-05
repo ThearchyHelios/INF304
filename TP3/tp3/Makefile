@@ -17,7 +17,7 @@ ensembles.o: ensembles.c sac.h operations_ens.h type_ensemble.h
 	$(CC) ensembles.c
 
 ensembles: ensembles.o sac.o operations_ens.o recherche_souschaine.o
-	$(CC) ensembles.o sac.o operations_ens.o recherche_souschaine.o -o ensembles
+	clang ensembles.o sac.o operations_ens.o recherche_souschaine.o -o ensembles
 
 clean:
 	rm -rf *.o ensembles

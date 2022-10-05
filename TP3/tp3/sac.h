@@ -1,3 +1,11 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-10-02 22:07:01
+ * @LastEditTime: 2022-10-05 18:28:09
+ * @LastEditors: ThearchyHelios
+ * @Description: 
+ * @FilePath: /INF304/TP3/tp3/sac.h
+ */
 #ifndef _SAC_H_
 #define _SAC_H_
 
@@ -6,11 +14,12 @@
 
 /* type sac : matrice carrée implémentée dans un tableau de tableaux d'entiers
  */
-typedef struct {
-  /* Taille du sac = n pour un sac de n*n valeurs */
-  int taille;
-  /* Valeurs du sac : tableau de tableaux d'entiers */
-  int tab[TAILLE_MAX][TAILLE_MAX];
+typedef struct
+{
+    /* Taille du sac = n pour un sac de n*n valeurs */
+    int taille;
+    /* Valeurs du sac : tableau de tableaux d'entiers */
+    int tab[TAILLE_MAX][TAILLE_MAX];
 } sac;
 
 /* Initialise une structure de sac s à partir du fichier de nom f_nom */
