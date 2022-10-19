@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-10-18 21:36:21
- * @LastEditTime: 2022-10-18 21:36:40
+ * @LastEditTime: 2022-10-19 12:24:42
  * @LastEditors: ThearchyHelios
  * @Description: 
- * @FilePath: /INF304/TP5/type_pile_erreurs.h
+ * @FilePath: /INF304/TP5/tp5/type_pile_erreurs.h
  */
 #ifndef _TYPE_PILE_ERREURS_H_
 #define _TYPE_PILE_ERREURS_H_
@@ -34,7 +34,7 @@ typedef struct
      - OK si la fonction s'est déroulée correctement
      - POINTEUR_NUL si p == NULL
  */
-erreur_pile creer_pile(PileEntiers *p);
+erreur_pile creer_pile (PileEntiers *p);
 
 /* Opérations d'accès */
 
