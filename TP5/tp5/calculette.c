@@ -1,20 +1,16 @@
 
 #include "commandes_calculette.h"
-#include "type_pile.h"
+#include "type_pile_erreurs.h"
 #include <stdio.h>
 
 void ziyada(PileEntiers *pila)
 {
-    if (pila->n >= 2)
-    {
-        int val1 = depiler(pila);
-        int val2 = depiler(pila);
-        empiler(pila, (val2 + val1));
-    }
-    else
-    {
-        printf("more values needed to apply ziyada");
-    }
+    int a = sommet(pila);
+    depiler(pila);
+    int b = sommet(pila);
+    depiler(pila);
+    int c = a + b;
+    empiler(pila, c);
 }
 
 void naqiss(PileEntiers *pila)
