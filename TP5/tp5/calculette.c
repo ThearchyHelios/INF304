@@ -1,3 +1,11 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-10-18 21:37:06
+ * @LastEditTime: 2022-10-19 19:03:58
+ * @LastEditors: ThearchyHelios
+ * @Description: 
+ * @FilePath: /INF304/TP5/tp5/calculette.c
+ */
 
 #include "commandes_calculette.h"
 #include "type_pile_erreurs.h"
@@ -5,20 +13,24 @@
 
 void ziyada(PileEntiers *pila)
 {
-    int a = sommet(pila);
-    depiler(pila);
-    int b = sommet(pila);
-    depiler(pila);
-    int c = a + b;
-    empiler(pila, c);
+    if (pila->n >= 2)
+    {
+        int val1 = depiler(pila, &val1);
+        int val2 = depiler(pila, &val2);
+        empiler(pila, (val2 + val1));
+    }
+    else
+    {
+        printf("more values needed to apply ziyada");
+    }
 }
 
 void naqiss(PileEntiers *pila)
 {
     if (pila->n >= 2)
     {
-        int val1 = depiler(pila);
-        int val2 = depiler(pila);
+        int val1 = depiler(pila, &val1);
+        int val2 = depiler(pila, &val2);
         empiler(pila, (val2 - val1));
     }
     else
@@ -31,8 +43,8 @@ void darb(PileEntiers *pila)
 {
     if (pila->n >= 2)
     {
-        int val1 = depiler(pila);
-        int val2 = depiler(pila);
+        int val1 = depiler(pila, &val1);
+        int val2 = depiler(pila, &val2);
         empiler(pila, (val2 * val1));
     }
     else
@@ -45,8 +57,8 @@ void alqissma(PileEntiers *pila)
 {
     if (pila->n >= 2)
     {
-        int val1 = depiler(pila);
-        int val2 = depiler(pila);
+        int val1 = depiler(pila, &val1);
+        int val2 = depiler(pila, &val2);
         empiler(pila, (val2 / val1));
     }
     else
@@ -67,6 +79,7 @@ int main(int argc, char **argv)
     fichier = ouvrir_commandes(argv[1]);
     PileEntiers pila;
     creer_pile(&pila);
+    int resultat = 0;
 
     commande command;
 
@@ -76,31 +89,32 @@ int main(int argc, char **argv)
         print_commandes(command);
         switch (command.cmd)
         {
-        case VIDER_PILE:
-            vider(&pila);
-            break;
-        case DEPILER_SOMMET:
-            depiler(&pila);
-            break;
-        case EMPILER_VALEUR:
-            empiler(&pila, command.arg);
-            break;
-        case EFFECTUER_ADDITION:
-            ziyada(&pila);
-            break;
-        case EFFECTUER_SOUSTRACTION:
-            naqiss(&pila);
-            break;
-        case EFFECTUER_MULTIPLICATION:
-            darb(&pila);
-            break;
-        case EFFECTUER_DIVISION:
-            alqissma(&pila);
-            break;
-        case COMMANDE_INCORRECTE:
-            printf("COMMANDE INCORRECTE \n");
-            break;
+            case VIDER_PILE:
+                vider(&pila);
+                break;
+            case DEPILER_SOMMET:
+                depiler(&pila, &resultat);
+                break;
+            case EMPILER_VALEUR:
+                empiler(&pila, command.arg);
+                break;
+            case EFFECTUER_ADDITION:
+                ziyada(&pila);
+                break;
+            case EFFECTUER_SOUSTRACTION:
+                naqiss(&pila);
+                break;
+            case EFFECTUER_MULTIPLICATION:
+                darb(&pila);
+                break;
+            case EFFECTUER_DIVISION:
+                alqissma(&pila);
+                break;
+            case COMMANDE_INCORRECTE:
+                printf("COMMANDE INCORRECTE \n");
+                break;
         }
+        resultat = pila.tab[pila.n - 1];
         print(&pila);
         printf("\n");
     }

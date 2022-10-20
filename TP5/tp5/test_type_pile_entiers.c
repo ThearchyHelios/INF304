@@ -1,13 +1,13 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-10-04 22:25:46
- * @LastEditTime: 2022-10-12 15:48:55
+ * @LastEditTime: 2022-10-20 12:06:15
  * @LastEditors: ThearchyHelios
  * @Description: 
- * @FilePath: /TP4/tp4/test_type_pile_entiers.c
+ * @FilePath: /INF304/TP5/tp5/test_type_pile_entiers.c
  */
 #include "commandes_pile.h"
-#include "type_pile.h"
+#include "type_pile_erreurs.h"
 #include <stdio.h>
 
 int main(int argc, char **argv)
@@ -37,7 +37,7 @@ int main(int argc, char **argv)
             vider(&p);
             break;
         case DEPILER_SOMMET:
-            depiler(&p);
+            depiler(&p, &value);
             break;
         case EMPILER_VALEUR:
             empiler(&p, command.arg);
@@ -46,7 +46,7 @@ int main(int argc, char **argv)
             print(&p);
             break;
         case AFFICHER_SOMMET:
-            value = sommet(&p);
+            value = sommet(&p, &value);
             printf("Sommet de la pile : %d \n", value);
             break;
         case AFFICHER_PILE_VIDE:
