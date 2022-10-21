@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-10-18 21:37:06
- * @LastEditTime: 2022-10-19 19:03:58
+ * @LastEditTime: 2022-10-21 11:54:28
  * @LastEditors: ThearchyHelios
  * @Description: 
  * @FilePath: /INF304/TP5/tp5/calculette.c
@@ -59,7 +59,16 @@ void alqissma(PileEntiers *pila)
     {
         int val1 = depiler(pila, &val1);
         int val2 = depiler(pila, &val2);
-        empiler(pila, (val2 / val1));
+        // empiler(pila, (val2 / val1));
+        if (val1 == 0)
+        {
+            printf("Division par 0 impossible\n");
+            empiler(pila, val2);
+        }
+        else
+        {
+            empiler(pila, (val2 / val1));
+        }
     }
     else
     {
