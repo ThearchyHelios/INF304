@@ -1,11 +1,20 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-11-20 23:00:57
+ * @LastEditTime: 2022-11-21 16:57:12
+ * @LastEditors: ThearchyHelios
+ * @Description:
+ * @FilePath: /INF304/TP7/type_pile.h
+ */
 #ifndef _TYPE_PILE_H_
 #define _TYPE_PILE_H_
 
 #define TAILLE_MAX 100
 
-typedef struct {
-  int n;
-  int tab[TAILLE_MAX];
+typedef struct
+{
+	int n;
+	int tab[TAILLE_MAX];
 } PileEntiers;
 
 /* Constructeurs */

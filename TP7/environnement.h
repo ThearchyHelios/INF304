@@ -1,3 +1,11 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-11-20 23:00:57
+ * @LastEditTime: 2022-11-21 16:53:19
+ * @LastEditors: ThearchyHelios
+ * @Description:
+ * @FilePath: /INF304/TP7/environnement.h
+ */
 #ifndef _ENVIRONNEMENT_H_
 #define _ENVIRONNEMENT_H_
 
@@ -6,9 +14,10 @@
 
 /* Environnement : terrain + robot */
 
-typedef struct {
-  Robot r;
-  Terrain t;
+typedef struct
+{
+	Robot r;
+	Terrain t;
 } Environnement;
 
 /* Initialise l'environnement envt :
@@ -17,14 +26,15 @@ typedef struct {
    terrain, orientation initiale vers l'est
 */
 erreur_terrain initialise_environnement(Environnement *envt,
-                                        char *fichier_terrain);
+										char *fichier_terrain);
 
 /* Résultat d'un déplacement de robot */
-typedef enum {
-  OK_DEPL, /* Déplacement sur case libre */
-  PLOUF,   /* Déplacement dans l'eau */
-  CRASH,   /* Déplacement dans un rocher */
-  SORTIE,  /* Sortie du terrain */
+typedef enum
+{
+	OK_DEPL, /* Déplacement sur case libre */
+	PLOUF,	 /* Déplacement dans l'eau */
+	CRASH,	 /* Déplacement dans un rocher */
+	SORTIE,	 /* Sortie du terrain */
 } resultat_deplacement;
 
 /* Avancer le robot sur le terrain : */
@@ -38,19 +48,19 @@ void droite_envt(Environnement *envt);
 
 /* Effectuer une mesure
    Paramètre d : la direction de la mesure
-     0 sur place
-     1 devant
-     2 devant droite
-     3 droite
-     4 derrière droite
-     5 derrière
-     6 derrière gauche
-     7 gauche
-     8 devant gauche
+	 0 sur place
+	 1 devant
+	 2 devant droite
+	 3 droite
+	 4 derrière droite
+	 5 derrière
+	 6 derrière gauche
+	 7 gauche
+	 8 devant gauche
    Renvoie le résultat de la mesure :
-     0 rien (case libre ou en-dehors du terrain)
-     1 eau
-     2 rocher
+	 0 rien (case libre ou en-dehors du terrain)
+	 1 eau
+	 2 rocher
  */
 int mesure_envt(Environnement *envt, int d);
 

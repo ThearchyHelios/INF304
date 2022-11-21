@@ -1,18 +1,10 @@
 /*
  * @Author: ThearchyHelios
- * @Date: 2022-11-21 16:43:53
- * @LastEditTime: 2022-11-21 16:43:53
- * @LastEditors: ThearchyHelios
- * @Description: 
- * @FilePath: /INF304/TP6/test_robot.c
- */
-/*
- * @Author: ThearchyHelios
  * @Date: 2022-11-20 22:59:29
- * @LastEditTime: 2022-11-21 11:57:47
+ * @LastEditTime: 2022-11-21 16:56:56
  * @LastEditors: ThearchyHelios
- * @Description: 
- * @FilePath: /INF304/TP6/test_robot.c
+ * @Description:
+ * @FilePath: /INF304/TP7/test_robot.c
  */
 #include "robot.h"
 #include <stdio.h>
