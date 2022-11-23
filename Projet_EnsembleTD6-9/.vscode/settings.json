@@ -4,7 +4,9 @@
         "client.h": "c",
         "unistd.h": "c",
         "inet.h": "c",
-        "interprete.h": "c",
-        "generation_terrains.h": "c"
+        "generation_terrains.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "terrain.h": "c"
     }
 }

@@ -1,3 +1,11 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-11-23 08:44:02
+ * @LastEditTime: 2022-11-23 10:23:34
+ * @LastEditors: ThearchyHelios
+ * @Description: 
+ * @FilePath: /Projet_EnsembleTD6-9/generation_terrains.h
+ */
 #include "terrain.h"
 #include <stdio.h>
 #include <stdlib.h>
