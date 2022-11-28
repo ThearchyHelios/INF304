@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-23 08:44:02
- * @LastEditTime: 2022-11-23 13:12:58
+ * @LastEditTime: 2022-11-28 15:46:01
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /Projet_EnsembleTD6-9/generation_terrains.c
@@ -20,13 +20,13 @@
 void generation_aleatoire(Terrain *T, int l, int h, float dObst)
 {
 
-	int nb_obst = (int)l * h * dObst, count = 0;
+	int nb_obst = (int)l * h * dObst, count = 0; // nbr  de obstacle = largeur * hauteur * densité d'obstacle, int compteur
 	int x, y, nb_rand;
 
-	T->hauteur = h;
-	T->largeur = l;
+	T->hauteur = h; // hauteur du terrain
+	T->largeur = l; // largeur du terrain
 
-	if (T == NULL)
+	if (T == NULL) // si le terrain n'existe pas
 	{
 		printf("Le terrain n'existe pas\n");
 		exit(EXIT_FAILURE);
@@ -35,25 +35,25 @@ void generation_aleatoire(Terrain *T, int l, int h, float dObst)
 	for (int j = 0; j < h; j++)
 	{
 		for (int i = 0; i < l; i++)
-			T->tab[i][j] = LIBRE;
+			T->tab[i][j] = LIBRE; // on met toutes les cases du terrain à libre
 	}
 
-	while (count != nb_obst)
+	while (count != nb_obst) // tant que le nombre d'obstacle n'est pas atteint
 	{
-		nb_rand = rand() % 2;
-		x = rand() % l;
-		y = rand() % h;
+		nb_rand = rand() % 2; // on génère un nombre aléatoire entre 0 et 1
+		x = rand() % l;		  // on génère un nombre aléatoire entre 0 et la largeur du terrain
+		y = rand() % h;		  // on génère un nombre aléatoire entre 0 et la hauteur du terrain (pour choisir la position de l'obstacle)
 
-		if ((T->tab[x][y] == ROCHER) || (T->tab[x][y] == EAU))
+		if ((T->tab[x][y] == ROCHER) || (T->tab[x][y] == EAU)) // si la case est déjà un obstacle
 			continue;
 
 		else
 		{
-			if (nb_rand == 0)
-				T->tab[x][y] = ROCHER;
+			if (nb_rand == 0)		   // si le nombre aléatoire est 0
+				T->tab[x][y] = ROCHER; // on met un rocher à la position x,y
 			else
-				T->tab[x][y] = EAU;
-			count ++;
+				T->tab[x][y] = EAU; // sinon on met de l'eau à la position x,y
+			count++;
 		}
 	}
 }

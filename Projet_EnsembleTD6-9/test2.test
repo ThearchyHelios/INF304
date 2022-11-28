@@ -76,7 +76,7 @@ Terrain: 37
 Terrain: 38
 -1
 Terrain: 39
-52
+-1
 Terrain: 40
 -1
 Terrain: 41
@@ -84,7 +84,7 @@ Terrain: 41
 Terrain: 42
 -1
 Terrain: 43
-45
+-1
 Terrain: 44
 -1
 Terrain: 45
@@ -194,8 +194,8 @@ Terrain: 96
 Terrain: 97
 -1
 Terrain: 98
-92
-Terrain: 99
 -1
+Terrain: 99
+76
 Terrain: 100
 -1
