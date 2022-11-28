@@ -1,10 +1,19 @@
+/*
+ * @Author: ThearchyHelios
+ * @Date: 2022-11-23 08:43:48
+ * @LastEditTime: 2022-11-25 11:30:08
+ * @LastEditors: ThearchyHelios
+ * @Description: 
+ * @FilePath: /INF304/Projet_EnsembleTD6-9/interprete4.c
+ */
 #include "interprete.h"
 #include "type_pile.h"
 
 /* Interprétation d'un programme dans un environnement */
 
 /* Initialisation de l'état */
-void init_etat(etat_inter *etat) {
+void init_etat(etat_inter *etat)
+{
   creer_pile(&(etat->stack));
   creer_pile(&(etat->sp));
   etat->pc = 0;
@@ -13,21 +22,26 @@ void init_etat(etat_inter *etat) {
 /* Pas d'exécution de l'interprète : exécute une commande, modifie
    l'environnement et l'état, renvoie l'état du robot */
 resultat_inter exec_pas(Programme *prog, Environnement *envt,
-                        etat_inter *etat) {
+                        etat_inter *etat)
+{
   Commande c;
   resultat_deplacement res;
   resultat_inter res_inter;
-  if (etat->pc == prog->lg) {
+  if (etat->pc == prog->lg)
+  {
     return ARRET_ROBOT;
   }
-  if ((etat->pc > prog->lg) || (etat->pc < 0)) {
+  if ((etat->pc > prog->lg) || (etat->pc < 0))
+  {
     return ERREUR_ADRESSAGE;
   }
   c = prog->tab[etat->pc];
-  switch (c.cmd) {
+  switch (c.cmd)
+  {
   case Avancer:
     res = avancer_envt(envt);
-    switch (res) {
+    switch (res)
+    {
     case OK_DEPL:
       etat->pc++;
       res_inter = OK_ROBOT;
@@ -51,9 +65,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     res_inter = OK_ROBOT;
     break;
   case Mesure:
-    if (est_vide(&(etat->stack))) {
+    if (est_vide(&(etat->stack)))
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int param;
       int mes;
       param = sommet(&(etat->stack));
@@ -74,9 +91,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     res_inter = OK_ROBOT;
     break;
   case FinBloc:
-    if (est_vide(&(etat->sp))) {
+    if (est_vide(&(etat->sp)))
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int ret = sommet(&(etat->sp));
       depiler(&(etat->sp));
       etat->pc = ret;
@@ -89,9 +109,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     res_inter = OK_ROBOT;
     break;
   case ExecBloc:
-    if (est_vide(&(etat->stack))) {
+    if (est_vide(&(etat->stack)))
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int adrexec;
       adrexec = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -101,9 +124,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case CondExec:
-    if (taille(&(etat->stack)) < 3) {
+    if (taille(&(etat->stack)) < 3)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int cond, addr_v, addr_f, addrexec;
       addr_f = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -112,9 +138,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
       depiler(&(etat->stack));
       cond = sommet(&(etat->stack));
       depiler(&(etat->stack));
-      if (cond != 0) {
+      if (cond != 0)
+      {
         addrexec = addr_v;
-      } else {
+      }
+      else
+      {
         addrexec = addr_f;
       }
       empiler(&(etat->sp), etat->pc + 1);
@@ -123,9 +152,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Echange:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a, b;
       a = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -138,9 +170,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Mult:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a, b;
       a = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -152,9 +187,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Add:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a, b;
       a = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -166,17 +204,23 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Div:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a, b;
       a = sommet(&(etat->stack));
       depiler(&(etat->stack));
       b = sommet(&(etat->stack));
       depiler(&(etat->stack));
-      if (a == 0) {
+      if (a == 0)
+      {
         return ERREUR_DIVISION_PAR_ZERO;
-      } else {
+      }
+      else
+      {
         empiler(&(etat->stack), b / a);
         etat->pc++;
         res_inter = OK_ROBOT;
@@ -184,9 +228,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Sub:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a, b;
       a = sommet(&(etat->stack));
       depiler(&(etat->stack));
@@ -198,25 +245,33 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Rotation:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int n;
       int p;
       p = sommet(&(etat->stack));
       depiler(&(etat->stack));
       n = sommet(&(etat->stack));
       depiler(&(etat->stack));
-      if (taille(&(etat->stack)) < n) {
+      if (taille(&(etat->stack)) < n)
+      {
         return ERREUR_PILE_VIDE;
-      } else {
+      }
+      else
+      {
         int a[n];
         int i;
-        for (i = 0; i < n; i++) {
+        for (i = 0; i < n; i++)
+        {
           a[i] = sommet(&(etat->stack));
           depiler(&(etat->stack));
         }
-        for (i = 1; i <= n; i++) {
+        for (i = 1; i <= n; i++)
+        {
           int j = (n - p) - i;
           j = (j < 0) ? (n + j) : j;
           empiler(&(etat->stack), a[j]);
@@ -227,9 +282,12 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Clone:
-    if (est_vide(&(etat->stack))) {
+    if (est_vide(&(etat->stack)))
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int a = sommet(&(etat->stack));
       empiler(&(etat->stack), a);
       etat->pc++;
@@ -237,18 +295,24 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Boucle:
-    if (taille(&(etat->stack)) < 2) {
+    if (taille(&(etat->stack)) < 2)
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       int n, addrexec;
       n = sommet(&(etat->stack));
       depiler(&(etat->stack));
-      if (n > 0) {
+      if (n > 0)
+      {
         addrexec = sommet(&(etat->stack));
         empiler(&(etat->stack), n - 1);
         empiler(&(etat->sp), etat->pc);
         etat->pc = addrexec;
-      } else {
+      }
+      else
+      {
         depiler(&(etat->stack));
         etat->pc++;
       }
@@ -256,18 +320,24 @@ resultat_inter exec_pas(Programme *prog, Environnement *envt,
     }
     break;
   case Ignore:
-    if (est_vide(&(etat->stack))) {
+    if (est_vide(&(etat->stack)))
+    {
       return ERREUR_PILE_VIDE;
-    } else {
+    }
+    else
+    {
       depiler(&(etat->stack));
       etat->pc++;
       res_inter = OK_ROBOT;
     }
     break;
   }
-  if (etat->pc == prog->lg) {
+  if (etat->pc == prog->lg)
+  {
     return ARRET_ROBOT;
-  } else {
+  }
+  else
+  {
     return res_inter;
   }
 }

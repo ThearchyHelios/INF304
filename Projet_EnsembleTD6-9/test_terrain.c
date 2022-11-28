@@ -1,18 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-21 16:43:33
- * @LastEditTime: 2022-11-21 16:57:04
+ * @LastEditTime: 2022-11-25 11:42:04
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/TP7/test_terrain.c
- */
-/*
- * @Author: ThearchyHelios
- * @Date: 2022-11-20 22:59:29
- * @LastEditTime: 2022-11-20 23:58:33
- * @LastEditors: ThearchyHelios
- * @Description:
- * @FilePath: /INF304/TP6/test_terrain.c
+ * @FilePath: /INF304/Projet_EnsembleTD6-9/test_terrain.c
  */
 #include "terrain.h"
 #include <stdio.h>

@@ -1,6 +1,6 @@
 100
 Terrain: 1
-74
+-1
 Terrain: 2
 -1
 Terrain: 3
@@ -8,7 +8,7 @@ Terrain: 3
 Terrain: 4
 -1
 Terrain: 5
-74
+-1
 Terrain: 6
 -1
 Terrain: 7
@@ -64,7 +64,7 @@ Terrain: 31
 Terrain: 32
 -1
 Terrain: 33
-66
+-1
 Terrain: 34
 -1
 Terrain: 35
@@ -76,7 +76,7 @@ Terrain: 37
 Terrain: 38
 -1
 Terrain: 39
--1
+52
 Terrain: 40
 -1
 Terrain: 41
@@ -84,13 +84,13 @@ Terrain: 41
 Terrain: 42
 -1
 Terrain: 43
--1
+45
 Terrain: 44
 -1
 Terrain: 45
 -1
 Terrain: 46
-51
+-1
 Terrain: 47
 -1
 Terrain: 48
@@ -128,7 +128,7 @@ Terrain: 63
 Terrain: 64
 -1
 Terrain: 65
-36
+-1
 Terrain: 66
 -1
 Terrain: 67
@@ -192,9 +192,9 @@ Terrain: 95
 Terrain: 96
 -1
 Terrain: 97
-51
-Terrain: 98
 -1
+Terrain: 98
+92
 Terrain: 99
 -1
 Terrain: 100
