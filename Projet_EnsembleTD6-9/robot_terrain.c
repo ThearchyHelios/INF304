@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-21 16:45:13
- * @LastEditTime: 2022-11-21 16:56:07
+ * @LastEditTime: 2022-11-29 11:59:12
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/TP7/robot_terrain.c
+ * @FilePath: /INF304/Projet_EnsembleTD6-9/robot_terrain.c
  */
 #include "robot.h"
 #include "terrain.h"
@@ -101,9 +101,9 @@ void afficher_terrain_et_robot(Terrain *t, Robot *r)
    peut avancer dans le terrain t */
 int robot_peut_avancer(Terrain *t, Robot *r)
 {
-	/* À compléter */
-
-	return 0; /* À modifier */
+	int x, y; // Position devant le robot
+	position_devant(r, &x, &y); // Récupérer la position devant le robot
+	return est_case_libre(t, x, y); // Renvoie vrai si la case devant le robot est libre
 }
 
 int main(int argc, char **argv)

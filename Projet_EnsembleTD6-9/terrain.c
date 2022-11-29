@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-21 16:26:51
- * @LastEditTime: 2022-11-23 20:45:36
+ * @LastEditTime: 2022-11-29 11:36:28
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /Projet_EnsembleTD6-9/terrain.c
+ * @FilePath: /INF304/Projet_EnsembleTD6-9/terrain.c
  */
 
 #include "terrain.h"
@@ -24,58 +24,52 @@ erreur_terrain lire_terrain(FILE *f, Terrain *t, int *x, int *y)
 	char ligne[DIM_MAX];
 	Case c;
 
-	if (f == NULL)
+	if (f == NULL) // Si le fichier n'existe pas
 	{
 		return ERREUR_FICHIER;
 	}
 
-	// Lecture de la largeur
-	n = fscanf(f, "%d", &l);
+	n = fscanf(f, "%d", &l); // Lecture de la largeur du terrain
 	if (n == 0)
 	{
 		return ERREUR_LECTURE_LARGEUR;
 	}
-	else if ((l < 0) || (l > DIM_MAX))
+	else if ((l < 0) || (l > DIM_MAX)) // Si la largeur est incorrecte
 	{
 		return ERREUR_LARGEUR_INCORRECTE;
 	}
-	t->largeur = l;
-	// Lecture de la hauteur
-	fscanf(f, "%d", &h);
-	if (n == 0)
+	t->largeur = l; // Affectation de la largeur au terrain
+
+	fscanf(f, "%d", &h); // Lecture de la hauteur du terrain
+	if (n == 0) // Si la hauteur est incorrecte
 	{
 		return ERREUR_LECTURE_HAUTEUR;
 	}
-	else if ((h < 0) || (h > DIM_MAX))
+	else if ((h < 0) || (h > DIM_MAX)) // Si la hauteur est incorrecte
 	{
 		return ERREUR_HAUTEUR_INCORRECTE;
 	}
-	t->hauteur = h;
-	// Lecture du terrain
-	// Lecture du caractère de retour à la ligne précédant la première ligne
-	fscanf(f, "\n");
-	for (j = 0; j < h; j++)
+	t->hauteur = h; // Affectation de la hauteur au terrain
+
+	fscanf(f, "\n"); // Passage à la ligne suivante
+	for (j = 0; j < h; j++) // Lecture chaque ligne suivant
 	{
-		// Lecture d'une ligne dans le fichier
-		res = fgets(ligne, DIM_MAX, f);
+		res = fgets(ligne, DIM_MAX, f); // Lecture de la ligne
 		if (res == NULL)
 		{
 			return ERREUR_LIGNES_MANQUANTES;
 		}
-		lgligne =
-			strlen(ligne) - 1; // Tenir compte du caractère de retour à la ligne
-		if (lgligne < l)
+		lgligne = strlen(ligne) - 1; // Longueur de la ligne lue
+		if (lgligne < l) // Si la ligne est trop courte
 		{
 			return ERREUR_LIGNE_TROP_COURTE;
 		}
-		else if (lgligne > l)
+		else if (lgligne > l) // Si la ligne est trop longue
 		{
 			return ERREUR_LIGNE_TROP_LONGUE;
 		}
-		// Parcours de la ligne
-		for (i = 0; i < l; i++)
+		for (i = 0; i < l; i++) // Lecture du chaque case
 		{
-			// Initialisation d'une case
 			switch (ligne[i])
 			{
 			case '.':
@@ -99,7 +93,7 @@ erreur_terrain lire_terrain(FILE *f, Terrain *t, int *x, int *y)
 			t->tab[i][j] = c;
 		}
 	}
-	if (!pos_robot)
+	if (!pos_robot) // Si la position du robot n'a pas été lue
 	{
 		return ERREUR_POSITION_ROBOT_MANQUANTE;
 	}
