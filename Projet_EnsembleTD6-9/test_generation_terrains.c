@@ -63,7 +63,7 @@ int main(int argc, char **argv)
 		printf("Densité incorrecte : doit être comprise entre 0 et 1\n");
 		return 1;
 	}
-
+//on a commencer a completer 
 	// Ouverture du fichier résultat
 	resFile = fopen(argv[5], "w");
 	// Écriture du nombre de terrains
@@ -71,39 +71,36 @@ int main(int argc, char **argv)
 
 	// Initialisation de la fonction random
 	// A compléter
-	srand(time(NULL));
+	srand(time(NULL)); //on initialise le random avec le temps
 
 	// A compléter
 	// Génération aléatoire des terrains
 	// Écriture des terrains générés dans le fichier resFile
 	// Écriture/Affichage des statistiques
-
-	// create a list to stock the number of every terrains which has a path to the exit
-	int *list = malloc(N * sizeof(int));
+	
 	int count_chemin_existe = 0;
 
 	for (i = 0; i < N; i++)
 	{
 		generation_aleatoire(&T, l, h, dObst);
-		int nb_occ = nb_cases_occupees(&T);
-		int nb_chemin = existe_chemin_vers_sortie(&T);
-		fprintf(resFile, "\nTerrain No.%d, ", i + 1);
-		fprintf(resFile, "Nombre d'obstacle:%d, la densite d'obstacle obtenue:%f \n", nb_occ, (float)nb_occ / (l * h));
-		ecrire_terrain(resFile, &T, l, h);
-		if (nb_chemin)
+		int nb_occ = nb_cases_occupees(&T);//on compte le nombre de cases occupees
+		int nb_chemin = existe_chemin_vers_sortie(&T);//on regarde si il existe chemin cad 1
+		fprintf(resFile, "\nTerrain No.%d, ", i + 1);//on ecrit le numero du terrain
+		fprintf(resFile, "Nombre d'obstacle:%d, la densite d'obstacle obtenue:%f \n", nb_occ, (float)nb_occ / (l * h));//on ecrit le nombre d'obstacle et la densite d'obstacle obtenue
+		ecrire_terrain(resFile, &T, l, h);//on ecrit le terrain
+		if (nb_chemin)// si il existe le chemin
 		{
-			fprintf(resFile, "Chemin vers sortie\n--------------------------\n");
-			list[i] = 1;
-			count_chemin_existe++;
-			printf("Terrain No.%d, Nombre d'obstacle:%d, Chemin vers sortie\n", i + 1, nb_occ);
+			fprintf(resFile, "Chemin vers sortie\n--------------------------\n");//on ecrit chemin vers sortie
+			count_chemin_existe++;//on incremente le nombre de terrain qui a un chemin vers sortie
+			printf("Terrain No.%d, Nombre d'obstacle:%d, Chemin vers sortie\n", i + 1, nb_occ);//on affiche le numero du terrain et le nombre d'obstacle
 		}
 		else
 		{
 			fprintf(resFile, "Pas de chemin vers sortie\n--------------------------\n");
 		}
 	}
-	fprintf(resFile, "\nIl y a %d terrains qui ont un chemin vers sortie dans %d terrains.\n", count_chemin_existe, N);
-	fprintf(resFile, "La probabilité de trouver un chemin vers sortie est %f.\n", (float)count_chemin_existe / N);
+	fprintf(resFile, "\nIl y a %d terrains qui ont un chemin vers sortie dans %d terrains.\n", count_chemin_existe, N);//on ecrit le nombre de terrain qui a un chemin vers sortie et le nombre de terrain total
+	fprintf(resFile, "La probabilité de trouver un chemin vers sortie est %f.\n", (float)count_chemin_existe / N);//on ecrit la probabilite de trouver un chemin vers sortie
 
 	// fermeture des fichiers
 	fclose(resFile);

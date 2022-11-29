@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-23 20:59:04
- * @LastEditTime: 2022-11-24 00:29:41
+ * @LastEditTime: 2022-11-28 16:19:38
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /Projet_EnsembleTD6-9/curiosity-perf.c
@@ -15,7 +15,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+// le meme programme que curiosity.c mais avec des modifications pour la performance
 void gestion_erreur_terrain(erreur_terrain e)
 {
 	switch (e)
@@ -96,7 +96,7 @@ int main(int argc, char **argv)
 {
 	Environnement envt;
 	Programme prog;
-	erreur_terrain errt;
+	erreur_terrain erreur_terrain;
 	erreur_programme errp;
 	etat_inter etat;
 	resultat_inter res;
@@ -141,52 +141,47 @@ int main(int argc, char **argv)
 	nb_pas_max = strtol(argv[7], NULL, 10);
 	fichier_res = fopen(argv[8], "w");
 	fprintf(fichier_res, "%d\n", N);
-
+//on a commencer a completer
 	for (int i = 1; i <= N; i++)
 	{
-		printf("Terrain No.%d\n\n", i);
-		graine = fopen(argv[6], "w");
-		generation_aleatoire(&T, l, h, dObst);
-		ecrire_terrain(graine, &T, (int)l / 2, (int)h / 2);
-		fclose(graine);
+		printf("Terrain No.%d\n\n", i);//on affiche le numero du terrain
+		graine = fopen(argv[6], "w");//on ouvre le fichier graine
+		generation_aleatoire(&T, l, h, dObst);//on genere un terrain aleatoire
+		ecrire_terrain(graine, &T, (int)l / 2, (int)h / 2);//on ecrit le terrain dans le fichier graine
+		fclose(graine);//on ferme le fichier graine
 
-		fprintf(fichier_res, "%s %d\n", "Terrain:", i);
+		fprintf(fichier_res, "%s %d\n", "Terrain:", i);//on ecrit le numero du terrain dans le fichier res
 
-		/* Initialisation de l'environnement : lecture du terrain,
-		 initialisation de la position du robot */
-		errt = initialise_environnement(&envt, argv[6]);
-		gestion_erreur_terrain(errt);
-		/* Affichage du terrain et du robot */
-		afficher_envt(&envt);
+		erreur_terrain = initialise_environnement(&envt, argv[6]); //on initialise l'environnement, et initialise la position du robot
+		gestion_erreur_terrain(erreur_terrain);// on gere les erreurs
+		afficher_envt(&envt); //on affiche l'environnement
 
-		/* Lecture du programme */
-		errp = lire_programme(&prog, argv[1]);
-		gestion_erreur_programme(errp);
-		nb_pas_effectues = 0;
-		existe_chemin = existe_chemin_vers_sortie(&T);
-		if (existe_chemin == 0)
+		errp = lire_programme(&prog, argv[1]); //on lit le programme
+		gestion_erreur_programme(errp); //on gere les erreurs
+		nb_pas_effectues = 0; //on initialise le nombre de pas effectues a 0
+		existe_chemin = existe_chemin_vers_sortie(&T); //on verifie si il existe un chemin vers la sortie
+		if (existe_chemin == 0) // si le chemin n'existe pas
 		{
 			nb_bloque++;
 			printf("Le robot est bloqué \n\n");
 			fprintf(fichier_res, "%d\n", -1);
 		}
-		else
+		else // si le chemin existe
 		{
+			init_etat(&etat); //on initialise l'etat
 
-			/* Initialisation de l'état */
-
-			init_etat(&etat);
-			do
+			while (res == OK_ROBOT && nb_pas_max >= nb_pas_effectues) //tant que le robot n'a pas crasher et qu'il n'a pas atteint le nombre de pas max
 			{
 				res = exec_pas(&prog, &envt, &etat);
 				nb_pas_effectues++;
+			}
 
-			} while (res == OK_ROBOT && nb_pas_max >= nb_pas_effectues);
+			printf("pas = %d\n", nb_pas_effectues); //on affiche le nombre de pas effectues
 
-			printf("pas = %d\n", nb_pas_effectues);
-			/* Affichage du résultat */
-
-			if (res == SORTIE_ROBOT)
+			 /*
+			 Partie d'affichage du resultat
+			 */
+			if (res == SORTIE_ROBOT) // si le robot a atteint la sortie
 			{
 				printf("Le robot est sorti :-)\n\n");
 				nb_sorties++;
@@ -194,20 +189,20 @@ int main(int argc, char **argv)
 				fprintf(fichier_res, "%d\n", nb_pas_effectues);
 			}
 
-			else if (res == PLOUF_ROBOT)
+			else if (res == PLOUF_ROBOT) // si le robot a tomber dans l'eau
 			{
 				printf("Le robot est tombé dans l'eau :-(\n\n");
 				nb_crashes++;
 				fprintf(fichier_res, "%d\n", -2);
 			}
 
-			else if (res == CRASH_ROBOT)
+			else if (res == CRASH_ROBOT) // si le robot a crasher
 			{
 				printf("Le robot s'est écrasé sur un rocher X-(\n\n");
 				nb_crashes++;
 				fprintf(fichier_res, "%d\n", -3);
 			}
-			else if (res == OK_ROBOT)
+			else if (res == OK_ROBOT) // si le robot n'a pas atteint la sortie
 			{
 				nb_bloque++;
 				printf("Le nombre de pas effectués depasse le nombre de pas maximum, Le robot est bloqué \n\n");
@@ -216,9 +211,9 @@ int main(int argc, char **argv)
 		}
 	}
 
-	printf("nombre et pourcentage de terrains d'ou le robot est sorti %.0f, %.2f\n", nb_sorties, (nb_sorties * 100) / N);
-	printf("nombre et pourcentage de terrains d'ou le robot est bloque: %.0f, %.2f\n", nb_bloque, (nb_bloque * 100) / N);
-	printf("nombre et pourcentage de terrains d'ou le robot est rentre dans un obstacle: %.0f, %.2f\n", nb_crashes, (nb_crashes * 100) / N);
-	printf("nombre moyen de pas effectués pour les sorties %.2f\n", moyenne_pas / nb_sorties);
+	printf("nombre et pourcentage de sorties : %f (%f%%)\n", nb_sorties, (float)nb_sorties / N * 100);
+	printf("nombre et pourcentage de terrains bloqués : %f (%f%%)\n", nb_bloque, (float)nb_bloque / N * 100);
+	printf("nombre et pourcentage de terrains crashés : %f (%f%%)\n", nb_crashes, (float)nb_crashes / N * 100);
+	printf("nombre moyen de pas pour sortir : %f\n", (float)moyenne_pas / nb_sorties);
 	fclose(fichier_res);
 }
