@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-23 20:59:04
- * @LastEditTime: 2022-11-28 16:19:38
+ * @LastEditTime: 2022-11-30 18:40:30
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /Projet_EnsembleTD6-9/curiosity-perf.c
@@ -105,7 +105,8 @@ int main(int argc, char **argv)
 	float dObst;
 	Terrain T;
 	int nb_pas_max, nb_pas_effectues, existe_chemin;
-	float moyenne_pas = 0., nb_crashes = 0., nb_sorties = 0., nb_bloque = 0.;
+	float moyenne_pas = 0.;
+	int nb_crashes = 0, nb_sorties = 0, nb_bloque = 0;
 	FILE *graine, *fichier_res;
 
 	if (argc < 9)
@@ -170,36 +171,37 @@ int main(int argc, char **argv)
 		{
 			init_etat(&etat); //on initialise l'etat
 
-			while (res == OK_ROBOT && nb_pas_max >= nb_pas_effectues) //tant que le robot n'a pas crasher et qu'il n'a pas atteint le nombre de pas max
+			do
 			{
 				res = exec_pas(&prog, &envt, &etat);
-				nb_pas_effectues++;
-			}
+				nb_pas_effectues += 1;
+			} while (res == OK_ROBOT && nb_pas_max >= nb_pas_effectues);// tant que le robot n'a pas crasher et qu'il n'a pas atteint le nombre de pas max
 
-			printf("pas = %d\n", nb_pas_effectues); //on affiche le nombre de pas effectues
+			printf("pas = %d\n", nb_pas_effectues); // on affiche le nombre de pas effectues
 
 			 /*
 			 Partie d'affichage du resultat
 			 */
+			printf("Resultat : %i\n", res);
 			if (res == SORTIE_ROBOT) // si le robot a atteint la sortie
 			{
-				printf("Le robot est sorti :-)\n\n");
+				printf("Le robot est sorti\n\n");
 				nb_sorties++;
-				moyenne_pas += nb_pas_effectues;
+				moyenne_pas += nb_pas_effectues; // on ajoute le nombre de pas effectues a la moyenne
 				fprintf(fichier_res, "%d\n", nb_pas_effectues);
 			}
 
 			else if (res == PLOUF_ROBOT) // si le robot a tomber dans l'eau
 			{
-				printf("Le robot est tombé dans l'eau :-(\n\n");
-				nb_crashes++;
+				printf("Le robot est tombé dans l'eau\n\n");
+				nb_crashes++; // on incremente le nombre de crash
 				fprintf(fichier_res, "%d\n", -2);
 			}
 
 			else if (res == CRASH_ROBOT) // si le robot a crasher
 			{
-				printf("Le robot s'est écrasé sur un rocher X-(\n\n");
-				nb_crashes++;
+				printf("Le robot s'est écrasé sur un rocher\n\n");
+				nb_crashes++; // on incremente le nombre de crash
 				fprintf(fichier_res, "%d\n", -3);
 			}
 			else if (res == OK_ROBOT) // si le robot n'a pas atteint la sortie
@@ -210,10 +212,10 @@ int main(int argc, char **argv)
 			}
 		}
 	}
-
-	printf("nombre et pourcentage de sorties : %f (%f%%)\n", nb_sorties, (float)nb_sorties / N * 100);
-	printf("nombre et pourcentage de terrains bloqués : %f (%f%%)\n", nb_bloque, (float)nb_bloque / N * 100);
-	printf("nombre et pourcentage de terrains crashés : %f (%f%%)\n", nb_crashes, (float)nb_crashes / N * 100);
-	printf("nombre moyen de pas pour sortir : %f\n", (float)moyenne_pas / nb_sorties);
+	printf("Total des terrains : %d\n", N);
+	printf("Nombre et pourcentage de sorties : %d (%f%%)\n", nb_sorties, (float)nb_sorties / N * 100);
+	printf("Nombre et pourcentage de terrains bloqués : %d (%f%%)\n", nb_bloque, (float)nb_bloque / N * 100);
+	printf("Nombre et pourcentage de terrains crashés : %d (%f%%)\n", nb_crashes, (float)nb_crashes / N * 100);
+	printf("Nombre moyen de pas pour sortir : %f\n", (float)moyenne_pas / nb_sorties);
 	fclose(fichier_res);
 }

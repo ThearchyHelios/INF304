@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-20 23:00:57
- * @LastEditTime: 2022-11-21 16:53:16
+ * @LastEditTime: 2022-11-30 18:45:43
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/TP7/environnement.c
+ * @FilePath: /Projet_EnsembleTD6-9/environnement.c
  */
 
 #include "environnement.h"
@@ -231,4 +231,14 @@ void afficher_envt(Environnement *envt)
 		printf("\n");
 	}
 	printf("\n");
+}
+
+int resultat_obs(Environnement *envt) // Renvoie le resultat de l'observation
+{
+	if (envt->etat_obs != Erreur){
+		return 1;
+	}
+	else{
+		return 0;
+	}
 }

@@ -1,0 +1,19999 @@
+9999
+Terrain: 1
+68
+Terrain: 2
+-1
+Terrain: 3
+-3
+Terrain: 4
+84
+Terrain: 5
+52
+Terrain: 6
+-2
+Terrain: 7
+-3
+Terrain: 8
+45
+Terrain: 9
+-3
+Terrain: 10
+-1
+Terrain: 11
+-1
+Terrain: 12
+-2
+Terrain: 13
+-2
+Terrain: 14
+-2
+Terrain: 15
+-1
+Terrain: 16
+70
+Terrain: 17
+93
+Terrain: 18
+52
+Terrain: 19
+-3
+Terrain: 20
+-1
+Terrain: 21
+68
+Terrain: 22
+-3
+Terrain: 23
+93
+Terrain: 24
+-1
+Terrain: 25
+-1
+Terrain: 26
+-1
+Terrain: 27
+-3
+Terrain: 28
+-2
+Terrain: 29
+-1
+Terrain: 30
+61
+Terrain: 31
+77
+Terrain: 32
+-3
+Terrain: 33
+-3
+Terrain: 34
+-1
+Terrain: 35
+75
+Terrain: 36
+-1
+Terrain: 37
+-2
+Terrain: 38
+-1
+Terrain: 39
+-1
+Terrain: 40
+-1
+Terrain: 41
+-1
+Terrain: 42
+-3
+Terrain: 43
+-3
+Terrain: 44
+-1
+Terrain: 45
+45
+Terrain: 46
+-1
+Terrain: 47
+-1
+Terrain: 48
+45
+Terrain: 49
+93
+Terrain: 50
+-3
+Terrain: 51
+-3
+Terrain: 52
+-1
+Terrain: 53
+61
+Terrain: 54
+84
+Terrain: 55
+-3
+Terrain: 56
+-3
+Terrain: 57
+84
+Terrain: 58
+-1
+Terrain: 59
+52
+Terrain: 60
+45
+Terrain: 61
+68
+Terrain: 62
+-1
+Terrain: 63
+-3
+Terrain: 64
+-1
+Terrain: 65
+-3
+Terrain: 66
+-1
+Terrain: 67
+-1
+Terrain: 68
+-3
+Terrain: 69
+-1
+Terrain: 70
+70
+Terrain: 71
+-1
+Terrain: 72
+52
+Terrain: 73
+-2
+Terrain: 74
+-1
+Terrain: 75
+-3
+Terrain: 76
+100
+Terrain: 77
+-1
+Terrain: 78
+-2
+Terrain: 79
+-1
+Terrain: 80
+-3
+Terrain: 81
+-1
+Terrain: 82
+52
+Terrain: 83
+-1
+Terrain: 84
+68
+Terrain: 85
+-2
+Terrain: 86
+-2
+Terrain: 87
+-1
+Terrain: 88
+-1
+Terrain: 89
+77
+Terrain: 90
+-1
+Terrain: 91
+70
+Terrain: 92
+45
+Terrain: 93
+-1
+Terrain: 94
+-1
+Terrain: 95
+-1
+Terrain: 96
+-1
+Terrain: 97
+-1
+Terrain: 98
+-1
+Terrain: 99
+68
+Terrain: 100
+-1
+Terrain: 101
+-1
+Terrain: 102
+-1
+Terrain: 103
+45
+Terrain: 104
+-1
+Terrain: 105
+-3
+Terrain: 106
+86
+Terrain: 107
+61
+Terrain: 108
+-3
+Terrain: 109
+-1
+Terrain: 110
+100
+Terrain: 111
+-1
+Terrain: 112
+75
+Terrain: 113
+77
+Terrain: 114
+-1
+Terrain: 115
+61
+Terrain: 116
+-3
+Terrain: 117
+-2
+Terrain: 118
+-2
+Terrain: 119
+-1
+Terrain: 120
+45
+Terrain: 121
+-1
+Terrain: 122
+75
+Terrain: 123
+-1
+Terrain: 124
+-3
+Terrain: 125
+-1
+Terrain: 126
+-1
+Terrain: 127
+-2
+Terrain: 128
+79
+Terrain: 129
+-1
+Terrain: 130
+68
+Terrain: 131
+-3
+Terrain: 132
+-3
+Terrain: 133
+68
+Terrain: 134
+-3
+Terrain: 135
+-3
+Terrain: 136
+-1
+Terrain: 137
+52
+Terrain: 138
+-1
+Terrain: 139
+-1
+Terrain: 140
+-1
+Terrain: 141
+-1
+Terrain: 142
+-2
+Terrain: 143
+91
+Terrain: 144
+-1
+Terrain: 145
+45
+Terrain: 146
+-3
+Terrain: 147
+-1
+Terrain: 148
+-3
+Terrain: 149
+-3
+Terrain: 150
+45
+Terrain: 151
+-1
+Terrain: 152
+-1
+Terrain: 153
+-1
+Terrain: 154
+68
+Terrain: 155
+-1
+Terrain: 156
+-2
+Terrain: 157
+-2
+Terrain: 158
+-3
+Terrain: 159
+-1
+Terrain: 160
+-1
+Terrain: 161
+-1
+Terrain: 162
+52
+Terrain: 163
+-1
+Terrain: 164
+45
+Terrain: 165
+77
+Terrain: 166
+-1
+Terrain: 167
+-2
+Terrain: 168
+75
+Terrain: 169
+-3
+Terrain: 170
+-3
+Terrain: 171
+-2
+Terrain: 172
+-3
+Terrain: 173
+-3
+Terrain: 174
+68
+Terrain: 175
+45
+Terrain: 176
+68
+Terrain: 177
+-2
+Terrain: 178
+-1
+Terrain: 179
+-1
+Terrain: 180
+45
+Terrain: 181
+-3
+Terrain: 182
+-2
+Terrain: 183
+-1
+Terrain: 184
+-1
+Terrain: 185
+-1
+Terrain: 186
+-2
+Terrain: 187
+-1
+Terrain: 188
+100
+Terrain: 189
+-1
+Terrain: 190
+61
+Terrain: 191
+-1
+Terrain: 192
+-1
+Terrain: 193
+-1
+Terrain: 194
+-2
+Terrain: 195
+77
+Terrain: 196
+-3
+Terrain: 197
+-2
+Terrain: 198
+-2
+Terrain: 199
+-2
+Terrain: 200
+77
+Terrain: 201
+-1
+Terrain: 202
+-1
+Terrain: 203
+-1
+Terrain: 204
+68
+Terrain: 205
+-3
+Terrain: 206
+-1
+Terrain: 207
+52
+Terrain: 208
+-1
+Terrain: 209
+68
+Terrain: 210
+77
+Terrain: 211
+-1
+Terrain: 212
+68
+Terrain: 213
+68
+Terrain: 214
+-2
+Terrain: 215
+52
+Terrain: 216
+-2
+Terrain: 217
+-1
+Terrain: 218
+-1
+Terrain: 219
+-1
+Terrain: 220
+-2
+Terrain: 221
+-1
+Terrain: 222
+-2
+Terrain: 223
+-1
+Terrain: 224
+-3
+Terrain: 225
+-1
+Terrain: 226
+77
+Terrain: 227
+45
+Terrain: 228
+-2
+Terrain: 229
+-1
+Terrain: 230
+-1
+Terrain: 231
+45
+Terrain: 232
+86
+Terrain: 233
+-2
+Terrain: 234
+-3
+Terrain: 235
+-1
+Terrain: 236
+-3
+Terrain: 237
+61
+Terrain: 238
+-1
+Terrain: 239
+52
+Terrain: 240
+-1
+Terrain: 241
+-1
+Terrain: 242
+-3
+Terrain: 243
+-1
+Terrain: 244
+-1
+Terrain: 245
+-3
+Terrain: 246
+-1
+Terrain: 247
+-1
+Terrain: 248
+-3
+Terrain: 249
+-1
+Terrain: 250
+68
+Terrain: 251
+-1
+Terrain: 252
+-3
+Terrain: 253
+77
+Terrain: 254
+45
+Terrain: 255
+84
+Terrain: 256
+-1
+Terrain: 257
+68
+Terrain: 258
+-1
+Terrain: 259
+-2
+Terrain: 260
+-1
+Terrain: 261
+-1
+Terrain: 262
+84
+Terrain: 263
+61
+Terrain: 264
+-1
+Terrain: 265
+-1
+Terrain: 266
+-2
+Terrain: 267
+68
+Terrain: 268
+-1
+Terrain: 269
+-3
+Terrain: 270
+-2
+Terrain: 271
+-1
+Terrain: 272
+-1
+Terrain: 273
+86
+Terrain: 274
+-1
+Terrain: 275
+-1
+Terrain: 276
+45
+Terrain: 277
+-1
+Terrain: 278
+93
+Terrain: 279
+-1
+Terrain: 280
+-1
+Terrain: 281
+-3
+Terrain: 282
+52
+Terrain: 283
+-3
+Terrain: 284
+45
+Terrain: 285
+-2
+Terrain: 286
+-1
+Terrain: 287
+-1
+Terrain: 288
+-1
+Terrain: 289
+-2
+Terrain: 290
+-1
+Terrain: 291
+-1
+Terrain: 292
+79
+Terrain: 293
+-3
+Terrain: 294
+-1
+Terrain: 295
+-2
+Terrain: 296
+79
+Terrain: 297
+-3
+Terrain: 298
+-1
+Terrain: 299
+-1
+Terrain: 300
+70
+Terrain: 301
+-1
+Terrain: 302
+-3
+Terrain: 303
+52
+Terrain: 304
+-3
+Terrain: 305
+-1
+Terrain: 306
+-1
+Terrain: 307
+-1
+Terrain: 308
+-3
+Terrain: 309
+-3
+Terrain: 310
+52
+Terrain: 311
+-3
+Terrain: 312
+-2
+Terrain: 313
+-1
+Terrain: 314
+-1
+Terrain: 315
+-1
+Terrain: 316
+-2
+Terrain: 317
+-1
+Terrain: 318
+-3
+Terrain: 319
+68
+Terrain: 320
+68
+Terrain: 321
+68
+Terrain: 322
+45
+Terrain: 323
+91
+Terrain: 324
+77
+Terrain: 325
+77
+Terrain: 326
+-1
+Terrain: 327
+-1
+Terrain: 328
+61
+Terrain: 329
+-3
+Terrain: 330
+-3
+Terrain: 331
+-2
+Terrain: 332
+-1
+Terrain: 333
+93
+Terrain: 334
+-1
+Terrain: 335
+-2
+Terrain: 336
+-2
+Terrain: 337
+-1
+Terrain: 338
+-1
+Terrain: 339
+-1
+Terrain: 340
+68
+Terrain: 341
+68
+Terrain: 342
+-1
+Terrain: 343
+-3
+Terrain: 344
+-1
+Terrain: 345
+52
+Terrain: 346
+-1
+Terrain: 347
+75
+Terrain: 348
+75
+Terrain: 349
+-3
+Terrain: 350
+52
+Terrain: 351
+-2
+Terrain: 352
+45
+Terrain: 353
+-1
+Terrain: 354
+52
+Terrain: 355
+-1
+Terrain: 356
+-1
+Terrain: 357
+45
+Terrain: 358
+-3
+Terrain: 359
+52
+Terrain: 360
+-1
+Terrain: 361
+61
+Terrain: 362
+-1
+Terrain: 363
+100
+Terrain: 364
+-1
+Terrain: 365
+-1
+Terrain: 366
+-3
+Terrain: 367
+-2
+Terrain: 368
+-3
+Terrain: 369
+45
+Terrain: 370
+-3
+Terrain: 371
+-3
+Terrain: 372
+-3
+Terrain: 373
+52
+Terrain: 374
+-2
+Terrain: 375
+79
+Terrain: 376
+-1
+Terrain: 377
+75
+Terrain: 378
+-1
+Terrain: 379
+45
+Terrain: 380
+-1
+Terrain: 381
+-1
+Terrain: 382
+-1
+Terrain: 383
+61
+Terrain: 384
+-1
+Terrain: 385
+-2
+Terrain: 386
+-1
+Terrain: 387
+-3
+Terrain: 388
+-2
+Terrain: 389
+75
+Terrain: 390
+-2
+Terrain: 391
+-1
+Terrain: 392
+45
+Terrain: 393
+-2
+Terrain: 394
+-3
+Terrain: 395
+84
+Terrain: 396
+-2
+Terrain: 397
+93
+Terrain: 398
+-1
+Terrain: 399
+-3
+Terrain: 400
+91
+Terrain: 401
+93
+Terrain: 402
+-3
+Terrain: 403
+-2
+Terrain: 404
+45
+Terrain: 405
+68
+Terrain: 406
+-1
+Terrain: 407
+-1
+Terrain: 408
+-1
+Terrain: 409
+-1
+Terrain: 410
+-1
+Terrain: 411
+-2
+Terrain: 412
+-2
+Terrain: 413
+-1
+Terrain: 414
+-1
+Terrain: 415
+-1
+Terrain: 416
+-3
+Terrain: 417
+-1
+Terrain: 418
+-2
+Terrain: 419
+79
+Terrain: 420
+-1
+Terrain: 421
+70
+Terrain: 422
+-1
+Terrain: 423
+-2
+Terrain: 424
+45
+Terrain: 425
+-1
+Terrain: 426
+-3
+Terrain: 427
+-3
+Terrain: 428
+61
+Terrain: 429
+-3
+Terrain: 430
+-1
+Terrain: 431
+-1
+Terrain: 432
+-3
+Terrain: 433
+-3
+Terrain: 434
+-1
+Terrain: 435
+91
+Terrain: 436
+-1
+Terrain: 437
+61
+Terrain: 438
+-1
+Terrain: 439
+-1
+Terrain: 440
+-3
+Terrain: 441
+-3
+Terrain: 442
+-1
+Terrain: 443
+45
+Terrain: 444
+100
+Terrain: 445
+-1
+Terrain: 446
+-2
+Terrain: 447
+68
+Terrain: 448
+75
+Terrain: 449
+-1
+Terrain: 450
+-3
+Terrain: 451
+-3
+Terrain: 452
+-2
+Terrain: 453
+-3
+Terrain: 454
+-3
+Terrain: 455
+-1
+Terrain: 456
+52
+Terrain: 457
+75
+Terrain: 458
+-1
+Terrain: 459
+-1
+Terrain: 460
+-3
+Terrain: 461
+-2
+Terrain: 462
+-1
+Terrain: 463
+-2
+Terrain: 464
+-3
+Terrain: 465
+-3
+Terrain: 466
+-2
+Terrain: 467
+-2
+Terrain: 468
+-3
+Terrain: 469
+79
+Terrain: 470
+-1
+Terrain: 471
+-1
+Terrain: 472
+-1
+Terrain: 473
+-1
+Terrain: 474
+-1
+Terrain: 475
+-2
+Terrain: 476
+86
+Terrain: 477
+-1
+Terrain: 478
+84
+Terrain: 479
+-1
+Terrain: 480
+-1
+Terrain: 481
+77
+Terrain: 482
+-3
+Terrain: 483
+-2
+Terrain: 484
+-3
+Terrain: 485
+-1
+Terrain: 486
+77
+Terrain: 487
+-1
+Terrain: 488
+77
+Terrain: 489
+45
+Terrain: 490
+45
+Terrain: 491
+-2
+Terrain: 492
+-3
+Terrain: 493
+-1
+Terrain: 494
+45
+Terrain: 495
+-2
+Terrain: 496
+-1
+Terrain: 497
+77
+Terrain: 498
+-3
+Terrain: 499
+-1
+Terrain: 500
+91
+Terrain: 501
+-1
+Terrain: 502
+45
+Terrain: 503
+61
+Terrain: 504
+-1
+Terrain: 505
+45
+Terrain: 506
+-1
+Terrain: 507
+-1
+Terrain: 508
+-3
+Terrain: 509
+52
+Terrain: 510
+-1
+Terrain: 511
+-1
+Terrain: 512
+45
+Terrain: 513
+-3
+Terrain: 514
+52
+Terrain: 515
+-1
+Terrain: 516
+100
+Terrain: 517
+-1
+Terrain: 518
+45
+Terrain: 519
+-1
+Terrain: 520
+-2
+Terrain: 521
+-1
+Terrain: 522
+-1
+Terrain: 523
+-2
+Terrain: 524
+-1
+Terrain: 525
+-1
+Terrain: 526
+52
+Terrain: 527
+68
+Terrain: 528
+45
+Terrain: 529
+-1
+Terrain: 530
+75
+Terrain: 531
+-3
+Terrain: 532
+75
+Terrain: 533
+-1
+Terrain: 534
+-2
+Terrain: 535
+-3
+Terrain: 536
+-3
+Terrain: 537
+-1
+Terrain: 538
+-1
+Terrain: 539
+-1
+Terrain: 540
+-1
+Terrain: 541
+-1
+Terrain: 542
+-1
+Terrain: 543
+-1
+Terrain: 544
+-1
+Terrain: 545
+-1
+Terrain: 546
+45
+Terrain: 547
+-2
+Terrain: 548
+-3
+Terrain: 549
+-3
+Terrain: 550
+-1
+Terrain: 551
+61
+Terrain: 552
+86
+Terrain: 553
+-1
+Terrain: 554
+-1
+Terrain: 555
+68
+Terrain: 556
+-1
+Terrain: 557
+-2
+Terrain: 558
+61
+Terrain: 559
+-1
+Terrain: 560
+68
+Terrain: 561
+-1
+Terrain: 562
+-1
+Terrain: 563
+45
+Terrain: 564
+-1
+Terrain: 565
+52
+Terrain: 566
+-1
+Terrain: 567
+70
+Terrain: 568
+-1
+Terrain: 569
+-3
+Terrain: 570
+52
+Terrain: 571
+-3
+Terrain: 572
+-1
+Terrain: 573
+-3
+Terrain: 574
+52
+Terrain: 575
+-3
+Terrain: 576
+-1
+Terrain: 577
+-3
+Terrain: 578
+-3
+Terrain: 579
+-1
+Terrain: 580
+-1
+Terrain: 581
+-2
+Terrain: 582
+-3
+Terrain: 583
+-2
+Terrain: 584
+-1
+Terrain: 585
+-3
+Terrain: 586
+-3
+Terrain: 587
+-1
+Terrain: 588
+-1
+Terrain: 589
+-1
+Terrain: 590
+-2
+Terrain: 591
+-2
+Terrain: 592
+-1
+Terrain: 593
+-1
+Terrain: 594
+45
+Terrain: 595
+45
+Terrain: 596
+-2
+Terrain: 597
+-3
+Terrain: 598
+-2
+Terrain: 599
+-3
+Terrain: 600
+75
+Terrain: 601
+-2
+Terrain: 602
+-3
+Terrain: 603
+-3
+Terrain: 604
+84
+Terrain: 605
+-3
+Terrain: 606
+-2
+Terrain: 607
+-2
+Terrain: 608
+52
+Terrain: 609
+77
+Terrain: 610
+-3
+Terrain: 611
+45
+Terrain: 612
+-3
+Terrain: 613
+-1
+Terrain: 614
+45
+Terrain: 615
+52
+Terrain: 616
+-3
+Terrain: 617
+-3
+Terrain: 618
+45
+Terrain: 619
+-3
+Terrain: 620
+-1
+Terrain: 621
+-3
+Terrain: 622
+-1
+Terrain: 623
+-2
+Terrain: 624
+-1
+Terrain: 625
+77
+Terrain: 626
+-3
+Terrain: 627
+52
+Terrain: 628
+77
+Terrain: 629
+-1
+Terrain: 630
+-1
+Terrain: 631
+-2
+Terrain: 632
+-1
+Terrain: 633
+61
+Terrain: 634
+-1
+Terrain: 635
+-1
+Terrain: 636
+100
+Terrain: 637
+-2
+Terrain: 638
+-3
+Terrain: 639
+61
+Terrain: 640
+-2
+Terrain: 641
+-1
+Terrain: 642
+45
+Terrain: 643
+100
+Terrain: 644
+-2
+Terrain: 645
+70
+Terrain: 646
+-2
+Terrain: 647
+75
+Terrain: 648
+61
+Terrain: 649
+-1
+Terrain: 650
+-1
+Terrain: 651
+-2
+Terrain: 652
+-3
+Terrain: 653
+-3
+Terrain: 654
+68
+Terrain: 655
+-1
+Terrain: 656
+-3
+Terrain: 657
+84
+Terrain: 658
+-1
+Terrain: 659
+-2
+Terrain: 660
+-1
+Terrain: 661
+-1
+Terrain: 662
+-1
+Terrain: 663
+-1
+Terrain: 664
+-3
+Terrain: 665
+-1
+Terrain: 666
+-1
+Terrain: 667
+100
+Terrain: 668
+86
+Terrain: 669
+68
+Terrain: 670
+-1
+Terrain: 671
+-1
+Terrain: 672
+84
+Terrain: 673
+68
+Terrain: 674
+-2
+Terrain: 675
+-1
+Terrain: 676
+-2
+Terrain: 677
+45
+Terrain: 678
+-1
+Terrain: 679
+-1
+Terrain: 680
+-2
+Terrain: 681
+91
+Terrain: 682
+-1
+Terrain: 683
+-2
+Terrain: 684
+-3
+Terrain: 685
+-1
+Terrain: 686
+84
+Terrain: 687
+-1
+Terrain: 688
+45
+Terrain: 689
+-1
+Terrain: 690
+-2
+Terrain: 691
+-2
+Terrain: 692
+45
+Terrain: 693
+-1
+Terrain: 694
+-1
+Terrain: 695
+-3
+Terrain: 696
+45
+Terrain: 697
+-1
+Terrain: 698
+-3
+Terrain: 699
+-1
+Terrain: 700
+-1
+Terrain: 701
+-1
+Terrain: 702
+-1
+Terrain: 703
+-2
+Terrain: 704
+-1
+Terrain: 705
+52
+Terrain: 706
+-1
+Terrain: 707
+-3
+Terrain: 708
+-1
+Terrain: 709
+-3
+Terrain: 710
+52
+Terrain: 711
+-1
+Terrain: 712
+45
+Terrain: 713
+-3
+Terrain: 714
+61
+Terrain: 715
+-1
+Terrain: 716
+-2
+Terrain: 717
+-2
+Terrain: 718
+-2
+Terrain: 719
+-1
+Terrain: 720
+-1
+Terrain: 721
+45
+Terrain: 722
+-1
+Terrain: 723
+-2
+Terrain: 724
+-1
+Terrain: 725
+93
+Terrain: 726
+45
+Terrain: 727
+-2
+Terrain: 728
+77
+Terrain: 729
+68
+Terrain: 730
+-1
+Terrain: 731
+-1
+Terrain: 732
+-1
+Terrain: 733
+61
+Terrain: 734
+61
+Terrain: 735
+84
+Terrain: 736
+-1
+Terrain: 737
+75
+Terrain: 738
+-2
+Terrain: 739
+-1
+Terrain: 740
+-2
+Terrain: 741
+-3
+Terrain: 742
+-1
+Terrain: 743
+-1
+Terrain: 744
+-1
+Terrain: 745
+-1
+Terrain: 746
+100
+Terrain: 747
+-1
+Terrain: 748
+-2
+Terrain: 749
+68
+Terrain: 750
+-1
+Terrain: 751
+-2
+Terrain: 752
+-1
+Terrain: 753
+-3
+Terrain: 754
+-1
+Terrain: 755
+-1
+Terrain: 756
+-1
+Terrain: 757
+-1
+Terrain: 758
+-1
+Terrain: 759
+77
+Terrain: 760
+45
+Terrain: 761
+52
+Terrain: 762
+-2
+Terrain: 763
+77
+Terrain: 764
+45
+Terrain: 765
+68
+Terrain: 766
+-2
+Terrain: 767
+-3
+Terrain: 768
+45
+Terrain: 769
+-1
+Terrain: 770
+70
+Terrain: 771
+-1
+Terrain: 772
+-1
+Terrain: 773
+68
+Terrain: 774
+86
+Terrain: 775
+-3
+Terrain: 776
+-1
+Terrain: 777
+-1
+Terrain: 778
+-3
+Terrain: 779
+-2
+Terrain: 780
+-1
+Terrain: 781
+75
+Terrain: 782
+-1
+Terrain: 783
+-2
+Terrain: 784
+91
+Terrain: 785
+-1
+Terrain: 786
+-2
+Terrain: 787
+-2
+Terrain: 788
+-1
+Terrain: 789
+-3
+Terrain: 790
+84
+Terrain: 791
+-1
+Terrain: 792
+70
+Terrain: 793
+-2
+Terrain: 794
+-2
+Terrain: 795
+68
+Terrain: 796
+-2
+Terrain: 797
+45
+Terrain: 798
+-1
+Terrain: 799
+-2
+Terrain: 800
+-1
+Terrain: 801
+-1
+Terrain: 802
+-3
+Terrain: 803
+-1
+Terrain: 804
+-1
+Terrain: 805
+-1
+Terrain: 806
+-1
+Terrain: 807
+70
+Terrain: 808
+-2
+Terrain: 809
+-1
+Terrain: 810
+75
+Terrain: 811
+75
+Terrain: 812
+91
+Terrain: 813
+-1
+Terrain: 814
+-3
+Terrain: 815
+-1
+Terrain: 816
+52
+Terrain: 817
+52
+Terrain: 818
+-2
+Terrain: 819
+-1
+Terrain: 820
+95
+Terrain: 821
+45
+Terrain: 822
+68
+Terrain: 823
+77
+Terrain: 824
+-1
+Terrain: 825
+-2
+Terrain: 826
+70
+Terrain: 827
+-3
+Terrain: 828
+-1
+Terrain: 829
+-3
+Terrain: 830
+-2
+Terrain: 831
+52
+Terrain: 832
+-2
+Terrain: 833
+-3
+Terrain: 834
+100
+Terrain: 835
+-1
+Terrain: 836
+-2
+Terrain: 837
+61
+Terrain: 838
+-1
+Terrain: 839
+-1
+Terrain: 840
+70
+Terrain: 841
+-3
+Terrain: 842
+86
+Terrain: 843
+-1
+Terrain: 844
+-2
+Terrain: 845
+-1
+Terrain: 846
+-2
+Terrain: 847
+-1
+Terrain: 848
+-1
+Terrain: 849
+-1
+Terrain: 850
+-2
+Terrain: 851
+68
+Terrain: 852
+-3
+Terrain: 853
+-1
+Terrain: 854
+-2
+Terrain: 855
+45
+Terrain: 856
+52
+Terrain: 857
+-1
+Terrain: 858
+61
+Terrain: 859
+-1
+Terrain: 860
+-3
+Terrain: 861
+77
+Terrain: 862
+-1
+Terrain: 863
+-1
+Terrain: 864
+-3
+Terrain: 865
+61
+Terrain: 866
+-2
+Terrain: 867
+-1
+Terrain: 868
+-2
+Terrain: 869
+70
+Terrain: 870
+-3
+Terrain: 871
+-1
+Terrain: 872
+45
+Terrain: 873
+52
+Terrain: 874
+-1
+Terrain: 875
+93
+Terrain: 876
+-1
+Terrain: 877
+84
+Terrain: 878
+-3
+Terrain: 879
+-3
+Terrain: 880
+-2
+Terrain: 881
+-3
+Terrain: 882
+-1
+Terrain: 883
+-1
+Terrain: 884
+-1
+Terrain: 885
+-1
+Terrain: 886
+77
+Terrain: 887
+-3
+Terrain: 888
+52
+Terrain: 889
+-2
+Terrain: 890
+68
+Terrain: 891
+52
+Terrain: 892
+-1
+Terrain: 893
+-1
+Terrain: 894
+-3
+Terrain: 895
+52
+Terrain: 896
+45
+Terrain: 897
+-3
+Terrain: 898
+-3
+Terrain: 899
+52
+Terrain: 900
+-2
+Terrain: 901
+-1
+Terrain: 902
+-3
+Terrain: 903
+-2
+Terrain: 904
+-1
+Terrain: 905
+45
+Terrain: 906
+-1
+Terrain: 907
+-3
+Terrain: 908
+-2
+Terrain: 909
+45
+Terrain: 910
+-1
+Terrain: 911
+45
+Terrain: 912
+-1
+Terrain: 913
+-1
+Terrain: 914
+-2
+Terrain: 915
+77
+Terrain: 916
+52
+Terrain: 917
+-1
+Terrain: 918
+68
+Terrain: 919
+-1
+Terrain: 920
+-3
+Terrain: 921
+52
+Terrain: 922
+-1
+Terrain: 923
+-1
+Terrain: 924
+-3
+Terrain: 925
+-3
+Terrain: 926
+-2
+Terrain: 927
+-1
+Terrain: 928
+-1
+Terrain: 929
+-1
+Terrain: 930
+-1
+Terrain: 931
+-2
+Terrain: 932
+-1
+Terrain: 933
+86
+Terrain: 934
+52
+Terrain: 935
+52
+Terrain: 936
+61
+Terrain: 937
+-3
+Terrain: 938
+-3
+Terrain: 939
+91
+Terrain: 940
+-2
+Terrain: 941
+-2
+Terrain: 942
+-1
+Terrain: 943
+-2
+Terrain: 944
+-1
+Terrain: 945
+-1
+Terrain: 946
+-3
+Terrain: 947
+-1
+Terrain: 948
+-3
+Terrain: 949
+-3
+Terrain: 950
+-2
+Terrain: 951
+-3
+Terrain: 952
+-1
+Terrain: 953
+-1
+Terrain: 954
+-1
+Terrain: 955
+68
+Terrain: 956
+-2
+Terrain: 957
+-1
+Terrain: 958
+-1
+Terrain: 959
+-1
+Terrain: 960
+-2
+Terrain: 961
+-1
+Terrain: 962
+91
+Terrain: 963
+-1
+Terrain: 964
+-3
+Terrain: 965
+-1
+Terrain: 966
+68
+Terrain: 967
+68
+Terrain: 968
+-3
+Terrain: 969
+-1
+Terrain: 970
+-3
+Terrain: 971
+-3
+Terrain: 972
+75
+Terrain: 973
+68
+Terrain: 974
+-1
+Terrain: 975
+-3
+Terrain: 976
+-1
+Terrain: 977
+84
+Terrain: 978
+-2
+Terrain: 979
+-3
+Terrain: 980
+-1
+Terrain: 981
+-2
+Terrain: 982
+-1
+Terrain: 983
+-3
+Terrain: 984
+-1
+Terrain: 985
+-1
+Terrain: 986
+93
+Terrain: 987
+-3
+Terrain: 988
+-1
+Terrain: 989
+52
+Terrain: 990
+-2
+Terrain: 991
+-2
+Terrain: 992
+52
+Terrain: 993
+-1
+Terrain: 994
+-1
+Terrain: 995
+-1
+Terrain: 996
+-2
+Terrain: 997
+-1
+Terrain: 998
+-1
+Terrain: 999
+86
+Terrain: 1000
+-1
+Terrain: 1001
+-1
+Terrain: 1002
+-1
+Terrain: 1003
+-1
+Terrain: 1004
+100
+Terrain: 1005
+-1
+Terrain: 1006
+-1
+Terrain: 1007
+-1
+Terrain: 1008
+45
+Terrain: 1009
+-1
+Terrain: 1010
+-3
+Terrain: 1011
+-2
+Terrain: 1012
+-3
+Terrain: 1013
+52
+Terrain: 1014
+-1
+Terrain: 1015
+61
+Terrain: 1016
+-2
+Terrain: 1017
+52
+Terrain: 1018
+-2
+Terrain: 1019
+93
+Terrain: 1020
+-1
+Terrain: 1021
+93
+Terrain: 1022
+-1
+Terrain: 1023
+52
+Terrain: 1024
+-1
+Terrain: 1025
+-2
+Terrain: 1026
+68
+Terrain: 1027
+-3
+Terrain: 1028
+45
+Terrain: 1029
+68
+Terrain: 1030
+93
+Terrain: 1031
+-2
+Terrain: 1032
+-1
+Terrain: 1033
+-3
+Terrain: 1034
+-1
+Terrain: 1035
+-1
+Terrain: 1036
+-1
+Terrain: 1037
+77
+Terrain: 1038
+-1
+Terrain: 1039
+75
+Terrain: 1040
+-1
+Terrain: 1041
+-3
+Terrain: 1042
+-2
+Terrain: 1043
+-1
+Terrain: 1044
+-3
+Terrain: 1045
+-3
+Terrain: 1046
+-1
+Terrain: 1047
+-3
+Terrain: 1048
+-1
+Terrain: 1049
+-1
+Terrain: 1050
+-2
+Terrain: 1051
+-1
+Terrain: 1052
+-1
+Terrain: 1053
+52
+Terrain: 1054
+52
+Terrain: 1055
+-1
+Terrain: 1056
+45
+Terrain: 1057
+-1
+Terrain: 1058
+100
+Terrain: 1059
+-3
+Terrain: 1060
+-1
+Terrain: 1061
+-1
+Terrain: 1062
+-1
+Terrain: 1063
+-1
+Terrain: 1064
+45
+Terrain: 1065
+45
+Terrain: 1066
+-1
+Terrain: 1067
+-1
+Terrain: 1068
+77
+Terrain: 1069
+84
+Terrain: 1070
+-1
+Terrain: 1071
+-1
+Terrain: 1072
+-1
+Terrain: 1073
+-1
+Terrain: 1074
+68
+Terrain: 1075
+-3
+Terrain: 1076
+-3
+Terrain: 1077
+-1
+Terrain: 1078
+-2
+Terrain: 1079
+-1
+Terrain: 1080
+86
+Terrain: 1081
+-1
+Terrain: 1082
+-3
+Terrain: 1083
+-1
+Terrain: 1084
+-1
+Terrain: 1085
+52
+Terrain: 1086
+-1
+Terrain: 1087
+-1
+Terrain: 1088
+-1
+Terrain: 1089
+68
+Terrain: 1090
+-1
+Terrain: 1091
+-1
+Terrain: 1092
+52
+Terrain: 1093
+-2
+Terrain: 1094
+-1
+Terrain: 1095
+-1
+Terrain: 1096
+68
+Terrain: 1097
+-1
+Terrain: 1098
+52
+Terrain: 1099
+-2
+Terrain: 1100
+-1
+Terrain: 1101
+68
+Terrain: 1102
+45
+Terrain: 1103
+-3
+Terrain: 1104
+-1
+Terrain: 1105
+-3
+Terrain: 1106
+75
+Terrain: 1107
+-3
+Terrain: 1108
+-3
+Terrain: 1109
+-1
+Terrain: 1110
+45
+Terrain: 1111
+-3
+Terrain: 1112
+45
+Terrain: 1113
+-3
+Terrain: 1114
+-2
+Terrain: 1115
+-3
+Terrain: 1116
+-1
+Terrain: 1117
+61
+Terrain: 1118
+-3
+Terrain: 1119
+-2
+Terrain: 1120
+-1
+Terrain: 1121
+-1
+Terrain: 1122
+-1
+Terrain: 1123
+61
+Terrain: 1124
+-1
+Terrain: 1125
+52
+Terrain: 1126
+98
+Terrain: 1127
+-2
+Terrain: 1128
+-3
+Terrain: 1129
+-1
+Terrain: 1130
+100
+Terrain: 1131
+-2
+Terrain: 1132
+75
+Terrain: 1133
+-3
+Terrain: 1134
+-1
+Terrain: 1135
+-1
+Terrain: 1136
+-1
+Terrain: 1137
+-1
+Terrain: 1138
+-1
+Terrain: 1139
+-2
+Terrain: 1140
+52
+Terrain: 1141
+-1
+Terrain: 1142
+75
+Terrain: 1143
+-2
+Terrain: 1144
+-1
+Terrain: 1145
+-1
+Terrain: 1146
+-2
+Terrain: 1147
+45
+Terrain: 1148
+75
+Terrain: 1149
+45
+Terrain: 1150
+79
+Terrain: 1151
+-1
+Terrain: 1152
+-1
+Terrain: 1153
+-3
+Terrain: 1154
+-3
+Terrain: 1155
+-3
+Terrain: 1156
+-1
+Terrain: 1157
+61
+Terrain: 1158
+-2
+Terrain: 1159
+-1
+Terrain: 1160
+-1
+Terrain: 1161
+93
+Terrain: 1162
+75
+Terrain: 1163
+70
+Terrain: 1164
+45
+Terrain: 1165
+45
+Terrain: 1166
+-2
+Terrain: 1167
+-3
+Terrain: 1168
+68
+Terrain: 1169
+-1
+Terrain: 1170
+-1
+Terrain: 1171
+52
+Terrain: 1172
+-1
+Terrain: 1173
+-1
+Terrain: 1174
+-2
+Terrain: 1175
+-3
+Terrain: 1176
+-1
+Terrain: 1177
+70
+Terrain: 1178
+-2
+Terrain: 1179
+-1
+Terrain: 1180
+-3
+Terrain: 1181
+52
+Terrain: 1182
+-1
+Terrain: 1183
+52
+Terrain: 1184
+84
+Terrain: 1185
+-3
+Terrain: 1186
+-3
+Terrain: 1187
+-1
+Terrain: 1188
+-3
+Terrain: 1189
+52
+Terrain: 1190
+75
+Terrain: 1191
+-1
+Terrain: 1192
+61
+Terrain: 1193
+-2
+Terrain: 1194
+-1
+Terrain: 1195
+52
+Terrain: 1196
+-3
+Terrain: 1197
+-1
+Terrain: 1198
+-2
+Terrain: 1199
+100
+Terrain: 1200
+-1
+Terrain: 1201
+93
+Terrain: 1202
+-1
+Terrain: 1203
+68
+Terrain: 1204
+68
+Terrain: 1205
+-1
+Terrain: 1206
+-2
+Terrain: 1207
+-3
+Terrain: 1208
+-1
+Terrain: 1209
+77
+Terrain: 1210
+61
+Terrain: 1211
+-1
+Terrain: 1212
+-3
+Terrain: 1213
+-1
+Terrain: 1214
+-3
+Terrain: 1215
+-1
+Terrain: 1216
+-2
+Terrain: 1217
+-2
+Terrain: 1218
+-1
+Terrain: 1219
+-1
+Terrain: 1220
+-1
+Terrain: 1221
+45
+Terrain: 1222
+-3
+Terrain: 1223
+45
+Terrain: 1224
+-1
+Terrain: 1225
+45
+Terrain: 1226
+-1
+Terrain: 1227
+-1
+Terrain: 1228
+68
+Terrain: 1229
+-2
+Terrain: 1230
+61
+Terrain: 1231
+61
+Terrain: 1232
+-3
+Terrain: 1233
+-2
+Terrain: 1234
+68
+Terrain: 1235
+-1
+Terrain: 1236
+-1
+Terrain: 1237
+52
+Terrain: 1238
+-1
+Terrain: 1239
+52
+Terrain: 1240
+-1
+Terrain: 1241
+45
+Terrain: 1242
+-2
+Terrain: 1243
+-1
+Terrain: 1244
+-1
+Terrain: 1245
+68
+Terrain: 1246
+-1
+Terrain: 1247
+-3
+Terrain: 1248
+45
+Terrain: 1249
+-1
+Terrain: 1250
+-1
+Terrain: 1251
+-2
+Terrain: 1252
+-1
+Terrain: 1253
+61
+Terrain: 1254
+-1
+Terrain: 1255
+-1
+Terrain: 1256
+-1
+Terrain: 1257
+-1
+Terrain: 1258
+-1
+Terrain: 1259
+-3
+Terrain: 1260
+45
+Terrain: 1261
+77
+Terrain: 1262
+-2
+Terrain: 1263
+45
+Terrain: 1264
+68
+Terrain: 1265
+61
+Terrain: 1266
+-3
+Terrain: 1267
+75
+Terrain: 1268
+-3
+Terrain: 1269
+-2
+Terrain: 1270
+-2
+Terrain: 1271
+-1
+Terrain: 1272
+45
+Terrain: 1273
+75
+Terrain: 1274
+-3
+Terrain: 1275
+-3
+Terrain: 1276
+-2
+Terrain: 1277
+77
+Terrain: 1278
+-1
+Terrain: 1279
+45
+Terrain: 1280
+77
+Terrain: 1281
+-1
+Terrain: 1282
+-3
+Terrain: 1283
+-1
+Terrain: 1284
+77
+Terrain: 1285
+-1
+Terrain: 1286
+68
+Terrain: 1287
+-1
+Terrain: 1288
+61
+Terrain: 1289
+-1
+Terrain: 1290
+-1
+Terrain: 1291
+-1
+Terrain: 1292
+93
+Terrain: 1293
+-3
+Terrain: 1294
+-3
+Terrain: 1295
+-1
+Terrain: 1296
+-3
+Terrain: 1297
+-2
+Terrain: 1298
+-1
+Terrain: 1299
+93
+Terrain: 1300
+68
+Terrain: 1301
+84
+Terrain: 1302
+-1
+Terrain: 1303
+-3
+Terrain: 1304
+-2
+Terrain: 1305
+-2
+Terrain: 1306
+-3
+Terrain: 1307
+91
+Terrain: 1308
+-1
+Terrain: 1309
+-1
+Terrain: 1310
+52
+Terrain: 1311
+45
+Terrain: 1312
+61
+Terrain: 1313
+-1
+Terrain: 1314
+-3
+Terrain: 1315
+-2
+Terrain: 1316
+91
+Terrain: 1317
+-1
+Terrain: 1318
+68
+Terrain: 1319
+-1
+Terrain: 1320
+-2
+Terrain: 1321
+93
+Terrain: 1322
+-1
+Terrain: 1323
+84
+Terrain: 1324
+-1
+Terrain: 1325
+-1
+Terrain: 1326
+-3
+Terrain: 1327
+61
+Terrain: 1328
+-1
+Terrain: 1329
+-1
+Terrain: 1330
+-3
+Terrain: 1331
+-2
+Terrain: 1332
+52
+Terrain: 1333
+-1
+Terrain: 1334
+-1
+Terrain: 1335
+-1
+Terrain: 1336
+-1
+Terrain: 1337
+45
+Terrain: 1338
+-3
+Terrain: 1339
+-1
+Terrain: 1340
+-1
+Terrain: 1341
+-3
+Terrain: 1342
+-2
+Terrain: 1343
+68
+Terrain: 1344
+-2
+Terrain: 1345
+79
+Terrain: 1346
+45
+Terrain: 1347
+-2
+Terrain: 1348
+-3
+Terrain: 1349
+-3
+Terrain: 1350
+-1
+Terrain: 1351
+45
+Terrain: 1352
+-2
+Terrain: 1353
+-2
+Terrain: 1354
+-2
+Terrain: 1355
+-1
+Terrain: 1356
+86
+Terrain: 1357
+45
+Terrain: 1358
+-1
+Terrain: 1359
+-2
+Terrain: 1360
+-1
+Terrain: 1361
+-3
+Terrain: 1362
+-3
+Terrain: 1363
+52
+Terrain: 1364
+-1
+Terrain: 1365
+-2
+Terrain: 1366
+84
+Terrain: 1367
+-3
+Terrain: 1368
+-1
+Terrain: 1369
+-1
+Terrain: 1370
+84
+Terrain: 1371
+-2
+Terrain: 1372
+-1
+Terrain: 1373
+-1
+Terrain: 1374
+-2
+Terrain: 1375
+-1
+Terrain: 1376
+-3
+Terrain: 1377
+68
+Terrain: 1378
+52
+Terrain: 1379
+-3
+Terrain: 1380
+52
+Terrain: 1381
+-1
+Terrain: 1382
+-2
+Terrain: 1383
+-1
+Terrain: 1384
+-1
+Terrain: 1385
+93
+Terrain: 1386
+-2
+Terrain: 1387
+-3
+Terrain: 1388
+-1
+Terrain: 1389
+75
+Terrain: 1390
+68
+Terrain: 1391
+-1
+Terrain: 1392
+91
+Terrain: 1393
+52
+Terrain: 1394
+-2
+Terrain: 1395
+-1
+Terrain: 1396
+100
+Terrain: 1397
+-3
+Terrain: 1398
+70
+Terrain: 1399
+61
+Terrain: 1400
+-2
+Terrain: 1401
+68
+Terrain: 1402
+45
+Terrain: 1403
+-1
+Terrain: 1404
+-1
+Terrain: 1405
+-1
+Terrain: 1406
+-1
+Terrain: 1407
+100
+Terrain: 1408
+-3
+Terrain: 1409
+-3
+Terrain: 1410
+-1
+Terrain: 1411
+68
+Terrain: 1412
+-3
+Terrain: 1413
+-2
+Terrain: 1414
+-2
+Terrain: 1415
+-2
+Terrain: 1416
+-1
+Terrain: 1417
+86
+Terrain: 1418
+45
+Terrain: 1419
+-3
+Terrain: 1420
+-2
+Terrain: 1421
+-1
+Terrain: 1422
+-3
+Terrain: 1423
+-3
+Terrain: 1424
+-1
+Terrain: 1425
+-2
+Terrain: 1426
+-1
+Terrain: 1427
+-2
+Terrain: 1428
+-1
+Terrain: 1429
+-1
+Terrain: 1430
+52
+Terrain: 1431
+77
+Terrain: 1432
+-2
+Terrain: 1433
+-1
+Terrain: 1434
+-3
+Terrain: 1435
+84
+Terrain: 1436
+-2
+Terrain: 1437
+-1
+Terrain: 1438
+-1
+Terrain: 1439
+45
+Terrain: 1440
+-1
+Terrain: 1441
+-1
+Terrain: 1442
+68
+Terrain: 1443
+-1
+Terrain: 1444
+-3
+Terrain: 1445
+-1
+Terrain: 1446
+-1
+Terrain: 1447
+-3
+Terrain: 1448
+-1
+Terrain: 1449
+68
+Terrain: 1450
+68
+Terrain: 1451
+-2
+Terrain: 1452
+-3
+Terrain: 1453
+-1
+Terrain: 1454
+45
+Terrain: 1455
+-1
+Terrain: 1456
+52
+Terrain: 1457
+-1
+Terrain: 1458
+-2
+Terrain: 1459
+-3
+Terrain: 1460
+-2
+Terrain: 1461
+-1
+Terrain: 1462
+52
+Terrain: 1463
+-3
+Terrain: 1464
+-2
+Terrain: 1465
+-1
+Terrain: 1466
+45
+Terrain: 1467
+-1
+Terrain: 1468
+-2
+Terrain: 1469
+-1
+Terrain: 1470
+-2
+Terrain: 1471
+-2
+Terrain: 1472
+-3
+Terrain: 1473
+100
+Terrain: 1474
+86
+Terrain: 1475
+-3
+Terrain: 1476
+-3
+Terrain: 1477
+-3
+Terrain: 1478
+-1
+Terrain: 1479
+52
+Terrain: 1480
+-3
+Terrain: 1481
+45
+Terrain: 1482
+-3
+Terrain: 1483
+-2
+Terrain: 1484
+-1
+Terrain: 1485
+-3
+Terrain: 1486
+45
+Terrain: 1487
+-1
+Terrain: 1488
+-1
+Terrain: 1489
+-2
+Terrain: 1490
+-3
+Terrain: 1491
+-1
+Terrain: 1492
+-1
+Terrain: 1493
+-1
+Terrain: 1494
+84
+Terrain: 1495
+45
+Terrain: 1496
+-1
+Terrain: 1497
+-1
+Terrain: 1498
+84
+Terrain: 1499
+-3
+Terrain: 1500
+-3
+Terrain: 1501
+45
+Terrain: 1502
+-1
+Terrain: 1503
+-1
+Terrain: 1504
+-1
+Terrain: 1505
+-1
+Terrain: 1506
+-3
+Terrain: 1507
+-2
+Terrain: 1508
+-1
+Terrain: 1509
+-1
+Terrain: 1510
+-1
+Terrain: 1511
+52
+Terrain: 1512
+45
+Terrain: 1513
+-3
+Terrain: 1514
+68
+Terrain: 1515
+-2
+Terrain: 1516
+-1
+Terrain: 1517
+-1
+Terrain: 1518
+-1
+Terrain: 1519
+-3
+Terrain: 1520
+-2
+Terrain: 1521
+-1
+Terrain: 1522
+-2
+Terrain: 1523
+45
+Terrain: 1524
+45
+Terrain: 1525
+-3
+Terrain: 1526
+45
+Terrain: 1527
+-1
+Terrain: 1528
+-1
+Terrain: 1529
+-1
+Terrain: 1530
+68
+Terrain: 1531
+93
+Terrain: 1532
+75
+Terrain: 1533
+77
+Terrain: 1534
+86
+Terrain: 1535
+52
+Terrain: 1536
+-1
+Terrain: 1537
+-1
+Terrain: 1538
+-1
+Terrain: 1539
+-3
+Terrain: 1540
+98
+Terrain: 1541
+79
+Terrain: 1542
+-2
+Terrain: 1543
+-3
+Terrain: 1544
+-3
+Terrain: 1545
+-2
+Terrain: 1546
+86
+Terrain: 1547
+-3
+Terrain: 1548
+-1
+Terrain: 1549
+-2
+Terrain: 1550
+61
+Terrain: 1551
+-1
+Terrain: 1552
+-2
+Terrain: 1553
+45
+Terrain: 1554
+-1
+Terrain: 1555
+61
+Terrain: 1556
+-1
+Terrain: 1557
+-3
+Terrain: 1558
+84
+Terrain: 1559
+-1
+Terrain: 1560
+-2
+Terrain: 1561
+-1
+Terrain: 1562
+45
+Terrain: 1563
+-1
+Terrain: 1564
+-1
+Terrain: 1565
+52
+Terrain: 1566
+-3
+Terrain: 1567
+-2
+Terrain: 1568
+-1
+Terrain: 1569
+-1
+Terrain: 1570
+-3
+Terrain: 1571
+77
+Terrain: 1572
+-2
+Terrain: 1573
+-2
+Terrain: 1574
+-3
+Terrain: 1575
+45
+Terrain: 1576
+-3
+Terrain: 1577
+68
+Terrain: 1578
+68
+Terrain: 1579
+-1
+Terrain: 1580
+45
+Terrain: 1581
+-3
+Terrain: 1582
+-3
+Terrain: 1583
+61
+Terrain: 1584
+-3
+Terrain: 1585
+-3
+Terrain: 1586
+61
+Terrain: 1587
+-3
+Terrain: 1588
+75
+Terrain: 1589
+61
+Terrain: 1590
+-2
+Terrain: 1591
+-3
+Terrain: 1592
+77
+Terrain: 1593
+-3
+Terrain: 1594
+-1
+Terrain: 1595
+-1
+Terrain: 1596
+-1
+Terrain: 1597
+-2
+Terrain: 1598
+-1
+Terrain: 1599
+-1
+Terrain: 1600
+-1
+Terrain: 1601
+-3
+Terrain: 1602
+68
+Terrain: 1603
+-1
+Terrain: 1604
+-1
+Terrain: 1605
+-1
+Terrain: 1606
+-3
+Terrain: 1607
+93
+Terrain: 1608
+-3
+Terrain: 1609
+-3
+Terrain: 1610
+-3
+Terrain: 1611
+-1
+Terrain: 1612
+-3
+Terrain: 1613
+-1
+Terrain: 1614
+86
+Terrain: 1615
+-2
+Terrain: 1616
+-3
+Terrain: 1617
+-3
+Terrain: 1618
+-1
+Terrain: 1619
+-1
+Terrain: 1620
+93
+Terrain: 1621
+84
+Terrain: 1622
+52
+Terrain: 1623
+-1
+Terrain: 1624
+-2
+Terrain: 1625
+-3
+Terrain: 1626
+-2
+Terrain: 1627
+-1
+Terrain: 1628
+-1
+Terrain: 1629
+-1
+Terrain: 1630
+68
+Terrain: 1631
+-1
+Terrain: 1632
+-3
+Terrain: 1633
+-1
+Terrain: 1634
+-1
+Terrain: 1635
+77
+Terrain: 1636
+-2
+Terrain: 1637
+-1
+Terrain: 1638
+-2
+Terrain: 1639
+-1
+Terrain: 1640
+-1
+Terrain: 1641
+-1
+Terrain: 1642
+-1
+Terrain: 1643
+-2
+Terrain: 1644
+-3
+Terrain: 1645
+-1
+Terrain: 1646
+-3
+Terrain: 1647
+45
+Terrain: 1648
+-1
+Terrain: 1649
+-1
+Terrain: 1650
+-1
+Terrain: 1651
+-1
+Terrain: 1652
+68
+Terrain: 1653
+75
+Terrain: 1654
+77
+Terrain: 1655
+52
+Terrain: 1656
+-3
+Terrain: 1657
+-2
+Terrain: 1658
+-1
+Terrain: 1659
+93
+Terrain: 1660
+84
+Terrain: 1661
+-1
+Terrain: 1662
+-2
+Terrain: 1663
+-1
+Terrain: 1664
+-1
+Terrain: 1665
+70
+Terrain: 1666
+61
+Terrain: 1667
+-2
+Terrain: 1668
+45
+Terrain: 1669
+-2
+Terrain: 1670
+52
+Terrain: 1671
+45
+Terrain: 1672
+52
+Terrain: 1673
+-3
+Terrain: 1674
+45
+Terrain: 1675
+-1
+Terrain: 1676
+-1
+Terrain: 1677
+-1
+Terrain: 1678
+68
+Terrain: 1679
+84
+Terrain: 1680
+79
+Terrain: 1681
+-2
+Terrain: 1682
+-3
+Terrain: 1683
+-1
+Terrain: 1684
+45
+Terrain: 1685
+93
+Terrain: 1686
+91
+Terrain: 1687
+-1
+Terrain: 1688
+-1
+Terrain: 1689
+-1
+Terrain: 1690
+-1
+Terrain: 1691
+-1
+Terrain: 1692
+77
+Terrain: 1693
+-3
+Terrain: 1694
+-1
+Terrain: 1695
+-3
+Terrain: 1696
+-3
+Terrain: 1697
+-1
+Terrain: 1698
+-3
+Terrain: 1699
+-1
+Terrain: 1700
+-2
+Terrain: 1701
+-2
+Terrain: 1702
+-1
+Terrain: 1703
+52
+Terrain: 1704
+-1
+Terrain: 1705
+52
+Terrain: 1706
+-1
+Terrain: 1707
+-2
+Terrain: 1708
+-2
+Terrain: 1709
+-3
+Terrain: 1710
+-3
+Terrain: 1711
+52
+Terrain: 1712
+-2
+Terrain: 1713
+79
+Terrain: 1714
+52
+Terrain: 1715
+-1
+Terrain: 1716
+-3
+Terrain: 1717
+-1
+Terrain: 1718
+-3
+Terrain: 1719
+-2
+Terrain: 1720
+-1
+Terrain: 1721
+-1
+Terrain: 1722
+-1
+Terrain: 1723
+75
+Terrain: 1724
+-1
+Terrain: 1725
+-1
+Terrain: 1726
+-2
+Terrain: 1727
+-1
+Terrain: 1728
+-3
+Terrain: 1729
+-2
+Terrain: 1730
+-1
+Terrain: 1731
+61
+Terrain: 1732
+-1
+Terrain: 1733
+-2
+Terrain: 1734
+-1
+Terrain: 1735
+-2
+Terrain: 1736
+-3
+Terrain: 1737
+86
+Terrain: 1738
+-2
+Terrain: 1739
+-3
+Terrain: 1740
+-3
+Terrain: 1741
+-1
+Terrain: 1742
+-1
+Terrain: 1743
+-1
+Terrain: 1744
+-1
+Terrain: 1745
+-3
+Terrain: 1746
+-3
+Terrain: 1747
+-3
+Terrain: 1748
+-1
+Terrain: 1749
+84
+Terrain: 1750
+-2
+Terrain: 1751
+-2
+Terrain: 1752
+45
+Terrain: 1753
+-2
+Terrain: 1754
+93
+Terrain: 1755
+-1
+Terrain: 1756
+52
+Terrain: 1757
+75
+Terrain: 1758
+-1
+Terrain: 1759
+-2
+Terrain: 1760
+-1
+Terrain: 1761
+70
+Terrain: 1762
+52
+Terrain: 1763
+91
+Terrain: 1764
+-1
+Terrain: 1765
+-3
+Terrain: 1766
+77
+Terrain: 1767
+77
+Terrain: 1768
+-1
+Terrain: 1769
+45
+Terrain: 1770
+-1
+Terrain: 1771
+-3
+Terrain: 1772
+-1
+Terrain: 1773
+45
+Terrain: 1774
+-2
+Terrain: 1775
+-1
+Terrain: 1776
+86
+Terrain: 1777
+-1
+Terrain: 1778
+-1
+Terrain: 1779
+-1
+Terrain: 1780
+98
+Terrain: 1781
+-2
+Terrain: 1782
+-2
+Terrain: 1783
+75
+Terrain: 1784
+-3
+Terrain: 1785
+-1
+Terrain: 1786
+-3
+Terrain: 1787
+-1
+Terrain: 1788
+-1
+Terrain: 1789
+45
+Terrain: 1790
+45
+Terrain: 1791
+-1
+Terrain: 1792
+61
+Terrain: 1793
+93
+Terrain: 1794
+-3
+Terrain: 1795
+75
+Terrain: 1796
+-1
+Terrain: 1797
+-1
+Terrain: 1798
+52
+Terrain: 1799
+-1
+Terrain: 1800
+-3
+Terrain: 1801
+-3
+Terrain: 1802
+-1
+Terrain: 1803
+52
+Terrain: 1804
+-2
+Terrain: 1805
+-2
+Terrain: 1806
+-1
+Terrain: 1807
+-1
+Terrain: 1808
+70
+Terrain: 1809
+86
+Terrain: 1810
+86
+Terrain: 1811
+-2
+Terrain: 1812
+-2
+Terrain: 1813
+-1
+Terrain: 1814
+-1
+Terrain: 1815
+-1
+Terrain: 1816
+-3
+Terrain: 1817
+-1
+Terrain: 1818
+45
+Terrain: 1819
+-3
+Terrain: 1820
+-1
+Terrain: 1821
+-2
+Terrain: 1822
+-1
+Terrain: 1823
+-1
+Terrain: 1824
+-2
+Terrain: 1825
+79
+Terrain: 1826
+-1
+Terrain: 1827
+-1
+Terrain: 1828
+-1
+Terrain: 1829
+93
+Terrain: 1830
+68
+Terrain: 1831
+-1
+Terrain: 1832
+84
+Terrain: 1833
+45
+Terrain: 1834
+52
+Terrain: 1835
+-3
+Terrain: 1836
+84
+Terrain: 1837
+-1
+Terrain: 1838
+-3
+Terrain: 1839
+45
+Terrain: 1840
+-1
+Terrain: 1841
+61
+Terrain: 1842
+61
+Terrain: 1843
+68
+Terrain: 1844
+84
+Terrain: 1845
+-3
+Terrain: 1846
+-1
+Terrain: 1847
+-1
+Terrain: 1848
+-1
+Terrain: 1849
+-1
+Terrain: 1850
+-1
+Terrain: 1851
+52
+Terrain: 1852
+-1
+Terrain: 1853
+93
+Terrain: 1854
+-1
+Terrain: 1855
+-1
+Terrain: 1856
+-3
+Terrain: 1857
+-1
+Terrain: 1858
+-1
+Terrain: 1859
+61
+Terrain: 1860
+-1
+Terrain: 1861
+70
+Terrain: 1862
+-3
+Terrain: 1863
+-3
+Terrain: 1864
+-1
+Terrain: 1865
+-3
+Terrain: 1866
+-1
+Terrain: 1867
+100
+Terrain: 1868
+-1
+Terrain: 1869
+-1
+Terrain: 1870
+-1
+Terrain: 1871
+-1
+Terrain: 1872
+52
+Terrain: 1873
+-1
+Terrain: 1874
+61
+Terrain: 1875
+-1
+Terrain: 1876
+-3
+Terrain: 1877
+-2
+Terrain: 1878
+-2
+Terrain: 1879
+-2
+Terrain: 1880
+-1
+Terrain: 1881
+-1
+Terrain: 1882
+-1
+Terrain: 1883
+91
+Terrain: 1884
+-1
+Terrain: 1885
+-2
+Terrain: 1886
+52
+Terrain: 1887
+45
+Terrain: 1888
+45
+Terrain: 1889
+45
+Terrain: 1890
+-3
+Terrain: 1891
+-2
+Terrain: 1892
+68
+Terrain: 1893
+-1
+Terrain: 1894
+-1
+Terrain: 1895
+-1
+Terrain: 1896
+68
+Terrain: 1897
+-3
+Terrain: 1898
+-3
+Terrain: 1899
+-3
+Terrain: 1900
+-1
+Terrain: 1901
+-2
+Terrain: 1902
+-3
+Terrain: 1903
+-1
+Terrain: 1904
+-1
+Terrain: 1905
+-1
+Terrain: 1906
+-2
+Terrain: 1907
+-2
+Terrain: 1908
+-2
+Terrain: 1909
+-1
+Terrain: 1910
+-1
+Terrain: 1911
+68
+Terrain: 1912
+-1
+Terrain: 1913
+-1
+Terrain: 1914
+-1
+Terrain: 1915
+-2
+Terrain: 1916
+-2
+Terrain: 1917
+77
+Terrain: 1918
+-3
+Terrain: 1919
+-2
+Terrain: 1920
+68
+Terrain: 1921
+-1
+Terrain: 1922
+-1
+Terrain: 1923
+-1
+Terrain: 1924
+45
+Terrain: 1925
+-2
+Terrain: 1926
+-2
+Terrain: 1927
+-3
+Terrain: 1928
+-1
+Terrain: 1929
+79
+Terrain: 1930
+-1
+Terrain: 1931
+-2
+Terrain: 1932
+-2
+Terrain: 1933
+-3
+Terrain: 1934
+-1
+Terrain: 1935
+-2
+Terrain: 1936
+-2
+Terrain: 1937
+-2
+Terrain: 1938
+-1
+Terrain: 1939
+61
+Terrain: 1940
+-1
+Terrain: 1941
+-1
+Terrain: 1942
+91
+Terrain: 1943
+68
+Terrain: 1944
+-1
+Terrain: 1945
+-1
+Terrain: 1946
+-1
+Terrain: 1947
+-1
+Terrain: 1948
+68
+Terrain: 1949
+-1
+Terrain: 1950
+-1
+Terrain: 1951
+-1
+Terrain: 1952
+-1
+Terrain: 1953
+-1
+Terrain: 1954
+70
+Terrain: 1955
+-1
+Terrain: 1956
+100
+Terrain: 1957
+-1
+Terrain: 1958
+-3
+Terrain: 1959
+45
+Terrain: 1960
+-1
+Terrain: 1961
+45
+Terrain: 1962
+70
+Terrain: 1963
+-2
+Terrain: 1964
+45
+Terrain: 1965
+75
+Terrain: 1966
+-2
+Terrain: 1967
+-2
+Terrain: 1968
+61
+Terrain: 1969
+-1
+Terrain: 1970
+-2
+Terrain: 1971
+93
+Terrain: 1972
+-1
+Terrain: 1973
+-1
+Terrain: 1974
+-2
+Terrain: 1975
+68
+Terrain: 1976
+45
+Terrain: 1977
+-3
+Terrain: 1978
+45
+Terrain: 1979
+52
+Terrain: 1980
+-1
+Terrain: 1981
+-1
+Terrain: 1982
+52
+Terrain: 1983
+-1
+Terrain: 1984
+-1
+Terrain: 1985
+-1
+Terrain: 1986
+84
+Terrain: 1987
+100
+Terrain: 1988
+-1
+Terrain: 1989
+-2
+Terrain: 1990
+-3
+Terrain: 1991
+45
+Terrain: 1992
+-3
+Terrain: 1993
+-1
+Terrain: 1994
+-1
+Terrain: 1995
+-1
+Terrain: 1996
+45
+Terrain: 1997
+-2
+Terrain: 1998
+52
+Terrain: 1999
+61
+Terrain: 2000
+-1
+Terrain: 2001
+-1
+Terrain: 2002
+-1
+Terrain: 2003
+-1
+Terrain: 2004
+-3
+Terrain: 2005
+-1
+Terrain: 2006
+45
+Terrain: 2007
+-2
+Terrain: 2008
+-3
+Terrain: 2009
+-1
+Terrain: 2010
+68
+Terrain: 2011
+-2
+Terrain: 2012
+93
+Terrain: 2013
+-1
+Terrain: 2014
+-2
+Terrain: 2015
+-2
+Terrain: 2016
+-1
+Terrain: 2017
+-2
+Terrain: 2018
+-1
+Terrain: 2019
+-3
+Terrain: 2020
+45
+Terrain: 2021
+45
+Terrain: 2022
+-1
+Terrain: 2023
+-1
+Terrain: 2024
+-3
+Terrain: 2025
+-1
+Terrain: 2026
+-1
+Terrain: 2027
+-3
+Terrain: 2028
+-2
+Terrain: 2029
+-2
+Terrain: 2030
+-2
+Terrain: 2031
+-2
+Terrain: 2032
+-1
+Terrain: 2033
+-3
+Terrain: 2034
+-1
+Terrain: 2035
+45
+Terrain: 2036
+-1
+Terrain: 2037
+-2
+Terrain: 2038
+-1
+Terrain: 2039
+-1
+Terrain: 2040
+-1
+Terrain: 2041
+-2
+Terrain: 2042
+-1
+Terrain: 2043
+52
+Terrain: 2044
+-1
+Terrain: 2045
+-3
+Terrain: 2046
+-3
+Terrain: 2047
+-1
+Terrain: 2048
+-1
+Terrain: 2049
+75
+Terrain: 2050
+68
+Terrain: 2051
+-2
+Terrain: 2052
+-3
+Terrain: 2053
+-1
+Terrain: 2054
+-1
+Terrain: 2055
+-1
+Terrain: 2056
+-1
+Terrain: 2057
+-1
+Terrain: 2058
+-1
+Terrain: 2059
+-3
+Terrain: 2060
+-1
+Terrain: 2061
+-1
+Terrain: 2062
+95
+Terrain: 2063
+-1
+Terrain: 2064
+68
+Terrain: 2065
+52
+Terrain: 2066
+-2
+Terrain: 2067
+52
+Terrain: 2068
+-3
+Terrain: 2069
+-1
+Terrain: 2070
+61
+Terrain: 2071
+-3
+Terrain: 2072
+-2
+Terrain: 2073
+-3
+Terrain: 2074
+-1
+Terrain: 2075
+-1
+Terrain: 2076
+86
+Terrain: 2077
+-1
+Terrain: 2078
+-1
+Terrain: 2079
+-1
+Terrain: 2080
+61
+Terrain: 2081
+68
+Terrain: 2082
+-3
+Terrain: 2083
+-1
+Terrain: 2084
+68
+Terrain: 2085
+45
+Terrain: 2086
+-3
+Terrain: 2087
+-3
+Terrain: 2088
+52
+Terrain: 2089
+-3
+Terrain: 2090
+-2
+Terrain: 2091
+93
+Terrain: 2092
+61
+Terrain: 2093
+52
+Terrain: 2094
+45
+Terrain: 2095
+-1
+Terrain: 2096
+-1
+Terrain: 2097
+-1
+Terrain: 2098
+45
+Terrain: 2099
+91
+Terrain: 2100
+52
+Terrain: 2101
+79
+Terrain: 2102
+-3
+Terrain: 2103
+-2
+Terrain: 2104
+-2
+Terrain: 2105
+68
+Terrain: 2106
+45
+Terrain: 2107
+-2
+Terrain: 2108
+-1
+Terrain: 2109
+-1
+Terrain: 2110
+52
+Terrain: 2111
+-3
+Terrain: 2112
+-3
+Terrain: 2113
+52
+Terrain: 2114
+84
+Terrain: 2115
+-1
+Terrain: 2116
+-1
+Terrain: 2117
+52
+Terrain: 2118
+-1
+Terrain: 2119
+68
+Terrain: 2120
+-3
+Terrain: 2121
+-3
+Terrain: 2122
+-1
+Terrain: 2123
+-3
+Terrain: 2124
+-2
+Terrain: 2125
+-3
+Terrain: 2126
+-2
+Terrain: 2127
+-2
+Terrain: 2128
+77
+Terrain: 2129
+79
+Terrain: 2130
+-1
+Terrain: 2131
+-1
+Terrain: 2132
+-1
+Terrain: 2133
+77
+Terrain: 2134
+86
+Terrain: 2135
+-2
+Terrain: 2136
+45
+Terrain: 2137
+-3
+Terrain: 2138
+-3
+Terrain: 2139
+-3
+Terrain: 2140
+-1
+Terrain: 2141
+52
+Terrain: 2142
+-3
+Terrain: 2143
+-1
+Terrain: 2144
+93
+Terrain: 2145
+93
+Terrain: 2146
+45
+Terrain: 2147
+-3
+Terrain: 2148
+84
+Terrain: 2149
+-1
+Terrain: 2150
+-1
+Terrain: 2151
+-3
+Terrain: 2152
+-1
+Terrain: 2153
+-1
+Terrain: 2154
+52
+Terrain: 2155
+61
+Terrain: 2156
+68
+Terrain: 2157
+-2
+Terrain: 2158
+45
+Terrain: 2159
+-2
+Terrain: 2160
+-3
+Terrain: 2161
+-1
+Terrain: 2162
+-1
+Terrain: 2163
+-1
+Terrain: 2164
+-1
+Terrain: 2165
+-1
+Terrain: 2166
+52
+Terrain: 2167
+-1
+Terrain: 2168
+45
+Terrain: 2169
+91
+Terrain: 2170
+-1
+Terrain: 2171
+-1
+Terrain: 2172
+-3
+Terrain: 2173
+45
+Terrain: 2174
+-1
+Terrain: 2175
+-2
+Terrain: 2176
+-1
+Terrain: 2177
+-3
+Terrain: 2178
+-1
+Terrain: 2179
+-1
+Terrain: 2180
+45
+Terrain: 2181
+-3
+Terrain: 2182
+-3
+Terrain: 2183
+-3
+Terrain: 2184
+-3
+Terrain: 2185
+-3
+Terrain: 2186
+61
+Terrain: 2187
+-3
+Terrain: 2188
+-2
+Terrain: 2189
+68
+Terrain: 2190
+-3
+Terrain: 2191
+68
+Terrain: 2192
+-1
+Terrain: 2193
+-1
+Terrain: 2194
+61
+Terrain: 2195
+-1
+Terrain: 2196
+-2
+Terrain: 2197
+-1
+Terrain: 2198
+68
+Terrain: 2199
+-1
+Terrain: 2200
+-2
+Terrain: 2201
+-2
+Terrain: 2202
+52
+Terrain: 2203
+52
+Terrain: 2204
+77
+Terrain: 2205
+-1
+Terrain: 2206
+-1
+Terrain: 2207
+-1
+Terrain: 2208
+-3
+Terrain: 2209
+-2
+Terrain: 2210
+-1
+Terrain: 2211
+-1
+Terrain: 2212
+75
+Terrain: 2213
+-3
+Terrain: 2214
+-1
+Terrain: 2215
+-1
+Terrain: 2216
+68
+Terrain: 2217
+-1
+Terrain: 2218
+-3
+Terrain: 2219
+45
+Terrain: 2220
+52
+Terrain: 2221
+93
+Terrain: 2222
+-1
+Terrain: 2223
+-1
+Terrain: 2224
+-1
+Terrain: 2225
+84
+Terrain: 2226
+-2
+Terrain: 2227
+-1
+Terrain: 2228
+45
+Terrain: 2229
+-3
+Terrain: 2230
+52
+Terrain: 2231
+84
+Terrain: 2232
+61
+Terrain: 2233
+84
+Terrain: 2234
+68
+Terrain: 2235
+91
+Terrain: 2236
+61
+Terrain: 2237
+-1
+Terrain: 2238
+68
+Terrain: 2239
+-2
+Terrain: 2240
+61
+Terrain: 2241
+-1
+Terrain: 2242
+-1
+Terrain: 2243
+68
+Terrain: 2244
+-1
+Terrain: 2245
+-1
+Terrain: 2246
+-2
+Terrain: 2247
+-1
+Terrain: 2248
+-1
+Terrain: 2249
+86
+Terrain: 2250
+45
+Terrain: 2251
+-3
+Terrain: 2252
+-3
+Terrain: 2253
+77
+Terrain: 2254
+-1
+Terrain: 2255
+-1
+Terrain: 2256
+45
+Terrain: 2257
+-3
+Terrain: 2258
+-3
+Terrain: 2259
+-2
+Terrain: 2260
+-2
+Terrain: 2261
+-2
+Terrain: 2262
+-1
+Terrain: 2263
+-1
+Terrain: 2264
+-3
+Terrain: 2265
+84
+Terrain: 2266
+77
+Terrain: 2267
+84
+Terrain: 2268
+61
+Terrain: 2269
+-1
+Terrain: 2270
+-2
+Terrain: 2271
+-3
+Terrain: 2272
+-2
+Terrain: 2273
+-3
+Terrain: 2274
+-3
+Terrain: 2275
+-2
+Terrain: 2276
+-2
+Terrain: 2277
+-1
+Terrain: 2278
+-3
+Terrain: 2279
+-1
+Terrain: 2280
+-3
+Terrain: 2281
+-1
+Terrain: 2282
+-1
+Terrain: 2283
+-2
+Terrain: 2284
+-2
+Terrain: 2285
+-1
+Terrain: 2286
+-2
+Terrain: 2287
+-1
+Terrain: 2288
+-2
+Terrain: 2289
+-3
+Terrain: 2290
+70
+Terrain: 2291
+-1
+Terrain: 2292
+61
+Terrain: 2293
+-2
+Terrain: 2294
+-1
+Terrain: 2295
+-3
+Terrain: 2296
+68
+Terrain: 2297
+-1
+Terrain: 2298
+-3
+Terrain: 2299
+-2
+Terrain: 2300
+93
+Terrain: 2301
+70
+Terrain: 2302
+-2
+Terrain: 2303
+-2
+Terrain: 2304
+-2
+Terrain: 2305
+-2
+Terrain: 2306
+-3
+Terrain: 2307
+45
+Terrain: 2308
+-1
+Terrain: 2309
+-2
+Terrain: 2310
+-1
+Terrain: 2311
+52
+Terrain: 2312
+-1
+Terrain: 2313
+-3
+Terrain: 2314
+52
+Terrain: 2315
+77
+Terrain: 2316
+-1
+Terrain: 2317
+-1
+Terrain: 2318
+-1
+Terrain: 2319
+-1
+Terrain: 2320
+-1
+Terrain: 2321
+45
+Terrain: 2322
+-2
+Terrain: 2323
+-3
+Terrain: 2324
+-3
+Terrain: 2325
+70
+Terrain: 2326
+61
+Terrain: 2327
+-1
+Terrain: 2328
+45
+Terrain: 2329
+-2
+Terrain: 2330
+-2
+Terrain: 2331
+-1
+Terrain: 2332
+52
+Terrain: 2333
+52
+Terrain: 2334
+-1
+Terrain: 2335
+-1
+Terrain: 2336
+52
+Terrain: 2337
+68
+Terrain: 2338
+68
+Terrain: 2339
+-3
+Terrain: 2340
+-1
+Terrain: 2341
+-2
+Terrain: 2342
+-3
+Terrain: 2343
+-2
+Terrain: 2344
+-1
+Terrain: 2345
+-1
+Terrain: 2346
+-1
+Terrain: 2347
+-3
+Terrain: 2348
+-2
+Terrain: 2349
+-1
+Terrain: 2350
+-3
+Terrain: 2351
+-1
+Terrain: 2352
+-2
+Terrain: 2353
+84
+Terrain: 2354
+-3
+Terrain: 2355
+-1
+Terrain: 2356
+-1
+Terrain: 2357
+-1
+Terrain: 2358
+-1
+Terrain: 2359
+-1
+Terrain: 2360
+-1
+Terrain: 2361
+-1
+Terrain: 2362
+93
+Terrain: 2363
+93
+Terrain: 2364
+-1
+Terrain: 2365
+-3
+Terrain: 2366
+52
+Terrain: 2367
+77
+Terrain: 2368
+-2
+Terrain: 2369
+-1
+Terrain: 2370
+-1
+Terrain: 2371
+45
+Terrain: 2372
+-1
+Terrain: 2373
+95
+Terrain: 2374
+77
+Terrain: 2375
+-2
+Terrain: 2376
+45
+Terrain: 2377
+-1
+Terrain: 2378
+-1
+Terrain: 2379
+-2
+Terrain: 2380
+-3
+Terrain: 2381
+-1
+Terrain: 2382
+45
+Terrain: 2383
+-1
+Terrain: 2384
+-1
+Terrain: 2385
+-3
+Terrain: 2386
+45
+Terrain: 2387
+77
+Terrain: 2388
+-2
+Terrain: 2389
+100
+Terrain: 2390
+-1
+Terrain: 2391
+68
+Terrain: 2392
+52
+Terrain: 2393
+-1
+Terrain: 2394
+-3
+Terrain: 2395
+-3
+Terrain: 2396
+-2
+Terrain: 2397
+-3
+Terrain: 2398
+75
+Terrain: 2399
+-1
+Terrain: 2400
+-1
+Terrain: 2401
+91
+Terrain: 2402
+-3
+Terrain: 2403
+-3
+Terrain: 2404
+-2
+Terrain: 2405
+-3
+Terrain: 2406
+45
+Terrain: 2407
+-2
+Terrain: 2408
+-3
+Terrain: 2409
+70
+Terrain: 2410
+68
+Terrain: 2411
+68
+Terrain: 2412
+-1
+Terrain: 2413
+-1
+Terrain: 2414
+-1
+Terrain: 2415
+-1
+Terrain: 2416
+77
+Terrain: 2417
+-1
+Terrain: 2418
+93
+Terrain: 2419
+-1
+Terrain: 2420
+-1
+Terrain: 2421
+61
+Terrain: 2422
+-1
+Terrain: 2423
+-3
+Terrain: 2424
+-2
+Terrain: 2425
+52
+Terrain: 2426
+52
+Terrain: 2427
+61
+Terrain: 2428
+-3
+Terrain: 2429
+-1
+Terrain: 2430
+45
+Terrain: 2431
+-1
+Terrain: 2432
+45
+Terrain: 2433
+75
+Terrain: 2434
+-2
+Terrain: 2435
+77
+Terrain: 2436
+-1
+Terrain: 2437
+68
+Terrain: 2438
+-1
+Terrain: 2439
+-3
+Terrain: 2440
+77
+Terrain: 2441
+-1
+Terrain: 2442
+-3
+Terrain: 2443
+-2
+Terrain: 2444
+-2
+Terrain: 2445
+-3
+Terrain: 2446
+-3
+Terrain: 2447
+-1
+Terrain: 2448
+68
+Terrain: 2449
+-3
+Terrain: 2450
+-2
+Terrain: 2451
+-2
+Terrain: 2452
+-1
+Terrain: 2453
+-1
+Terrain: 2454
+86
+Terrain: 2455
+-1
+Terrain: 2456
+-2
+Terrain: 2457
+-2
+Terrain: 2458
+-3
+Terrain: 2459
+45
+Terrain: 2460
+45
+Terrain: 2461
+-2
+Terrain: 2462
+84
+Terrain: 2463
+-1
+Terrain: 2464
+-1
+Terrain: 2465
+84
+Terrain: 2466
+-1
+Terrain: 2467
+-1
+Terrain: 2468
+-1
+Terrain: 2469
+-3
+Terrain: 2470
+-1
+Terrain: 2471
+68
+Terrain: 2472
+-1
+Terrain: 2473
+-2
+Terrain: 2474
+-1
+Terrain: 2475
+-3
+Terrain: 2476
+68
+Terrain: 2477
+68
+Terrain: 2478
+75
+Terrain: 2479
+68
+Terrain: 2480
+-1
+Terrain: 2481
+-2
+Terrain: 2482
+45
+Terrain: 2483
+45
+Terrain: 2484
+-2
+Terrain: 2485
+-1
+Terrain: 2486
+-3
+Terrain: 2487
+-3
+Terrain: 2488
+68
+Terrain: 2489
+93
+Terrain: 2490
+-3
+Terrain: 2491
+-1
+Terrain: 2492
+-2
+Terrain: 2493
+-1
+Terrain: 2494
+-1
+Terrain: 2495
+-3
+Terrain: 2496
+52
+Terrain: 2497
+68
+Terrain: 2498
+93
+Terrain: 2499
+-1
+Terrain: 2500
+52
+Terrain: 2501
+91
+Terrain: 2502
+91
+Terrain: 2503
+-3
+Terrain: 2504
+45
+Terrain: 2505
+-2
+Terrain: 2506
+-2
+Terrain: 2507
+-3
+Terrain: 2508
+-3
+Terrain: 2509
+-3
+Terrain: 2510
+-1
+Terrain: 2511
+52
+Terrain: 2512
+-1
+Terrain: 2513
+45
+Terrain: 2514
+-2
+Terrain: 2515
+-1
+Terrain: 2516
+84
+Terrain: 2517
+77
+Terrain: 2518
+-2
+Terrain: 2519
+-3
+Terrain: 2520
+68
+Terrain: 2521
+68
+Terrain: 2522
+-1
+Terrain: 2523
+45
+Terrain: 2524
+-1
+Terrain: 2525
+91
+Terrain: 2526
+61
+Terrain: 2527
+-1
+Terrain: 2528
+-1
+Terrain: 2529
+-1
+Terrain: 2530
+-1
+Terrain: 2531
+-1
+Terrain: 2532
+77
+Terrain: 2533
+45
+Terrain: 2534
+-1
+Terrain: 2535
+-1
+Terrain: 2536
+86
+Terrain: 2537
+-2
+Terrain: 2538
+86
+Terrain: 2539
+-3
+Terrain: 2540
+-1
+Terrain: 2541
+-1
+Terrain: 2542
+-2
+Terrain: 2543
+75
+Terrain: 2544
+45
+Terrain: 2545
+75
+Terrain: 2546
+-1
+Terrain: 2547
+-1
+Terrain: 2548
+-3
+Terrain: 2549
+68
+Terrain: 2550
+-3
+Terrain: 2551
+-1
+Terrain: 2552
+-2
+Terrain: 2553
+93
+Terrain: 2554
+-2
+Terrain: 2555
+-2
+Terrain: 2556
+-1
+Terrain: 2557
+-3
+Terrain: 2558
+-1
+Terrain: 2559
+68
+Terrain: 2560
+-1
+Terrain: 2561
+-1
+Terrain: 2562
+-2
+Terrain: 2563
+-3
+Terrain: 2564
+-1
+Terrain: 2565
+75
+Terrain: 2566
+-2
+Terrain: 2567
+-1
+Terrain: 2568
+-2
+Terrain: 2569
+-2
+Terrain: 2570
+-2
+Terrain: 2571
+-2
+Terrain: 2572
+-3
+Terrain: 2573
+-1
+Terrain: 2574
+-1
+Terrain: 2575
+45
+Terrain: 2576
+-1
+Terrain: 2577
+77
+Terrain: 2578
+-1
+Terrain: 2579
+77
+Terrain: 2580
+-1
+Terrain: 2581
+68
+Terrain: 2582
+-1
+Terrain: 2583
+52
+Terrain: 2584
+-2
+Terrain: 2585
+-1
+Terrain: 2586
+-1
+Terrain: 2587
+45
+Terrain: 2588
+-1
+Terrain: 2589
+-1
+Terrain: 2590
+77
+Terrain: 2591
+-1
+Terrain: 2592
+45
+Terrain: 2593
+52
+Terrain: 2594
+-3
+Terrain: 2595
+-1
+Terrain: 2596
+-1
+Terrain: 2597
+-1
+Terrain: 2598
+-1
+Terrain: 2599
+-2
+Terrain: 2600
+-2
+Terrain: 2601
+-1
+Terrain: 2602
+-1
+Terrain: 2603
+-3
+Terrain: 2604
+-2
+Terrain: 2605
+-1
+Terrain: 2606
+-1
+Terrain: 2607
+-2
+Terrain: 2608
+45
+Terrain: 2609
+-1
+Terrain: 2610
+-2
+Terrain: 2611
+-1
+Terrain: 2612
+-3
+Terrain: 2613
+86
+Terrain: 2614
+-3
+Terrain: 2615
+-3
+Terrain: 2616
+-3
+Terrain: 2617
+-3
+Terrain: 2618
+-2
+Terrain: 2619
+70
+Terrain: 2620
+-1
+Terrain: 2621
+52
+Terrain: 2622
+-1
+Terrain: 2623
+-1
+Terrain: 2624
+45
+Terrain: 2625
+-1
+Terrain: 2626
+-1
+Terrain: 2627
+-3
+Terrain: 2628
+-2
+Terrain: 2629
+-2
+Terrain: 2630
+-1
+Terrain: 2631
+-1
+Terrain: 2632
+-3
+Terrain: 2633
+-1
+Terrain: 2634
+91
+Terrain: 2635
+52
+Terrain: 2636
+-3
+Terrain: 2637
+-3
+Terrain: 2638
+84
+Terrain: 2639
+-3
+Terrain: 2640
+-1
+Terrain: 2641
+-1
+Terrain: 2642
+-2
+Terrain: 2643
+-1
+Terrain: 2644
+52
+Terrain: 2645
+-1
+Terrain: 2646
+-3
+Terrain: 2647
+93
+Terrain: 2648
+-3
+Terrain: 2649
+-2
+Terrain: 2650
+-2
+Terrain: 2651
+-1
+Terrain: 2652
+-2
+Terrain: 2653
+-1
+Terrain: 2654
+52
+Terrain: 2655
+86
+Terrain: 2656
+-1
+Terrain: 2657
+77
+Terrain: 2658
+-1
+Terrain: 2659
+-2
+Terrain: 2660
+-3
+Terrain: 2661
+-3
+Terrain: 2662
+45
+Terrain: 2663
+-1
+Terrain: 2664
+-1
+Terrain: 2665
+45
+Terrain: 2666
+61
+Terrain: 2667
+52
+Terrain: 2668
+-3
+Terrain: 2669
+-1
+Terrain: 2670
+84
+Terrain: 2671
+77
+Terrain: 2672
+52
+Terrain: 2673
+-1
+Terrain: 2674
+-1
+Terrain: 2675
+45
+Terrain: 2676
+-1
+Terrain: 2677
+-1
+Terrain: 2678
+-1
+Terrain: 2679
+-3
+Terrain: 2680
+-2
+Terrain: 2681
+68
+Terrain: 2682
+98
+Terrain: 2683
+52
+Terrain: 2684
+100
+Terrain: 2685
+-2
+Terrain: 2686
+-3
+Terrain: 2687
+-3
+Terrain: 2688
+45
+Terrain: 2689
+-2
+Terrain: 2690
+-1
+Terrain: 2691
+86
+Terrain: 2692
+-1
+Terrain: 2693
+-1
+Terrain: 2694
+75
+Terrain: 2695
+-1
+Terrain: 2696
+77
+Terrain: 2697
+68
+Terrain: 2698
+-2
+Terrain: 2699
+-2
+Terrain: 2700
+-2
+Terrain: 2701
+-1
+Terrain: 2702
+-3
+Terrain: 2703
+-3
+Terrain: 2704
+-2
+Terrain: 2705
+-2
+Terrain: 2706
+-3
+Terrain: 2707
+-1
+Terrain: 2708
+-1
+Terrain: 2709
+68
+Terrain: 2710
+-2
+Terrain: 2711
+-1
+Terrain: 2712
+52
+Terrain: 2713
+61
+Terrain: 2714
+-1
+Terrain: 2715
+-2
+Terrain: 2716
+-3
+Terrain: 2717
+-1
+Terrain: 2718
+-1
+Terrain: 2719
+-2
+Terrain: 2720
+-3
+Terrain: 2721
+-2
+Terrain: 2722
+-1
+Terrain: 2723
+75
+Terrain: 2724
+-2
+Terrain: 2725
+45
+Terrain: 2726
+-3
+Terrain: 2727
+45
+Terrain: 2728
+-1
+Terrain: 2729
+-1
+Terrain: 2730
+-2
+Terrain: 2731
+-2
+Terrain: 2732
+75
+Terrain: 2733
+-1
+Terrain: 2734
+-2
+Terrain: 2735
+-1
+Terrain: 2736
+-2
+Terrain: 2737
+-1
+Terrain: 2738
+75
+Terrain: 2739
+-3
+Terrain: 2740
+-1
+Terrain: 2741
+-3
+Terrain: 2742
+-1
+Terrain: 2743
+52
+Terrain: 2744
+-3
+Terrain: 2745
+-3
+Terrain: 2746
+-3
+Terrain: 2747
+-3
+Terrain: 2748
+-2
+Terrain: 2749
+-1
+Terrain: 2750
+-1
+Terrain: 2751
+-1
+Terrain: 2752
+-1
+Terrain: 2753
+52
+Terrain: 2754
+77
+Terrain: 2755
+-2
+Terrain: 2756
+75
+Terrain: 2757
+-3
+Terrain: 2758
+-1
+Terrain: 2759
+45
+Terrain: 2760
+-1
+Terrain: 2761
+-1
+Terrain: 2762
+45
+Terrain: 2763
+-2
+Terrain: 2764
+-1
+Terrain: 2765
+-2
+Terrain: 2766
+75
+Terrain: 2767
+-1
+Terrain: 2768
+70
+Terrain: 2769
+75
+Terrain: 2770
+45
+Terrain: 2771
+-2
+Terrain: 2772
+-1
+Terrain: 2773
+61
+Terrain: 2774
+-1
+Terrain: 2775
+-3
+Terrain: 2776
+-2
+Terrain: 2777
+-2
+Terrain: 2778
+-1
+Terrain: 2779
+-2
+Terrain: 2780
+-1
+Terrain: 2781
+-1
+Terrain: 2782
+68
+Terrain: 2783
+-1
+Terrain: 2784
+-2
+Terrain: 2785
+-1
+Terrain: 2786
+-1
+Terrain: 2787
+84
+Terrain: 2788
+-1
+Terrain: 2789
+-1
+Terrain: 2790
+45
+Terrain: 2791
+-1
+Terrain: 2792
+93
+Terrain: 2793
+45
+Terrain: 2794
+84
+Terrain: 2795
+52
+Terrain: 2796
+-1
+Terrain: 2797
+-3
+Terrain: 2798
+70
+Terrain: 2799
+91
+Terrain: 2800
+93
+Terrain: 2801
+-1
+Terrain: 2802
+-1
+Terrain: 2803
+45
+Terrain: 2804
+-1
+Terrain: 2805
+68
+Terrain: 2806
+-1
+Terrain: 2807
+-3
+Terrain: 2808
+77
+Terrain: 2809
+-1
+Terrain: 2810
+93
+Terrain: 2811
+-2
+Terrain: 2812
+-1
+Terrain: 2813
+-1
+Terrain: 2814
+-1
+Terrain: 2815
+-1
+Terrain: 2816
+-1
+Terrain: 2817
+-3
+Terrain: 2818
+-1
+Terrain: 2819
+-2
+Terrain: 2820
+-1
+Terrain: 2821
+-2
+Terrain: 2822
+-2
+Terrain: 2823
+-3
+Terrain: 2824
+-1
+Terrain: 2825
+-1
+Terrain: 2826
+-3
+Terrain: 2827
+-1
+Terrain: 2828
+98
+Terrain: 2829
+-1
+Terrain: 2830
+-1
+Terrain: 2831
+-2
+Terrain: 2832
+-2
+Terrain: 2833
+-1
+Terrain: 2834
+86
+Terrain: 2835
+77
+Terrain: 2836
+84
+Terrain: 2837
+93
+Terrain: 2838
+91
+Terrain: 2839
+-1
+Terrain: 2840
+-3
+Terrain: 2841
+-1
+Terrain: 2842
+-1
+Terrain: 2843
+-3
+Terrain: 2844
+-2
+Terrain: 2845
+-1
+Terrain: 2846
+-1
+Terrain: 2847
+-1
+Terrain: 2848
+-3
+Terrain: 2849
+-2
+Terrain: 2850
+-3
+Terrain: 2851
+45
+Terrain: 2852
+-1
+Terrain: 2853
+-3
+Terrain: 2854
+-2
+Terrain: 2855
+-3
+Terrain: 2856
+100
+Terrain: 2857
+93
+Terrain: 2858
+93
+Terrain: 2859
+-3
+Terrain: 2860
+77
+Terrain: 2861
+-1
+Terrain: 2862
+-1
+Terrain: 2863
+-1
+Terrain: 2864
+68
+Terrain: 2865
+45
+Terrain: 2866
+-1
+Terrain: 2867
+52
+Terrain: 2868
+-1
+Terrain: 2869
+-1
+Terrain: 2870
+61
+Terrain: 2871
+-2
+Terrain: 2872
+45
+Terrain: 2873
+52
+Terrain: 2874
+-1
+Terrain: 2875
+75
+Terrain: 2876
+-3
+Terrain: 2877
+-1
+Terrain: 2878
+61
+Terrain: 2879
+-1
+Terrain: 2880
+-2
+Terrain: 2881
+86
+Terrain: 2882
+-1
+Terrain: 2883
+68
+Terrain: 2884
+-2
+Terrain: 2885
+45
+Terrain: 2886
+-3
+Terrain: 2887
+-1
+Terrain: 2888
+70
+Terrain: 2889
+100
+Terrain: 2890
+45
+Terrain: 2891
+-1
+Terrain: 2892
+-2
+Terrain: 2893
+-1
+Terrain: 2894
+-1
+Terrain: 2895
+-1
+Terrain: 2896
+-3
+Terrain: 2897
+-1
+Terrain: 2898
+-2
+Terrain: 2899
+-2
+Terrain: 2900
+-1
+Terrain: 2901
+-1
+Terrain: 2902
+-1
+Terrain: 2903
+-1
+Terrain: 2904
+68
+Terrain: 2905
+75
+Terrain: 2906
+-1
+Terrain: 2907
+45
+Terrain: 2908
+45
+Terrain: 2909
+68
+Terrain: 2910
+77
+Terrain: 2911
+-1
+Terrain: 2912
+-2
+Terrain: 2913
+-1
+Terrain: 2914
+91
+Terrain: 2915
+-1
+Terrain: 2916
+45
+Terrain: 2917
+-1
+Terrain: 2918
+52
+Terrain: 2919
+93
+Terrain: 2920
+-3
+Terrain: 2921
+-1
+Terrain: 2922
+-2
+Terrain: 2923
+-1
+Terrain: 2924
+45
+Terrain: 2925
+-1
+Terrain: 2926
+-1
+Terrain: 2927
+-3
+Terrain: 2928
+-1
+Terrain: 2929
+52
+Terrain: 2930
+-1
+Terrain: 2931
+-1
+Terrain: 2932
+-1
+Terrain: 2933
+-1
+Terrain: 2934
+-3
+Terrain: 2935
+-1
+Terrain: 2936
+-3
+Terrain: 2937
+68
+Terrain: 2938
+-2
+Terrain: 2939
+-1
+Terrain: 2940
+-1
+Terrain: 2941
+-2
+Terrain: 2942
+-1
+Terrain: 2943
+-2
+Terrain: 2944
+100
+Terrain: 2945
+-2
+Terrain: 2946
+52
+Terrain: 2947
+-1
+Terrain: 2948
+-2
+Terrain: 2949
+68
+Terrain: 2950
+-1
+Terrain: 2951
+-1
+Terrain: 2952
+-1
+Terrain: 2953
+-3
+Terrain: 2954
+-3
+Terrain: 2955
+-1
+Terrain: 2956
+-2
+Terrain: 2957
+-2
+Terrain: 2958
+-1
+Terrain: 2959
+77
+Terrain: 2960
+-2
+Terrain: 2961
+-1
+Terrain: 2962
+-1
+Terrain: 2963
+-1
+Terrain: 2964
+-3
+Terrain: 2965
+-3
+Terrain: 2966
+-1
+Terrain: 2967
+-3
+Terrain: 2968
+100
+Terrain: 2969
+-1
+Terrain: 2970
+-2
+Terrain: 2971
+-1
+Terrain: 2972
+-1
+Terrain: 2973
+52
+Terrain: 2974
+-2
+Terrain: 2975
+-1
+Terrain: 2976
+-2
+Terrain: 2977
+-2
+Terrain: 2978
+-1
+Terrain: 2979
+75
+Terrain: 2980
+-1
+Terrain: 2981
+-2
+Terrain: 2982
+93
+Terrain: 2983
+98
+Terrain: 2984
+-3
+Terrain: 2985
+52
+Terrain: 2986
+-3
+Terrain: 2987
+-1
+Terrain: 2988
+-1
+Terrain: 2989
+68
+Terrain: 2990
+61
+Terrain: 2991
+-1
+Terrain: 2992
+-3
+Terrain: 2993
+61
+Terrain: 2994
+-1
+Terrain: 2995
+75
+Terrain: 2996
+-3
+Terrain: 2997
+-1
+Terrain: 2998
+-1
+Terrain: 2999
+-1
+Terrain: 3000
+-1
+Terrain: 3001
+-1
+Terrain: 3002
+61
+Terrain: 3003
+-2
+Terrain: 3004
+-3
+Terrain: 3005
+-2
+Terrain: 3006
+-1
+Terrain: 3007
+100
+Terrain: 3008
+-1
+Terrain: 3009
+52
+Terrain: 3010
+-1
+Terrain: 3011
+-1
+Terrain: 3012
+-1
+Terrain: 3013
+-2
+Terrain: 3014
+-2
+Terrain: 3015
+-1
+Terrain: 3016
+-1
+Terrain: 3017
+-1
+Terrain: 3018
+-1
+Terrain: 3019
+-3
+Terrain: 3020
+-2
+Terrain: 3021
+-2
+Terrain: 3022
+-3
+Terrain: 3023
+93
+Terrain: 3024
+-3
+Terrain: 3025
+-3
+Terrain: 3026
+52
+Terrain: 3027
+-1
+Terrain: 3028
+-1
+Terrain: 3029
+-1
+Terrain: 3030
+-3
+Terrain: 3031
+70
+Terrain: 3032
+-1
+Terrain: 3033
+-2
+Terrain: 3034
+-1
+Terrain: 3035
+-1
+Terrain: 3036
+-3
+Terrain: 3037
+-1
+Terrain: 3038
+68
+Terrain: 3039
+-1
+Terrain: 3040
+-1
+Terrain: 3041
+-1
+Terrain: 3042
+-1
+Terrain: 3043
+52
+Terrain: 3044
+52
+Terrain: 3045
+-3
+Terrain: 3046
+45
+Terrain: 3047
+-2
+Terrain: 3048
+-1
+Terrain: 3049
+-3
+Terrain: 3050
+52
+Terrain: 3051
+-1
+Terrain: 3052
+75
+Terrain: 3053
+-1
+Terrain: 3054
+-2
+Terrain: 3055
+-1
+Terrain: 3056
+45
+Terrain: 3057
+-2
+Terrain: 3058
+52
+Terrain: 3059
+-1
+Terrain: 3060
+61
+Terrain: 3061
+61
+Terrain: 3062
+-1
+Terrain: 3063
+-1
+Terrain: 3064
+52
+Terrain: 3065
+-1
+Terrain: 3066
+45
+Terrain: 3067
+-1
+Terrain: 3068
+45
+Terrain: 3069
+-1
+Terrain: 3070
+-2
+Terrain: 3071
+93
+Terrain: 3072
+-3
+Terrain: 3073
+77
+Terrain: 3074
+-1
+Terrain: 3075
+68
+Terrain: 3076
+-2
+Terrain: 3077
+-1
+Terrain: 3078
+-1
+Terrain: 3079
+-1
+Terrain: 3080
+-3
+Terrain: 3081
+-3
+Terrain: 3082
+-1
+Terrain: 3083
+-1
+Terrain: 3084
+45
+Terrain: 3085
+-1
+Terrain: 3086
+52
+Terrain: 3087
+-1
+Terrain: 3088
+-3
+Terrain: 3089
+-1
+Terrain: 3090
+84
+Terrain: 3091
+-1
+Terrain: 3092
+61
+Terrain: 3093
+-1
+Terrain: 3094
+-1
+Terrain: 3095
+-3
+Terrain: 3096
+52
+Terrain: 3097
+-2
+Terrain: 3098
+-3
+Terrain: 3099
+-1
+Terrain: 3100
+-1
+Terrain: 3101
+-1
+Terrain: 3102
+100
+Terrain: 3103
+95
+Terrain: 3104
+-1
+Terrain: 3105
+-1
+Terrain: 3106
+45
+Terrain: 3107
+-2
+Terrain: 3108
+68
+Terrain: 3109
+98
+Terrain: 3110
+-1
+Terrain: 3111
+-2
+Terrain: 3112
+-1
+Terrain: 3113
+100
+Terrain: 3114
+-1
+Terrain: 3115
+-1
+Terrain: 3116
+-2
+Terrain: 3117
+-2
+Terrain: 3118
+84
+Terrain: 3119
+61
+Terrain: 3120
+77
+Terrain: 3121
+-1
+Terrain: 3122
+-1
+Terrain: 3123
+-3
+Terrain: 3124
+-2
+Terrain: 3125
+68
+Terrain: 3126
+-1
+Terrain: 3127
+-3
+Terrain: 3128
+-1
+Terrain: 3129
+61
+Terrain: 3130
+-1
+Terrain: 3131
+-3
+Terrain: 3132
+-1
+Terrain: 3133
+100
+Terrain: 3134
+-2
+Terrain: 3135
+-1
+Terrain: 3136
+52
+Terrain: 3137
+-1
+Terrain: 3138
+-2
+Terrain: 3139
+-2
+Terrain: 3140
+45
+Terrain: 3141
+-1
+Terrain: 3142
+-2
+Terrain: 3143
+91
+Terrain: 3144
+-2
+Terrain: 3145
+93
+Terrain: 3146
+-1
+Terrain: 3147
+-1
+Terrain: 3148
+-1
+Terrain: 3149
+86
+Terrain: 3150
+-1
+Terrain: 3151
+-1
+Terrain: 3152
+-1
+Terrain: 3153
+-3
+Terrain: 3154
+-1
+Terrain: 3155
+-1
+Terrain: 3156
+-1
+Terrain: 3157
+-1
+Terrain: 3158
+-1
+Terrain: 3159
+-1
+Terrain: 3160
+-1
+Terrain: 3161
+-1
+Terrain: 3162
+-1
+Terrain: 3163
+100
+Terrain: 3164
+-1
+Terrain: 3165
+68
+Terrain: 3166
+77
+Terrain: 3167
+86
+Terrain: 3168
+100
+Terrain: 3169
+-1
+Terrain: 3170
+-1
+Terrain: 3171
+77
+Terrain: 3172
+-1
+Terrain: 3173
+-3
+Terrain: 3174
+-1
+Terrain: 3175
+70
+Terrain: 3176
+-1
+Terrain: 3177
+-3
+Terrain: 3178
+-3
+Terrain: 3179
+-3
+Terrain: 3180
+-3
+Terrain: 3181
+-1
+Terrain: 3182
+-3
+Terrain: 3183
+-3
+Terrain: 3184
+52
+Terrain: 3185
+-1
+Terrain: 3186
+-1
+Terrain: 3187
+68
+Terrain: 3188
+-1
+Terrain: 3189
+-3
+Terrain: 3190
+-1
+Terrain: 3191
+-1
+Terrain: 3192
+-2
+Terrain: 3193
+-3
+Terrain: 3194
+68
+Terrain: 3195
+-1
+Terrain: 3196
+-3
+Terrain: 3197
+-1
+Terrain: 3198
+-1
+Terrain: 3199
+-1
+Terrain: 3200
+-3
+Terrain: 3201
+-3
+Terrain: 3202
+100
+Terrain: 3203
+-3
+Terrain: 3204
+70
+Terrain: 3205
+-1
+Terrain: 3206
+45
+Terrain: 3207
+75
+Terrain: 3208
+61
+Terrain: 3209
+-1
+Terrain: 3210
+-2
+Terrain: 3211
+-3
+Terrain: 3212
+-3
+Terrain: 3213
+84
+Terrain: 3214
+-1
+Terrain: 3215
+-3
+Terrain: 3216
+-1
+Terrain: 3217
+-1
+Terrain: 3218
+-2
+Terrain: 3219
+-3
+Terrain: 3220
+-2
+Terrain: 3221
+79
+Terrain: 3222
+-1
+Terrain: 3223
+-3
+Terrain: 3224
+52
+Terrain: 3225
+-3
+Terrain: 3226
+-1
+Terrain: 3227
+-3
+Terrain: 3228
+-1
+Terrain: 3229
+-2
+Terrain: 3230
+-1
+Terrain: 3231
+61
+Terrain: 3232
+-1
+Terrain: 3233
+52
+Terrain: 3234
+-3
+Terrain: 3235
+-3
+Terrain: 3236
+-3
+Terrain: 3237
+-1
+Terrain: 3238
+45
+Terrain: 3239
+52
+Terrain: 3240
+-2
+Terrain: 3241
+-1
+Terrain: 3242
+68
+Terrain: 3243
+-2
+Terrain: 3244
+-1
+Terrain: 3245
+52
+Terrain: 3246
+45
+Terrain: 3247
+-3
+Terrain: 3248
+-2
+Terrain: 3249
+-1
+Terrain: 3250
+-1
+Terrain: 3251
+-1
+Terrain: 3252
+-1
+Terrain: 3253
+84
+Terrain: 3254
+52
+Terrain: 3255
+45
+Terrain: 3256
+-1
+Terrain: 3257
+-1
+Terrain: 3258
+-3
+Terrain: 3259
+68
+Terrain: 3260
+-1
+Terrain: 3261
+-1
+Terrain: 3262
+-1
+Terrain: 3263
+-1
+Terrain: 3264
+45
+Terrain: 3265
+-3
+Terrain: 3266
+84
+Terrain: 3267
+-2
+Terrain: 3268
+68
+Terrain: 3269
+45
+Terrain: 3270
+-3
+Terrain: 3271
+-3
+Terrain: 3272
+-1
+Terrain: 3273
+-2
+Terrain: 3274
+-3
+Terrain: 3275
+-3
+Terrain: 3276
+-2
+Terrain: 3277
+-2
+Terrain: 3278
+-1
+Terrain: 3279
+75
+Terrain: 3280
+45
+Terrain: 3281
+77
+Terrain: 3282
+84
+Terrain: 3283
+-2
+Terrain: 3284
+-1
+Terrain: 3285
+-3
+Terrain: 3286
+-3
+Terrain: 3287
+-3
+Terrain: 3288
+-1
+Terrain: 3289
+-3
+Terrain: 3290
+-3
+Terrain: 3291
+-2
+Terrain: 3292
+-1
+Terrain: 3293
+-3
+Terrain: 3294
+-3
+Terrain: 3295
+-3
+Terrain: 3296
+45
+Terrain: 3297
+-1
+Terrain: 3298
+-3
+Terrain: 3299
+-3
+Terrain: 3300
+-2
+Terrain: 3301
+45
+Terrain: 3302
+-1
+Terrain: 3303
+70
+Terrain: 3304
+-1
+Terrain: 3305
+-2
+Terrain: 3306
+45
+Terrain: 3307
+91
+Terrain: 3308
+68
+Terrain: 3309
+-1
+Terrain: 3310
+-1
+Terrain: 3311
+-2
+Terrain: 3312
+-3
+Terrain: 3313
+-2
+Terrain: 3314
+-1
+Terrain: 3315
+-3
+Terrain: 3316
+-2
+Terrain: 3317
+-1
+Terrain: 3318
+-2
+Terrain: 3319
+-1
+Terrain: 3320
+-1
+Terrain: 3321
+93
+Terrain: 3322
+-3
+Terrain: 3323
+-1
+Terrain: 3324
+86
+Terrain: 3325
+-1
+Terrain: 3326
+-2
+Terrain: 3327
+-3
+Terrain: 3328
+70
+Terrain: 3329
+-2
+Terrain: 3330
+-1
+Terrain: 3331
+45
+Terrain: 3332
+-1
+Terrain: 3333
+-3
+Terrain: 3334
+-3
+Terrain: 3335
+45
+Terrain: 3336
+-2
+Terrain: 3337
+-3
+Terrain: 3338
+-3
+Terrain: 3339
+75
+Terrain: 3340
+-1
+Terrain: 3341
+86
+Terrain: 3342
+45
+Terrain: 3343
+-1
+Terrain: 3344
+45
+Terrain: 3345
+-1
+Terrain: 3346
+-3
+Terrain: 3347
+-1
+Terrain: 3348
+-3
+Terrain: 3349
+-1
+Terrain: 3350
+-3
+Terrain: 3351
+-1
+Terrain: 3352
+-1
+Terrain: 3353
+77
+Terrain: 3354
+-3
+Terrain: 3355
+61
+Terrain: 3356
+52
+Terrain: 3357
+-2
+Terrain: 3358
+-1
+Terrain: 3359
+-1
+Terrain: 3360
+-1
+Terrain: 3361
+-1
+Terrain: 3362
+75
+Terrain: 3363
+-2
+Terrain: 3364
+79
+Terrain: 3365
+-1
+Terrain: 3366
+-3
+Terrain: 3367
+68
+Terrain: 3368
+-1
+Terrain: 3369
+-3
+Terrain: 3370
+-1
+Terrain: 3371
+-1
+Terrain: 3372
+-3
+Terrain: 3373
+-1
+Terrain: 3374
+-1
+Terrain: 3375
+68
+Terrain: 3376
+-1
+Terrain: 3377
+-1
+Terrain: 3378
+68
+Terrain: 3379
+-3
+Terrain: 3380
+70
+Terrain: 3381
+-1
+Terrain: 3382
+77
+Terrain: 3383
+-1
+Terrain: 3384
+-2
+Terrain: 3385
+-3
+Terrain: 3386
+45
+Terrain: 3387
+-2
+Terrain: 3388
+-3
+Terrain: 3389
+-1
+Terrain: 3390
+-1
+Terrain: 3391
+75
+Terrain: 3392
+-1
+Terrain: 3393
+-1
+Terrain: 3394
+-3
+Terrain: 3395
+45
+Terrain: 3396
+-1
+Terrain: 3397
+-1
+Terrain: 3398
+-1
+Terrain: 3399
+-2
+Terrain: 3400
+68
+Terrain: 3401
+-1
+Terrain: 3402
+-3
+Terrain: 3403
+-1
+Terrain: 3404
+-3
+Terrain: 3405
+77
+Terrain: 3406
+-3
+Terrain: 3407
+-1
+Terrain: 3408
+-1
+Terrain: 3409
+-1
+Terrain: 3410
+-1
+Terrain: 3411
+-3
+Terrain: 3412
+-2
+Terrain: 3413
+45
+Terrain: 3414
+52
+Terrain: 3415
+68
+Terrain: 3416
+-3
+Terrain: 3417
+61
+Terrain: 3418
+-3
+Terrain: 3419
+68
+Terrain: 3420
+68
+Terrain: 3421
+-1
+Terrain: 3422
+45
+Terrain: 3423
+-1
+Terrain: 3424
+-3
+Terrain: 3425
+-1
+Terrain: 3426
+-1
+Terrain: 3427
+-1
+Terrain: 3428
+-2
+Terrain: 3429
+-1
+Terrain: 3430
+-1
+Terrain: 3431
+-3
+Terrain: 3432
+-1
+Terrain: 3433
+-1
+Terrain: 3434
+-1
+Terrain: 3435
+-2
+Terrain: 3436
+-1
+Terrain: 3437
+-2
+Terrain: 3438
+-1
+Terrain: 3439
+68
+Terrain: 3440
+-1
+Terrain: 3441
+-3
+Terrain: 3442
+-1
+Terrain: 3443
+-1
+Terrain: 3444
+45
+Terrain: 3445
+75
+Terrain: 3446
+52
+Terrain: 3447
+-3
+Terrain: 3448
+84
+Terrain: 3449
+-1
+Terrain: 3450
+-1
+Terrain: 3451
+91
+Terrain: 3452
+-1
+Terrain: 3453
+-3
+Terrain: 3454
+68
+Terrain: 3455
+-1
+Terrain: 3456
+-2
+Terrain: 3457
+-1
+Terrain: 3458
+-1
+Terrain: 3459
+68
+Terrain: 3460
+68
+Terrain: 3461
+68
+Terrain: 3462
+-1
+Terrain: 3463
+-1
+Terrain: 3464
+-2
+Terrain: 3465
+-3
+Terrain: 3466
+75
+Terrain: 3467
+-1
+Terrain: 3468
+93
+Terrain: 3469
+84
+Terrain: 3470
+-1
+Terrain: 3471
+-2
+Terrain: 3472
+77
+Terrain: 3473
+52
+Terrain: 3474
+-1
+Terrain: 3475
+-1
+Terrain: 3476
+-1
+Terrain: 3477
+45
+Terrain: 3478
+-2
+Terrain: 3479
+-1
+Terrain: 3480
+-3
+Terrain: 3481
+45
+Terrain: 3482
+91
+Terrain: 3483
+-3
+Terrain: 3484
+-3
+Terrain: 3485
+45
+Terrain: 3486
+93
+Terrain: 3487
+-2
+Terrain: 3488
+-2
+Terrain: 3489
+52
+Terrain: 3490
+-1
+Terrain: 3491
+-2
+Terrain: 3492
+93
+Terrain: 3493
+-1
+Terrain: 3494
+84
+Terrain: 3495
+-1
+Terrain: 3496
+-1
+Terrain: 3497
+-1
+Terrain: 3498
+-2
+Terrain: 3499
+-1
+Terrain: 3500
+52
+Terrain: 3501
+70
+Terrain: 3502
+-2
+Terrain: 3503
+-3
+Terrain: 3504
+68
+Terrain: 3505
+52
+Terrain: 3506
+-2
+Terrain: 3507
+-2
+Terrain: 3508
+-2
+Terrain: 3509
+-2
+Terrain: 3510
+-1
+Terrain: 3511
+-3
+Terrain: 3512
+45
+Terrain: 3513
+-2
+Terrain: 3514
+70
+Terrain: 3515
+-1
+Terrain: 3516
+-1
+Terrain: 3517
+-3
+Terrain: 3518
+-1
+Terrain: 3519
+-1
+Terrain: 3520
+-1
+Terrain: 3521
+-2
+Terrain: 3522
+-2
+Terrain: 3523
+-2
+Terrain: 3524
+-3
+Terrain: 3525
+45
+Terrain: 3526
+68
+Terrain: 3527
+-1
+Terrain: 3528
+-1
+Terrain: 3529
+-1
+Terrain: 3530
+-1
+Terrain: 3531
+45
+Terrain: 3532
+-3
+Terrain: 3533
+68
+Terrain: 3534
+52
+Terrain: 3535
+-3
+Terrain: 3536
+-3
+Terrain: 3537
+-1
+Terrain: 3538
+-1
+Terrain: 3539
+77
+Terrain: 3540
+-3
+Terrain: 3541
+-1
+Terrain: 3542
+-1
+Terrain: 3543
+-1
+Terrain: 3544
+-1
+Terrain: 3545
+-1
+Terrain: 3546
+45
+Terrain: 3547
+-1
+Terrain: 3548
+-1
+Terrain: 3549
+-1
+Terrain: 3550
+-1
+Terrain: 3551
+-1
+Terrain: 3552
+-1
+Terrain: 3553
+61
+Terrain: 3554
+-3
+Terrain: 3555
+93
+Terrain: 3556
+-1
+Terrain: 3557
+-1
+Terrain: 3558
+-1
+Terrain: 3559
+45
+Terrain: 3560
+93
+Terrain: 3561
+100
+Terrain: 3562
+52
+Terrain: 3563
+84
+Terrain: 3564
+-1
+Terrain: 3565
+-1
+Terrain: 3566
+-1
+Terrain: 3567
+-1
+Terrain: 3568
+-1
+Terrain: 3569
+-2
+Terrain: 3570
+-2
+Terrain: 3571
+-2
+Terrain: 3572
+-3
+Terrain: 3573
+-1
+Terrain: 3574
+45
+Terrain: 3575
+-1
+Terrain: 3576
+-1
+Terrain: 3577
+-1
+Terrain: 3578
+-3
+Terrain: 3579
+93
+Terrain: 3580
+52
+Terrain: 3581
+61
+Terrain: 3582
+68
+Terrain: 3583
+84
+Terrain: 3584
+45
+Terrain: 3585
+84
+Terrain: 3586
+75
+Terrain: 3587
+-2
+Terrain: 3588
+-1
+Terrain: 3589
+100
+Terrain: 3590
+77
+Terrain: 3591
+79
+Terrain: 3592
+-2
+Terrain: 3593
+-1
+Terrain: 3594
+-1
+Terrain: 3595
+68
+Terrain: 3596
+-2
+Terrain: 3597
+-3
+Terrain: 3598
+-1
+Terrain: 3599
+-1
+Terrain: 3600
+-1
+Terrain: 3601
+45
+Terrain: 3602
+-2
+Terrain: 3603
+-1
+Terrain: 3604
+-1
+Terrain: 3605
+45
+Terrain: 3606
+-3
+Terrain: 3607
+-2
+Terrain: 3608
+-1
+Terrain: 3609
+-2
+Terrain: 3610
+-1
+Terrain: 3611
+75
+Terrain: 3612
+-3
+Terrain: 3613
+-1
+Terrain: 3614
+-3
+Terrain: 3615
+-2
+Terrain: 3616
+84
+Terrain: 3617
+-3
+Terrain: 3618
+86
+Terrain: 3619
+100
+Terrain: 3620
+-1
+Terrain: 3621
+-1
+Terrain: 3622
+86
+Terrain: 3623
+-1
+Terrain: 3624
+-1
+Terrain: 3625
+-3
+Terrain: 3626
+-1
+Terrain: 3627
+-2
+Terrain: 3628
+45
+Terrain: 3629
+-1
+Terrain: 3630
+-2
+Terrain: 3631
+-2
+Terrain: 3632
+93
+Terrain: 3633
+45
+Terrain: 3634
+-1
+Terrain: 3635
+86
+Terrain: 3636
+-1
+Terrain: 3637
+-2
+Terrain: 3638
+-1
+Terrain: 3639
+-2
+Terrain: 3640
+52
+Terrain: 3641
+-1
+Terrain: 3642
+77
+Terrain: 3643
+-1
+Terrain: 3644
+-2
+Terrain: 3645
+-1
+Terrain: 3646
+75
+Terrain: 3647
+-2
+Terrain: 3648
+-2
+Terrain: 3649
+-1
+Terrain: 3650
+84
+Terrain: 3651
+-3
+Terrain: 3652
+61
+Terrain: 3653
+-1
+Terrain: 3654
+52
+Terrain: 3655
+84
+Terrain: 3656
+-3
+Terrain: 3657
+-3
+Terrain: 3658
+-3
+Terrain: 3659
+45
+Terrain: 3660
+-3
+Terrain: 3661
+77
+Terrain: 3662
+-1
+Terrain: 3663
+-1
+Terrain: 3664
+45
+Terrain: 3665
+-1
+Terrain: 3666
+-1
+Terrain: 3667
+-1
+Terrain: 3668
+-1
+Terrain: 3669
+-3
+Terrain: 3670
+-3
+Terrain: 3671
+-1
+Terrain: 3672
+-1
+Terrain: 3673
+45
+Terrain: 3674
+77
+Terrain: 3675
+-3
+Terrain: 3676
+-1
+Terrain: 3677
+-1
+Terrain: 3678
+-3
+Terrain: 3679
+-1
+Terrain: 3680
+-3
+Terrain: 3681
+-3
+Terrain: 3682
+-1
+Terrain: 3683
+-1
+Terrain: 3684
+45
+Terrain: 3685
+-1
+Terrain: 3686
+-1
+Terrain: 3687
+-1
+Terrain: 3688
+-3
+Terrain: 3689
+-2
+Terrain: 3690
+52
+Terrain: 3691
+61
+Terrain: 3692
+84
+Terrain: 3693
+-3
+Terrain: 3694
+-3
+Terrain: 3695
+-1
+Terrain: 3696
+68
+Terrain: 3697
+-3
+Terrain: 3698
+-1
+Terrain: 3699
+52
+Terrain: 3700
+-2
+Terrain: 3701
+-2
+Terrain: 3702
+-1
+Terrain: 3703
+45
+Terrain: 3704
+-3
+Terrain: 3705
+-2
+Terrain: 3706
+-1
+Terrain: 3707
+-1
+Terrain: 3708
+-1
+Terrain: 3709
+-1
+Terrain: 3710
+-2
+Terrain: 3711
+-1
+Terrain: 3712
+61
+Terrain: 3713
+-2
+Terrain: 3714
+-1
+Terrain: 3715
+-3
+Terrain: 3716
+52
+Terrain: 3717
+95
+Terrain: 3718
+86
+Terrain: 3719
+-3
+Terrain: 3720
+52
+Terrain: 3721
+-1
+Terrain: 3722
+-1
+Terrain: 3723
+-1
+Terrain: 3724
+52
+Terrain: 3725
+-3
+Terrain: 3726
+77
+Terrain: 3727
+-1
+Terrain: 3728
+-3
+Terrain: 3729
+-3
+Terrain: 3730
+-2
+Terrain: 3731
+-2
+Terrain: 3732
+-1
+Terrain: 3733
+68
+Terrain: 3734
+-1
+Terrain: 3735
+100
+Terrain: 3736
+95
+Terrain: 3737
+-1
+Terrain: 3738
+-3
+Terrain: 3739
+75
+Terrain: 3740
+-1
+Terrain: 3741
+-1
+Terrain: 3742
+52
+Terrain: 3743
+45
+Terrain: 3744
+45
+Terrain: 3745
+77
+Terrain: 3746
+-2
+Terrain: 3747
+-3
+Terrain: 3748
+-1
+Terrain: 3749
+-1
+Terrain: 3750
+-1
+Terrain: 3751
+-1
+Terrain: 3752
+-1
+Terrain: 3753
+-2
+Terrain: 3754
+52
+Terrain: 3755
+-1
+Terrain: 3756
+-2
+Terrain: 3757
+-3
+Terrain: 3758
+-3
+Terrain: 3759
+84
+Terrain: 3760
+93
+Terrain: 3761
+45
+Terrain: 3762
+-1
+Terrain: 3763
+61
+Terrain: 3764
+-3
+Terrain: 3765
+-2
+Terrain: 3766
+-1
+Terrain: 3767
+-3
+Terrain: 3768
+-1
+Terrain: 3769
+-2
+Terrain: 3770
+-3
+Terrain: 3771
+-1
+Terrain: 3772
+45
+Terrain: 3773
+-3
+Terrain: 3774
+-2
+Terrain: 3775
+52
+Terrain: 3776
+-1
+Terrain: 3777
+-1
+Terrain: 3778
+-1
+Terrain: 3779
+-1
+Terrain: 3780
+-3
+Terrain: 3781
+-1
+Terrain: 3782
+-1
+Terrain: 3783
+93
+Terrain: 3784
+-3
+Terrain: 3785
+-1
+Terrain: 3786
+-2
+Terrain: 3787
+-2
+Terrain: 3788
+52
+Terrain: 3789
+-1
+Terrain: 3790
+68
+Terrain: 3791
+68
+Terrain: 3792
+-1
+Terrain: 3793
+-1
+Terrain: 3794
+84
+Terrain: 3795
+-2
+Terrain: 3796
+61
+Terrain: 3797
+-3
+Terrain: 3798
+-1
+Terrain: 3799
+-3
+Terrain: 3800
+52
+Terrain: 3801
+-1
+Terrain: 3802
+-2
+Terrain: 3803
+-1
+Terrain: 3804
+-1
+Terrain: 3805
+-1
+Terrain: 3806
+61
+Terrain: 3807
+-1
+Terrain: 3808
+-1
+Terrain: 3809
+-1
+Terrain: 3810
+-1
+Terrain: 3811
+75
+Terrain: 3812
+45
+Terrain: 3813
+-1
+Terrain: 3814
+-1
+Terrain: 3815
+-1
+Terrain: 3816
+84
+Terrain: 3817
+91
+Terrain: 3818
+-1
+Terrain: 3819
+-3
+Terrain: 3820
+77
+Terrain: 3821
+-1
+Terrain: 3822
+77
+Terrain: 3823
+-1
+Terrain: 3824
+-1
+Terrain: 3825
+45
+Terrain: 3826
+-1
+Terrain: 3827
+-2
+Terrain: 3828
+-1
+Terrain: 3829
+-3
+Terrain: 3830
+68
+Terrain: 3831
+-3
+Terrain: 3832
+68
+Terrain: 3833
+-2
+Terrain: 3834
+-1
+Terrain: 3835
+-1
+Terrain: 3836
+-1
+Terrain: 3837
+-2
+Terrain: 3838
+70
+Terrain: 3839
+-3
+Terrain: 3840
+-3
+Terrain: 3841
+-1
+Terrain: 3842
+75
+Terrain: 3843
+-3
+Terrain: 3844
+-1
+Terrain: 3845
+45
+Terrain: 3846
+-1
+Terrain: 3847
+-3
+Terrain: 3848
+-2
+Terrain: 3849
+-2
+Terrain: 3850
+-2
+Terrain: 3851
+45
+Terrain: 3852
+-2
+Terrain: 3853
+-1
+Terrain: 3854
+-1
+Terrain: 3855
+-1
+Terrain: 3856
+-1
+Terrain: 3857
+86
+Terrain: 3858
+-1
+Terrain: 3859
+45
+Terrain: 3860
+75
+Terrain: 3861
+52
+Terrain: 3862
+-1
+Terrain: 3863
+75
+Terrain: 3864
+91
+Terrain: 3865
+-1
+Terrain: 3866
+-2
+Terrain: 3867
+-1
+Terrain: 3868
+68
+Terrain: 3869
+68
+Terrain: 3870
+-2
+Terrain: 3871
+-3
+Terrain: 3872
+-2
+Terrain: 3873
+-1
+Terrain: 3874
+-3
+Terrain: 3875
+-1
+Terrain: 3876
+-3
+Terrain: 3877
+68
+Terrain: 3878
+-1
+Terrain: 3879
+-3
+Terrain: 3880
+-1
+Terrain: 3881
+-1
+Terrain: 3882
+-2
+Terrain: 3883
+-1
+Terrain: 3884
+-1
+Terrain: 3885
+45
+Terrain: 3886
+-1
+Terrain: 3887
+-1
+Terrain: 3888
+75
+Terrain: 3889
+52
+Terrain: 3890
+-1
+Terrain: 3891
+-1
+Terrain: 3892
+-2
+Terrain: 3893
+-2
+Terrain: 3894
+-1
+Terrain: 3895
+-1
+Terrain: 3896
+-2
+Terrain: 3897
+70
+Terrain: 3898
+-3
+Terrain: 3899
+-1
+Terrain: 3900
+86
+Terrain: 3901
+91
+Terrain: 3902
+68
+Terrain: 3903
+-2
+Terrain: 3904
+-2
+Terrain: 3905
+45
+Terrain: 3906
+-3
+Terrain: 3907
+-2
+Terrain: 3908
+-1
+Terrain: 3909
+-2
+Terrain: 3910
+-2
+Terrain: 3911
+-2
+Terrain: 3912
+75
+Terrain: 3913
+-1
+Terrain: 3914
+-1
+Terrain: 3915
+-3
+Terrain: 3916
+-3
+Terrain: 3917
+93
+Terrain: 3918
+-2
+Terrain: 3919
+-3
+Terrain: 3920
+-2
+Terrain: 3921
+-1
+Terrain: 3922
+-2
+Terrain: 3923
+-1
+Terrain: 3924
+-1
+Terrain: 3925
+-1
+Terrain: 3926
+77
+Terrain: 3927
+98
+Terrain: 3928
+-2
+Terrain: 3929
+77
+Terrain: 3930
+75
+Terrain: 3931
+-3
+Terrain: 3932
+-1
+Terrain: 3933
+-3
+Terrain: 3934
+-3
+Terrain: 3935
+-3
+Terrain: 3936
+61
+Terrain: 3937
+-2
+Terrain: 3938
+61
+Terrain: 3939
+-2
+Terrain: 3940
+-1
+Terrain: 3941
+-2
+Terrain: 3942
+-1
+Terrain: 3943
+-3
+Terrain: 3944
+-1
+Terrain: 3945
+-2
+Terrain: 3946
+70
+Terrain: 3947
+77
+Terrain: 3948
+-1
+Terrain: 3949
+45
+Terrain: 3950
+-3
+Terrain: 3951
+-1
+Terrain: 3952
+-1
+Terrain: 3953
+-1
+Terrain: 3954
+-1
+Terrain: 3955
+52
+Terrain: 3956
+93
+Terrain: 3957
+-1
+Terrain: 3958
+-2
+Terrain: 3959
+-3
+Terrain: 3960
+-2
+Terrain: 3961
+-1
+Terrain: 3962
+45
+Terrain: 3963
+-2
+Terrain: 3964
+52
+Terrain: 3965
+-1
+Terrain: 3966
+-1
+Terrain: 3967
+45
+Terrain: 3968
+-1
+Terrain: 3969
+-1
+Terrain: 3970
+93
+Terrain: 3971
+-1
+Terrain: 3972
+93
+Terrain: 3973
+-1
+Terrain: 3974
+45
+Terrain: 3975
+-3
+Terrain: 3976
+-3
+Terrain: 3977
+-1
+Terrain: 3978
+-1
+Terrain: 3979
+-2
+Terrain: 3980
+-3
+Terrain: 3981
+-1
+Terrain: 3982
+-1
+Terrain: 3983
+70
+Terrain: 3984
+-1
+Terrain: 3985
+-1
+Terrain: 3986
+-1
+Terrain: 3987
+-1
+Terrain: 3988
+77
+Terrain: 3989
+-1
+Terrain: 3990
+-1
+Terrain: 3991
+-1
+Terrain: 3992
+-1
+Terrain: 3993
+-2
+Terrain: 3994
+-1
+Terrain: 3995
+-2
+Terrain: 3996
+-2
+Terrain: 3997
+-1
+Terrain: 3998
+-2
+Terrain: 3999
+68
+Terrain: 4000
+-3
+Terrain: 4001
+-1
+Terrain: 4002
+52
+Terrain: 4003
+-1
+Terrain: 4004
+52
+Terrain: 4005
+-2
+Terrain: 4006
+-3
+Terrain: 4007
+91
+Terrain: 4008
+100
+Terrain: 4009
+100
+Terrain: 4010
+-2
+Terrain: 4011
+-1
+Terrain: 4012
+45
+Terrain: 4013
+77
+Terrain: 4014
+68
+Terrain: 4015
+77
+Terrain: 4016
+-1
+Terrain: 4017
+-1
+Terrain: 4018
+-1
+Terrain: 4019
+84
+Terrain: 4020
+-1
+Terrain: 4021
+68
+Terrain: 4022
+93
+Terrain: 4023
+-3
+Terrain: 4024
+-2
+Terrain: 4025
+75
+Terrain: 4026
+-1
+Terrain: 4027
+45
+Terrain: 4028
+-1
+Terrain: 4029
+93
+Terrain: 4030
+-2
+Terrain: 4031
+-1
+Terrain: 4032
+-3
+Terrain: 4033
+-1
+Terrain: 4034
+-2
+Terrain: 4035
+-1
+Terrain: 4036
+-1
+Terrain: 4037
+52
+Terrain: 4038
+-1
+Terrain: 4039
+-1
+Terrain: 4040
+-1
+Terrain: 4041
+-1
+Terrain: 4042
+-1
+Terrain: 4043
+52
+Terrain: 4044
+-1
+Terrain: 4045
+52
+Terrain: 4046
+-1
+Terrain: 4047
+100
+Terrain: 4048
+-2
+Terrain: 4049
+-1
+Terrain: 4050
+-2
+Terrain: 4051
+-1
+Terrain: 4052
+95
+Terrain: 4053
+-1
+Terrain: 4054
+-1
+Terrain: 4055
+75
+Terrain: 4056
+52
+Terrain: 4057
+-3
+Terrain: 4058
+-1
+Terrain: 4059
+52
+Terrain: 4060
+-2
+Terrain: 4061
+-1
+Terrain: 4062
+-3
+Terrain: 4063
+-1
+Terrain: 4064
+-2
+Terrain: 4065
+-1
+Terrain: 4066
+-1
+Terrain: 4067
+-3
+Terrain: 4068
+-2
+Terrain: 4069
+-2
+Terrain: 4070
+-2
+Terrain: 4071
+-1
+Terrain: 4072
+-1
+Terrain: 4073
+52
+Terrain: 4074
+52
+Terrain: 4075
+-1
+Terrain: 4076
+-3
+Terrain: 4077
+-1
+Terrain: 4078
+-3
+Terrain: 4079
+-1
+Terrain: 4080
+77
+Terrain: 4081
+68
+Terrain: 4082
+-3
+Terrain: 4083
+-2
+Terrain: 4084
+93
+Terrain: 4085
+68
+Terrain: 4086
+-1
+Terrain: 4087
+-1
+Terrain: 4088
+79
+Terrain: 4089
+-3
+Terrain: 4090
+45
+Terrain: 4091
+45
+Terrain: 4092
+84
+Terrain: 4093
+-1
+Terrain: 4094
+-1
+Terrain: 4095
+-2
+Terrain: 4096
+-1
+Terrain: 4097
+77
+Terrain: 4098
+-2
+Terrain: 4099
+70
+Terrain: 4100
+-1
+Terrain: 4101
+-2
+Terrain: 4102
+-2
+Terrain: 4103
+-1
+Terrain: 4104
+77
+Terrain: 4105
+52
+Terrain: 4106
+-3
+Terrain: 4107
+68
+Terrain: 4108
+-1
+Terrain: 4109
+-2
+Terrain: 4110
+-1
+Terrain: 4111
+-1
+Terrain: 4112
+-1
+Terrain: 4113
+52
+Terrain: 4114
+45
+Terrain: 4115
+-3
+Terrain: 4116
+-2
+Terrain: 4117
+68
+Terrain: 4118
+68
+Terrain: 4119
+-3
+Terrain: 4120
+-1
+Terrain: 4121
+-2
+Terrain: 4122
+93
+Terrain: 4123
+-3
+Terrain: 4124
+-2
+Terrain: 4125
+52
+Terrain: 4126
+68
+Terrain: 4127
+77
+Terrain: 4128
+77
+Terrain: 4129
+-3
+Terrain: 4130
+-1
+Terrain: 4131
+-1
+Terrain: 4132
+-1
+Terrain: 4133
+-3
+Terrain: 4134
+-2
+Terrain: 4135
+-2
+Terrain: 4136
+93
+Terrain: 4137
+-2
+Terrain: 4138
+-2
+Terrain: 4139
+-3
+Terrain: 4140
+-1
+Terrain: 4141
+-1
+Terrain: 4142
+-1
+Terrain: 4143
+52
+Terrain: 4144
+-3
+Terrain: 4145
+45
+Terrain: 4146
+-3
+Terrain: 4147
+-1
+Terrain: 4148
+70
+Terrain: 4149
+-1
+Terrain: 4150
+52
+Terrain: 4151
+91
+Terrain: 4152
+45
+Terrain: 4153
+-2
+Terrain: 4154
+-2
+Terrain: 4155
+70
+Terrain: 4156
+-1
+Terrain: 4157
+-1
+Terrain: 4158
+45
+Terrain: 4159
+-1
+Terrain: 4160
+-1
+Terrain: 4161
+-1
+Terrain: 4162
+-1
+Terrain: 4163
+61
+Terrain: 4164
+-2
+Terrain: 4165
+-1
+Terrain: 4166
+-3
+Terrain: 4167
+-1
+Terrain: 4168
+-3
+Terrain: 4169
+-1
+Terrain: 4170
+93
+Terrain: 4171
+-1
+Terrain: 4172
+-3
+Terrain: 4173
+-3
+Terrain: 4174
+68
+Terrain: 4175
+-3
+Terrain: 4176
+-1
+Terrain: 4177
+-2
+Terrain: 4178
+68
+Terrain: 4179
+-1
+Terrain: 4180
+-1
+Terrain: 4181
+-1
+Terrain: 4182
+-2
+Terrain: 4183
+45
+Terrain: 4184
+-3
+Terrain: 4185
+86
+Terrain: 4186
+-2
+Terrain: 4187
+77
+Terrain: 4188
+-1
+Terrain: 4189
+-1
+Terrain: 4190
+-2
+Terrain: 4191
+91
+Terrain: 4192
+91
+Terrain: 4193
+-1
+Terrain: 4194
+-1
+Terrain: 4195
+-1
+Terrain: 4196
+-1
+Terrain: 4197
+-3
+Terrain: 4198
+-3
+Terrain: 4199
+75
+Terrain: 4200
+-1
+Terrain: 4201
+-3
+Terrain: 4202
+-1
+Terrain: 4203
+61
+Terrain: 4204
+70
+Terrain: 4205
+-1
+Terrain: 4206
+84
+Terrain: 4207
+-1
+Terrain: 4208
+-3
+Terrain: 4209
+61
+Terrain: 4210
+-1
+Terrain: 4211
+-3
+Terrain: 4212
+-1
+Terrain: 4213
+52
+Terrain: 4214
+-3
+Terrain: 4215
+-1
+Terrain: 4216
+-1
+Terrain: 4217
+-1
+Terrain: 4218
+-3
+Terrain: 4219
+-3
+Terrain: 4220
+-3
+Terrain: 4221
+-1
+Terrain: 4222
+-1
+Terrain: 4223
+95
+Terrain: 4224
+-3
+Terrain: 4225
+-2
+Terrain: 4226
+-1
+Terrain: 4227
+52
+Terrain: 4228
+-1
+Terrain: 4229
+-1
+Terrain: 4230
+-3
+Terrain: 4231
+-2
+Terrain: 4232
+52
+Terrain: 4233
+-1
+Terrain: 4234
+68
+Terrain: 4235
+-1
+Terrain: 4236
+-1
+Terrain: 4237
+-2
+Terrain: 4238
+-1
+Terrain: 4239
+-2
+Terrain: 4240
+-1
+Terrain: 4241
+-3
+Terrain: 4242
+-1
+Terrain: 4243
+-1
+Terrain: 4244
+-1
+Terrain: 4245
+-1
+Terrain: 4246
+-1
+Terrain: 4247
+-1
+Terrain: 4248
+68
+Terrain: 4249
+61
+Terrain: 4250
+-2
+Terrain: 4251
+52
+Terrain: 4252
+68
+Terrain: 4253
+-2
+Terrain: 4254
+-3
+Terrain: 4255
+91
+Terrain: 4256
+-2
+Terrain: 4257
+-1
+Terrain: 4258
+52
+Terrain: 4259
+-2
+Terrain: 4260
+75
+Terrain: 4261
+-3
+Terrain: 4262
+-1
+Terrain: 4263
+52
+Terrain: 4264
+-1
+Terrain: 4265
+-1
+Terrain: 4266
+45
+Terrain: 4267
+-1
+Terrain: 4268
+-1
+Terrain: 4269
+-3
+Terrain: 4270
+75
+Terrain: 4271
+-2
+Terrain: 4272
+-1
+Terrain: 4273
+-1
+Terrain: 4274
+93
+Terrain: 4275
+-1
+Terrain: 4276
+-2
+Terrain: 4277
+-1
+Terrain: 4278
+-1
+Terrain: 4279
+-2
+Terrain: 4280
+-1
+Terrain: 4281
+-3
+Terrain: 4282
+-1
+Terrain: 4283
+-1
+Terrain: 4284
+-3
+Terrain: 4285
+45
+Terrain: 4286
+-1
+Terrain: 4287
+-2
+Terrain: 4288
+-2
+Terrain: 4289
+45
+Terrain: 4290
+68
+Terrain: 4291
+52
+Terrain: 4292
+-1
+Terrain: 4293
+-2
+Terrain: 4294
+-1
+Terrain: 4295
+45
+Terrain: 4296
+-1
+Terrain: 4297
+93
+Terrain: 4298
+-2
+Terrain: 4299
+-1
+Terrain: 4300
+-1
+Terrain: 4301
+-1
+Terrain: 4302
+-2
+Terrain: 4303
+-1
+Terrain: 4304
+-1
+Terrain: 4305
+-1
+Terrain: 4306
+77
+Terrain: 4307
+-1
+Terrain: 4308
+-1
+Terrain: 4309
+84
+Terrain: 4310
+61
+Terrain: 4311
+100
+Terrain: 4312
+52
+Terrain: 4313
+-1
+Terrain: 4314
+-1
+Terrain: 4315
+-1
+Terrain: 4316
+-3
+Terrain: 4317
+-1
+Terrain: 4318
+-1
+Terrain: 4319
+-1
+Terrain: 4320
+-1
+Terrain: 4321
+-1
+Terrain: 4322
+45
+Terrain: 4323
+-1
+Terrain: 4324
+-1
+Terrain: 4325
+-2
+Terrain: 4326
+-1
+Terrain: 4327
+-1
+Terrain: 4328
+-1
+Terrain: 4329
+93
+Terrain: 4330
+93
+Terrain: 4331
+-3
+Terrain: 4332
+-3
+Terrain: 4333
+-1
+Terrain: 4334
+-1
+Terrain: 4335
+-1
+Terrain: 4336
+-1
+Terrain: 4337
+52
+Terrain: 4338
+-1
+Terrain: 4339
+-1
+Terrain: 4340
+-1
+Terrain: 4341
+-1
+Terrain: 4342
+-2
+Terrain: 4343
+45
+Terrain: 4344
+91
+Terrain: 4345
+-2
+Terrain: 4346
+45
+Terrain: 4347
+91
+Terrain: 4348
+91
+Terrain: 4349
+-3
+Terrain: 4350
+-2
+Terrain: 4351
+61
+Terrain: 4352
+-1
+Terrain: 4353
+79
+Terrain: 4354
+-2
+Terrain: 4355
+52
+Terrain: 4356
+91
+Terrain: 4357
+-1
+Terrain: 4358
+-3
+Terrain: 4359
+-1
+Terrain: 4360
+52
+Terrain: 4361
+-3
+Terrain: 4362
+-1
+Terrain: 4363
+-3
+Terrain: 4364
+75
+Terrain: 4365
+-2
+Terrain: 4366
+-2
+Terrain: 4367
+98
+Terrain: 4368
+75
+Terrain: 4369
+86
+Terrain: 4370
+-2
+Terrain: 4371
+-2
+Terrain: 4372
+45
+Terrain: 4373
+-1
+Terrain: 4374
+45
+Terrain: 4375
+-1
+Terrain: 4376
+-1
+Terrain: 4377
+70
+Terrain: 4378
+-2
+Terrain: 4379
+-1
+Terrain: 4380
+-2
+Terrain: 4381
+-3
+Terrain: 4382
+-2
+Terrain: 4383
+-1
+Terrain: 4384
+-1
+Terrain: 4385
+52
+Terrain: 4386
+45
+Terrain: 4387
+-1
+Terrain: 4388
+68
+Terrain: 4389
+-1
+Terrain: 4390
+-2
+Terrain: 4391
+-1
+Terrain: 4392
+-1
+Terrain: 4393
+-3
+Terrain: 4394
+-2
+Terrain: 4395
+75
+Terrain: 4396
+-3
+Terrain: 4397
+61
+Terrain: 4398
+-3
+Terrain: 4399
+52
+Terrain: 4400
+77
+Terrain: 4401
+-3
+Terrain: 4402
+-3
+Terrain: 4403
+-1
+Terrain: 4404
+100
+Terrain: 4405
+-1
+Terrain: 4406
+45
+Terrain: 4407
+-1
+Terrain: 4408
+52
+Terrain: 4409
+52
+Terrain: 4410
+-1
+Terrain: 4411
+-2
+Terrain: 4412
+-2
+Terrain: 4413
+-3
+Terrain: 4414
+-2
+Terrain: 4415
+-1
+Terrain: 4416
+-1
+Terrain: 4417
+-3
+Terrain: 4418
+-2
+Terrain: 4419
+-3
+Terrain: 4420
+-3
+Terrain: 4421
+-2
+Terrain: 4422
+-1
+Terrain: 4423
+-1
+Terrain: 4424
+-3
+Terrain: 4425
+52
+Terrain: 4426
+-3
+Terrain: 4427
+-1
+Terrain: 4428
+-2
+Terrain: 4429
+-3
+Terrain: 4430
+-1
+Terrain: 4431
+-3
+Terrain: 4432
+52
+Terrain: 4433
+-3
+Terrain: 4434
+45
+Terrain: 4435
+-1
+Terrain: 4436
+-1
+Terrain: 4437
+68
+Terrain: 4438
+68
+Terrain: 4439
+84
+Terrain: 4440
+45
+Terrain: 4441
+61
+Terrain: 4442
+-1
+Terrain: 4443
+-2
+Terrain: 4444
+-3
+Terrain: 4445
+-1
+Terrain: 4446
+52
+Terrain: 4447
+52
+Terrain: 4448
+-1
+Terrain: 4449
+-1
+Terrain: 4450
+84
+Terrain: 4451
+-1
+Terrain: 4452
+45
+Terrain: 4453
+75
+Terrain: 4454
+45
+Terrain: 4455
+-1
+Terrain: 4456
+75
+Terrain: 4457
+-2
+Terrain: 4458
+-3
+Terrain: 4459
+45
+Terrain: 4460
+52
+Terrain: 4461
+-1
+Terrain: 4462
+-1
+Terrain: 4463
+-1
+Terrain: 4464
+-2
+Terrain: 4465
+-1
+Terrain: 4466
+-2
+Terrain: 4467
+-1
+Terrain: 4468
+-1
+Terrain: 4469
+-2
+Terrain: 4470
+-1
+Terrain: 4471
+-1
+Terrain: 4472
+-2
+Terrain: 4473
+45
+Terrain: 4474
+79
+Terrain: 4475
+-1
+Terrain: 4476
+-3
+Terrain: 4477
+-1
+Terrain: 4478
+-1
+Terrain: 4479
+-1
+Terrain: 4480
+-3
+Terrain: 4481
+93
+Terrain: 4482
+-1
+Terrain: 4483
+-1
+Terrain: 4484
+-1
+Terrain: 4485
+-3
+Terrain: 4486
+-1
+Terrain: 4487
+-1
+Terrain: 4488
+-3
+Terrain: 4489
+-3
+Terrain: 4490
+-1
+Terrain: 4491
+68
+Terrain: 4492
+45
+Terrain: 4493
+-3
+Terrain: 4494
+98
+Terrain: 4495
+-1
+Terrain: 4496
+-2
+Terrain: 4497
+61
+Terrain: 4498
+-3
+Terrain: 4499
+-1
+Terrain: 4500
+68
+Terrain: 4501
+86
+Terrain: 4502
+45
+Terrain: 4503
+-3
+Terrain: 4504
+45
+Terrain: 4505
+100
+Terrain: 4506
+68
+Terrain: 4507
+-2
+Terrain: 4508
+45
+Terrain: 4509
+-3
+Terrain: 4510
+75
+Terrain: 4511
+-2
+Terrain: 4512
+-1
+Terrain: 4513
+93
+Terrain: 4514
+-1
+Terrain: 4515
+-1
+Terrain: 4516
+52
+Terrain: 4517
+52
+Terrain: 4518
+77
+Terrain: 4519
+52
+Terrain: 4520
+-1
+Terrain: 4521
+-1
+Terrain: 4522
+77
+Terrain: 4523
+77
+Terrain: 4524
+84
+Terrain: 4525
+-2
+Terrain: 4526
+45
+Terrain: 4527
+-1
+Terrain: 4528
+-1
+Terrain: 4529
+-1
+Terrain: 4530
+52
+Terrain: 4531
+45
+Terrain: 4532
+-3
+Terrain: 4533
+-2
+Terrain: 4534
+-2
+Terrain: 4535
+-1
+Terrain: 4536
+-1
+Terrain: 4537
+-3
+Terrain: 4538
+77
+Terrain: 4539
+-1
+Terrain: 4540
+86
+Terrain: 4541
+-1
+Terrain: 4542
+68
+Terrain: 4543
+-3
+Terrain: 4544
+-1
+Terrain: 4545
+84
+Terrain: 4546
+-2
+Terrain: 4547
+77
+Terrain: 4548
+-2
+Terrain: 4549
+-3
+Terrain: 4550
+61
+Terrain: 4551
+84
+Terrain: 4552
+45
+Terrain: 4553
+52
+Terrain: 4554
+-1
+Terrain: 4555
+-1
+Terrain: 4556
+52
+Terrain: 4557
+-1
+Terrain: 4558
+86
+Terrain: 4559
+-3
+Terrain: 4560
+-3
+Terrain: 4561
+70
+Terrain: 4562
+-3
+Terrain: 4563
+-1
+Terrain: 4564
+-1
+Terrain: 4565
+-1
+Terrain: 4566
+-2
+Terrain: 4567
+-1
+Terrain: 4568
+-2
+Terrain: 4569
+45
+Terrain: 4570
+-1
+Terrain: 4571
+-1
+Terrain: 4572
+93
+Terrain: 4573
+52
+Terrain: 4574
+-1
+Terrain: 4575
+-3
+Terrain: 4576
+-1
+Terrain: 4577
+-2
+Terrain: 4578
+-1
+Terrain: 4579
+-1
+Terrain: 4580
+45
+Terrain: 4581
+-1
+Terrain: 4582
+-3
+Terrain: 4583
+68
+Terrain: 4584
+-3
+Terrain: 4585
+-1
+Terrain: 4586
+-1
+Terrain: 4587
+93
+Terrain: 4588
+-1
+Terrain: 4589
+45
+Terrain: 4590
+-1
+Terrain: 4591
+-2
+Terrain: 4592
+-1
+Terrain: 4593
+61
+Terrain: 4594
+-1
+Terrain: 4595
+-2
+Terrain: 4596
+68
+Terrain: 4597
+-2
+Terrain: 4598
+68
+Terrain: 4599
+-1
+Terrain: 4600
+-1
+Terrain: 4601
+-3
+Terrain: 4602
+68
+Terrain: 4603
+-2
+Terrain: 4604
+-1
+Terrain: 4605
+52
+Terrain: 4606
+-3
+Terrain: 4607
+52
+Terrain: 4608
+-3
+Terrain: 4609
+-1
+Terrain: 4610
+-1
+Terrain: 4611
+-1
+Terrain: 4612
+-1
+Terrain: 4613
+-3
+Terrain: 4614
+-2
+Terrain: 4615
+-1
+Terrain: 4616
+-1
+Terrain: 4617
+-3
+Terrain: 4618
+-1
+Terrain: 4619
+-2
+Terrain: 4620
+-1
+Terrain: 4621
+-1
+Terrain: 4622
+68
+Terrain: 4623
+-1
+Terrain: 4624
+-2
+Terrain: 4625
+-1
+Terrain: 4626
+-1
+Terrain: 4627
+100
+Terrain: 4628
+-1
+Terrain: 4629
+-2
+Terrain: 4630
+-3
+Terrain: 4631
+-1
+Terrain: 4632
+45
+Terrain: 4633
+86
+Terrain: 4634
+-3
+Terrain: 4635
+52
+Terrain: 4636
+-1
+Terrain: 4637
+-2
+Terrain: 4638
+-1
+Terrain: 4639
+-2
+Terrain: 4640
+68
+Terrain: 4641
+-1
+Terrain: 4642
+-3
+Terrain: 4643
+-2
+Terrain: 4644
+-1
+Terrain: 4645
+61
+Terrain: 4646
+-1
+Terrain: 4647
+-1
+Terrain: 4648
+52
+Terrain: 4649
+-2
+Terrain: 4650
+-2
+Terrain: 4651
+-1
+Terrain: 4652
+-1
+Terrain: 4653
+93
+Terrain: 4654
+45
+Terrain: 4655
+-1
+Terrain: 4656
+-1
+Terrain: 4657
+-3
+Terrain: 4658
+-1
+Terrain: 4659
+68
+Terrain: 4660
+-2
+Terrain: 4661
+-1
+Terrain: 4662
+91
+Terrain: 4663
+-2
+Terrain: 4664
+61
+Terrain: 4665
+-1
+Terrain: 4666
+68
+Terrain: 4667
+-2
+Terrain: 4668
+-3
+Terrain: 4669
+45
+Terrain: 4670
+-3
+Terrain: 4671
+-2
+Terrain: 4672
+91
+Terrain: 4673
+-1
+Terrain: 4674
+-3
+Terrain: 4675
+68
+Terrain: 4676
+45
+Terrain: 4677
+45
+Terrain: 4678
+-2
+Terrain: 4679
+-3
+Terrain: 4680
+68
+Terrain: 4681
+-2
+Terrain: 4682
+91
+Terrain: 4683
+-1
+Terrain: 4684
+-1
+Terrain: 4685
+77
+Terrain: 4686
+-1
+Terrain: 4687
+93
+Terrain: 4688
+-1
+Terrain: 4689
+-3
+Terrain: 4690
+-1
+Terrain: 4691
+52
+Terrain: 4692
+-3
+Terrain: 4693
+-3
+Terrain: 4694
+-3
+Terrain: 4695
+68
+Terrain: 4696
+-1
+Terrain: 4697
+52
+Terrain: 4698
+-1
+Terrain: 4699
+77
+Terrain: 4700
+-3
+Terrain: 4701
+-1
+Terrain: 4702
+-1
+Terrain: 4703
+-1
+Terrain: 4704
+-3
+Terrain: 4705
+93
+Terrain: 4706
+-1
+Terrain: 4707
+-1
+Terrain: 4708
+77
+Terrain: 4709
+-1
+Terrain: 4710
+-2
+Terrain: 4711
+-3
+Terrain: 4712
+-3
+Terrain: 4713
+84
+Terrain: 4714
+84
+Terrain: 4715
+-1
+Terrain: 4716
+93
+Terrain: 4717
+-1
+Terrain: 4718
+77
+Terrain: 4719
+-1
+Terrain: 4720
+-1
+Terrain: 4721
+84
+Terrain: 4722
+-3
+Terrain: 4723
+-1
+Terrain: 4724
+-3
+Terrain: 4725
+-1
+Terrain: 4726
+-1
+Terrain: 4727
+-2
+Terrain: 4728
+-1
+Terrain: 4729
+-1
+Terrain: 4730
+-1
+Terrain: 4731
+-3
+Terrain: 4732
+52
+Terrain: 4733
+100
+Terrain: 4734
+-1
+Terrain: 4735
+-2
+Terrain: 4736
+-3
+Terrain: 4737
+-3
+Terrain: 4738
+52
+Terrain: 4739
+-3
+Terrain: 4740
+91
+Terrain: 4741
+-1
+Terrain: 4742
+86
+Terrain: 4743
+-2
+Terrain: 4744
+-1
+Terrain: 4745
+-1
+Terrain: 4746
+45
+Terrain: 4747
+-1
+Terrain: 4748
+-1
+Terrain: 4749
+-1
+Terrain: 4750
+-2
+Terrain: 4751
+-3
+Terrain: 4752
+-1
+Terrain: 4753
+-1
+Terrain: 4754
+-1
+Terrain: 4755
+45
+Terrain: 4756
+-2
+Terrain: 4757
+-1
+Terrain: 4758
+-1
+Terrain: 4759
+91
+Terrain: 4760
+-1
+Terrain: 4761
+-2
+Terrain: 4762
+-1
+Terrain: 4763
+-1
+Terrain: 4764
+-1
+Terrain: 4765
+-2
+Terrain: 4766
+-1
+Terrain: 4767
+61
+Terrain: 4768
+52
+Terrain: 4769
+45
+Terrain: 4770
+-3
+Terrain: 4771
+93
+Terrain: 4772
+77
+Terrain: 4773
+-3
+Terrain: 4774
+-2
+Terrain: 4775
+-1
+Terrain: 4776
+61
+Terrain: 4777
+-2
+Terrain: 4778
+-1
+Terrain: 4779
+-3
+Terrain: 4780
+-1
+Terrain: 4781
+52
+Terrain: 4782
+45
+Terrain: 4783
+-2
+Terrain: 4784
+-1
+Terrain: 4785
+-1
+Terrain: 4786
+-2
+Terrain: 4787
+-1
+Terrain: 4788
+-1
+Terrain: 4789
+77
+Terrain: 4790
+-3
+Terrain: 4791
+-1
+Terrain: 4792
+45
+Terrain: 4793
+45
+Terrain: 4794
+-1
+Terrain: 4795
+75
+Terrain: 4796
+52
+Terrain: 4797
+-3
+Terrain: 4798
+-3
+Terrain: 4799
+86
+Terrain: 4800
+-1
+Terrain: 4801
+75
+Terrain: 4802
+-1
+Terrain: 4803
+86
+Terrain: 4804
+52
+Terrain: 4805
+-1
+Terrain: 4806
+-1
+Terrain: 4807
+84
+Terrain: 4808
+-2
+Terrain: 4809
+-2
+Terrain: 4810
+-2
+Terrain: 4811
+-1
+Terrain: 4812
+68
+Terrain: 4813
+-1
+Terrain: 4814
+100
+Terrain: 4815
+-1
+Terrain: 4816
+61
+Terrain: 4817
+61
+Terrain: 4818
+-1
+Terrain: 4819
+84
+Terrain: 4820
+68
+Terrain: 4821
+-2
+Terrain: 4822
+-2
+Terrain: 4823
+-3
+Terrain: 4824
+-1
+Terrain: 4825
+-1
+Terrain: 4826
+-1
+Terrain: 4827
+-1
+Terrain: 4828
+-1
+Terrain: 4829
+84
+Terrain: 4830
+-1
+Terrain: 4831
+-1
+Terrain: 4832
+52
+Terrain: 4833
+-1
+Terrain: 4834
+-1
+Terrain: 4835
+-2
+Terrain: 4836
+-2
+Terrain: 4837
+-2
+Terrain: 4838
+-1
+Terrain: 4839
+75
+Terrain: 4840
+-1
+Terrain: 4841
+-1
+Terrain: 4842
+-1
+Terrain: 4843
+52
+Terrain: 4844
+84
+Terrain: 4845
+52
+Terrain: 4846
+-1
+Terrain: 4847
+68
+Terrain: 4848
+-2
+Terrain: 4849
+-3
+Terrain: 4850
+61
+Terrain: 4851
+-3
+Terrain: 4852
+-2
+Terrain: 4853
+-1
+Terrain: 4854
+-1
+Terrain: 4855
+-1
+Terrain: 4856
+-3
+Terrain: 4857
+-3
+Terrain: 4858
+-1
+Terrain: 4859
+-3
+Terrain: 4860
+45
+Terrain: 4861
+-1
+Terrain: 4862
+-1
+Terrain: 4863
+-1
+Terrain: 4864
+-2
+Terrain: 4865
+52
+Terrain: 4866
+75
+Terrain: 4867
+-1
+Terrain: 4868
+77
+Terrain: 4869
+-3
+Terrain: 4870
+-3
+Terrain: 4871
+95
+Terrain: 4872
+-1
+Terrain: 4873
+-1
+Terrain: 4874
+-2
+Terrain: 4875
+-1
+Terrain: 4876
+70
+Terrain: 4877
+-2
+Terrain: 4878
+98
+Terrain: 4879
+-1
+Terrain: 4880
+-1
+Terrain: 4881
+-2
+Terrain: 4882
+-2
+Terrain: 4883
+45
+Terrain: 4884
+-1
+Terrain: 4885
+-1
+Terrain: 4886
+45
+Terrain: 4887
+-3
+Terrain: 4888
+-1
+Terrain: 4889
+-3
+Terrain: 4890
+-2
+Terrain: 4891
+-1
+Terrain: 4892
+-1
+Terrain: 4893
+-2
+Terrain: 4894
+52
+Terrain: 4895
+-3
+Terrain: 4896
+-1
+Terrain: 4897
+-3
+Terrain: 4898
+-3
+Terrain: 4899
+-1
+Terrain: 4900
+84
+Terrain: 4901
+45
+Terrain: 4902
+75
+Terrain: 4903
+-2
+Terrain: 4904
+-2
+Terrain: 4905
+45
+Terrain: 4906
+-1
+Terrain: 4907
+45
+Terrain: 4908
+93
+Terrain: 4909
+-1
+Terrain: 4910
+-2
+Terrain: 4911
+-1
+Terrain: 4912
+-1
+Terrain: 4913
+45
+Terrain: 4914
+-1
+Terrain: 4915
+45
+Terrain: 4916
+-2
+Terrain: 4917
+77
+Terrain: 4918
+52
+Terrain: 4919
+-2
+Terrain: 4920
+-1
+Terrain: 4921
+77
+Terrain: 4922
+68
+Terrain: 4923
+-2
+Terrain: 4924
+-2
+Terrain: 4925
+-3
+Terrain: 4926
+45
+Terrain: 4927
+45
+Terrain: 4928
+-1
+Terrain: 4929
+-1
+Terrain: 4930
+-1
+Terrain: 4931
+-3
+Terrain: 4932
+-1
+Terrain: 4933
+-3
+Terrain: 4934
+68
+Terrain: 4935
+-1
+Terrain: 4936
+45
+Terrain: 4937
+-1
+Terrain: 4938
+-1
+Terrain: 4939
+-1
+Terrain: 4940
+-3
+Terrain: 4941
+-1
+Terrain: 4942
+91
+Terrain: 4943
+-1
+Terrain: 4944
+-2
+Terrain: 4945
+-3
+Terrain: 4946
+-1
+Terrain: 4947
+-1
+Terrain: 4948
+-1
+Terrain: 4949
+-1
+Terrain: 4950
+-1
+Terrain: 4951
+75
+Terrain: 4952
+45
+Terrain: 4953
+-3
+Terrain: 4954
+-1
+Terrain: 4955
+-1
+Terrain: 4956
+-3
+Terrain: 4957
+-1
+Terrain: 4958
+-1
+Terrain: 4959
+45
+Terrain: 4960
+75
+Terrain: 4961
+45
+Terrain: 4962
+-1
+Terrain: 4963
+-1
+Terrain: 4964
+-1
+Terrain: 4965
+-1
+Terrain: 4966
+-3
+Terrain: 4967
+86
+Terrain: 4968
+-2
+Terrain: 4969
+52
+Terrain: 4970
+-3
+Terrain: 4971
+-2
+Terrain: 4972
+91
+Terrain: 4973
+68
+Terrain: 4974
+-3
+Terrain: 4975
+-1
+Terrain: 4976
+-2
+Terrain: 4977
+-1
+Terrain: 4978
+-1
+Terrain: 4979
+-1
+Terrain: 4980
+70
+Terrain: 4981
+-3
+Terrain: 4982
+-1
+Terrain: 4983
+-3
+Terrain: 4984
+52
+Terrain: 4985
+-2
+Terrain: 4986
+-1
+Terrain: 4987
+61
+Terrain: 4988
+-2
+Terrain: 4989
+-1
+Terrain: 4990
+52
+Terrain: 4991
+-2
+Terrain: 4992
+-3
+Terrain: 4993
+-1
+Terrain: 4994
+-2
+Terrain: 4995
+-2
+Terrain: 4996
+-1
+Terrain: 4997
+52
+Terrain: 4998
+-1
+Terrain: 4999
+-1
+Terrain: 5000
+-2
+Terrain: 5001
+-1
+Terrain: 5002
+-3
+Terrain: 5003
+-1
+Terrain: 5004
+-1
+Terrain: 5005
+68
+Terrain: 5006
+-2
+Terrain: 5007
+-3
+Terrain: 5008
+-2
+Terrain: 5009
+-1
+Terrain: 5010
+-2
+Terrain: 5011
+45
+Terrain: 5012
+-2
+Terrain: 5013
+-2
+Terrain: 5014
+-3
+Terrain: 5015
+-1
+Terrain: 5016
+-2
+Terrain: 5017
+-1
+Terrain: 5018
+61
+Terrain: 5019
+-1
+Terrain: 5020
+52
+Terrain: 5021
+-1
+Terrain: 5022
+-2
+Terrain: 5023
+-2
+Terrain: 5024
+-3
+Terrain: 5025
+68
+Terrain: 5026
+-2
+Terrain: 5027
+-2
+Terrain: 5028
+-1
+Terrain: 5029
+-2
+Terrain: 5030
+-3
+Terrain: 5031
+75
+Terrain: 5032
+-1
+Terrain: 5033
+-1
+Terrain: 5034
+-1
+Terrain: 5035
+-1
+Terrain: 5036
+-3
+Terrain: 5037
+-1
+Terrain: 5038
+-2
+Terrain: 5039
+-3
+Terrain: 5040
+-1
+Terrain: 5041
+52
+Terrain: 5042
+-1
+Terrain: 5043
+-1
+Terrain: 5044
+-2
+Terrain: 5045
+-1
+Terrain: 5046
+68
+Terrain: 5047
+-1
+Terrain: 5048
+68
+Terrain: 5049
+70
+Terrain: 5050
+-1
+Terrain: 5051
+-3
+Terrain: 5052
+-2
+Terrain: 5053
+75
+Terrain: 5054
+-1
+Terrain: 5055
+-3
+Terrain: 5056
+84
+Terrain: 5057
+84
+Terrain: 5058
+-3
+Terrain: 5059
+-1
+Terrain: 5060
+-1
+Terrain: 5061
+86
+Terrain: 5062
+-3
+Terrain: 5063
+-1
+Terrain: 5064
+-1
+Terrain: 5065
+-1
+Terrain: 5066
+70
+Terrain: 5067
+-3
+Terrain: 5068
+-1
+Terrain: 5069
+-3
+Terrain: 5070
+-2
+Terrain: 5071
+70
+Terrain: 5072
+-3
+Terrain: 5073
+-2
+Terrain: 5074
+-1
+Terrain: 5075
+-3
+Terrain: 5076
+-2
+Terrain: 5077
+-1
+Terrain: 5078
+-2
+Terrain: 5079
+-3
+Terrain: 5080
+52
+Terrain: 5081
+-3
+Terrain: 5082
+-3
+Terrain: 5083
+-1
+Terrain: 5084
+-2
+Terrain: 5085
+52
+Terrain: 5086
+-2
+Terrain: 5087
+91
+Terrain: 5088
+68
+Terrain: 5089
+45
+Terrain: 5090
+-3
+Terrain: 5091
+-1
+Terrain: 5092
+-3
+Terrain: 5093
+-3
+Terrain: 5094
+-1
+Terrain: 5095
+-1
+Terrain: 5096
+-1
+Terrain: 5097
+45
+Terrain: 5098
+-3
+Terrain: 5099
+-1
+Terrain: 5100
+-1
+Terrain: 5101
+-3
+Terrain: 5102
+-1
+Terrain: 5103
+-1
+Terrain: 5104
+-2
+Terrain: 5105
+-1
+Terrain: 5106
+45
+Terrain: 5107
+68
+Terrain: 5108
+-1
+Terrain: 5109
+-1
+Terrain: 5110
+-1
+Terrain: 5111
+45
+Terrain: 5112
+-3
+Terrain: 5113
+-3
+Terrain: 5114
+-3
+Terrain: 5115
+-2
+Terrain: 5116
+-1
+Terrain: 5117
+-1
+Terrain: 5118
+-1
+Terrain: 5119
+45
+Terrain: 5120
+61
+Terrain: 5121
+93
+Terrain: 5122
+-2
+Terrain: 5123
+52
+Terrain: 5124
+-3
+Terrain: 5125
+-2
+Terrain: 5126
+-3
+Terrain: 5127
+-3
+Terrain: 5128
+68
+Terrain: 5129
+-1
+Terrain: 5130
+-3
+Terrain: 5131
+-3
+Terrain: 5132
+-1
+Terrain: 5133
+-3
+Terrain: 5134
+68
+Terrain: 5135
+91
+Terrain: 5136
+45
+Terrain: 5137
+68
+Terrain: 5138
+-1
+Terrain: 5139
+45
+Terrain: 5140
+68
+Terrain: 5141
+-1
+Terrain: 5142
+-1
+Terrain: 5143
+-2
+Terrain: 5144
+68
+Terrain: 5145
+68
+Terrain: 5146
+-2
+Terrain: 5147
+-2
+Terrain: 5148
+-1
+Terrain: 5149
+-1
+Terrain: 5150
+-1
+Terrain: 5151
+-1
+Terrain: 5152
+-1
+Terrain: 5153
+-2
+Terrain: 5154
+-1
+Terrain: 5155
+-1
+Terrain: 5156
+-2
+Terrain: 5157
+-2
+Terrain: 5158
+-1
+Terrain: 5159
+45
+Terrain: 5160
+-1
+Terrain: 5161
+-1
+Terrain: 5162
+-1
+Terrain: 5163
+-3
+Terrain: 5164
+-2
+Terrain: 5165
+-1
+Terrain: 5166
+-1
+Terrain: 5167
+45
+Terrain: 5168
+-1
+Terrain: 5169
+-1
+Terrain: 5170
+68
+Terrain: 5171
+68
+Terrain: 5172
+-1
+Terrain: 5173
+91
+Terrain: 5174
+-2
+Terrain: 5175
+-1
+Terrain: 5176
+52
+Terrain: 5177
+-1
+Terrain: 5178
+-1
+Terrain: 5179
+-3
+Terrain: 5180
+-2
+Terrain: 5181
+-2
+Terrain: 5182
+-1
+Terrain: 5183
+-1
+Terrain: 5184
+-3
+Terrain: 5185
+-3
+Terrain: 5186
+68
+Terrain: 5187
+70
+Terrain: 5188
+-2
+Terrain: 5189
+84
+Terrain: 5190
+75
+Terrain: 5191
+-3
+Terrain: 5192
+-2
+Terrain: 5193
+-1
+Terrain: 5194
+-2
+Terrain: 5195
+-3
+Terrain: 5196
+-1
+Terrain: 5197
+68
+Terrain: 5198
+-2
+Terrain: 5199
+-3
+Terrain: 5200
+-1
+Terrain: 5201
+-1
+Terrain: 5202
+-2
+Terrain: 5203
+52
+Terrain: 5204
+-3
+Terrain: 5205
+45
+Terrain: 5206
+-1
+Terrain: 5207
+-1
+Terrain: 5208
+-3
+Terrain: 5209
+-2
+Terrain: 5210
+-1
+Terrain: 5211
+84
+Terrain: 5212
+-1
+Terrain: 5213
+45
+Terrain: 5214
+-1
+Terrain: 5215
+68
+Terrain: 5216
+-3
+Terrain: 5217
+-1
+Terrain: 5218
+-3
+Terrain: 5219
+-2
+Terrain: 5220
+-1
+Terrain: 5221
+52
+Terrain: 5222
+-1
+Terrain: 5223
+-3
+Terrain: 5224
+45
+Terrain: 5225
+-3
+Terrain: 5226
+70
+Terrain: 5227
+-1
+Terrain: 5228
+-1
+Terrain: 5229
+-1
+Terrain: 5230
+-1
+Terrain: 5231
+-2
+Terrain: 5232
+84
+Terrain: 5233
+-1
+Terrain: 5234
+93
+Terrain: 5235
+-3
+Terrain: 5236
+45
+Terrain: 5237
+-3
+Terrain: 5238
+-3
+Terrain: 5239
+52
+Terrain: 5240
+-2
+Terrain: 5241
+-1
+Terrain: 5242
+-2
+Terrain: 5243
+-1
+Terrain: 5244
+-3
+Terrain: 5245
+-1
+Terrain: 5246
+91
+Terrain: 5247
+-2
+Terrain: 5248
+-1
+Terrain: 5249
+-1
+Terrain: 5250
+-3
+Terrain: 5251
+68
+Terrain: 5252
+93
+Terrain: 5253
+-1
+Terrain: 5254
+61
+Terrain: 5255
+-1
+Terrain: 5256
+-2
+Terrain: 5257
+-3
+Terrain: 5258
+-1
+Terrain: 5259
+-1
+Terrain: 5260
+-1
+Terrain: 5261
+75
+Terrain: 5262
+-1
+Terrain: 5263
+-1
+Terrain: 5264
+-3
+Terrain: 5265
+-2
+Terrain: 5266
+-1
+Terrain: 5267
+-2
+Terrain: 5268
+45
+Terrain: 5269
+-2
+Terrain: 5270
+-2
+Terrain: 5271
+-1
+Terrain: 5272
+45
+Terrain: 5273
+100
+Terrain: 5274
+-3
+Terrain: 5275
+45
+Terrain: 5276
+61
+Terrain: 5277
+-2
+Terrain: 5278
+-3
+Terrain: 5279
+-3
+Terrain: 5280
+-1
+Terrain: 5281
+68
+Terrain: 5282
+-1
+Terrain: 5283
+68
+Terrain: 5284
+75
+Terrain: 5285
+-1
+Terrain: 5286
+-1
+Terrain: 5287
+-3
+Terrain: 5288
+-1
+Terrain: 5289
+-1
+Terrain: 5290
+-3
+Terrain: 5291
+-2
+Terrain: 5292
+61
+Terrain: 5293
+-2
+Terrain: 5294
+-2
+Terrain: 5295
+77
+Terrain: 5296
+-3
+Terrain: 5297
+75
+Terrain: 5298
+-2
+Terrain: 5299
+-3
+Terrain: 5300
+-1
+Terrain: 5301
+-1
+Terrain: 5302
+-3
+Terrain: 5303
+-2
+Terrain: 5304
+75
+Terrain: 5305
+-3
+Terrain: 5306
+-1
+Terrain: 5307
+-3
+Terrain: 5308
+-2
+Terrain: 5309
+61
+Terrain: 5310
+-3
+Terrain: 5311
+-2
+Terrain: 5312
+-1
+Terrain: 5313
+52
+Terrain: 5314
+-1
+Terrain: 5315
+-2
+Terrain: 5316
+-1
+Terrain: 5317
+-1
+Terrain: 5318
+84
+Terrain: 5319
+-3
+Terrain: 5320
+-1
+Terrain: 5321
+-1
+Terrain: 5322
+-1
+Terrain: 5323
+45
+Terrain: 5324
+52
+Terrain: 5325
+-1
+Terrain: 5326
+-1
+Terrain: 5327
+-3
+Terrain: 5328
+45
+Terrain: 5329
+-1
+Terrain: 5330
+-2
+Terrain: 5331
+-1
+Terrain: 5332
+-2
+Terrain: 5333
+86
+Terrain: 5334
+86
+Terrain: 5335
+-1
+Terrain: 5336
+-1
+Terrain: 5337
+45
+Terrain: 5338
+-3
+Terrain: 5339
+-2
+Terrain: 5340
+-2
+Terrain: 5341
+98
+Terrain: 5342
+68
+Terrain: 5343
+-3
+Terrain: 5344
+-1
+Terrain: 5345
+-3
+Terrain: 5346
+75
+Terrain: 5347
+-1
+Terrain: 5348
+77
+Terrain: 5349
+-2
+Terrain: 5350
+45
+Terrain: 5351
+-3
+Terrain: 5352
+-2
+Terrain: 5353
+-1
+Terrain: 5354
+-3
+Terrain: 5355
+68
+Terrain: 5356
+-2
+Terrain: 5357
+68
+Terrain: 5358
+75
+Terrain: 5359
+-1
+Terrain: 5360
+61
+Terrain: 5361
+-1
+Terrain: 5362
+-1
+Terrain: 5363
+52
+Terrain: 5364
+-1
+Terrain: 5365
+91
+Terrain: 5366
+-3
+Terrain: 5367
+-1
+Terrain: 5368
+91
+Terrain: 5369
+-1
+Terrain: 5370
+-2
+Terrain: 5371
+-3
+Terrain: 5372
+-2
+Terrain: 5373
+61
+Terrain: 5374
+52
+Terrain: 5375
+86
+Terrain: 5376
+-2
+Terrain: 5377
+-1
+Terrain: 5378
+-1
+Terrain: 5379
+-1
+Terrain: 5380
+-1
+Terrain: 5381
+52
+Terrain: 5382
+-1
+Terrain: 5383
+-1
+Terrain: 5384
+45
+Terrain: 5385
+-1
+Terrain: 5386
+-3
+Terrain: 5387
+-1
+Terrain: 5388
+61
+Terrain: 5389
+45
+Terrain: 5390
+-1
+Terrain: 5391
+45
+Terrain: 5392
+-1
+Terrain: 5393
+-3
+Terrain: 5394
+-2
+Terrain: 5395
+-1
+Terrain: 5396
+-1
+Terrain: 5397
+-3
+Terrain: 5398
+-3
+Terrain: 5399
+-1
+Terrain: 5400
+-1
+Terrain: 5401
+45
+Terrain: 5402
+-2
+Terrain: 5403
+93
+Terrain: 5404
+-1
+Terrain: 5405
+70
+Terrain: 5406
+-2
+Terrain: 5407
+61
+Terrain: 5408
+-2
+Terrain: 5409
+-3
+Terrain: 5410
+-2
+Terrain: 5411
+-1
+Terrain: 5412
+-2
+Terrain: 5413
+-3
+Terrain: 5414
+68
+Terrain: 5415
+45
+Terrain: 5416
+79
+Terrain: 5417
+-1
+Terrain: 5418
+-1
+Terrain: 5419
+-1
+Terrain: 5420
+-2
+Terrain: 5421
+-3
+Terrain: 5422
+-1
+Terrain: 5423
+-2
+Terrain: 5424
+-1
+Terrain: 5425
+-3
+Terrain: 5426
+-2
+Terrain: 5427
+-3
+Terrain: 5428
+-1
+Terrain: 5429
+-1
+Terrain: 5430
+-2
+Terrain: 5431
+61
+Terrain: 5432
+100
+Terrain: 5433
+68
+Terrain: 5434
+-1
+Terrain: 5435
+75
+Terrain: 5436
+-2
+Terrain: 5437
+-1
+Terrain: 5438
+-1
+Terrain: 5439
+-1
+Terrain: 5440
+-3
+Terrain: 5441
+-1
+Terrain: 5442
+-3
+Terrain: 5443
+-3
+Terrain: 5444
+-1
+Terrain: 5445
+84
+Terrain: 5446
+45
+Terrain: 5447
+-3
+Terrain: 5448
+-2
+Terrain: 5449
+-1
+Terrain: 5450
+-3
+Terrain: 5451
+-1
+Terrain: 5452
+52
+Terrain: 5453
+-1
+Terrain: 5454
+-1
+Terrain: 5455
+52
+Terrain: 5456
+-3
+Terrain: 5457
+68
+Terrain: 5458
+45
+Terrain: 5459
+-2
+Terrain: 5460
+-1
+Terrain: 5461
+-1
+Terrain: 5462
+-1
+Terrain: 5463
+-3
+Terrain: 5464
+52
+Terrain: 5465
+-1
+Terrain: 5466
+-2
+Terrain: 5467
+-2
+Terrain: 5468
+84
+Terrain: 5469
+52
+Terrain: 5470
+45
+Terrain: 5471
+-1
+Terrain: 5472
+-2
+Terrain: 5473
+45
+Terrain: 5474
+-3
+Terrain: 5475
+-1
+Terrain: 5476
+98
+Terrain: 5477
+-1
+Terrain: 5478
+75
+Terrain: 5479
+-1
+Terrain: 5480
+-1
+Terrain: 5481
+-1
+Terrain: 5482
+-2
+Terrain: 5483
+-2
+Terrain: 5484
+75
+Terrain: 5485
+-1
+Terrain: 5486
+-2
+Terrain: 5487
+-1
+Terrain: 5488
+100
+Terrain: 5489
+-1
+Terrain: 5490
+-3
+Terrain: 5491
+-2
+Terrain: 5492
+-3
+Terrain: 5493
+-1
+Terrain: 5494
+-1
+Terrain: 5495
+45
+Terrain: 5496
+-1
+Terrain: 5497
+-1
+Terrain: 5498
+-1
+Terrain: 5499
+-2
+Terrain: 5500
+-1
+Terrain: 5501
+-3
+Terrain: 5502
+-1
+Terrain: 5503
+45
+Terrain: 5504
+45
+Terrain: 5505
+-2
+Terrain: 5506
+-1
+Terrain: 5507
+-1
+Terrain: 5508
+-1
+Terrain: 5509
+-1
+Terrain: 5510
+86
+Terrain: 5511
+-1
+Terrain: 5512
+-1
+Terrain: 5513
+-2
+Terrain: 5514
+45
+Terrain: 5515
+45
+Terrain: 5516
+-2
+Terrain: 5517
+-3
+Terrain: 5518
+75
+Terrain: 5519
+-2
+Terrain: 5520
+68
+Terrain: 5521
+-3
+Terrain: 5522
+-3
+Terrain: 5523
+-1
+Terrain: 5524
+-1
+Terrain: 5525
+-2
+Terrain: 5526
+-3
+Terrain: 5527
+-2
+Terrain: 5528
+-1
+Terrain: 5529
+-3
+Terrain: 5530
+-1
+Terrain: 5531
+-1
+Terrain: 5532
+-2
+Terrain: 5533
+-1
+Terrain: 5534
+-3
+Terrain: 5535
+-1
+Terrain: 5536
+-2
+Terrain: 5537
+-1
+Terrain: 5538
+61
+Terrain: 5539
+-3
+Terrain: 5540
+-2
+Terrain: 5541
+-2
+Terrain: 5542
+-3
+Terrain: 5543
+-3
+Terrain: 5544
+79
+Terrain: 5545
+61
+Terrain: 5546
+-2
+Terrain: 5547
+-2
+Terrain: 5548
+-1
+Terrain: 5549
+-1
+Terrain: 5550
+-1
+Terrain: 5551
+93
+Terrain: 5552
+68
+Terrain: 5553
+-1
+Terrain: 5554
+-1
+Terrain: 5555
+77
+Terrain: 5556
+-1
+Terrain: 5557
+-2
+Terrain: 5558
+68
+Terrain: 5559
+-2
+Terrain: 5560
+-3
+Terrain: 5561
+-3
+Terrain: 5562
+-1
+Terrain: 5563
+86
+Terrain: 5564
+-1
+Terrain: 5565
+75
+Terrain: 5566
+-2
+Terrain: 5567
+-1
+Terrain: 5568
+45
+Terrain: 5569
+-3
+Terrain: 5570
+-2
+Terrain: 5571
+-1
+Terrain: 5572
+-1
+Terrain: 5573
+-1
+Terrain: 5574
+100
+Terrain: 5575
+-1
+Terrain: 5576
+52
+Terrain: 5577
+61
+Terrain: 5578
+-1
+Terrain: 5579
+52
+Terrain: 5580
+-1
+Terrain: 5581
+-1
+Terrain: 5582
+52
+Terrain: 5583
+-1
+Terrain: 5584
+-1
+Terrain: 5585
+-1
+Terrain: 5586
+-3
+Terrain: 5587
+-1
+Terrain: 5588
+-3
+Terrain: 5589
+68
+Terrain: 5590
+84
+Terrain: 5591
+-1
+Terrain: 5592
+45
+Terrain: 5593
+-1
+Terrain: 5594
+-2
+Terrain: 5595
+-1
+Terrain: 5596
+52
+Terrain: 5597
+52
+Terrain: 5598
+-2
+Terrain: 5599
+-2
+Terrain: 5600
+-1
+Terrain: 5601
+45
+Terrain: 5602
+-3
+Terrain: 5603
+-3
+Terrain: 5604
+-2
+Terrain: 5605
+-3
+Terrain: 5606
+-1
+Terrain: 5607
+-2
+Terrain: 5608
+-1
+Terrain: 5609
+-1
+Terrain: 5610
+84
+Terrain: 5611
+93
+Terrain: 5612
+-3
+Terrain: 5613
+45
+Terrain: 5614
+-2
+Terrain: 5615
+-1
+Terrain: 5616
+-1
+Terrain: 5617
+-1
+Terrain: 5618
+-2
+Terrain: 5619
+-1
+Terrain: 5620
+-1
+Terrain: 5621
+75
+Terrain: 5622
+-1
+Terrain: 5623
+-1
+Terrain: 5624
+-1
+Terrain: 5625
+-2
+Terrain: 5626
+-3
+Terrain: 5627
+-3
+Terrain: 5628
+-1
+Terrain: 5629
+-3
+Terrain: 5630
+-2
+Terrain: 5631
+68
+Terrain: 5632
+-3
+Terrain: 5633
+-1
+Terrain: 5634
+-1
+Terrain: 5635
+70
+Terrain: 5636
+100
+Terrain: 5637
+-2
+Terrain: 5638
+52
+Terrain: 5639
+-2
+Terrain: 5640
+-3
+Terrain: 5641
+-2
+Terrain: 5642
+52
+Terrain: 5643
+-1
+Terrain: 5644
+45
+Terrain: 5645
+-3
+Terrain: 5646
+-2
+Terrain: 5647
+-1
+Terrain: 5648
+-2
+Terrain: 5649
+-2
+Terrain: 5650
+84
+Terrain: 5651
+45
+Terrain: 5652
+45
+Terrain: 5653
+-1
+Terrain: 5654
+-1
+Terrain: 5655
+-3
+Terrain: 5656
+77
+Terrain: 5657
+45
+Terrain: 5658
+79
+Terrain: 5659
+77
+Terrain: 5660
+-3
+Terrain: 5661
+-2
+Terrain: 5662
+-3
+Terrain: 5663
+-1
+Terrain: 5664
+-3
+Terrain: 5665
+-1
+Terrain: 5666
+68
+Terrain: 5667
+52
+Terrain: 5668
+-1
+Terrain: 5669
+-1
+Terrain: 5670
+-2
+Terrain: 5671
+-2
+Terrain: 5672
+-1
+Terrain: 5673
+-1
+Terrain: 5674
+-1
+Terrain: 5675
+93
+Terrain: 5676
+-1
+Terrain: 5677
+-1
+Terrain: 5678
+77
+Terrain: 5679
+-3
+Terrain: 5680
+-1
+Terrain: 5681
+-1
+Terrain: 5682
+84
+Terrain: 5683
+-2
+Terrain: 5684
+-1
+Terrain: 5685
+-1
+Terrain: 5686
+-1
+Terrain: 5687
+-1
+Terrain: 5688
+91
+Terrain: 5689
+-2
+Terrain: 5690
+-1
+Terrain: 5691
+-1
+Terrain: 5692
+-1
+Terrain: 5693
+68
+Terrain: 5694
+-1
+Terrain: 5695
+-1
+Terrain: 5696
+-1
+Terrain: 5697
+-1
+Terrain: 5698
+-1
+Terrain: 5699
+-2
+Terrain: 5700
+-1
+Terrain: 5701
+-2
+Terrain: 5702
+-2
+Terrain: 5703
+-1
+Terrain: 5704
+52
+Terrain: 5705
+75
+Terrain: 5706
+70
+Terrain: 5707
+-2
+Terrain: 5708
+68
+Terrain: 5709
+45
+Terrain: 5710
+70
+Terrain: 5711
+93
+Terrain: 5712
+45
+Terrain: 5713
+-1
+Terrain: 5714
+-2
+Terrain: 5715
+-1
+Terrain: 5716
+86
+Terrain: 5717
+-1
+Terrain: 5718
+-1
+Terrain: 5719
+-1
+Terrain: 5720
+-1
+Terrain: 5721
+-3
+Terrain: 5722
+-3
+Terrain: 5723
+-1
+Terrain: 5724
+-3
+Terrain: 5725
+-1
+Terrain: 5726
+-1
+Terrain: 5727
+-2
+Terrain: 5728
+-3
+Terrain: 5729
+61
+Terrain: 5730
+45
+Terrain: 5731
+-1
+Terrain: 5732
+-3
+Terrain: 5733
+-3
+Terrain: 5734
+68
+Terrain: 5735
+-3
+Terrain: 5736
+-3
+Terrain: 5737
+-1
+Terrain: 5738
+-2
+Terrain: 5739
+-1
+Terrain: 5740
+52
+Terrain: 5741
+-1
+Terrain: 5742
+-3
+Terrain: 5743
+68
+Terrain: 5744
+-1
+Terrain: 5745
+-2
+Terrain: 5746
+-1
+Terrain: 5747
+-1
+Terrain: 5748
+-1
+Terrain: 5749
+84
+Terrain: 5750
+61
+Terrain: 5751
+-3
+Terrain: 5752
+75
+Terrain: 5753
+-3
+Terrain: 5754
+-2
+Terrain: 5755
+-3
+Terrain: 5756
+93
+Terrain: 5757
+-3
+Terrain: 5758
+68
+Terrain: 5759
+68
+Terrain: 5760
+84
+Terrain: 5761
+-1
+Terrain: 5762
+45
+Terrain: 5763
+52
+Terrain: 5764
+-1
+Terrain: 5765
+-1
+Terrain: 5766
+-2
+Terrain: 5767
+-1
+Terrain: 5768
+-1
+Terrain: 5769
+77
+Terrain: 5770
+45
+Terrain: 5771
+-2
+Terrain: 5772
+-1
+Terrain: 5773
+-1
+Terrain: 5774
+-2
+Terrain: 5775
+-1
+Terrain: 5776
+-2
+Terrain: 5777
+-1
+Terrain: 5778
+-1
+Terrain: 5779
+-3
+Terrain: 5780
+-2
+Terrain: 5781
+-3
+Terrain: 5782
+-1
+Terrain: 5783
+-2
+Terrain: 5784
+-1
+Terrain: 5785
+-3
+Terrain: 5786
+52
+Terrain: 5787
+-1
+Terrain: 5788
+-1
+Terrain: 5789
+-3
+Terrain: 5790
+-2
+Terrain: 5791
+-1
+Terrain: 5792
+-1
+Terrain: 5793
+-3
+Terrain: 5794
+52
+Terrain: 5795
+68
+Terrain: 5796
+-3
+Terrain: 5797
+52
+Terrain: 5798
+45
+Terrain: 5799
+68
+Terrain: 5800
+-1
+Terrain: 5801
+91
+Terrain: 5802
+-2
+Terrain: 5803
+70
+Terrain: 5804
+-1
+Terrain: 5805
+-1
+Terrain: 5806
+45
+Terrain: 5807
+-1
+Terrain: 5808
+-3
+Terrain: 5809
+-3
+Terrain: 5810
+-1
+Terrain: 5811
+-2
+Terrain: 5812
+-3
+Terrain: 5813
+-3
+Terrain: 5814
+-2
+Terrain: 5815
+-1
+Terrain: 5816
+84
+Terrain: 5817
+-1
+Terrain: 5818
+-3
+Terrain: 5819
+-3
+Terrain: 5820
+-3
+Terrain: 5821
+91
+Terrain: 5822
+52
+Terrain: 5823
+-3
+Terrain: 5824
+-1
+Terrain: 5825
+-3
+Terrain: 5826
+52
+Terrain: 5827
+-2
+Terrain: 5828
+-2
+Terrain: 5829
+75
+Terrain: 5830
+-1
+Terrain: 5831
+75
+Terrain: 5832
+-3
+Terrain: 5833
+-2
+Terrain: 5834
+68
+Terrain: 5835
+-2
+Terrain: 5836
+-2
+Terrain: 5837
+68
+Terrain: 5838
+-1
+Terrain: 5839
+-3
+Terrain: 5840
+-2
+Terrain: 5841
+45
+Terrain: 5842
+-1
+Terrain: 5843
+68
+Terrain: 5844
+68
+Terrain: 5845
+-1
+Terrain: 5846
+-1
+Terrain: 5847
+-2
+Terrain: 5848
+77
+Terrain: 5849
+-1
+Terrain: 5850
+68
+Terrain: 5851
+68
+Terrain: 5852
+-2
+Terrain: 5853
+-2
+Terrain: 5854
+-2
+Terrain: 5855
+-1
+Terrain: 5856
+-2
+Terrain: 5857
+68
+Terrain: 5858
+-1
+Terrain: 5859
+-2
+Terrain: 5860
+45
+Terrain: 5861
+-1
+Terrain: 5862
+-3
+Terrain: 5863
+-3
+Terrain: 5864
+-1
+Terrain: 5865
+45
+Terrain: 5866
+-1
+Terrain: 5867
+52
+Terrain: 5868
+-3
+Terrain: 5869
+45
+Terrain: 5870
+-3
+Terrain: 5871
+-1
+Terrain: 5872
+-1
+Terrain: 5873
+84
+Terrain: 5874
+-1
+Terrain: 5875
+68
+Terrain: 5876
+-2
+Terrain: 5877
+-1
+Terrain: 5878
+-2
+Terrain: 5879
+84
+Terrain: 5880
+68
+Terrain: 5881
+-1
+Terrain: 5882
+-1
+Terrain: 5883
+68
+Terrain: 5884
+52
+Terrain: 5885
+-3
+Terrain: 5886
+52
+Terrain: 5887
+52
+Terrain: 5888
+-3
+Terrain: 5889
+-2
+Terrain: 5890
+-1
+Terrain: 5891
+75
+Terrain: 5892
+-2
+Terrain: 5893
+-1
+Terrain: 5894
+-2
+Terrain: 5895
+-3
+Terrain: 5896
+-2
+Terrain: 5897
+68
+Terrain: 5898
+-3
+Terrain: 5899
+68
+Terrain: 5900
+-1
+Terrain: 5901
+-1
+Terrain: 5902
+-1
+Terrain: 5903
+-1
+Terrain: 5904
+84
+Terrain: 5905
+-1
+Terrain: 5906
+-1
+Terrain: 5907
+-3
+Terrain: 5908
+52
+Terrain: 5909
+-3
+Terrain: 5910
+-1
+Terrain: 5911
+61
+Terrain: 5912
+100
+Terrain: 5913
+-3
+Terrain: 5914
+-1
+Terrain: 5915
+61
+Terrain: 5916
+-1
+Terrain: 5917
+-3
+Terrain: 5918
+-1
+Terrain: 5919
+-3
+Terrain: 5920
+-2
+Terrain: 5921
+68
+Terrain: 5922
+52
+Terrain: 5923
+-3
+Terrain: 5924
+-2
+Terrain: 5925
+-3
+Terrain: 5926
+-1
+Terrain: 5927
+-1
+Terrain: 5928
+-3
+Terrain: 5929
+-1
+Terrain: 5930
+84
+Terrain: 5931
+77
+Terrain: 5932
+-1
+Terrain: 5933
+-3
+Terrain: 5934
+-2
+Terrain: 5935
+-1
+Terrain: 5936
+-2
+Terrain: 5937
+-3
+Terrain: 5938
+-3
+Terrain: 5939
+75
+Terrain: 5940
+68
+Terrain: 5941
+-2
+Terrain: 5942
+-2
+Terrain: 5943
+-1
+Terrain: 5944
+45
+Terrain: 5945
+-2
+Terrain: 5946
+68
+Terrain: 5947
+-1
+Terrain: 5948
+86
+Terrain: 5949
+-2
+Terrain: 5950
+-3
+Terrain: 5951
+-2
+Terrain: 5952
+-3
+Terrain: 5953
+-3
+Terrain: 5954
+-1
+Terrain: 5955
+-1
+Terrain: 5956
+68
+Terrain: 5957
+-1
+Terrain: 5958
+-1
+Terrain: 5959
+84
+Terrain: 5960
+45
+Terrain: 5961
+-3
+Terrain: 5962
+-2
+Terrain: 5963
+-2
+Terrain: 5964
+61
+Terrain: 5965
+-3
+Terrain: 5966
+52
+Terrain: 5967
+-2
+Terrain: 5968
+-1
+Terrain: 5969
+86
+Terrain: 5970
+-1
+Terrain: 5971
+-3
+Terrain: 5972
+-3
+Terrain: 5973
+-3
+Terrain: 5974
+-1
+Terrain: 5975
+-2
+Terrain: 5976
+-1
+Terrain: 5977
+45
+Terrain: 5978
+-1
+Terrain: 5979
+45
+Terrain: 5980
+-1
+Terrain: 5981
+45
+Terrain: 5982
+45
+Terrain: 5983
+-1
+Terrain: 5984
+77
+Terrain: 5985
+-1
+Terrain: 5986
+-1
+Terrain: 5987
+-3
+Terrain: 5988
+-1
+Terrain: 5989
+-1
+Terrain: 5990
+-1
+Terrain: 5991
+77
+Terrain: 5992
+75
+Terrain: 5993
+61
+Terrain: 5994
+-2
+Terrain: 5995
+-1
+Terrain: 5996
+-1
+Terrain: 5997
+-3
+Terrain: 5998
+-1
+Terrain: 5999
+70
+Terrain: 6000
+-3
+Terrain: 6001
+61
+Terrain: 6002
+-3
+Terrain: 6003
+-1
+Terrain: 6004
+45
+Terrain: 6005
+93
+Terrain: 6006
+-2
+Terrain: 6007
+-3
+Terrain: 6008
+-2
+Terrain: 6009
+-2
+Terrain: 6010
+45
+Terrain: 6011
+-2
+Terrain: 6012
+-2
+Terrain: 6013
+52
+Terrain: 6014
+70
+Terrain: 6015
+-1
+Terrain: 6016
+-3
+Terrain: 6017
+-1
+Terrain: 6018
+-2
+Terrain: 6019
+-1
+Terrain: 6020
+-2
+Terrain: 6021
+-3
+Terrain: 6022
+-1
+Terrain: 6023
+-1
+Terrain: 6024
+45
+Terrain: 6025
+61
+Terrain: 6026
+-3
+Terrain: 6027
+84
+Terrain: 6028
+75
+Terrain: 6029
+-2
+Terrain: 6030
+-1
+Terrain: 6031
+-2
+Terrain: 6032
+77
+Terrain: 6033
+79
+Terrain: 6034
+68
+Terrain: 6035
+-3
+Terrain: 6036
+-3
+Terrain: 6037
+75
+Terrain: 6038
+84
+Terrain: 6039
+-1
+Terrain: 6040
+91
+Terrain: 6041
+-1
+Terrain: 6042
+-1
+Terrain: 6043
+68
+Terrain: 6044
+-3
+Terrain: 6045
+-1
+Terrain: 6046
+-1
+Terrain: 6047
+-1
+Terrain: 6048
+-1
+Terrain: 6049
+-1
+Terrain: 6050
+-2
+Terrain: 6051
+86
+Terrain: 6052
+98
+Terrain: 6053
+-3
+Terrain: 6054
+-1
+Terrain: 6055
+45
+Terrain: 6056
+-2
+Terrain: 6057
+77
+Terrain: 6058
+-1
+Terrain: 6059
+52
+Terrain: 6060
+-1
+Terrain: 6061
+-1
+Terrain: 6062
+-1
+Terrain: 6063
+61
+Terrain: 6064
+68
+Terrain: 6065
+100
+Terrain: 6066
+-2
+Terrain: 6067
+-2
+Terrain: 6068
+-1
+Terrain: 6069
+-2
+Terrain: 6070
+-1
+Terrain: 6071
+91
+Terrain: 6072
+-1
+Terrain: 6073
+93
+Terrain: 6074
+-3
+Terrain: 6075
+-1
+Terrain: 6076
+-2
+Terrain: 6077
+68
+Terrain: 6078
+-2
+Terrain: 6079
+-1
+Terrain: 6080
+52
+Terrain: 6081
+52
+Terrain: 6082
+-1
+Terrain: 6083
+68
+Terrain: 6084
+-1
+Terrain: 6085
+-2
+Terrain: 6086
+-2
+Terrain: 6087
+-2
+Terrain: 6088
+100
+Terrain: 6089
+-3
+Terrain: 6090
+-1
+Terrain: 6091
+-1
+Terrain: 6092
+-1
+Terrain: 6093
+-2
+Terrain: 6094
+-1
+Terrain: 6095
+-2
+Terrain: 6096
+-2
+Terrain: 6097
+77
+Terrain: 6098
+84
+Terrain: 6099
+-3
+Terrain: 6100
+-1
+Terrain: 6101
+-3
+Terrain: 6102
+-3
+Terrain: 6103
+-3
+Terrain: 6104
+45
+Terrain: 6105
+-1
+Terrain: 6106
+61
+Terrain: 6107
+91
+Terrain: 6108
+-1
+Terrain: 6109
+-1
+Terrain: 6110
+-1
+Terrain: 6111
+-3
+Terrain: 6112
+52
+Terrain: 6113
+-1
+Terrain: 6114
+-1
+Terrain: 6115
+100
+Terrain: 6116
+-3
+Terrain: 6117
+-1
+Terrain: 6118
+-1
+Terrain: 6119
+-2
+Terrain: 6120
+52
+Terrain: 6121
+-3
+Terrain: 6122
+-1
+Terrain: 6123
+-2
+Terrain: 6124
+-2
+Terrain: 6125
+52
+Terrain: 6126
+-3
+Terrain: 6127
+-1
+Terrain: 6128
+-1
+Terrain: 6129
+-3
+Terrain: 6130
+68
+Terrain: 6131
+93
+Terrain: 6132
+-1
+Terrain: 6133
+-2
+Terrain: 6134
+-1
+Terrain: 6135
+75
+Terrain: 6136
+77
+Terrain: 6137
+-2
+Terrain: 6138
+45
+Terrain: 6139
+-1
+Terrain: 6140
+75
+Terrain: 6141
+45
+Terrain: 6142
+-1
+Terrain: 6143
+-2
+Terrain: 6144
+-3
+Terrain: 6145
+45
+Terrain: 6146
+-1
+Terrain: 6147
+-3
+Terrain: 6148
+-3
+Terrain: 6149
+-3
+Terrain: 6150
+-2
+Terrain: 6151
+70
+Terrain: 6152
+-1
+Terrain: 6153
+68
+Terrain: 6154
+100
+Terrain: 6155
+-2
+Terrain: 6156
+77
+Terrain: 6157
+-1
+Terrain: 6158
+-1
+Terrain: 6159
+-3
+Terrain: 6160
+68
+Terrain: 6161
+-1
+Terrain: 6162
+-3
+Terrain: 6163
+-3
+Terrain: 6164
+-2
+Terrain: 6165
+-3
+Terrain: 6166
+-1
+Terrain: 6167
+68
+Terrain: 6168
+-3
+Terrain: 6169
+-1
+Terrain: 6170
+68
+Terrain: 6171
+-1
+Terrain: 6172
+-1
+Terrain: 6173
+45
+Terrain: 6174
+-2
+Terrain: 6175
+45
+Terrain: 6176
+-1
+Terrain: 6177
+84
+Terrain: 6178
+52
+Terrain: 6179
+61
+Terrain: 6180
+45
+Terrain: 6181
+-2
+Terrain: 6182
+-1
+Terrain: 6183
+52
+Terrain: 6184
+-1
+Terrain: 6185
+-3
+Terrain: 6186
+52
+Terrain: 6187
+52
+Terrain: 6188
+-1
+Terrain: 6189
+-1
+Terrain: 6190
+-1
+Terrain: 6191
+-2
+Terrain: 6192
+75
+Terrain: 6193
+-1
+Terrain: 6194
+-1
+Terrain: 6195
+-2
+Terrain: 6196
+61
+Terrain: 6197
+-1
+Terrain: 6198
+45
+Terrain: 6199
+-2
+Terrain: 6200
+68
+Terrain: 6201
+68
+Terrain: 6202
+-1
+Terrain: 6203
+-1
+Terrain: 6204
+-1
+Terrain: 6205
+-1
+Terrain: 6206
+-1
+Terrain: 6207
+-3
+Terrain: 6208
+75
+Terrain: 6209
+-1
+Terrain: 6210
+-1
+Terrain: 6211
+-3
+Terrain: 6212
+68
+Terrain: 6213
+-3
+Terrain: 6214
+-2
+Terrain: 6215
+-2
+Terrain: 6216
+-1
+Terrain: 6217
+77
+Terrain: 6218
+-1
+Terrain: 6219
+-1
+Terrain: 6220
+-1
+Terrain: 6221
+52
+Terrain: 6222
+-1
+Terrain: 6223
+-1
+Terrain: 6224
+-1
+Terrain: 6225
+-1
+Terrain: 6226
+-1
+Terrain: 6227
+45
+Terrain: 6228
+-3
+Terrain: 6229
+-2
+Terrain: 6230
+61
+Terrain: 6231
+-1
+Terrain: 6232
+-1
+Terrain: 6233
+-2
+Terrain: 6234
+-1
+Terrain: 6235
+-1
+Terrain: 6236
+-3
+Terrain: 6237
+75
+Terrain: 6238
+-2
+Terrain: 6239
+-1
+Terrain: 6240
+-2
+Terrain: 6241
+-1
+Terrain: 6242
+-2
+Terrain: 6243
+45
+Terrain: 6244
+91
+Terrain: 6245
+77
+Terrain: 6246
+-1
+Terrain: 6247
+-3
+Terrain: 6248
+52
+Terrain: 6249
+-1
+Terrain: 6250
+100
+Terrain: 6251
+-1
+Terrain: 6252
+-1
+Terrain: 6253
+-3
+Terrain: 6254
+-3
+Terrain: 6255
+-3
+Terrain: 6256
+-3
+Terrain: 6257
+-3
+Terrain: 6258
+-3
+Terrain: 6259
+-1
+Terrain: 6260
+-1
+Terrain: 6261
+-1
+Terrain: 6262
+77
+Terrain: 6263
+70
+Terrain: 6264
+52
+Terrain: 6265
+-2
+Terrain: 6266
+-2
+Terrain: 6267
+-1
+Terrain: 6268
+-1
+Terrain: 6269
+-2
+Terrain: 6270
+-1
+Terrain: 6271
+52
+Terrain: 6272
+68
+Terrain: 6273
+45
+Terrain: 6274
+-3
+Terrain: 6275
+-3
+Terrain: 6276
+-1
+Terrain: 6277
+84
+Terrain: 6278
+86
+Terrain: 6279
+93
+Terrain: 6280
+-2
+Terrain: 6281
+-1
+Terrain: 6282
+79
+Terrain: 6283
+-1
+Terrain: 6284
+-1
+Terrain: 6285
+45
+Terrain: 6286
+-1
+Terrain: 6287
+-1
+Terrain: 6288
+-1
+Terrain: 6289
+-3
+Terrain: 6290
+75
+Terrain: 6291
+-3
+Terrain: 6292
+-3
+Terrain: 6293
+-1
+Terrain: 6294
+-3
+Terrain: 6295
+86
+Terrain: 6296
+-3
+Terrain: 6297
+-1
+Terrain: 6298
+-1
+Terrain: 6299
+86
+Terrain: 6300
+52
+Terrain: 6301
+-3
+Terrain: 6302
+-1
+Terrain: 6303
+75
+Terrain: 6304
+45
+Terrain: 6305
+52
+Terrain: 6306
+-1
+Terrain: 6307
+-1
+Terrain: 6308
+75
+Terrain: 6309
+84
+Terrain: 6310
+-1
+Terrain: 6311
+45
+Terrain: 6312
+61
+Terrain: 6313
+45
+Terrain: 6314
+-1
+Terrain: 6315
+-3
+Terrain: 6316
+-3
+Terrain: 6317
+-3
+Terrain: 6318
+68
+Terrain: 6319
+-1
+Terrain: 6320
+-1
+Terrain: 6321
+-1
+Terrain: 6322
+52
+Terrain: 6323
+-1
+Terrain: 6324
+86
+Terrain: 6325
+-1
+Terrain: 6326
+-2
+Terrain: 6327
+45
+Terrain: 6328
+52
+Terrain: 6329
+-3
+Terrain: 6330
+-1
+Terrain: 6331
+-3
+Terrain: 6332
+-1
+Terrain: 6333
+86
+Terrain: 6334
+77
+Terrain: 6335
+-3
+Terrain: 6336
+-1
+Terrain: 6337
+-2
+Terrain: 6338
+-1
+Terrain: 6339
+-1
+Terrain: 6340
+-2
+Terrain: 6341
+-3
+Terrain: 6342
+-3
+Terrain: 6343
+-1
+Terrain: 6344
+-1
+Terrain: 6345
+-3
+Terrain: 6346
+-1
+Terrain: 6347
+-2
+Terrain: 6348
+-3
+Terrain: 6349
+-1
+Terrain: 6350
+-3
+Terrain: 6351
+45
+Terrain: 6352
+-1
+Terrain: 6353
+-1
+Terrain: 6354
+-1
+Terrain: 6355
+-1
+Terrain: 6356
+-3
+Terrain: 6357
+-3
+Terrain: 6358
+-3
+Terrain: 6359
+45
+Terrain: 6360
+61
+Terrain: 6361
+-3
+Terrain: 6362
+-3
+Terrain: 6363
+-2
+Terrain: 6364
+-3
+Terrain: 6365
+-1
+Terrain: 6366
+-3
+Terrain: 6367
+-2
+Terrain: 6368
+68
+Terrain: 6369
+-1
+Terrain: 6370
+-1
+Terrain: 6371
+-1
+Terrain: 6372
+77
+Terrain: 6373
+-2
+Terrain: 6374
+-1
+Terrain: 6375
+-3
+Terrain: 6376
+-3
+Terrain: 6377
+61
+Terrain: 6378
+93
+Terrain: 6379
+-1
+Terrain: 6380
+77
+Terrain: 6381
+-1
+Terrain: 6382
+-1
+Terrain: 6383
+-2
+Terrain: 6384
+-1
+Terrain: 6385
+-1
+Terrain: 6386
+-3
+Terrain: 6387
+-1
+Terrain: 6388
+-3
+Terrain: 6389
+75
+Terrain: 6390
+-2
+Terrain: 6391
+45
+Terrain: 6392
+45
+Terrain: 6393
+68
+Terrain: 6394
+-3
+Terrain: 6395
+-3
+Terrain: 6396
+77
+Terrain: 6397
+68
+Terrain: 6398
+45
+Terrain: 6399
+-3
+Terrain: 6400
+-1
+Terrain: 6401
+-1
+Terrain: 6402
+-1
+Terrain: 6403
+-1
+Terrain: 6404
+-2
+Terrain: 6405
+-1
+Terrain: 6406
+70
+Terrain: 6407
+-3
+Terrain: 6408
+-1
+Terrain: 6409
+52
+Terrain: 6410
+-3
+Terrain: 6411
+-1
+Terrain: 6412
+-2
+Terrain: 6413
+-1
+Terrain: 6414
+-1
+Terrain: 6415
+77
+Terrain: 6416
+-1
+Terrain: 6417
+-1
+Terrain: 6418
+-1
+Terrain: 6419
+-1
+Terrain: 6420
+68
+Terrain: 6421
+52
+Terrain: 6422
+-3
+Terrain: 6423
+-2
+Terrain: 6424
+45
+Terrain: 6425
+-1
+Terrain: 6426
+93
+Terrain: 6427
+93
+Terrain: 6428
+-3
+Terrain: 6429
+-3
+Terrain: 6430
+52
+Terrain: 6431
+-1
+Terrain: 6432
+-3
+Terrain: 6433
+-3
+Terrain: 6434
+-1
+Terrain: 6435
+-1
+Terrain: 6436
+75
+Terrain: 6437
+-1
+Terrain: 6438
+-1
+Terrain: 6439
+-1
+Terrain: 6440
+-1
+Terrain: 6441
+-1
+Terrain: 6442
+-1
+Terrain: 6443
+-2
+Terrain: 6444
+-1
+Terrain: 6445
+61
+Terrain: 6446
+70
+Terrain: 6447
+86
+Terrain: 6448
+86
+Terrain: 6449
+-3
+Terrain: 6450
+61
+Terrain: 6451
+-1
+Terrain: 6452
+45
+Terrain: 6453
+-3
+Terrain: 6454
+52
+Terrain: 6455
+-3
+Terrain: 6456
+68
+Terrain: 6457
+-1
+Terrain: 6458
+-1
+Terrain: 6459
+-1
+Terrain: 6460
+-1
+Terrain: 6461
+-2
+Terrain: 6462
+77
+Terrain: 6463
+-1
+Terrain: 6464
+52
+Terrain: 6465
+-1
+Terrain: 6466
+-2
+Terrain: 6467
+45
+Terrain: 6468
+-1
+Terrain: 6469
+-1
+Terrain: 6470
+-2
+Terrain: 6471
+-1
+Terrain: 6472
+45
+Terrain: 6473
+-3
+Terrain: 6474
+-3
+Terrain: 6475
+52
+Terrain: 6476
+-1
+Terrain: 6477
+-1
+Terrain: 6478
+-1
+Terrain: 6479
+-1
+Terrain: 6480
+-1
+Terrain: 6481
+-1
+Terrain: 6482
+-3
+Terrain: 6483
+-1
+Terrain: 6484
+-1
+Terrain: 6485
+-1
+Terrain: 6486
+-1
+Terrain: 6487
+-2
+Terrain: 6488
+-3
+Terrain: 6489
+-1
+Terrain: 6490
+45
+Terrain: 6491
+-3
+Terrain: 6492
+-1
+Terrain: 6493
+-2
+Terrain: 6494
+-2
+Terrain: 6495
+84
+Terrain: 6496
+-1
+Terrain: 6497
+-1
+Terrain: 6498
+84
+Terrain: 6499
+68
+Terrain: 6500
+-1
+Terrain: 6501
+-3
+Terrain: 6502
+68
+Terrain: 6503
+68
+Terrain: 6504
+-2
+Terrain: 6505
+-1
+Terrain: 6506
+93
+Terrain: 6507
+-1
+Terrain: 6508
+45
+Terrain: 6509
+-1
+Terrain: 6510
+77
+Terrain: 6511
+100
+Terrain: 6512
+52
+Terrain: 6513
+77
+Terrain: 6514
+84
+Terrain: 6515
+45
+Terrain: 6516
+79
+Terrain: 6517
+52
+Terrain: 6518
+-1
+Terrain: 6519
+75
+Terrain: 6520
+93
+Terrain: 6521
+-1
+Terrain: 6522
+-3
+Terrain: 6523
+-1
+Terrain: 6524
+-2
+Terrain: 6525
+-3
+Terrain: 6526
+-1
+Terrain: 6527
+-3
+Terrain: 6528
+-1
+Terrain: 6529
+-2
+Terrain: 6530
+-3
+Terrain: 6531
+-2
+Terrain: 6532
+75
+Terrain: 6533
+-1
+Terrain: 6534
+-1
+Terrain: 6535
+-1
+Terrain: 6536
+-1
+Terrain: 6537
+-1
+Terrain: 6538
+61
+Terrain: 6539
+91
+Terrain: 6540
+-1
+Terrain: 6541
+100
+Terrain: 6542
+-3
+Terrain: 6543
+45
+Terrain: 6544
+45
+Terrain: 6545
+45
+Terrain: 6546
+-3
+Terrain: 6547
+68
+Terrain: 6548
+-3
+Terrain: 6549
+-1
+Terrain: 6550
+68
+Terrain: 6551
+45
+Terrain: 6552
+-1
+Terrain: 6553
+-2
+Terrain: 6554
+-1
+Terrain: 6555
+52
+Terrain: 6556
+-1
+Terrain: 6557
+-1
+Terrain: 6558
+52
+Terrain: 6559
+-3
+Terrain: 6560
+68
+Terrain: 6561
+45
+Terrain: 6562
+-3
+Terrain: 6563
+-2
+Terrain: 6564
+52
+Terrain: 6565
+-1
+Terrain: 6566
+61
+Terrain: 6567
+-1
+Terrain: 6568
+45
+Terrain: 6569
+-1
+Terrain: 6570
+-2
+Terrain: 6571
+77
+Terrain: 6572
+52
+Terrain: 6573
+52
+Terrain: 6574
+-3
+Terrain: 6575
+45
+Terrain: 6576
+61
+Terrain: 6577
+86
+Terrain: 6578
+-1
+Terrain: 6579
+68
+Terrain: 6580
+68
+Terrain: 6581
+52
+Terrain: 6582
+-3
+Terrain: 6583
+-1
+Terrain: 6584
+-1
+Terrain: 6585
+-1
+Terrain: 6586
+77
+Terrain: 6587
+-3
+Terrain: 6588
+-1
+Terrain: 6589
+-1
+Terrain: 6590
+-2
+Terrain: 6591
+-1
+Terrain: 6592
+-3
+Terrain: 6593
+-2
+Terrain: 6594
+75
+Terrain: 6595
+68
+Terrain: 6596
+77
+Terrain: 6597
+-1
+Terrain: 6598
+-1
+Terrain: 6599
+52
+Terrain: 6600
+77
+Terrain: 6601
+-1
+Terrain: 6602
+-1
+Terrain: 6603
+-1
+Terrain: 6604
+-1
+Terrain: 6605
+-1
+Terrain: 6606
+-2
+Terrain: 6607
+-2
+Terrain: 6608
+-3
+Terrain: 6609
+91
+Terrain: 6610
+-1
+Terrain: 6611
+77
+Terrain: 6612
+-3
+Terrain: 6613
+45
+Terrain: 6614
+-1
+Terrain: 6615
+77
+Terrain: 6616
+-3
+Terrain: 6617
+-2
+Terrain: 6618
+-3
+Terrain: 6619
+100
+Terrain: 6620
+-1
+Terrain: 6621
+-3
+Terrain: 6622
+-1
+Terrain: 6623
+-1
+Terrain: 6624
+-1
+Terrain: 6625
+61
+Terrain: 6626
+45
+Terrain: 6627
+-1
+Terrain: 6628
+-1
+Terrain: 6629
+-1
+Terrain: 6630
+-1
+Terrain: 6631
+68
+Terrain: 6632
+-2
+Terrain: 6633
+-3
+Terrain: 6634
+-1
+Terrain: 6635
+-1
+Terrain: 6636
+-3
+Terrain: 6637
+-3
+Terrain: 6638
+-2
+Terrain: 6639
+-1
+Terrain: 6640
+-1
+Terrain: 6641
+-1
+Terrain: 6642
+-1
+Terrain: 6643
+-1
+Terrain: 6644
+95
+Terrain: 6645
+-1
+Terrain: 6646
+-1
+Terrain: 6647
+-1
+Terrain: 6648
+-2
+Terrain: 6649
+-3
+Terrain: 6650
+-1
+Terrain: 6651
+61
+Terrain: 6652
+-1
+Terrain: 6653
+52
+Terrain: 6654
+-3
+Terrain: 6655
+-1
+Terrain: 6656
+45
+Terrain: 6657
+-1
+Terrain: 6658
+86
+Terrain: 6659
+-1
+Terrain: 6660
+-1
+Terrain: 6661
+84
+Terrain: 6662
+-3
+Terrain: 6663
+-3
+Terrain: 6664
+-1
+Terrain: 6665
+-1
+Terrain: 6666
+-1
+Terrain: 6667
+-1
+Terrain: 6668
+75
+Terrain: 6669
+61
+Terrain: 6670
+-1
+Terrain: 6671
+-3
+Terrain: 6672
+-1
+Terrain: 6673
+70
+Terrain: 6674
+77
+Terrain: 6675
+-1
+Terrain: 6676
+-2
+Terrain: 6677
+-3
+Terrain: 6678
+-3
+Terrain: 6679
+61
+Terrain: 6680
+-1
+Terrain: 6681
+-1
+Terrain: 6682
+93
+Terrain: 6683
+-3
+Terrain: 6684
+-1
+Terrain: 6685
+-2
+Terrain: 6686
+-1
+Terrain: 6687
+-1
+Terrain: 6688
+-1
+Terrain: 6689
+-2
+Terrain: 6690
+-1
+Terrain: 6691
+-3
+Terrain: 6692
+-1
+Terrain: 6693
+61
+Terrain: 6694
+-1
+Terrain: 6695
+-2
+Terrain: 6696
+77
+Terrain: 6697
+91
+Terrain: 6698
+-1
+Terrain: 6699
+61
+Terrain: 6700
+-3
+Terrain: 6701
+-3
+Terrain: 6702
+-1
+Terrain: 6703
+-1
+Terrain: 6704
+-1
+Terrain: 6705
+84
+Terrain: 6706
+45
+Terrain: 6707
+45
+Terrain: 6708
+-1
+Terrain: 6709
+-1
+Terrain: 6710
+-3
+Terrain: 6711
+-3
+Terrain: 6712
+-1
+Terrain: 6713
+-1
+Terrain: 6714
+-1
+Terrain: 6715
+-1
+Terrain: 6716
+-3
+Terrain: 6717
+-1
+Terrain: 6718
+75
+Terrain: 6719
+-1
+Terrain: 6720
+77
+Terrain: 6721
+68
+Terrain: 6722
+93
+Terrain: 6723
+86
+Terrain: 6724
+-1
+Terrain: 6725
+-1
+Terrain: 6726
+-3
+Terrain: 6727
+-3
+Terrain: 6728
+-1
+Terrain: 6729
+75
+Terrain: 6730
+-1
+Terrain: 6731
+-2
+Terrain: 6732
+93
+Terrain: 6733
+77
+Terrain: 6734
+68
+Terrain: 6735
+-1
+Terrain: 6736
+-1
+Terrain: 6737
+-1
+Terrain: 6738
+-2
+Terrain: 6739
+45
+Terrain: 6740
+-3
+Terrain: 6741
+-1
+Terrain: 6742
+-1
+Terrain: 6743
+-2
+Terrain: 6744
+-1
+Terrain: 6745
+45
+Terrain: 6746
+-3
+Terrain: 6747
+-3
+Terrain: 6748
+-2
+Terrain: 6749
+-3
+Terrain: 6750
+68
+Terrain: 6751
+-3
+Terrain: 6752
+-1
+Terrain: 6753
+-1
+Terrain: 6754
+52
+Terrain: 6755
+-3
+Terrain: 6756
+-3
+Terrain: 6757
+91
+Terrain: 6758
+52
+Terrain: 6759
+-1
+Terrain: 6760
+-3
+Terrain: 6761
+-1
+Terrain: 6762
+-2
+Terrain: 6763
+-1
+Terrain: 6764
+-1
+Terrain: 6765
+-1
+Terrain: 6766
+-1
+Terrain: 6767
+-1
+Terrain: 6768
+61
+Terrain: 6769
+77
+Terrain: 6770
+-1
+Terrain: 6771
+-1
+Terrain: 6772
+-2
+Terrain: 6773
+-3
+Terrain: 6774
+-1
+Terrain: 6775
+45
+Terrain: 6776
+-3
+Terrain: 6777
+-3
+Terrain: 6778
+-3
+Terrain: 6779
+-1
+Terrain: 6780
+100
+Terrain: 6781
+68
+Terrain: 6782
+-2
+Terrain: 6783
+-3
+Terrain: 6784
+-2
+Terrain: 6785
+-3
+Terrain: 6786
+-1
+Terrain: 6787
+-1
+Terrain: 6788
+-3
+Terrain: 6789
+-3
+Terrain: 6790
+68
+Terrain: 6791
+52
+Terrain: 6792
+-1
+Terrain: 6793
+-1
+Terrain: 6794
+-1
+Terrain: 6795
+-1
+Terrain: 6796
+-2
+Terrain: 6797
+45
+Terrain: 6798
+-2
+Terrain: 6799
+-1
+Terrain: 6800
+70
+Terrain: 6801
+75
+Terrain: 6802
+-1
+Terrain: 6803
+-2
+Terrain: 6804
+-1
+Terrain: 6805
+-1
+Terrain: 6806
+68
+Terrain: 6807
+-1
+Terrain: 6808
+45
+Terrain: 6809
+-1
+Terrain: 6810
+86
+Terrain: 6811
+-1
+Terrain: 6812
+-2
+Terrain: 6813
+-3
+Terrain: 6814
+-2
+Terrain: 6815
+68
+Terrain: 6816
+-1
+Terrain: 6817
+-1
+Terrain: 6818
+52
+Terrain: 6819
+-2
+Terrain: 6820
+-1
+Terrain: 6821
+-1
+Terrain: 6822
+68
+Terrain: 6823
+-1
+Terrain: 6824
+-3
+Terrain: 6825
+93
+Terrain: 6826
+-3
+Terrain: 6827
+-2
+Terrain: 6828
+45
+Terrain: 6829
+-1
+Terrain: 6830
+-1
+Terrain: 6831
+61
+Terrain: 6832
+-3
+Terrain: 6833
+-2
+Terrain: 6834
+-3
+Terrain: 6835
+-2
+Terrain: 6836
+-3
+Terrain: 6837
+-1
+Terrain: 6838
+68
+Terrain: 6839
+-3
+Terrain: 6840
+-2
+Terrain: 6841
+61
+Terrain: 6842
+-1
+Terrain: 6843
+-1
+Terrain: 6844
+-1
+Terrain: 6845
+-1
+Terrain: 6846
+93
+Terrain: 6847
+52
+Terrain: 6848
+-1
+Terrain: 6849
+-3
+Terrain: 6850
+-1
+Terrain: 6851
+-1
+Terrain: 6852
+-2
+Terrain: 6853
+45
+Terrain: 6854
+93
+Terrain: 6855
+-3
+Terrain: 6856
+-3
+Terrain: 6857
+-2
+Terrain: 6858
+70
+Terrain: 6859
+-1
+Terrain: 6860
+-1
+Terrain: 6861
+52
+Terrain: 6862
+-3
+Terrain: 6863
+45
+Terrain: 6864
+-2
+Terrain: 6865
+100
+Terrain: 6866
+100
+Terrain: 6867
+-3
+Terrain: 6868
+-2
+Terrain: 6869
+-1
+Terrain: 6870
+-1
+Terrain: 6871
+-1
+Terrain: 6872
+-1
+Terrain: 6873
+84
+Terrain: 6874
+-3
+Terrain: 6875
+-2
+Terrain: 6876
+-3
+Terrain: 6877
+-1
+Terrain: 6878
+-1
+Terrain: 6879
+-1
+Terrain: 6880
+100
+Terrain: 6881
+-1
+Terrain: 6882
+45
+Terrain: 6883
+-1
+Terrain: 6884
+68
+Terrain: 6885
+-2
+Terrain: 6886
+-2
+Terrain: 6887
+-3
+Terrain: 6888
+-2
+Terrain: 6889
+52
+Terrain: 6890
+-1
+Terrain: 6891
+52
+Terrain: 6892
+-3
+Terrain: 6893
+-1
+Terrain: 6894
+45
+Terrain: 6895
+-1
+Terrain: 6896
+52
+Terrain: 6897
+98
+Terrain: 6898
+-3
+Terrain: 6899
+-1
+Terrain: 6900
+45
+Terrain: 6901
+-1
+Terrain: 6902
+68
+Terrain: 6903
+-1
+Terrain: 6904
+52
+Terrain: 6905
+-1
+Terrain: 6906
+45
+Terrain: 6907
+-1
+Terrain: 6908
+-1
+Terrain: 6909
+-1
+Terrain: 6910
+-1
+Terrain: 6911
+-1
+Terrain: 6912
+-3
+Terrain: 6913
+-1
+Terrain: 6914
+-3
+Terrain: 6915
+75
+Terrain: 6916
+-1
+Terrain: 6917
+68
+Terrain: 6918
+-3
+Terrain: 6919
+-2
+Terrain: 6920
+77
+Terrain: 6921
+93
+Terrain: 6922
+-1
+Terrain: 6923
+-1
+Terrain: 6924
+-2
+Terrain: 6925
+-1
+Terrain: 6926
+-1
+Terrain: 6927
+-3
+Terrain: 6928
+98
+Terrain: 6929
+-3
+Terrain: 6930
+-1
+Terrain: 6931
+-1
+Terrain: 6932
+-1
+Terrain: 6933
+68
+Terrain: 6934
+-1
+Terrain: 6935
+-2
+Terrain: 6936
+68
+Terrain: 6937
+-1
+Terrain: 6938
+68
+Terrain: 6939
+52
+Terrain: 6940
+-1
+Terrain: 6941
+-2
+Terrain: 6942
+-2
+Terrain: 6943
+75
+Terrain: 6944
+-2
+Terrain: 6945
+-1
+Terrain: 6946
+68
+Terrain: 6947
+-1
+Terrain: 6948
+52
+Terrain: 6949
+-3
+Terrain: 6950
+52
+Terrain: 6951
+-1
+Terrain: 6952
+-1
+Terrain: 6953
+-1
+Terrain: 6954
+52
+Terrain: 6955
+-1
+Terrain: 6956
+-2
+Terrain: 6957
+52
+Terrain: 6958
+-2
+Terrain: 6959
+-1
+Terrain: 6960
+-1
+Terrain: 6961
+77
+Terrain: 6962
+-1
+Terrain: 6963
+52
+Terrain: 6964
+-2
+Terrain: 6965
+84
+Terrain: 6966
+-1
+Terrain: 6967
+-1
+Terrain: 6968
+-1
+Terrain: 6969
+61
+Terrain: 6970
+-1
+Terrain: 6971
+-2
+Terrain: 6972
+-2
+Terrain: 6973
+-1
+Terrain: 6974
+86
+Terrain: 6975
+-3
+Terrain: 6976
+79
+Terrain: 6977
+-1
+Terrain: 6978
+-3
+Terrain: 6979
+-1
+Terrain: 6980
+68
+Terrain: 6981
+-3
+Terrain: 6982
+-3
+Terrain: 6983
+-2
+Terrain: 6984
+-1
+Terrain: 6985
+45
+Terrain: 6986
+-2
+Terrain: 6987
+52
+Terrain: 6988
+-1
+Terrain: 6989
+-1
+Terrain: 6990
+52
+Terrain: 6991
+-2
+Terrain: 6992
+-1
+Terrain: 6993
+-3
+Terrain: 6994
+-1
+Terrain: 6995
+-2
+Terrain: 6996
+-1
+Terrain: 6997
+52
+Terrain: 6998
+-2
+Terrain: 6999
+-1
+Terrain: 7000
+-2
+Terrain: 7001
+52
+Terrain: 7002
+45
+Terrain: 7003
+-3
+Terrain: 7004
+-2
+Terrain: 7005
+-1
+Terrain: 7006
+-3
+Terrain: 7007
+-2
+Terrain: 7008
+-1
+Terrain: 7009
+-1
+Terrain: 7010
+61
+Terrain: 7011
+-3
+Terrain: 7012
+-2
+Terrain: 7013
+91
+Terrain: 7014
+-1
+Terrain: 7015
+-1
+Terrain: 7016
+-1
+Terrain: 7017
+-2
+Terrain: 7018
+-1
+Terrain: 7019
+79
+Terrain: 7020
+68
+Terrain: 7021
+-1
+Terrain: 7022
+-2
+Terrain: 7023
+-3
+Terrain: 7024
+61
+Terrain: 7025
+-1
+Terrain: 7026
+-3
+Terrain: 7027
+68
+Terrain: 7028
+86
+Terrain: 7029
+-1
+Terrain: 7030
+45
+Terrain: 7031
+52
+Terrain: 7032
+-1
+Terrain: 7033
+-1
+Terrain: 7034
+-1
+Terrain: 7035
+-3
+Terrain: 7036
+-1
+Terrain: 7037
+45
+Terrain: 7038
+-1
+Terrain: 7039
+-3
+Terrain: 7040
+86
+Terrain: 7041
+-3
+Terrain: 7042
+-2
+Terrain: 7043
+-3
+Terrain: 7044
+-1
+Terrain: 7045
+68
+Terrain: 7046
+84
+Terrain: 7047
+-1
+Terrain: 7048
+-2
+Terrain: 7049
+-1
+Terrain: 7050
+75
+Terrain: 7051
+-1
+Terrain: 7052
+-3
+Terrain: 7053
+93
+Terrain: 7054
+-1
+Terrain: 7055
+-3
+Terrain: 7056
+-1
+Terrain: 7057
+-2
+Terrain: 7058
+-3
+Terrain: 7059
+-3
+Terrain: 7060
+-1
+Terrain: 7061
+-3
+Terrain: 7062
+75
+Terrain: 7063
+52
+Terrain: 7064
+-1
+Terrain: 7065
+-1
+Terrain: 7066
+-1
+Terrain: 7067
+-1
+Terrain: 7068
+-3
+Terrain: 7069
+-1
+Terrain: 7070
+86
+Terrain: 7071
+-1
+Terrain: 7072
+-1
+Terrain: 7073
+-2
+Terrain: 7074
+-1
+Terrain: 7075
+-1
+Terrain: 7076
+-1
+Terrain: 7077
+-2
+Terrain: 7078
+-1
+Terrain: 7079
+100
+Terrain: 7080
+61
+Terrain: 7081
+100
+Terrain: 7082
+-2
+Terrain: 7083
+52
+Terrain: 7084
+-1
+Terrain: 7085
+-1
+Terrain: 7086
+-1
+Terrain: 7087
+-3
+Terrain: 7088
+61
+Terrain: 7089
+61
+Terrain: 7090
+-1
+Terrain: 7091
+-1
+Terrain: 7092
+-2
+Terrain: 7093
+-3
+Terrain: 7094
+-1
+Terrain: 7095
+-1
+Terrain: 7096
+-2
+Terrain: 7097
+-1
+Terrain: 7098
+45
+Terrain: 7099
+-3
+Terrain: 7100
+-1
+Terrain: 7101
+-2
+Terrain: 7102
+-2
+Terrain: 7103
+-2
+Terrain: 7104
+-1
+Terrain: 7105
+-1
+Terrain: 7106
+-1
+Terrain: 7107
+52
+Terrain: 7108
+-2
+Terrain: 7109
+-1
+Terrain: 7110
+-3
+Terrain: 7111
+77
+Terrain: 7112
+-2
+Terrain: 7113
+-1
+Terrain: 7114
+-3
+Terrain: 7115
+-1
+Terrain: 7116
+-1
+Terrain: 7117
+-1
+Terrain: 7118
+52
+Terrain: 7119
+52
+Terrain: 7120
+-3
+Terrain: 7121
+-1
+Terrain: 7122
+-1
+Terrain: 7123
+-1
+Terrain: 7124
+-1
+Terrain: 7125
+-1
+Terrain: 7126
+-2
+Terrain: 7127
+-1
+Terrain: 7128
+-2
+Terrain: 7129
+-1
+Terrain: 7130
+-3
+Terrain: 7131
+-2
+Terrain: 7132
+-1
+Terrain: 7133
+95
+Terrain: 7134
+-1
+Terrain: 7135
+-1
+Terrain: 7136
+-1
+Terrain: 7137
+-3
+Terrain: 7138
+-2
+Terrain: 7139
+-1
+Terrain: 7140
+52
+Terrain: 7141
+52
+Terrain: 7142
+52
+Terrain: 7143
+-2
+Terrain: 7144
+-1
+Terrain: 7145
+-1
+Terrain: 7146
+-1
+Terrain: 7147
+-2
+Terrain: 7148
+-2
+Terrain: 7149
+-1
+Terrain: 7150
+52
+Terrain: 7151
+-2
+Terrain: 7152
+-2
+Terrain: 7153
+45
+Terrain: 7154
+-1
+Terrain: 7155
+-1
+Terrain: 7156
+-2
+Terrain: 7157
+-2
+Terrain: 7158
+-1
+Terrain: 7159
+93
+Terrain: 7160
+-1
+Terrain: 7161
+-1
+Terrain: 7162
+-2
+Terrain: 7163
+-2
+Terrain: 7164
+-1
+Terrain: 7165
+-2
+Terrain: 7166
+-2
+Terrain: 7167
+-1
+Terrain: 7168
+75
+Terrain: 7169
+-1
+Terrain: 7170
+45
+Terrain: 7171
+-1
+Terrain: 7172
+-1
+Terrain: 7173
+61
+Terrain: 7174
+-1
+Terrain: 7175
+-1
+Terrain: 7176
+70
+Terrain: 7177
+-3
+Terrain: 7178
+68
+Terrain: 7179
+52
+Terrain: 7180
+-3
+Terrain: 7181
+-1
+Terrain: 7182
+-1
+Terrain: 7183
+77
+Terrain: 7184
+-2
+Terrain: 7185
+86
+Terrain: 7186
+-2
+Terrain: 7187
+68
+Terrain: 7188
+-2
+Terrain: 7189
+-1
+Terrain: 7190
+-1
+Terrain: 7191
+-3
+Terrain: 7192
+-1
+Terrain: 7193
+75
+Terrain: 7194
+-3
+Terrain: 7195
+-1
+Terrain: 7196
+52
+Terrain: 7197
+52
+Terrain: 7198
+-2
+Terrain: 7199
+-1
+Terrain: 7200
+-2
+Terrain: 7201
+-1
+Terrain: 7202
+-3
+Terrain: 7203
+-1
+Terrain: 7204
+-1
+Terrain: 7205
+93
+Terrain: 7206
+-3
+Terrain: 7207
+70
+Terrain: 7208
+-2
+Terrain: 7209
+-2
+Terrain: 7210
+-1
+Terrain: 7211
+-2
+Terrain: 7212
+45
+Terrain: 7213
+-1
+Terrain: 7214
+-2
+Terrain: 7215
+-2
+Terrain: 7216
+-1
+Terrain: 7217
+-1
+Terrain: 7218
+-1
+Terrain: 7219
+45
+Terrain: 7220
+-1
+Terrain: 7221
+-3
+Terrain: 7222
+-1
+Terrain: 7223
+-1
+Terrain: 7224
+-3
+Terrain: 7225
+-1
+Terrain: 7226
+-1
+Terrain: 7227
+61
+Terrain: 7228
+-1
+Terrain: 7229
+-3
+Terrain: 7230
+-1
+Terrain: 7231
+-1
+Terrain: 7232
+-2
+Terrain: 7233
+-2
+Terrain: 7234
+86
+Terrain: 7235
+-1
+Terrain: 7236
+75
+Terrain: 7237
+-1
+Terrain: 7238
+-1
+Terrain: 7239
+-2
+Terrain: 7240
+-1
+Terrain: 7241
+45
+Terrain: 7242
+52
+Terrain: 7243
+-2
+Terrain: 7244
+52
+Terrain: 7245
+61
+Terrain: 7246
+-1
+Terrain: 7247
+45
+Terrain: 7248
+-1
+Terrain: 7249
+-2
+Terrain: 7250
+-1
+Terrain: 7251
+-3
+Terrain: 7252
+61
+Terrain: 7253
+-3
+Terrain: 7254
+-3
+Terrain: 7255
+-2
+Terrain: 7256
+-1
+Terrain: 7257
+-3
+Terrain: 7258
+-3
+Terrain: 7259
+-3
+Terrain: 7260
+-1
+Terrain: 7261
+61
+Terrain: 7262
+52
+Terrain: 7263
+-1
+Terrain: 7264
+-2
+Terrain: 7265
+61
+Terrain: 7266
+77
+Terrain: 7267
+-1
+Terrain: 7268
+-1
+Terrain: 7269
+-1
+Terrain: 7270
+-1
+Terrain: 7271
+52
+Terrain: 7272
+79
+Terrain: 7273
+-2
+Terrain: 7274
+-1
+Terrain: 7275
+68
+Terrain: 7276
+-3
+Terrain: 7277
+-1
+Terrain: 7278
+86
+Terrain: 7279
+-1
+Terrain: 7280
+68
+Terrain: 7281
+-2
+Terrain: 7282
+77
+Terrain: 7283
+-1
+Terrain: 7284
+-2
+Terrain: 7285
+-1
+Terrain: 7286
+-1
+Terrain: 7287
+-1
+Terrain: 7288
+86
+Terrain: 7289
+-3
+Terrain: 7290
+-3
+Terrain: 7291
+-3
+Terrain: 7292
+45
+Terrain: 7293
+61
+Terrain: 7294
+86
+Terrain: 7295
+-2
+Terrain: 7296
+-1
+Terrain: 7297
+-1
+Terrain: 7298
+-1
+Terrain: 7299
+84
+Terrain: 7300
+-3
+Terrain: 7301
+100
+Terrain: 7302
+95
+Terrain: 7303
+-1
+Terrain: 7304
+-3
+Terrain: 7305
+-3
+Terrain: 7306
+45
+Terrain: 7307
+-2
+Terrain: 7308
+-1
+Terrain: 7309
+77
+Terrain: 7310
+-1
+Terrain: 7311
+-2
+Terrain: 7312
+-1
+Terrain: 7313
+-2
+Terrain: 7314
+-2
+Terrain: 7315
+-1
+Terrain: 7316
+77
+Terrain: 7317
+-2
+Terrain: 7318
+68
+Terrain: 7319
+68
+Terrain: 7320
+-3
+Terrain: 7321
+-3
+Terrain: 7322
+84
+Terrain: 7323
+-1
+Terrain: 7324
+-2
+Terrain: 7325
+77
+Terrain: 7326
+-1
+Terrain: 7327
+-3
+Terrain: 7328
+-2
+Terrain: 7329
+45
+Terrain: 7330
+-1
+Terrain: 7331
+-3
+Terrain: 7332
+-1
+Terrain: 7333
+77
+Terrain: 7334
+-2
+Terrain: 7335
+-1
+Terrain: 7336
+-2
+Terrain: 7337
+75
+Terrain: 7338
+-3
+Terrain: 7339
+100
+Terrain: 7340
+77
+Terrain: 7341
+45
+Terrain: 7342
+-3
+Terrain: 7343
+84
+Terrain: 7344
+70
+Terrain: 7345
+68
+Terrain: 7346
+-1
+Terrain: 7347
+45
+Terrain: 7348
+70
+Terrain: 7349
+-1
+Terrain: 7350
+-3
+Terrain: 7351
+91
+Terrain: 7352
+-1
+Terrain: 7353
+68
+Terrain: 7354
+-3
+Terrain: 7355
+-3
+Terrain: 7356
+-1
+Terrain: 7357
+-1
+Terrain: 7358
+-3
+Terrain: 7359
+86
+Terrain: 7360
+68
+Terrain: 7361
+-3
+Terrain: 7362
+-3
+Terrain: 7363
+-1
+Terrain: 7364
+-3
+Terrain: 7365
+-2
+Terrain: 7366
+-3
+Terrain: 7367
+-2
+Terrain: 7368
+-2
+Terrain: 7369
+-3
+Terrain: 7370
+-3
+Terrain: 7371
+-1
+Terrain: 7372
+-1
+Terrain: 7373
+-2
+Terrain: 7374
+-1
+Terrain: 7375
+-1
+Terrain: 7376
+-3
+Terrain: 7377
+45
+Terrain: 7378
+-1
+Terrain: 7379
+-2
+Terrain: 7380
+-1
+Terrain: 7381
+-1
+Terrain: 7382
+-2
+Terrain: 7383
+-1
+Terrain: 7384
+-2
+Terrain: 7385
+52
+Terrain: 7386
+-1
+Terrain: 7387
+79
+Terrain: 7388
+-1
+Terrain: 7389
+-1
+Terrain: 7390
+-1
+Terrain: 7391
+-1
+Terrain: 7392
+45
+Terrain: 7393
+77
+Terrain: 7394
+45
+Terrain: 7395
+45
+Terrain: 7396
+-1
+Terrain: 7397
+-1
+Terrain: 7398
+52
+Terrain: 7399
+86
+Terrain: 7400
+45
+Terrain: 7401
+45
+Terrain: 7402
+52
+Terrain: 7403
+-1
+Terrain: 7404
+86
+Terrain: 7405
+52
+Terrain: 7406
+-1
+Terrain: 7407
+-1
+Terrain: 7408
+-2
+Terrain: 7409
+-1
+Terrain: 7410
+-3
+Terrain: 7411
+-2
+Terrain: 7412
+-1
+Terrain: 7413
+-3
+Terrain: 7414
+-3
+Terrain: 7415
+75
+Terrain: 7416
+-2
+Terrain: 7417
+52
+Terrain: 7418
+52
+Terrain: 7419
+-1
+Terrain: 7420
+-1
+Terrain: 7421
+-2
+Terrain: 7422
+-1
+Terrain: 7423
+68
+Terrain: 7424
+-1
+Terrain: 7425
+-3
+Terrain: 7426
+61
+Terrain: 7427
+-1
+Terrain: 7428
+-3
+Terrain: 7429
+-2
+Terrain: 7430
+-2
+Terrain: 7431
+45
+Terrain: 7432
+-3
+Terrain: 7433
+-3
+Terrain: 7434
+-1
+Terrain: 7435
+-1
+Terrain: 7436
+-1
+Terrain: 7437
+-1
+Terrain: 7438
+-1
+Terrain: 7439
+-1
+Terrain: 7440
+-3
+Terrain: 7441
+-1
+Terrain: 7442
+98
+Terrain: 7443
+52
+Terrain: 7444
+-1
+Terrain: 7445
+-1
+Terrain: 7446
+-2
+Terrain: 7447
+-3
+Terrain: 7448
+68
+Terrain: 7449
+-2
+Terrain: 7450
+-1
+Terrain: 7451
+-1
+Terrain: 7452
+-3
+Terrain: 7453
+100
+Terrain: 7454
+-1
+Terrain: 7455
+70
+Terrain: 7456
+-1
+Terrain: 7457
+-2
+Terrain: 7458
+-2
+Terrain: 7459
+45
+Terrain: 7460
+-1
+Terrain: 7461
+-3
+Terrain: 7462
+-2
+Terrain: 7463
+-2
+Terrain: 7464
+-1
+Terrain: 7465
+70
+Terrain: 7466
+-1
+Terrain: 7467
+-2
+Terrain: 7468
+-2
+Terrain: 7469
+-2
+Terrain: 7470
+-3
+Terrain: 7471
+-1
+Terrain: 7472
+68
+Terrain: 7473
+-3
+Terrain: 7474
+52
+Terrain: 7475
+-1
+Terrain: 7476
+91
+Terrain: 7477
+45
+Terrain: 7478
+-1
+Terrain: 7479
+-1
+Terrain: 7480
+75
+Terrain: 7481
+70
+Terrain: 7482
+-1
+Terrain: 7483
+-1
+Terrain: 7484
+-1
+Terrain: 7485
+-1
+Terrain: 7486
+-2
+Terrain: 7487
+-1
+Terrain: 7488
+-1
+Terrain: 7489
+-1
+Terrain: 7490
+-1
+Terrain: 7491
+-2
+Terrain: 7492
+-1
+Terrain: 7493
+68
+Terrain: 7494
+-1
+Terrain: 7495
+-1
+Terrain: 7496
+100
+Terrain: 7497
+-2
+Terrain: 7498
+-2
+Terrain: 7499
+93
+Terrain: 7500
+-1
+Terrain: 7501
+-1
+Terrain: 7502
+91
+Terrain: 7503
+-1
+Terrain: 7504
+45
+Terrain: 7505
+-1
+Terrain: 7506
+68
+Terrain: 7507
+-3
+Terrain: 7508
+-1
+Terrain: 7509
+79
+Terrain: 7510
+68
+Terrain: 7511
+52
+Terrain: 7512
+70
+Terrain: 7513
+-1
+Terrain: 7514
+-1
+Terrain: 7515
+-1
+Terrain: 7516
+-1
+Terrain: 7517
+-1
+Terrain: 7518
+-1
+Terrain: 7519
+-2
+Terrain: 7520
+-1
+Terrain: 7521
+45
+Terrain: 7522
+-1
+Terrain: 7523
+-3
+Terrain: 7524
+-1
+Terrain: 7525
+-1
+Terrain: 7526
+-1
+Terrain: 7527
+70
+Terrain: 7528
+61
+Terrain: 7529
+-2
+Terrain: 7530
+-3
+Terrain: 7531
+-1
+Terrain: 7532
+-3
+Terrain: 7533
+45
+Terrain: 7534
+-2
+Terrain: 7535
+-1
+Terrain: 7536
+45
+Terrain: 7537
+45
+Terrain: 7538
+45
+Terrain: 7539
+91
+Terrain: 7540
+-1
+Terrain: 7541
+-3
+Terrain: 7542
+68
+Terrain: 7543
+-1
+Terrain: 7544
+-1
+Terrain: 7545
+-2
+Terrain: 7546
+-2
+Terrain: 7547
+-3
+Terrain: 7548
+-1
+Terrain: 7549
+75
+Terrain: 7550
+-2
+Terrain: 7551
+-2
+Terrain: 7552
+-1
+Terrain: 7553
+-2
+Terrain: 7554
+-3
+Terrain: 7555
+-1
+Terrain: 7556
+77
+Terrain: 7557
+-1
+Terrain: 7558
+-1
+Terrain: 7559
+-1
+Terrain: 7560
+-2
+Terrain: 7561
+45
+Terrain: 7562
+75
+Terrain: 7563
+-1
+Terrain: 7564
+68
+Terrain: 7565
+45
+Terrain: 7566
+61
+Terrain: 7567
+-3
+Terrain: 7568
+-2
+Terrain: 7569
+45
+Terrain: 7570
+68
+Terrain: 7571
+-1
+Terrain: 7572
+68
+Terrain: 7573
+-2
+Terrain: 7574
+52
+Terrain: 7575
+61
+Terrain: 7576
+68
+Terrain: 7577
+-1
+Terrain: 7578
+-3
+Terrain: 7579
+-2
+Terrain: 7580
+68
+Terrain: 7581
+-3
+Terrain: 7582
+-3
+Terrain: 7583
+-1
+Terrain: 7584
+-1
+Terrain: 7585
+68
+Terrain: 7586
+-1
+Terrain: 7587
+-3
+Terrain: 7588
+68
+Terrain: 7589
+61
+Terrain: 7590
+68
+Terrain: 7591
+-1
+Terrain: 7592
+-2
+Terrain: 7593
+68
+Terrain: 7594
+-2
+Terrain: 7595
+91
+Terrain: 7596
+-2
+Terrain: 7597
+86
+Terrain: 7598
+61
+Terrain: 7599
+-1
+Terrain: 7600
+-2
+Terrain: 7601
+-1
+Terrain: 7602
+-1
+Terrain: 7603
+52
+Terrain: 7604
+-1
+Terrain: 7605
+-1
+Terrain: 7606
+100
+Terrain: 7607
+52
+Terrain: 7608
+-2
+Terrain: 7609
+52
+Terrain: 7610
+75
+Terrain: 7611
+45
+Terrain: 7612
+68
+Terrain: 7613
+-3
+Terrain: 7614
+-1
+Terrain: 7615
+-3
+Terrain: 7616
+-3
+Terrain: 7617
+-3
+Terrain: 7618
+-3
+Terrain: 7619
+-2
+Terrain: 7620
+-3
+Terrain: 7621
+100
+Terrain: 7622
+-1
+Terrain: 7623
+-1
+Terrain: 7624
+-3
+Terrain: 7625
+45
+Terrain: 7626
+-1
+Terrain: 7627
+61
+Terrain: 7628
+68
+Terrain: 7629
+-1
+Terrain: 7630
+100
+Terrain: 7631
+-1
+Terrain: 7632
+68
+Terrain: 7633
+-1
+Terrain: 7634
+-3
+Terrain: 7635
+75
+Terrain: 7636
+-1
+Terrain: 7637
+-1
+Terrain: 7638
+-3
+Terrain: 7639
+52
+Terrain: 7640
+86
+Terrain: 7641
+-1
+Terrain: 7642
+-3
+Terrain: 7643
+-2
+Terrain: 7644
+79
+Terrain: 7645
+-1
+Terrain: 7646
+86
+Terrain: 7647
+68
+Terrain: 7648
+-3
+Terrain: 7649
+-3
+Terrain: 7650
+84
+Terrain: 7651
+-1
+Terrain: 7652
+52
+Terrain: 7653
+-1
+Terrain: 7654
+-2
+Terrain: 7655
+-2
+Terrain: 7656
+-1
+Terrain: 7657
+-1
+Terrain: 7658
+-3
+Terrain: 7659
+-1
+Terrain: 7660
+-1
+Terrain: 7661
+86
+Terrain: 7662
+45
+Terrain: 7663
+-3
+Terrain: 7664
+-1
+Terrain: 7665
+93
+Terrain: 7666
+-1
+Terrain: 7667
+-1
+Terrain: 7668
+-1
+Terrain: 7669
+52
+Terrain: 7670
+-1
+Terrain: 7671
+-3
+Terrain: 7672
+-1
+Terrain: 7673
+52
+Terrain: 7674
+-1
+Terrain: 7675
+45
+Terrain: 7676
+-1
+Terrain: 7677
+-2
+Terrain: 7678
+-3
+Terrain: 7679
+-1
+Terrain: 7680
+77
+Terrain: 7681
+-1
+Terrain: 7682
+-2
+Terrain: 7683
+45
+Terrain: 7684
+-1
+Terrain: 7685
+-3
+Terrain: 7686
+61
+Terrain: 7687
+-2
+Terrain: 7688
+-1
+Terrain: 7689
+52
+Terrain: 7690
+-1
+Terrain: 7691
+-3
+Terrain: 7692
+-2
+Terrain: 7693
+-2
+Terrain: 7694
+61
+Terrain: 7695
+-1
+Terrain: 7696
+-1
+Terrain: 7697
+-3
+Terrain: 7698
+84
+Terrain: 7699
+-1
+Terrain: 7700
+-1
+Terrain: 7701
+-2
+Terrain: 7702
+-1
+Terrain: 7703
+-3
+Terrain: 7704
+-3
+Terrain: 7705
+45
+Terrain: 7706
+68
+Terrain: 7707
+-2
+Terrain: 7708
+-1
+Terrain: 7709
+-1
+Terrain: 7710
+-2
+Terrain: 7711
+-3
+Terrain: 7712
+61
+Terrain: 7713
+-3
+Terrain: 7714
+86
+Terrain: 7715
+84
+Terrain: 7716
+45
+Terrain: 7717
+-2
+Terrain: 7718
+93
+Terrain: 7719
+84
+Terrain: 7720
+-1
+Terrain: 7721
+-3
+Terrain: 7722
+-1
+Terrain: 7723
+75
+Terrain: 7724
+-1
+Terrain: 7725
+-3
+Terrain: 7726
+86
+Terrain: 7727
+-2
+Terrain: 7728
+-1
+Terrain: 7729
+-1
+Terrain: 7730
+-3
+Terrain: 7731
+52
+Terrain: 7732
+-3
+Terrain: 7733
+61
+Terrain: 7734
+100
+Terrain: 7735
+-3
+Terrain: 7736
+-1
+Terrain: 7737
+-2
+Terrain: 7738
+-2
+Terrain: 7739
+-1
+Terrain: 7740
+-1
+Terrain: 7741
+86
+Terrain: 7742
+-3
+Terrain: 7743
+52
+Terrain: 7744
+-1
+Terrain: 7745
+68
+Terrain: 7746
+-1
+Terrain: 7747
+61
+Terrain: 7748
+-1
+Terrain: 7749
+-2
+Terrain: 7750
+68
+Terrain: 7751
+-1
+Terrain: 7752
+-2
+Terrain: 7753
+-1
+Terrain: 7754
+93
+Terrain: 7755
+-2
+Terrain: 7756
+-3
+Terrain: 7757
+-3
+Terrain: 7758
+-1
+Terrain: 7759
+-2
+Terrain: 7760
+-3
+Terrain: 7761
+-3
+Terrain: 7762
+61
+Terrain: 7763
+-1
+Terrain: 7764
+-1
+Terrain: 7765
+-1
+Terrain: 7766
+52
+Terrain: 7767
+79
+Terrain: 7768
+-2
+Terrain: 7769
+-3
+Terrain: 7770
+-2
+Terrain: 7771
+77
+Terrain: 7772
+68
+Terrain: 7773
+-1
+Terrain: 7774
+-3
+Terrain: 7775
+-2
+Terrain: 7776
+-2
+Terrain: 7777
+-1
+Terrain: 7778
+-2
+Terrain: 7779
+-3
+Terrain: 7780
+-1
+Terrain: 7781
+45
+Terrain: 7782
+-2
+Terrain: 7783
+-3
+Terrain: 7784
+-2
+Terrain: 7785
+93
+Terrain: 7786
+75
+Terrain: 7787
+-1
+Terrain: 7788
+-1
+Terrain: 7789
+61
+Terrain: 7790
+-1
+Terrain: 7791
+75
+Terrain: 7792
+-1
+Terrain: 7793
+-2
+Terrain: 7794
+-1
+Terrain: 7795
+-2
+Terrain: 7796
+-2
+Terrain: 7797
+-1
+Terrain: 7798
+68
+Terrain: 7799
+-1
+Terrain: 7800
+52
+Terrain: 7801
+-1
+Terrain: 7802
+-3
+Terrain: 7803
+-3
+Terrain: 7804
+91
+Terrain: 7805
+45
+Terrain: 7806
+-1
+Terrain: 7807
+-1
+Terrain: 7808
+-1
+Terrain: 7809
+-2
+Terrain: 7810
+-1
+Terrain: 7811
+-3
+Terrain: 7812
+-2
+Terrain: 7813
+-1
+Terrain: 7814
+-1
+Terrain: 7815
+-1
+Terrain: 7816
+45
+Terrain: 7817
+-3
+Terrain: 7818
+-2
+Terrain: 7819
+68
+Terrain: 7820
+-1
+Terrain: 7821
+-3
+Terrain: 7822
+-2
+Terrain: 7823
+52
+Terrain: 7824
+-1
+Terrain: 7825
+45
+Terrain: 7826
+-3
+Terrain: 7827
+-1
+Terrain: 7828
+-1
+Terrain: 7829
+-2
+Terrain: 7830
+-1
+Terrain: 7831
+-3
+Terrain: 7832
+-1
+Terrain: 7833
+-2
+Terrain: 7834
+-2
+Terrain: 7835
+100
+Terrain: 7836
+-1
+Terrain: 7837
+45
+Terrain: 7838
+-2
+Terrain: 7839
+91
+Terrain: 7840
+-2
+Terrain: 7841
+61
+Terrain: 7842
+-1
+Terrain: 7843
+-3
+Terrain: 7844
+52
+Terrain: 7845
+-1
+Terrain: 7846
+68
+Terrain: 7847
+-2
+Terrain: 7848
+-1
+Terrain: 7849
+-1
+Terrain: 7850
+-1
+Terrain: 7851
+-2
+Terrain: 7852
+-2
+Terrain: 7853
+-2
+Terrain: 7854
+-1
+Terrain: 7855
+-1
+Terrain: 7856
+-1
+Terrain: 7857
+-3
+Terrain: 7858
+-3
+Terrain: 7859
+98
+Terrain: 7860
+-1
+Terrain: 7861
+-1
+Terrain: 7862
+-3
+Terrain: 7863
+-1
+Terrain: 7864
+-1
+Terrain: 7865
+45
+Terrain: 7866
+-2
+Terrain: 7867
+-3
+Terrain: 7868
+75
+Terrain: 7869
+-2
+Terrain: 7870
+-2
+Terrain: 7871
+-1
+Terrain: 7872
+-2
+Terrain: 7873
+-2
+Terrain: 7874
+-1
+Terrain: 7875
+-1
+Terrain: 7876
+77
+Terrain: 7877
+100
+Terrain: 7878
+52
+Terrain: 7879
+-1
+Terrain: 7880
+-1
+Terrain: 7881
+-1
+Terrain: 7882
+68
+Terrain: 7883
+75
+Terrain: 7884
+-1
+Terrain: 7885
+-2
+Terrain: 7886
+45
+Terrain: 7887
+93
+Terrain: 7888
+-1
+Terrain: 7889
+-1
+Terrain: 7890
+-3
+Terrain: 7891
+-3
+Terrain: 7892
+91
+Terrain: 7893
+-3
+Terrain: 7894
+-2
+Terrain: 7895
+52
+Terrain: 7896
+-1
+Terrain: 7897
+-1
+Terrain: 7898
+-1
+Terrain: 7899
+-3
+Terrain: 7900
+-2
+Terrain: 7901
+61
+Terrain: 7902
+-1
+Terrain: 7903
+45
+Terrain: 7904
+-2
+Terrain: 7905
+-3
+Terrain: 7906
+68
+Terrain: 7907
+-1
+Terrain: 7908
+52
+Terrain: 7909
+-3
+Terrain: 7910
+-2
+Terrain: 7911
+-1
+Terrain: 7912
+77
+Terrain: 7913
+-2
+Terrain: 7914
+-1
+Terrain: 7915
+-1
+Terrain: 7916
+77
+Terrain: 7917
+61
+Terrain: 7918
+-3
+Terrain: 7919
+68
+Terrain: 7920
+77
+Terrain: 7921
+-3
+Terrain: 7922
+70
+Terrain: 7923
+-1
+Terrain: 7924
+45
+Terrain: 7925
+-3
+Terrain: 7926
+52
+Terrain: 7927
+-1
+Terrain: 7928
+-3
+Terrain: 7929
+-2
+Terrain: 7930
+-2
+Terrain: 7931
+-1
+Terrain: 7932
+-3
+Terrain: 7933
+91
+Terrain: 7934
+-1
+Terrain: 7935
+-3
+Terrain: 7936
+-2
+Terrain: 7937
+52
+Terrain: 7938
+-1
+Terrain: 7939
+79
+Terrain: 7940
+-3
+Terrain: 7941
+-2
+Terrain: 7942
+52
+Terrain: 7943
+-2
+Terrain: 7944
+-3
+Terrain: 7945
+77
+Terrain: 7946
+52
+Terrain: 7947
+52
+Terrain: 7948
+100
+Terrain: 7949
+86
+Terrain: 7950
+-3
+Terrain: 7951
+-2
+Terrain: 7952
+-3
+Terrain: 7953
+77
+Terrain: 7954
+-1
+Terrain: 7955
+52
+Terrain: 7956
+-2
+Terrain: 7957
+-1
+Terrain: 7958
+-2
+Terrain: 7959
+-2
+Terrain: 7960
+-1
+Terrain: 7961
+-1
+Terrain: 7962
+-1
+Terrain: 7963
+-1
+Terrain: 7964
+52
+Terrain: 7965
+68
+Terrain: 7966
+100
+Terrain: 7967
+-3
+Terrain: 7968
+-2
+Terrain: 7969
+45
+Terrain: 7970
+-1
+Terrain: 7971
+70
+Terrain: 7972
+-1
+Terrain: 7973
+-2
+Terrain: 7974
+-1
+Terrain: 7975
+-1
+Terrain: 7976
+-1
+Terrain: 7977
+-2
+Terrain: 7978
+77
+Terrain: 7979
+-2
+Terrain: 7980
+100
+Terrain: 7981
+-3
+Terrain: 7982
+-3
+Terrain: 7983
+-1
+Terrain: 7984
+-2
+Terrain: 7985
+-1
+Terrain: 7986
+77
+Terrain: 7987
+-1
+Terrain: 7988
+-2
+Terrain: 7989
+61
+Terrain: 7990
+-1
+Terrain: 7991
+-1
+Terrain: 7992
+-1
+Terrain: 7993
+-2
+Terrain: 7994
+-1
+Terrain: 7995
+45
+Terrain: 7996
+-1
+Terrain: 7997
+93
+Terrain: 7998
+-1
+Terrain: 7999
+-1
+Terrain: 8000
+77
+Terrain: 8001
+-3
+Terrain: 8002
+-1
+Terrain: 8003
+-1
+Terrain: 8004
+75
+Terrain: 8005
+-1
+Terrain: 8006
+-1
+Terrain: 8007
+-2
+Terrain: 8008
+-2
+Terrain: 8009
+-1
+Terrain: 8010
+-2
+Terrain: 8011
+-3
+Terrain: 8012
+-1
+Terrain: 8013
+-2
+Terrain: 8014
+-2
+Terrain: 8015
+-2
+Terrain: 8016
+-1
+Terrain: 8017
+-1
+Terrain: 8018
+93
+Terrain: 8019
+-1
+Terrain: 8020
+68
+Terrain: 8021
+-3
+Terrain: 8022
+-1
+Terrain: 8023
+-2
+Terrain: 8024
+45
+Terrain: 8025
+-3
+Terrain: 8026
+-1
+Terrain: 8027
+86
+Terrain: 8028
+86
+Terrain: 8029
+-3
+Terrain: 8030
+-1
+Terrain: 8031
+45
+Terrain: 8032
+-1
+Terrain: 8033
+-3
+Terrain: 8034
+-1
+Terrain: 8035
+-3
+Terrain: 8036
+-2
+Terrain: 8037
+68
+Terrain: 8038
+75
+Terrain: 8039
+-2
+Terrain: 8040
+-1
+Terrain: 8041
+-1
+Terrain: 8042
+-1
+Terrain: 8043
+-2
+Terrain: 8044
+-1
+Terrain: 8045
+-1
+Terrain: 8046
+-1
+Terrain: 8047
+-3
+Terrain: 8048
+-1
+Terrain: 8049
+-2
+Terrain: 8050
+-1
+Terrain: 8051
+-1
+Terrain: 8052
+-3
+Terrain: 8053
+-2
+Terrain: 8054
+86
+Terrain: 8055
+-3
+Terrain: 8056
+-2
+Terrain: 8057
+70
+Terrain: 8058
+-2
+Terrain: 8059
+-2
+Terrain: 8060
+-1
+Terrain: 8061
+-3
+Terrain: 8062
+-2
+Terrain: 8063
+-1
+Terrain: 8064
+-1
+Terrain: 8065
+61
+Terrain: 8066
+-3
+Terrain: 8067
+-2
+Terrain: 8068
+-3
+Terrain: 8069
+-2
+Terrain: 8070
+-1
+Terrain: 8071
+-1
+Terrain: 8072
+-1
+Terrain: 8073
+-1
+Terrain: 8074
+-3
+Terrain: 8075
+-2
+Terrain: 8076
+79
+Terrain: 8077
+-2
+Terrain: 8078
+-2
+Terrain: 8079
+-1
+Terrain: 8080
+-2
+Terrain: 8081
+-1
+Terrain: 8082
+-1
+Terrain: 8083
+-2
+Terrain: 8084
+70
+Terrain: 8085
+-3
+Terrain: 8086
+-3
+Terrain: 8087
+-2
+Terrain: 8088
+45
+Terrain: 8089
+100
+Terrain: 8090
+-1
+Terrain: 8091
+-2
+Terrain: 8092
+68
+Terrain: 8093
+52
+Terrain: 8094
+-2
+Terrain: 8095
+-2
+Terrain: 8096
+-1
+Terrain: 8097
+-1
+Terrain: 8098
+-3
+Terrain: 8099
+-3
+Terrain: 8100
+-1
+Terrain: 8101
+52
+Terrain: 8102
+68
+Terrain: 8103
+-2
+Terrain: 8104
+-1
+Terrain: 8105
+-1
+Terrain: 8106
+-2
+Terrain: 8107
+-1
+Terrain: 8108
+-2
+Terrain: 8109
+-3
+Terrain: 8110
+-1
+Terrain: 8111
+77
+Terrain: 8112
+-3
+Terrain: 8113
+-1
+Terrain: 8114
+-1
+Terrain: 8115
+-3
+Terrain: 8116
+-1
+Terrain: 8117
+-3
+Terrain: 8118
+84
+Terrain: 8119
+-1
+Terrain: 8120
+-1
+Terrain: 8121
+-1
+Terrain: 8122
+-1
+Terrain: 8123
+-1
+Terrain: 8124
+77
+Terrain: 8125
+-1
+Terrain: 8126
+-3
+Terrain: 8127
+68
+Terrain: 8128
+-1
+Terrain: 8129
+-3
+Terrain: 8130
+-1
+Terrain: 8131
+-3
+Terrain: 8132
+93
+Terrain: 8133
+-1
+Terrain: 8134
+-1
+Terrain: 8135
+-2
+Terrain: 8136
+93
+Terrain: 8137
+-1
+Terrain: 8138
+-1
+Terrain: 8139
+-2
+Terrain: 8140
+-3
+Terrain: 8141
+-1
+Terrain: 8142
+-3
+Terrain: 8143
+-1
+Terrain: 8144
+52
+Terrain: 8145
+-3
+Terrain: 8146
+-1
+Terrain: 8147
+-1
+Terrain: 8148
+-1
+Terrain: 8149
+100
+Terrain: 8150
+52
+Terrain: 8151
+77
+Terrain: 8152
+-1
+Terrain: 8153
+-1
+Terrain: 8154
+-1
+Terrain: 8155
+84
+Terrain: 8156
+-2
+Terrain: 8157
+-1
+Terrain: 8158
+-1
+Terrain: 8159
+-1
+Terrain: 8160
+-1
+Terrain: 8161
+-1
+Terrain: 8162
+68
+Terrain: 8163
+-3
+Terrain: 8164
+-1
+Terrain: 8165
+-1
+Terrain: 8166
+84
+Terrain: 8167
+-1
+Terrain: 8168
+-1
+Terrain: 8169
+52
+Terrain: 8170
+-3
+Terrain: 8171
+-2
+Terrain: 8172
+61
+Terrain: 8173
+-1
+Terrain: 8174
+-2
+Terrain: 8175
+-3
+Terrain: 8176
+-1
+Terrain: 8177
+-2
+Terrain: 8178
+-1
+Terrain: 8179
+-3
+Terrain: 8180
+-2
+Terrain: 8181
+70
+Terrain: 8182
+91
+Terrain: 8183
+93
+Terrain: 8184
+-3
+Terrain: 8185
+-3
+Terrain: 8186
+-1
+Terrain: 8187
+-2
+Terrain: 8188
+-3
+Terrain: 8189
+-2
+Terrain: 8190
+-1
+Terrain: 8191
+-1
+Terrain: 8192
+-1
+Terrain: 8193
+-1
+Terrain: 8194
+-1
+Terrain: 8195
+52
+Terrain: 8196
+-1
+Terrain: 8197
+84
+Terrain: 8198
+-2
+Terrain: 8199
+68
+Terrain: 8200
+-1
+Terrain: 8201
+-1
+Terrain: 8202
+91
+Terrain: 8203
+70
+Terrain: 8204
+-3
+Terrain: 8205
+-1
+Terrain: 8206
+-3
+Terrain: 8207
+-1
+Terrain: 8208
+-1
+Terrain: 8209
+-1
+Terrain: 8210
+-2
+Terrain: 8211
+-2
+Terrain: 8212
+-1
+Terrain: 8213
+-1
+Terrain: 8214
+-1
+Terrain: 8215
+-1
+Terrain: 8216
+-2
+Terrain: 8217
+-3
+Terrain: 8218
+-1
+Terrain: 8219
+-2
+Terrain: 8220
+-2
+Terrain: 8221
+-1
+Terrain: 8222
+-2
+Terrain: 8223
+45
+Terrain: 8224
+-3
+Terrain: 8225
+86
+Terrain: 8226
+-3
+Terrain: 8227
+-1
+Terrain: 8228
+61
+Terrain: 8229
+100
+Terrain: 8230
+79
+Terrain: 8231
+-1
+Terrain: 8232
+61
+Terrain: 8233
+-1
+Terrain: 8234
+-1
+Terrain: 8235
+77
+Terrain: 8236
+-1
+Terrain: 8237
+-1
+Terrain: 8238
+-2
+Terrain: 8239
+-3
+Terrain: 8240
+-1
+Terrain: 8241
+93
+Terrain: 8242
+-1
+Terrain: 8243
+-3
+Terrain: 8244
+-3
+Terrain: 8245
+-1
+Terrain: 8246
+-1
+Terrain: 8247
+-1
+Terrain: 8248
+45
+Terrain: 8249
+68
+Terrain: 8250
+-2
+Terrain: 8251
+-1
+Terrain: 8252
+-1
+Terrain: 8253
+-1
+Terrain: 8254
+-1
+Terrain: 8255
+-1
+Terrain: 8256
+-1
+Terrain: 8257
+84
+Terrain: 8258
+-1
+Terrain: 8259
+-1
+Terrain: 8260
+-1
+Terrain: 8261
+-1
+Terrain: 8262
+45
+Terrain: 8263
+-2
+Terrain: 8264
+-1
+Terrain: 8265
+-1
+Terrain: 8266
+-3
+Terrain: 8267
+68
+Terrain: 8268
+-2
+Terrain: 8269
+86
+Terrain: 8270
+-3
+Terrain: 8271
+-2
+Terrain: 8272
+-1
+Terrain: 8273
+-2
+Terrain: 8274
+-2
+Terrain: 8275
+-1
+Terrain: 8276
+-3
+Terrain: 8277
+-3
+Terrain: 8278
+-3
+Terrain: 8279
+45
+Terrain: 8280
+-1
+Terrain: 8281
+61
+Terrain: 8282
+45
+Terrain: 8283
+-1
+Terrain: 8284
+-3
+Terrain: 8285
+-1
+Terrain: 8286
+-1
+Terrain: 8287
+77
+Terrain: 8288
+52
+Terrain: 8289
+91
+Terrain: 8290
+52
+Terrain: 8291
+-1
+Terrain: 8292
+-1
+Terrain: 8293
+-3
+Terrain: 8294
+-1
+Terrain: 8295
+-1
+Terrain: 8296
+70
+Terrain: 8297
+-1
+Terrain: 8298
+-1
+Terrain: 8299
+-2
+Terrain: 8300
+-1
+Terrain: 8301
+52
+Terrain: 8302
+52
+Terrain: 8303
+-3
+Terrain: 8304
+-1
+Terrain: 8305
+-1
+Terrain: 8306
+77
+Terrain: 8307
+-1
+Terrain: 8308
+-2
+Terrain: 8309
+68
+Terrain: 8310
+61
+Terrain: 8311
+91
+Terrain: 8312
+-1
+Terrain: 8313
+-3
+Terrain: 8314
+-1
+Terrain: 8315
+52
+Terrain: 8316
+-1
+Terrain: 8317
+-3
+Terrain: 8318
+-1
+Terrain: 8319
+-1
+Terrain: 8320
+-3
+Terrain: 8321
+-3
+Terrain: 8322
+-1
+Terrain: 8323
+-3
+Terrain: 8324
+-1
+Terrain: 8325
+100
+Terrain: 8326
+-1
+Terrain: 8327
+-1
+Terrain: 8328
+-3
+Terrain: 8329
+-2
+Terrain: 8330
+-1
+Terrain: 8331
+-1
+Terrain: 8332
+-2
+Terrain: 8333
+45
+Terrain: 8334
+61
+Terrain: 8335
+-2
+Terrain: 8336
+-2
+Terrain: 8337
+-3
+Terrain: 8338
+45
+Terrain: 8339
+-1
+Terrain: 8340
+-1
+Terrain: 8341
+-1
+Terrain: 8342
+-2
+Terrain: 8343
+84
+Terrain: 8344
+-1
+Terrain: 8345
+-3
+Terrain: 8346
+93
+Terrain: 8347
+68
+Terrain: 8348
+61
+Terrain: 8349
+84
+Terrain: 8350
+-1
+Terrain: 8351
+52
+Terrain: 8352
+-2
+Terrain: 8353
+45
+Terrain: 8354
+-3
+Terrain: 8355
+-2
+Terrain: 8356
+-2
+Terrain: 8357
+-2
+Terrain: 8358
+-1
+Terrain: 8359
+-3
+Terrain: 8360
+-3
+Terrain: 8361
+75
+Terrain: 8362
+-1
+Terrain: 8363
+-3
+Terrain: 8364
+91
+Terrain: 8365
+86
+Terrain: 8366
+-2
+Terrain: 8367
+93
+Terrain: 8368
+-1
+Terrain: 8369
+-2
+Terrain: 8370
+-1
+Terrain: 8371
+45
+Terrain: 8372
+-3
+Terrain: 8373
+-1
+Terrain: 8374
+-1
+Terrain: 8375
+-1
+Terrain: 8376
+-1
+Terrain: 8377
+-2
+Terrain: 8378
+-2
+Terrain: 8379
+93
+Terrain: 8380
+79
+Terrain: 8381
+-1
+Terrain: 8382
+-1
+Terrain: 8383
+84
+Terrain: 8384
+-2
+Terrain: 8385
+-3
+Terrain: 8386
+-1
+Terrain: 8387
+52
+Terrain: 8388
+-1
+Terrain: 8389
+-1
+Terrain: 8390
+-3
+Terrain: 8391
+-1
+Terrain: 8392
+84
+Terrain: 8393
+-2
+Terrain: 8394
+68
+Terrain: 8395
+68
+Terrain: 8396
+-1
+Terrain: 8397
+45
+Terrain: 8398
+-1
+Terrain: 8399
+-3
+Terrain: 8400
+-3
+Terrain: 8401
+-1
+Terrain: 8402
+-2
+Terrain: 8403
+-1
+Terrain: 8404
+-3
+Terrain: 8405
+-3
+Terrain: 8406
+-1
+Terrain: 8407
+-1
+Terrain: 8408
+-2
+Terrain: 8409
+-1
+Terrain: 8410
+-2
+Terrain: 8411
+-1
+Terrain: 8412
+45
+Terrain: 8413
+52
+Terrain: 8414
+-1
+Terrain: 8415
+-1
+Terrain: 8416
+-1
+Terrain: 8417
+-2
+Terrain: 8418
+-3
+Terrain: 8419
+-3
+Terrain: 8420
+-1
+Terrain: 8421
+-3
+Terrain: 8422
+-2
+Terrain: 8423
+-1
+Terrain: 8424
+-1
+Terrain: 8425
+100
+Terrain: 8426
+-1
+Terrain: 8427
+-1
+Terrain: 8428
+93
+Terrain: 8429
+93
+Terrain: 8430
+-2
+Terrain: 8431
+91
+Terrain: 8432
+-1
+Terrain: 8433
+-2
+Terrain: 8434
+-1
+Terrain: 8435
+-1
+Terrain: 8436
+45
+Terrain: 8437
+-2
+Terrain: 8438
+-2
+Terrain: 8439
+61
+Terrain: 8440
+-1
+Terrain: 8441
+-1
+Terrain: 8442
+61
+Terrain: 8443
+52
+Terrain: 8444
+-2
+Terrain: 8445
+-3
+Terrain: 8446
+61
+Terrain: 8447
+-1
+Terrain: 8448
+45
+Terrain: 8449
+77
+Terrain: 8450
+45
+Terrain: 8451
+-2
+Terrain: 8452
+-1
+Terrain: 8453
+75
+Terrain: 8454
+-1
+Terrain: 8455
+-2
+Terrain: 8456
+-2
+Terrain: 8457
+-1
+Terrain: 8458
+84
+Terrain: 8459
+-3
+Terrain: 8460
+45
+Terrain: 8461
+52
+Terrain: 8462
+-2
+Terrain: 8463
+-3
+Terrain: 8464
+52
+Terrain: 8465
+68
+Terrain: 8466
+-3
+Terrain: 8467
+-3
+Terrain: 8468
+98
+Terrain: 8469
+84
+Terrain: 8470
+-1
+Terrain: 8471
+-1
+Terrain: 8472
+-3
+Terrain: 8473
+68
+Terrain: 8474
+-1
+Terrain: 8475
+-1
+Terrain: 8476
+75
+Terrain: 8477
+61
+Terrain: 8478
+70
+Terrain: 8479
+-2
+Terrain: 8480
+-2
+Terrain: 8481
+-2
+Terrain: 8482
+-1
+Terrain: 8483
+68
+Terrain: 8484
+-2
+Terrain: 8485
+-1
+Terrain: 8486
+-1
+Terrain: 8487
+-3
+Terrain: 8488
+-1
+Terrain: 8489
+-2
+Terrain: 8490
+75
+Terrain: 8491
+-1
+Terrain: 8492
+-1
+Terrain: 8493
+61
+Terrain: 8494
+45
+Terrain: 8495
+100
+Terrain: 8496
+-1
+Terrain: 8497
+-1
+Terrain: 8498
+-2
+Terrain: 8499
+-1
+Terrain: 8500
+-2
+Terrain: 8501
+61
+Terrain: 8502
+-1
+Terrain: 8503
+61
+Terrain: 8504
+-1
+Terrain: 8505
+86
+Terrain: 8506
+-2
+Terrain: 8507
+68
+Terrain: 8508
+-1
+Terrain: 8509
+-1
+Terrain: 8510
+-2
+Terrain: 8511
+61
+Terrain: 8512
+68
+Terrain: 8513
+45
+Terrain: 8514
+-1
+Terrain: 8515
+100
+Terrain: 8516
+-1
+Terrain: 8517
+52
+Terrain: 8518
+-1
+Terrain: 8519
+-1
+Terrain: 8520
+86
+Terrain: 8521
+45
+Terrain: 8522
+-1
+Terrain: 8523
+-1
+Terrain: 8524
+52
+Terrain: 8525
+52
+Terrain: 8526
+-1
+Terrain: 8527
+68
+Terrain: 8528
+-1
+Terrain: 8529
+-1
+Terrain: 8530
+-1
+Terrain: 8531
+98
+Terrain: 8532
+-3
+Terrain: 8533
+-3
+Terrain: 8534
+-1
+Terrain: 8535
+-1
+Terrain: 8536
+-3
+Terrain: 8537
+52
+Terrain: 8538
+-2
+Terrain: 8539
+-2
+Terrain: 8540
+-2
+Terrain: 8541
+-1
+Terrain: 8542
+-1
+Terrain: 8543
+-1
+Terrain: 8544
+100
+Terrain: 8545
+-2
+Terrain: 8546
+-3
+Terrain: 8547
+-1
+Terrain: 8548
+-1
+Terrain: 8549
+-2
+Terrain: 8550
+-1
+Terrain: 8551
+-1
+Terrain: 8552
+100
+Terrain: 8553
+86
+Terrain: 8554
+-1
+Terrain: 8555
+-3
+Terrain: 8556
+-3
+Terrain: 8557
+-1
+Terrain: 8558
+-1
+Terrain: 8559
+93
+Terrain: 8560
+-3
+Terrain: 8561
+-2
+Terrain: 8562
+45
+Terrain: 8563
+-3
+Terrain: 8564
+77
+Terrain: 8565
+45
+Terrain: 8566
+-1
+Terrain: 8567
+-1
+Terrain: 8568
+86
+Terrain: 8569
+84
+Terrain: 8570
+52
+Terrain: 8571
+-2
+Terrain: 8572
+-1
+Terrain: 8573
+45
+Terrain: 8574
+45
+Terrain: 8575
+-3
+Terrain: 8576
+61
+Terrain: 8577
+91
+Terrain: 8578
+-3
+Terrain: 8579
+68
+Terrain: 8580
+-1
+Terrain: 8581
+86
+Terrain: 8582
+-3
+Terrain: 8583
+45
+Terrain: 8584
+-3
+Terrain: 8585
+45
+Terrain: 8586
+-2
+Terrain: 8587
+-1
+Terrain: 8588
+-1
+Terrain: 8589
+-2
+Terrain: 8590
+45
+Terrain: 8591
+-3
+Terrain: 8592
+-1
+Terrain: 8593
+-3
+Terrain: 8594
+75
+Terrain: 8595
+68
+Terrain: 8596
+-1
+Terrain: 8597
+-1
+Terrain: 8598
+-2
+Terrain: 8599
+52
+Terrain: 8600
+-2
+Terrain: 8601
+-1
+Terrain: 8602
+-1
+Terrain: 8603
+93
+Terrain: 8604
+-1
+Terrain: 8605
+45
+Terrain: 8606
+-1
+Terrain: 8607
+-1
+Terrain: 8608
+-3
+Terrain: 8609
+-3
+Terrain: 8610
+-2
+Terrain: 8611
+-3
+Terrain: 8612
+-1
+Terrain: 8613
+-3
+Terrain: 8614
+-1
+Terrain: 8615
+-3
+Terrain: 8616
+-1
+Terrain: 8617
+-1
+Terrain: 8618
+-3
+Terrain: 8619
+75
+Terrain: 8620
+-1
+Terrain: 8621
+-3
+Terrain: 8622
+-3
+Terrain: 8623
+-3
+Terrain: 8624
+-1
+Terrain: 8625
+-1
+Terrain: 8626
+52
+Terrain: 8627
+-2
+Terrain: 8628
+-2
+Terrain: 8629
+-3
+Terrain: 8630
+-2
+Terrain: 8631
+-3
+Terrain: 8632
+-2
+Terrain: 8633
+-2
+Terrain: 8634
+-2
+Terrain: 8635
+-3
+Terrain: 8636
+-3
+Terrain: 8637
+-1
+Terrain: 8638
+-2
+Terrain: 8639
+52
+Terrain: 8640
+-3
+Terrain: 8641
+-1
+Terrain: 8642
+-2
+Terrain: 8643
+-3
+Terrain: 8644
+-1
+Terrain: 8645
+-1
+Terrain: 8646
+-3
+Terrain: 8647
+-3
+Terrain: 8648
+95
+Terrain: 8649
+-1
+Terrain: 8650
+52
+Terrain: 8651
+-1
+Terrain: 8652
+-1
+Terrain: 8653
+-1
+Terrain: 8654
+75
+Terrain: 8655
+68
+Terrain: 8656
+-1
+Terrain: 8657
+-3
+Terrain: 8658
+-3
+Terrain: 8659
+100
+Terrain: 8660
+-1
+Terrain: 8661
+-2
+Terrain: 8662
+-2
+Terrain: 8663
+-1
+Terrain: 8664
+77
+Terrain: 8665
+-2
+Terrain: 8666
+77
+Terrain: 8667
+-1
+Terrain: 8668
+-1
+Terrain: 8669
+-2
+Terrain: 8670
+84
+Terrain: 8671
+-1
+Terrain: 8672
+-1
+Terrain: 8673
+-3
+Terrain: 8674
+93
+Terrain: 8675
+45
+Terrain: 8676
+-2
+Terrain: 8677
+86
+Terrain: 8678
+-1
+Terrain: 8679
+61
+Terrain: 8680
+-2
+Terrain: 8681
+-2
+Terrain: 8682
+45
+Terrain: 8683
+-3
+Terrain: 8684
+61
+Terrain: 8685
+61
+Terrain: 8686
+45
+Terrain: 8687
+75
+Terrain: 8688
+-1
+Terrain: 8689
+-1
+Terrain: 8690
+-2
+Terrain: 8691
+-1
+Terrain: 8692
+-2
+Terrain: 8693
+68
+Terrain: 8694
+-1
+Terrain: 8695
+-2
+Terrain: 8696
+45
+Terrain: 8697
+-1
+Terrain: 8698
+-3
+Terrain: 8699
+-3
+Terrain: 8700
+86
+Terrain: 8701
+-2
+Terrain: 8702
+84
+Terrain: 8703
+-2
+Terrain: 8704
+-3
+Terrain: 8705
+-1
+Terrain: 8706
+-1
+Terrain: 8707
+-1
+Terrain: 8708
+-1
+Terrain: 8709
+-1
+Terrain: 8710
+61
+Terrain: 8711
+84
+Terrain: 8712
+-2
+Terrain: 8713
+98
+Terrain: 8714
+-2
+Terrain: 8715
+-2
+Terrain: 8716
+-1
+Terrain: 8717
+-3
+Terrain: 8718
+45
+Terrain: 8719
+68
+Terrain: 8720
+-1
+Terrain: 8721
+-1
+Terrain: 8722
+-2
+Terrain: 8723
+-2
+Terrain: 8724
+100
+Terrain: 8725
+-1
+Terrain: 8726
+-2
+Terrain: 8727
+-1
+Terrain: 8728
+-2
+Terrain: 8729
+77
+Terrain: 8730
+-3
+Terrain: 8731
+-1
+Terrain: 8732
+68
+Terrain: 8733
+-1
+Terrain: 8734
+-3
+Terrain: 8735
+-1
+Terrain: 8736
+-2
+Terrain: 8737
+79
+Terrain: 8738
+77
+Terrain: 8739
+84
+Terrain: 8740
+86
+Terrain: 8741
+79
+Terrain: 8742
+-1
+Terrain: 8743
+-1
+Terrain: 8744
+-3
+Terrain: 8745
+-1
+Terrain: 8746
+61
+Terrain: 8747
+68
+Terrain: 8748
+52
+Terrain: 8749
+-3
+Terrain: 8750
+-1
+Terrain: 8751
+-1
+Terrain: 8752
+-1
+Terrain: 8753
+-1
+Terrain: 8754
+-1
+Terrain: 8755
+-1
+Terrain: 8756
+52
+Terrain: 8757
+-1
+Terrain: 8758
+-1
+Terrain: 8759
+-3
+Terrain: 8760
+-3
+Terrain: 8761
+-1
+Terrain: 8762
+-2
+Terrain: 8763
+-3
+Terrain: 8764
+-1
+Terrain: 8765
+-3
+Terrain: 8766
+52
+Terrain: 8767
+91
+Terrain: 8768
+45
+Terrain: 8769
+-1
+Terrain: 8770
+-2
+Terrain: 8771
+-1
+Terrain: 8772
+-1
+Terrain: 8773
+-1
+Terrain: 8774
+-1
+Terrain: 8775
+93
+Terrain: 8776
+-2
+Terrain: 8777
+68
+Terrain: 8778
+-3
+Terrain: 8779
+52
+Terrain: 8780
+-1
+Terrain: 8781
+-1
+Terrain: 8782
+45
+Terrain: 8783
+45
+Terrain: 8784
+45
+Terrain: 8785
+-1
+Terrain: 8786
+-3
+Terrain: 8787
+-2
+Terrain: 8788
+-2
+Terrain: 8789
+68
+Terrain: 8790
+-1
+Terrain: 8791
+-3
+Terrain: 8792
+52
+Terrain: 8793
+-1
+Terrain: 8794
+-2
+Terrain: 8795
+45
+Terrain: 8796
+-1
+Terrain: 8797
+-2
+Terrain: 8798
+-1
+Terrain: 8799
+-2
+Terrain: 8800
+-1
+Terrain: 8801
+-3
+Terrain: 8802
+-3
+Terrain: 8803
+-1
+Terrain: 8804
+-1
+Terrain: 8805
+-1
+Terrain: 8806
+70
+Terrain: 8807
+61
+Terrain: 8808
+52
+Terrain: 8809
+-1
+Terrain: 8810
+-3
+Terrain: 8811
+-1
+Terrain: 8812
+68
+Terrain: 8813
+86
+Terrain: 8814
+-3
+Terrain: 8815
+-2
+Terrain: 8816
+93
+Terrain: 8817
+77
+Terrain: 8818
+-3
+Terrain: 8819
+-2
+Terrain: 8820
+-1
+Terrain: 8821
+-2
+Terrain: 8822
+-2
+Terrain: 8823
+75
+Terrain: 8824
+-1
+Terrain: 8825
+-3
+Terrain: 8826
+86
+Terrain: 8827
+-1
+Terrain: 8828
+-1
+Terrain: 8829
+-1
+Terrain: 8830
+68
+Terrain: 8831
+70
+Terrain: 8832
+45
+Terrain: 8833
+-2
+Terrain: 8834
+75
+Terrain: 8835
+-3
+Terrain: 8836
+-1
+Terrain: 8837
+-1
+Terrain: 8838
+45
+Terrain: 8839
+-1
+Terrain: 8840
+-1
+Terrain: 8841
+-3
+Terrain: 8842
+68
+Terrain: 8843
+-1
+Terrain: 8844
+-1
+Terrain: 8845
+52
+Terrain: 8846
+-3
+Terrain: 8847
+-2
+Terrain: 8848
+61
+Terrain: 8849
+-1
+Terrain: 8850
+-2
+Terrain: 8851
+-1
+Terrain: 8852
+-1
+Terrain: 8853
+52
+Terrain: 8854
+-1
+Terrain: 8855
+100
+Terrain: 8856
+-3
+Terrain: 8857
+91
+Terrain: 8858
+84
+Terrain: 8859
+79
+Terrain: 8860
+-1
+Terrain: 8861
+-3
+Terrain: 8862
+45
+Terrain: 8863
+61
+Terrain: 8864
+52
+Terrain: 8865
+-2
+Terrain: 8866
+61
+Terrain: 8867
+61
+Terrain: 8868
+-1
+Terrain: 8869
+-1
+Terrain: 8870
+45
+Terrain: 8871
+-3
+Terrain: 8872
+-2
+Terrain: 8873
+-1
+Terrain: 8874
+-1
+Terrain: 8875
+-1
+Terrain: 8876
+-1
+Terrain: 8877
+-1
+Terrain: 8878
+-1
+Terrain: 8879
+-1
+Terrain: 8880
+93
+Terrain: 8881
+91
+Terrain: 8882
+-1
+Terrain: 8883
+-1
+Terrain: 8884
+-2
+Terrain: 8885
+-1
+Terrain: 8886
+-1
+Terrain: 8887
+77
+Terrain: 8888
+-1
+Terrain: 8889
+68
+Terrain: 8890
+75
+Terrain: 8891
+-1
+Terrain: 8892
+-2
+Terrain: 8893
+52
+Terrain: 8894
+-1
+Terrain: 8895
+-2
+Terrain: 8896
+-2
+Terrain: 8897
+-3
+Terrain: 8898
+-3
+Terrain: 8899
+68
+Terrain: 8900
+-1
+Terrain: 8901
+-1
+Terrain: 8902
+-1
+Terrain: 8903
+45
+Terrain: 8904
+-2
+Terrain: 8905
+61
+Terrain: 8906
+-2
+Terrain: 8907
+-2
+Terrain: 8908
+-3
+Terrain: 8909
+-1
+Terrain: 8910
+-3
+Terrain: 8911
+-3
+Terrain: 8912
+-1
+Terrain: 8913
+-1
+Terrain: 8914
+45
+Terrain: 8915
+-1
+Terrain: 8916
+-1
+Terrain: 8917
+-1
+Terrain: 8918
+-1
+Terrain: 8919
+-3
+Terrain: 8920
+86
+Terrain: 8921
+-1
+Terrain: 8922
+77
+Terrain: 8923
+68
+Terrain: 8924
+70
+Terrain: 8925
+-1
+Terrain: 8926
+-2
+Terrain: 8927
+52
+Terrain: 8928
+-1
+Terrain: 8929
+93
+Terrain: 8930
+-2
+Terrain: 8931
+-3
+Terrain: 8932
+-1
+Terrain: 8933
+-1
+Terrain: 8934
+-1
+Terrain: 8935
+-3
+Terrain: 8936
+-3
+Terrain: 8937
+-1
+Terrain: 8938
+-1
+Terrain: 8939
+-3
+Terrain: 8940
+-2
+Terrain: 8941
+61
+Terrain: 8942
+-1
+Terrain: 8943
+-2
+Terrain: 8944
+-1
+Terrain: 8945
+-2
+Terrain: 8946
+45
+Terrain: 8947
+-1
+Terrain: 8948
+45
+Terrain: 8949
+68
+Terrain: 8950
+-1
+Terrain: 8951
+79
+Terrain: 8952
+68
+Terrain: 8953
+-3
+Terrain: 8954
+45
+Terrain: 8955
+86
+Terrain: 8956
+-1
+Terrain: 8957
+98
+Terrain: 8958
+77
+Terrain: 8959
+-2
+Terrain: 8960
+-1
+Terrain: 8961
+-2
+Terrain: 8962
+45
+Terrain: 8963
+-2
+Terrain: 8964
+68
+Terrain: 8965
+-1
+Terrain: 8966
+-1
+Terrain: 8967
+45
+Terrain: 8968
+-2
+Terrain: 8969
+-1
+Terrain: 8970
+-3
+Terrain: 8971
+75
+Terrain: 8972
+93
+Terrain: 8973
+-3
+Terrain: 8974
+-1
+Terrain: 8975
+100
+Terrain: 8976
+-1
+Terrain: 8977
+-3
+Terrain: 8978
+-1
+Terrain: 8979
+-2
+Terrain: 8980
+-3
+Terrain: 8981
+52
+Terrain: 8982
+-2
+Terrain: 8983
+84
+Terrain: 8984
+-1
+Terrain: 8985
+52
+Terrain: 8986
+-2
+Terrain: 8987
+-3
+Terrain: 8988
+-3
+Terrain: 8989
+-1
+Terrain: 8990
+-2
+Terrain: 8991
+-1
+Terrain: 8992
+-3
+Terrain: 8993
+84
+Terrain: 8994
+-1
+Terrain: 8995
+-1
+Terrain: 8996
+52
+Terrain: 8997
+-3
+Terrain: 8998
+-3
+Terrain: 8999
+-1
+Terrain: 9000
+77
+Terrain: 9001
+-3
+Terrain: 9002
+-1
+Terrain: 9003
+-2
+Terrain: 9004
+-1
+Terrain: 9005
+-1
+Terrain: 9006
+-2
+Terrain: 9007
+-2
+Terrain: 9008
+-2
+Terrain: 9009
+52
+Terrain: 9010
+61
+Terrain: 9011
+-1
+Terrain: 9012
+-1
+Terrain: 9013
+70
+Terrain: 9014
+-1
+Terrain: 9015
+-1
+Terrain: 9016
+-1
+Terrain: 9017
+-2
+Terrain: 9018
+100
+Terrain: 9019
+52
+Terrain: 9020
+-1
+Terrain: 9021
+-2
+Terrain: 9022
+79
+Terrain: 9023
+70
+Terrain: 9024
+-1
+Terrain: 9025
+-2
+Terrain: 9026
+-1
+Terrain: 9027
+-1
+Terrain: 9028
+79
+Terrain: 9029
+84
+Terrain: 9030
+45
+Terrain: 9031
+-3
+Terrain: 9032
+-2
+Terrain: 9033
+86
+Terrain: 9034
+-1
+Terrain: 9035
+-3
+Terrain: 9036
+-1
+Terrain: 9037
+-1
+Terrain: 9038
+91
+Terrain: 9039
+-1
+Terrain: 9040
+-1
+Terrain: 9041
+100
+Terrain: 9042
+52
+Terrain: 9043
+-3
+Terrain: 9044
+-1
+Terrain: 9045
+-2
+Terrain: 9046
+-1
+Terrain: 9047
+-1
+Terrain: 9048
+-2
+Terrain: 9049
+-1
+Terrain: 9050
+-1
+Terrain: 9051
+52
+Terrain: 9052
+-3
+Terrain: 9053
+100
+Terrain: 9054
+-2
+Terrain: 9055
+100
+Terrain: 9056
+-1
+Terrain: 9057
+-3
+Terrain: 9058
+-1
+Terrain: 9059
+-2
+Terrain: 9060
+52
+Terrain: 9061
+-1
+Terrain: 9062
+-1
+Terrain: 9063
+100
+Terrain: 9064
+84
+Terrain: 9065
+-3
+Terrain: 9066
+-1
+Terrain: 9067
+-1
+Terrain: 9068
+68
+Terrain: 9069
+-2
+Terrain: 9070
+-1
+Terrain: 9071
+-3
+Terrain: 9072
+-1
+Terrain: 9073
+-1
+Terrain: 9074
+-1
+Terrain: 9075
+-2
+Terrain: 9076
+70
+Terrain: 9077
+-1
+Terrain: 9078
+-1
+Terrain: 9079
+-3
+Terrain: 9080
+45
+Terrain: 9081
+-2
+Terrain: 9082
+-3
+Terrain: 9083
+-2
+Terrain: 9084
+-1
+Terrain: 9085
+61
+Terrain: 9086
+100
+Terrain: 9087
+-3
+Terrain: 9088
+100
+Terrain: 9089
+-1
+Terrain: 9090
+45
+Terrain: 9091
+45
+Terrain: 9092
+-1
+Terrain: 9093
+-3
+Terrain: 9094
+68
+Terrain: 9095
+-1
+Terrain: 9096
+45
+Terrain: 9097
+75
+Terrain: 9098
+-1
+Terrain: 9099
+-3
+Terrain: 9100
+-1
+Terrain: 9101
+45
+Terrain: 9102
+-1
+Terrain: 9103
+84
+Terrain: 9104
+-2
+Terrain: 9105
+-1
+Terrain: 9106
+-2
+Terrain: 9107
+-1
+Terrain: 9108
+61
+Terrain: 9109
+-3
+Terrain: 9110
+-2
+Terrain: 9111
+68
+Terrain: 9112
+61
+Terrain: 9113
+-1
+Terrain: 9114
+-1
+Terrain: 9115
+-1
+Terrain: 9116
+-1
+Terrain: 9117
+79
+Terrain: 9118
+-3
+Terrain: 9119
+-1
+Terrain: 9120
+93
+Terrain: 9121
+-2
+Terrain: 9122
+-2
+Terrain: 9123
+-3
+Terrain: 9124
+-2
+Terrain: 9125
+-1
+Terrain: 9126
+-3
+Terrain: 9127
+-2
+Terrain: 9128
+-1
+Terrain: 9129
+-2
+Terrain: 9130
+-3
+Terrain: 9131
+-1
+Terrain: 9132
+-1
+Terrain: 9133
+45
+Terrain: 9134
+-1
+Terrain: 9135
+-3
+Terrain: 9136
+-1
+Terrain: 9137
+-2
+Terrain: 9138
+52
+Terrain: 9139
+61
+Terrain: 9140
+79
+Terrain: 9141
+-1
+Terrain: 9142
+52
+Terrain: 9143
+-2
+Terrain: 9144
+-2
+Terrain: 9145
+45
+Terrain: 9146
+-3
+Terrain: 9147
+-1
+Terrain: 9148
+-1
+Terrain: 9149
+45
+Terrain: 9150
+77
+Terrain: 9151
+52
+Terrain: 9152
+68
+Terrain: 9153
+-1
+Terrain: 9154
+-1
+Terrain: 9155
+-1
+Terrain: 9156
+68
+Terrain: 9157
+-1
+Terrain: 9158
+-3
+Terrain: 9159
+-3
+Terrain: 9160
+52
+Terrain: 9161
+-1
+Terrain: 9162
+-3
+Terrain: 9163
+-3
+Terrain: 9164
+-1
+Terrain: 9165
+45
+Terrain: 9166
+75
+Terrain: 9167
+-1
+Terrain: 9168
+-1
+Terrain: 9169
+-1
+Terrain: 9170
+-2
+Terrain: 9171
+-3
+Terrain: 9172
+98
+Terrain: 9173
+75
+Terrain: 9174
+-2
+Terrain: 9175
+-3
+Terrain: 9176
+-1
+Terrain: 9177
+68
+Terrain: 9178
+-3
+Terrain: 9179
+45
+Terrain: 9180
+61
+Terrain: 9181
+-1
+Terrain: 9182
+-1
+Terrain: 9183
+-3
+Terrain: 9184
+77
+Terrain: 9185
+-3
+Terrain: 9186
+79
+Terrain: 9187
+61
+Terrain: 9188
+-2
+Terrain: 9189
+75
+Terrain: 9190
+45
+Terrain: 9191
+-3
+Terrain: 9192
+45
+Terrain: 9193
+75
+Terrain: 9194
+61
+Terrain: 9195
+-2
+Terrain: 9196
+95
+Terrain: 9197
+-1
+Terrain: 9198
+-1
+Terrain: 9199
+-1
+Terrain: 9200
+-1
+Terrain: 9201
+93
+Terrain: 9202
+-2
+Terrain: 9203
+-1
+Terrain: 9204
+-3
+Terrain: 9205
+-1
+Terrain: 9206
+-3
+Terrain: 9207
+-3
+Terrain: 9208
+-1
+Terrain: 9209
+-3
+Terrain: 9210
+91
+Terrain: 9211
+93
+Terrain: 9212
+-1
+Terrain: 9213
+-1
+Terrain: 9214
+-1
+Terrain: 9215
+45
+Terrain: 9216
+-1
+Terrain: 9217
+61
+Terrain: 9218
+-1
+Terrain: 9219
+45
+Terrain: 9220
+-2
+Terrain: 9221
+-1
+Terrain: 9222
+-1
+Terrain: 9223
+45
+Terrain: 9224
+52
+Terrain: 9225
+-2
+Terrain: 9226
+52
+Terrain: 9227
+-2
+Terrain: 9228
+-1
+Terrain: 9229
+-2
+Terrain: 9230
+-3
+Terrain: 9231
+-1
+Terrain: 9232
+61
+Terrain: 9233
+-1
+Terrain: 9234
+52
+Terrain: 9235
+-2
+Terrain: 9236
+-3
+Terrain: 9237
+-1
+Terrain: 9238
+45
+Terrain: 9239
+-1
+Terrain: 9240
+77
+Terrain: 9241
+-1
+Terrain: 9242
+-1
+Terrain: 9243
+-2
+Terrain: 9244
+-1
+Terrain: 9245
+-1
+Terrain: 9246
+-1
+Terrain: 9247
+-3
+Terrain: 9248
+-3
+Terrain: 9249
+-1
+Terrain: 9250
+52
+Terrain: 9251
+-2
+Terrain: 9252
+-2
+Terrain: 9253
+-2
+Terrain: 9254
+52
+Terrain: 9255
+-1
+Terrain: 9256
+-2
+Terrain: 9257
+-3
+Terrain: 9258
+-3
+Terrain: 9259
+-1
+Terrain: 9260
+45
+Terrain: 9261
+45
+Terrain: 9262
+52
+Terrain: 9263
+77
+Terrain: 9264
+-3
+Terrain: 9265
+-1
+Terrain: 9266
+-1
+Terrain: 9267
+68
+Terrain: 9268
+-1
+Terrain: 9269
+-1
+Terrain: 9270
+-3
+Terrain: 9271
+-1
+Terrain: 9272
+-1
+Terrain: 9273
+-1
+Terrain: 9274
+-2
+Terrain: 9275
+-2
+Terrain: 9276
+-1
+Terrain: 9277
+-1
+Terrain: 9278
+91
+Terrain: 9279
+-3
+Terrain: 9280
+45
+Terrain: 9281
+-1
+Terrain: 9282
+-1
+Terrain: 9283
+-1
+Terrain: 9284
+-1
+Terrain: 9285
+-1
+Terrain: 9286
+-2
+Terrain: 9287
+-1
+Terrain: 9288
+-1
+Terrain: 9289
+-2
+Terrain: 9290
+-1
+Terrain: 9291
+-1
+Terrain: 9292
+-1
+Terrain: 9293
+-2
+Terrain: 9294
+-2
+Terrain: 9295
+-1
+Terrain: 9296
+52
+Terrain: 9297
+52
+Terrain: 9298
+-3
+Terrain: 9299
+-1
+Terrain: 9300
+-1
+Terrain: 9301
+-2
+Terrain: 9302
+52
+Terrain: 9303
+52
+Terrain: 9304
+45
+Terrain: 9305
+-1
+Terrain: 9306
+-1
+Terrain: 9307
+52
+Terrain: 9308
+52
+Terrain: 9309
+-1
+Terrain: 9310
+-1
+Terrain: 9311
+45
+Terrain: 9312
+-1
+Terrain: 9313
+-2
+Terrain: 9314
+-1
+Terrain: 9315
+-3
+Terrain: 9316
+100
+Terrain: 9317
+100
+Terrain: 9318
+-2
+Terrain: 9319
+-3
+Terrain: 9320
+79
+Terrain: 9321
+-1
+Terrain: 9322
+-3
+Terrain: 9323
+84
+Terrain: 9324
+-2
+Terrain: 9325
+84
+Terrain: 9326
+-2
+Terrain: 9327
+-3
+Terrain: 9328
+-1
+Terrain: 9329
+-1
+Terrain: 9330
+-1
+Terrain: 9331
+-1
+Terrain: 9332
+-2
+Terrain: 9333
+-2
+Terrain: 9334
+79
+Terrain: 9335
+-1
+Terrain: 9336
+-2
+Terrain: 9337
+75
+Terrain: 9338
+-3
+Terrain: 9339
+91
+Terrain: 9340
+-1
+Terrain: 9341
+-2
+Terrain: 9342
+-1
+Terrain: 9343
+-2
+Terrain: 9344
+-1
+Terrain: 9345
+77
+Terrain: 9346
+-1
+Terrain: 9347
+84
+Terrain: 9348
+61
+Terrain: 9349
+-1
+Terrain: 9350
+75
+Terrain: 9351
+45
+Terrain: 9352
+-3
+Terrain: 9353
+-2
+Terrain: 9354
+-1
+Terrain: 9355
+-1
+Terrain: 9356
+-3
+Terrain: 9357
+84
+Terrain: 9358
+-1
+Terrain: 9359
+-1
+Terrain: 9360
+-1
+Terrain: 9361
+-3
+Terrain: 9362
+-1
+Terrain: 9363
+-2
+Terrain: 9364
+-1
+Terrain: 9365
+-2
+Terrain: 9366
+84
+Terrain: 9367
+-1
+Terrain: 9368
+-1
+Terrain: 9369
+-1
+Terrain: 9370
+-1
+Terrain: 9371
+77
+Terrain: 9372
+-2
+Terrain: 9373
+-1
+Terrain: 9374
+-1
+Terrain: 9375
+52
+Terrain: 9376
+61
+Terrain: 9377
+52
+Terrain: 9378
+-3
+Terrain: 9379
+-3
+Terrain: 9380
+45
+Terrain: 9381
+77
+Terrain: 9382
+-1
+Terrain: 9383
+-2
+Terrain: 9384
+-2
+Terrain: 9385
+52
+Terrain: 9386
+-3
+Terrain: 9387
+-1
+Terrain: 9388
+-1
+Terrain: 9389
+-1
+Terrain: 9390
+52
+Terrain: 9391
+98
+Terrain: 9392
+-1
+Terrain: 9393
+-3
+Terrain: 9394
+-1
+Terrain: 9395
+-2
+Terrain: 9396
+52
+Terrain: 9397
+-2
+Terrain: 9398
+77
+Terrain: 9399
+-3
+Terrain: 9400
+-2
+Terrain: 9401
+-1
+Terrain: 9402
+52
+Terrain: 9403
+-1
+Terrain: 9404
+52
+Terrain: 9405
+52
+Terrain: 9406
+-2
+Terrain: 9407
+-1
+Terrain: 9408
+61
+Terrain: 9409
+-1
+Terrain: 9410
+-1
+Terrain: 9411
+-2
+Terrain: 9412
+-2
+Terrain: 9413
+52
+Terrain: 9414
+-1
+Terrain: 9415
+75
+Terrain: 9416
+-1
+Terrain: 9417
+93
+Terrain: 9418
+-1
+Terrain: 9419
+77
+Terrain: 9420
+-1
+Terrain: 9421
+45
+Terrain: 9422
+-3
+Terrain: 9423
+-2
+Terrain: 9424
+52
+Terrain: 9425
+-1
+Terrain: 9426
+-2
+Terrain: 9427
+-1
+Terrain: 9428
+-1
+Terrain: 9429
+-2
+Terrain: 9430
+-2
+Terrain: 9431
+-3
+Terrain: 9432
+-1
+Terrain: 9433
+-1
+Terrain: 9434
+61
+Terrain: 9435
+70
+Terrain: 9436
+-1
+Terrain: 9437
+68
+Terrain: 9438
+-1
+Terrain: 9439
+-2
+Terrain: 9440
+-1
+Terrain: 9441
+75
+Terrain: 9442
+84
+Terrain: 9443
+-3
+Terrain: 9444
+-1
+Terrain: 9445
+-1
+Terrain: 9446
+-1
+Terrain: 9447
+-1
+Terrain: 9448
+-2
+Terrain: 9449
+-1
+Terrain: 9450
+-1
+Terrain: 9451
+-1
+Terrain: 9452
+-3
+Terrain: 9453
+-1
+Terrain: 9454
+45
+Terrain: 9455
+-1
+Terrain: 9456
+45
+Terrain: 9457
+84
+Terrain: 9458
+-2
+Terrain: 9459
+86
+Terrain: 9460
+52
+Terrain: 9461
+-3
+Terrain: 9462
+45
+Terrain: 9463
+77
+Terrain: 9464
+-3
+Terrain: 9465
+-3
+Terrain: 9466
+-1
+Terrain: 9467
+75
+Terrain: 9468
+86
+Terrain: 9469
+-2
+Terrain: 9470
+-1
+Terrain: 9471
+-2
+Terrain: 9472
+-1
+Terrain: 9473
+-3
+Terrain: 9474
+-1
+Terrain: 9475
+75
+Terrain: 9476
+-1
+Terrain: 9477
+61
+Terrain: 9478
+91
+Terrain: 9479
+52
+Terrain: 9480
+-1
+Terrain: 9481
+-2
+Terrain: 9482
+-1
+Terrain: 9483
+-1
+Terrain: 9484
+45
+Terrain: 9485
+-1
+Terrain: 9486
+52
+Terrain: 9487
+61
+Terrain: 9488
+93
+Terrain: 9489
+-2
+Terrain: 9490
+-1
+Terrain: 9491
+-1
+Terrain: 9492
+-1
+Terrain: 9493
+-2
+Terrain: 9494
+-3
+Terrain: 9495
+-3
+Terrain: 9496
+-1
+Terrain: 9497
+-2
+Terrain: 9498
+45
+Terrain: 9499
+-1
+Terrain: 9500
+-2
+Terrain: 9501
+-1
+Terrain: 9502
+-3
+Terrain: 9503
+52
+Terrain: 9504
+-1
+Terrain: 9505
+-2
+Terrain: 9506
+-1
+Terrain: 9507
+52
+Terrain: 9508
+-3
+Terrain: 9509
+-2
+Terrain: 9510
+-3
+Terrain: 9511
+-3
+Terrain: 9512
+-1
+Terrain: 9513
+-2
+Terrain: 9514
+-3
+Terrain: 9515
+-1
+Terrain: 9516
+84
+Terrain: 9517
+-2
+Terrain: 9518
+84
+Terrain: 9519
+-1
+Terrain: 9520
+52
+Terrain: 9521
+75
+Terrain: 9522
+-2
+Terrain: 9523
+-3
+Terrain: 9524
+-1
+Terrain: 9525
+45
+Terrain: 9526
+-1
+Terrain: 9527
+-2
+Terrain: 9528
+-1
+Terrain: 9529
+-1
+Terrain: 9530
+-1
+Terrain: 9531
+-1
+Terrain: 9532
+-1
+Terrain: 9533
+-1
+Terrain: 9534
+77
+Terrain: 9535
+-1
+Terrain: 9536
+-2
+Terrain: 9537
+-2
+Terrain: 9538
+-3
+Terrain: 9539
+93
+Terrain: 9540
+-1
+Terrain: 9541
+52
+Terrain: 9542
+-3
+Terrain: 9543
+-1
+Terrain: 9544
+-1
+Terrain: 9545
+79
+Terrain: 9546
+-1
+Terrain: 9547
+-1
+Terrain: 9548
+61
+Terrain: 9549
+-2
+Terrain: 9550
+-1
+Terrain: 9551
+-2
+Terrain: 9552
+-1
+Terrain: 9553
+-1
+Terrain: 9554
+-1
+Terrain: 9555
+-2
+Terrain: 9556
+-2
+Terrain: 9557
+-1
+Terrain: 9558
+100
+Terrain: 9559
+-3
+Terrain: 9560
+-1
+Terrain: 9561
+-1
+Terrain: 9562
+-3
+Terrain: 9563
+-3
+Terrain: 9564
+52
+Terrain: 9565
+52
+Terrain: 9566
+-1
+Terrain: 9567
+-2
+Terrain: 9568
+-3
+Terrain: 9569
+-1
+Terrain: 9570
+-2
+Terrain: 9571
+-1
+Terrain: 9572
+-1
+Terrain: 9573
+-3
+Terrain: 9574
+-1
+Terrain: 9575
+45
+Terrain: 9576
+45
+Terrain: 9577
+-1
+Terrain: 9578
+-1
+Terrain: 9579
+-2
+Terrain: 9580
+79
+Terrain: 9581
+-1
+Terrain: 9582
+-3
+Terrain: 9583
+-1
+Terrain: 9584
+-1
+Terrain: 9585
+-2
+Terrain: 9586
+-2
+Terrain: 9587
+-2
+Terrain: 9588
+77
+Terrain: 9589
+-3
+Terrain: 9590
+-1
+Terrain: 9591
+-2
+Terrain: 9592
+-3
+Terrain: 9593
+-1
+Terrain: 9594
+45
+Terrain: 9595
+-1
+Terrain: 9596
+68
+Terrain: 9597
+70
+Terrain: 9598
+-2
+Terrain: 9599
+-3
+Terrain: 9600
+-1
+Terrain: 9601
+86
+Terrain: 9602
+-3
+Terrain: 9603
+-2
+Terrain: 9604
+-3
+Terrain: 9605
+-1
+Terrain: 9606
+-3
+Terrain: 9607
+-3
+Terrain: 9608
+-2
+Terrain: 9609
+-2
+Terrain: 9610
+-1
+Terrain: 9611
+-1
+Terrain: 9612
+-2
+Terrain: 9613
+-1
+Terrain: 9614
+-3
+Terrain: 9615
+-1
+Terrain: 9616
+-1
+Terrain: 9617
+-3
+Terrain: 9618
+-3
+Terrain: 9619
+-1
+Terrain: 9620
+-1
+Terrain: 9621
+-1
+Terrain: 9622
+-1
+Terrain: 9623
+-1
+Terrain: 9624
+77
+Terrain: 9625
+-3
+Terrain: 9626
+75
+Terrain: 9627
+84
+Terrain: 9628
+75
+Terrain: 9629
+61
+Terrain: 9630
+-1
+Terrain: 9631
+68
+Terrain: 9632
+-1
+Terrain: 9633
+68
+Terrain: 9634
+-1
+Terrain: 9635
+-1
+Terrain: 9636
+-1
+Terrain: 9637
+-1
+Terrain: 9638
+-1
+Terrain: 9639
+-3
+Terrain: 9640
+68
+Terrain: 9641
+-2
+Terrain: 9642
+52
+Terrain: 9643
+45
+Terrain: 9644
+-1
+Terrain: 9645
+-1
+Terrain: 9646
+-3
+Terrain: 9647
+-3
+Terrain: 9648
+-1
+Terrain: 9649
+-1
+Terrain: 9650
+-2
+Terrain: 9651
+-1
+Terrain: 9652
+-2
+Terrain: 9653
+-2
+Terrain: 9654
+-2
+Terrain: 9655
+-1
+Terrain: 9656
+45
+Terrain: 9657
+-1
+Terrain: 9658
+-1
+Terrain: 9659
+-2
+Terrain: 9660
+-1
+Terrain: 9661
+-1
+Terrain: 9662
+-3
+Terrain: 9663
+-2
+Terrain: 9664
+93
+Terrain: 9665
+79
+Terrain: 9666
+-3
+Terrain: 9667
+-3
+Terrain: 9668
+-1
+Terrain: 9669
+77
+Terrain: 9670
+45
+Terrain: 9671
+100
+Terrain: 9672
+95
+Terrain: 9673
+-1
+Terrain: 9674
+52
+Terrain: 9675
+-1
+Terrain: 9676
+-1
+Terrain: 9677
+-1
+Terrain: 9678
+52
+Terrain: 9679
+-1
+Terrain: 9680
+-3
+Terrain: 9681
+-1
+Terrain: 9682
+-1
+Terrain: 9683
+68
+Terrain: 9684
+52
+Terrain: 9685
+-1
+Terrain: 9686
+45
+Terrain: 9687
+-1
+Terrain: 9688
+-3
+Terrain: 9689
+77
+Terrain: 9690
+-1
+Terrain: 9691
+-2
+Terrain: 9692
+-2
+Terrain: 9693
+52
+Terrain: 9694
+-1
+Terrain: 9695
+-2
+Terrain: 9696
+-1
+Terrain: 9697
+-2
+Terrain: 9698
+-2
+Terrain: 9699
+75
+Terrain: 9700
+-2
+Terrain: 9701
+52
+Terrain: 9702
+-1
+Terrain: 9703
+-1
+Terrain: 9704
+-1
+Terrain: 9705
+-3
+Terrain: 9706
+45
+Terrain: 9707
+-2
+Terrain: 9708
+-1
+Terrain: 9709
+61
+Terrain: 9710
+45
+Terrain: 9711
+-1
+Terrain: 9712
+68
+Terrain: 9713
+86
+Terrain: 9714
+-1
+Terrain: 9715
+70
+Terrain: 9716
+68
+Terrain: 9717
+-1
+Terrain: 9718
+-1
+Terrain: 9719
+-1
+Terrain: 9720
+68
+Terrain: 9721
+-1
+Terrain: 9722
+-1
+Terrain: 9723
+75
+Terrain: 9724
+-1
+Terrain: 9725
+-2
+Terrain: 9726
+-1
+Terrain: 9727
+-1
+Terrain: 9728
+-3
+Terrain: 9729
+52
+Terrain: 9730
+-1
+Terrain: 9731
+-2
+Terrain: 9732
+-1
+Terrain: 9733
+-3
+Terrain: 9734
+93
+Terrain: 9735
+-3
+Terrain: 9736
+-1
+Terrain: 9737
+-1
+Terrain: 9738
+-1
+Terrain: 9739
+84
+Terrain: 9740
+-2
+Terrain: 9741
+100
+Terrain: 9742
+-1
+Terrain: 9743
+-3
+Terrain: 9744
+91
+Terrain: 9745
+-1
+Terrain: 9746
+-2
+Terrain: 9747
+79
+Terrain: 9748
+-1
+Terrain: 9749
+-1
+Terrain: 9750
+75
+Terrain: 9751
+-3
+Terrain: 9752
+93
+Terrain: 9753
+-3
+Terrain: 9754
+-1
+Terrain: 9755
+-2
+Terrain: 9756
+68
+Terrain: 9757
+-2
+Terrain: 9758
+-2
+Terrain: 9759
+-1
+Terrain: 9760
+68
+Terrain: 9761
+75
+Terrain: 9762
+77
+Terrain: 9763
+52
+Terrain: 9764
+-3
+Terrain: 9765
+-2
+Terrain: 9766
+-2
+Terrain: 9767
+-1
+Terrain: 9768
+-3
+Terrain: 9769
+-1
+Terrain: 9770
+77
+Terrain: 9771
+86
+Terrain: 9772
+-1
+Terrain: 9773
+-1
+Terrain: 9774
+-1
+Terrain: 9775
+-3
+Terrain: 9776
+91
+Terrain: 9777
+-2
+Terrain: 9778
+84
+Terrain: 9779
+-3
+Terrain: 9780
+-3
+Terrain: 9781
+68
+Terrain: 9782
+-2
+Terrain: 9783
+52
+Terrain: 9784
+61
+Terrain: 9785
+-1
+Terrain: 9786
+77
+Terrain: 9787
+84
+Terrain: 9788
+-1
+Terrain: 9789
+-1
+Terrain: 9790
+-1
+Terrain: 9791
+-1
+Terrain: 9792
+-2
+Terrain: 9793
+-1
+Terrain: 9794
+-1
+Terrain: 9795
+45
+Terrain: 9796
+61
+Terrain: 9797
+-1
+Terrain: 9798
+-2
+Terrain: 9799
+-3
+Terrain: 9800
+-3
+Terrain: 9801
+-2
+Terrain: 9802
+-1
+Terrain: 9803
+-3
+Terrain: 9804
+-1
+Terrain: 9805
+-3
+Terrain: 9806
+-2
+Terrain: 9807
+68
+Terrain: 9808
+-1
+Terrain: 9809
+52
+Terrain: 9810
+75
+Terrain: 9811
+-1
+Terrain: 9812
+-2
+Terrain: 9813
+68
+Terrain: 9814
+-2
+Terrain: 9815
+100
+Terrain: 9816
+52
+Terrain: 9817
+61
+Terrain: 9818
+-1
+Terrain: 9819
+-1
+Terrain: 9820
+-3
+Terrain: 9821
+-2
+Terrain: 9822
+-3
+Terrain: 9823
+-1
+Terrain: 9824
+-2
+Terrain: 9825
+-2
+Terrain: 9826
+-1
+Terrain: 9827
+75
+Terrain: 9828
+-2
+Terrain: 9829
+-2
+Terrain: 9830
+-1
+Terrain: 9831
+-1
+Terrain: 9832
+-2
+Terrain: 9833
+-1
+Terrain: 9834
+68
+Terrain: 9835
+-1
+Terrain: 9836
+-1
+Terrain: 9837
+86
+Terrain: 9838
+68
+Terrain: 9839
+-3
+Terrain: 9840
+-1
+Terrain: 9841
+-1
+Terrain: 9842
+-1
+Terrain: 9843
+-1
+Terrain: 9844
+-1
+Terrain: 9845
+68
+Terrain: 9846
+-1
+Terrain: 9847
+77
+Terrain: 9848
+-1
+Terrain: 9849
+-3
+Terrain: 9850
+45
+Terrain: 9851
+-3
+Terrain: 9852
+-1
+Terrain: 9853
+77
+Terrain: 9854
+-3
+Terrain: 9855
+100
+Terrain: 9856
+-1
+Terrain: 9857
+-1
+Terrain: 9858
+77
+Terrain: 9859
+-1
+Terrain: 9860
+-1
+Terrain: 9861
+-1
+Terrain: 9862
+-3
+Terrain: 9863
+-1
+Terrain: 9864
+84
+Terrain: 9865
+52
+Terrain: 9866
+-3
+Terrain: 9867
+86
+Terrain: 9868
+45
+Terrain: 9869
+-1
+Terrain: 9870
+93
+Terrain: 9871
+-1
+Terrain: 9872
+52
+Terrain: 9873
+-1
+Terrain: 9874
+52
+Terrain: 9875
+-2
+Terrain: 9876
+-1
+Terrain: 9877
+-1
+Terrain: 9878
+-3
+Terrain: 9879
+-1
+Terrain: 9880
+-1
+Terrain: 9881
+-1
+Terrain: 9882
+-2
+Terrain: 9883
+86
+Terrain: 9884
+86
+Terrain: 9885
+68
+Terrain: 9886
+-1
+Terrain: 9887
+-1
+Terrain: 9888
+86
+Terrain: 9889
+68
+Terrain: 9890
+-1
+Terrain: 9891
+-3
+Terrain: 9892
+-2
+Terrain: 9893
+-1
+Terrain: 9894
+-3
+Terrain: 9895
+-1
+Terrain: 9896
+61
+Terrain: 9897
+-3
+Terrain: 9898
+-1
+Terrain: 9899
+-1
+Terrain: 9900
+-2
+Terrain: 9901
+-3
+Terrain: 9902
+-1
+Terrain: 9903
+-1
+Terrain: 9904
+-1
+Terrain: 9905
+91
+Terrain: 9906
+-1
+Terrain: 9907
+-3
+Terrain: 9908
+-2
+Terrain: 9909
+-2
+Terrain: 9910
+-1
+Terrain: 9911
+-3
+Terrain: 9912
+61
+Terrain: 9913
+-1
+Terrain: 9914
+-1
+Terrain: 9915
+-1
+Terrain: 9916
+-3
+Terrain: 9917
+-1
+Terrain: 9918
+75
+Terrain: 9919
+68
+Terrain: 9920
+-1
+Terrain: 9921
+70
+Terrain: 9922
+52
+Terrain: 9923
+-1
+Terrain: 9924
+-3
+Terrain: 9925
+100
+Terrain: 9926
+-3
+Terrain: 9927
+-3
+Terrain: 9928
+-1
+Terrain: 9929
+-1
+Terrain: 9930
+61
+Terrain: 9931
+75
+Terrain: 9932
+61
+Terrain: 9933
+-2
+Terrain: 9934
+45
+Terrain: 9935
+-1
+Terrain: 9936
+-1
+Terrain: 9937
+-1
+Terrain: 9938
+-1
+Terrain: 9939
+-1
+Terrain: 9940
+-1
+Terrain: 9941
+-1
+Terrain: 9942
+-1
+Terrain: 9943
+-1
+Terrain: 9944
+45
+Terrain: 9945
+77
+Terrain: 9946
+75
+Terrain: 9947
+-1
+Terrain: 9948
+-2
+Terrain: 9949
+-2
+Terrain: 9950
+-1
+Terrain: 9951
+-3
+Terrain: 9952
+-1
+Terrain: 9953
+-1
+Terrain: 9954
+-2
+Terrain: 9955
+-1
+Terrain: 9956
+-1
+Terrain: 9957
+-1
+Terrain: 9958
+-1
+Terrain: 9959
+75
+Terrain: 9960
+-1
+Terrain: 9961
+-3
+Terrain: 9962
+-2
+Terrain: 9963
+52
+Terrain: 9964
+-2
+Terrain: 9965
+-1
+Terrain: 9966
+-3
+Terrain: 9967
+-1
+Terrain: 9968
+-3
+Terrain: 9969
+-1
+Terrain: 9970
+-1
+Terrain: 9971
+-2
+Terrain: 9972
+-2
+Terrain: 9973
+-1
+Terrain: 9974
+52
+Terrain: 9975
+-1
+Terrain: 9976
+-1
+Terrain: 9977
+-1
+Terrain: 9978
+-2
+Terrain: 9979
+-1
+Terrain: 9980
+-3
+Terrain: 9981
+-1
+Terrain: 9982
+-3
+Terrain: 9983
+-2
+Terrain: 9984
+-1
+Terrain: 9985
+61
+Terrain: 9986
+-2
+Terrain: 9987
+-3
+Terrain: 9988
+-3
+Terrain: 9989
+86
+Terrain: 9990
+-1
+Terrain: 9991
+52
+Terrain: 9992
+-2
+Terrain: 9993
+-1
+Terrain: 9994
+-3
+Terrain: 9995
+-1
+Terrain: 9996
+52
+Terrain: 9997
+-2
+Terrain: 9998
+45
+Terrain: 9999
+-1

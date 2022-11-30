@@ -1,16 +1,17 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-20 23:00:57
- * @LastEditTime: 2022-11-21 16:53:19
+ * @LastEditTime: 2022-11-30 15:15:09
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/TP7/environnement.h
+ * @FilePath: /INF304/Projet_EnsembleTD6-9/environnement.h
  */
 #ifndef _ENVIRONNEMENT_H_
 #define _ENVIRONNEMENT_H_
 
 #include "robot.h"
 #include "terrain.h"
+#include "observateur.h"
 
 /* Environnement : terrain + robot */
 
@@ -18,6 +19,7 @@ typedef struct
 {
 	Robot r;
 	Terrain t;
+	Etat etat_obs;
 } Environnement;
 
 /* Initialise l'environnement envt :
@@ -66,5 +68,7 @@ int mesure_envt(Environnement *envt, int d);
 
 /* Afficher le terrain avec la position et l'orientation du robot */
 void afficher_envt(Environnement *envt);
+
+int resultat_obs(Environnement *envt);
 
 #endif

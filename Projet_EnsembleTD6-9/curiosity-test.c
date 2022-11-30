@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-22 21:28:24
- * @LastEditTime: 2022-11-22 21:51:34
+ * @LastEditTime: 2022-11-30 18:44:41
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/TP7/curiosity-test.c
+ * @FilePath: /Projet_EnsembleTD6-9/curiosity-test.c
  */
 #include "environnement.h"
 #include "interprete.h"
@@ -107,47 +107,44 @@ int main(int argc, char **argv)
     for (int nb_arguments = 1; nb_arguments < argc; nb_arguments++)
     {
         f = fopen(argv[nb_arguments], "r");
-        /* Initialisation de l'environnement : lecture du terrain,
-           initialisation de la position du robot */
-        fgets(fichier_terrain, 50, f);
-        fichier_terrain[strlen(fichier_terrain) - 1] = '\0';
-        errt = initialise_environnement(&envt, fichier_terrain);
-        gestion_erreur_terrain(errt);
 
-        /* Lecture du programme */
-        fgets(fichier_programme, 50, f);
-        fichier_programme[strlen(fichier_programme) - 1] = '\0';
-        errp = lire_programme(&prog, fichier_programme);
-        gestion_erreur_programme(errp);
+        fgets(fichier_terrain, 50, f); // On récupère le nom du fichier terrain
+        fichier_terrain[strlen(fichier_terrain) - 1] = '\0'; // On enlève le \n
+        errt = initialise_environnement(&envt, fichier_terrain); // On initialise l'environnement
+        gestion_erreur_terrain(errt); // On gère les erreurs
 
-        fscanf(f, "%d", &nb_pas);
+        fgets(fichier_programme, 50, f); // On récupère le nom du fichier programme
+        fichier_programme[strlen(fichier_programme) - 1] = '\0'; // On enlève le \n
+        errp = lire_programme(&prog, fichier_programme); // On lit le programme
+        gestion_erreur_programme(errp); // On gère les erreurs
 
-        fscanf(f, "\n%c", &e);
+        fscanf(f, "%d", &nb_pas); // On récupère le nombre de pas
 
-        if (e == 'N' || e == 'F')
+        fscanf(f, "\n%c", &e); // On récupère l'état du robot
+
+        if (e == 'N' || e == 'F') // N -> position normal, F -> terminer
         {
-            fscanf(f, "%d", &x);
-            fscanf(f, "%d", &y);
-            fscanf(f, "\n%c", &o);
+            fscanf(f, "%d", &x); // On récupère la position x du robot
+            fscanf(f, "%d", &y); // On récupère la position y du robot
+            fscanf(f, "\n%c", &o); // On récupère l'orientation du robot
         }
 
-        /* Initialisation de l'état */
-        init_etat(&etat);
+        init_etat(&etat); // On initialise l'état
         do
         {
-            res = exec_pas(&prog, &envt, &etat);
+            res = exec_pas(&prog, &envt, &etat); // On exécute un pas
             nb_pas--;
             /* Affichage du terrain et du robot */
-            afficher_envt(&envt);
-        } while (res == OK_ROBOT && nb_pas != 0);
+            afficher_envt(&envt); // On affiche l'environnement
+        } while (res == OK_ROBOT && nb_pas != 0); // On continue tant que le robot n'a pas terminé ou qu'il reste des pas à exécuter
 
-        if (res == OK_ROBOT)
+        if (res == OK_ROBOT) // Si le robot a termine
         {
             res = ARRET_ROBOT;
         }
 
         /* Affichage du résultat */
-        switch (res)
+        switch (res) // On affiche le résultat
         {
         case OK_ROBOT:
             printf("Robot sur une case libre, programme non terminé (ne devrait pas "
@@ -162,7 +159,7 @@ int main(int argc, char **argv)
         case ARRET_ROBOT:
             if (e == 'N' || e == 'F')
             {
-                position(&envt.r, &xr, &yr);
+                position(&envt.r, &xr, &yr); // On récupère la position du robot
                 switch (orient(&envt.r))
                 {
                 case Nord:
@@ -178,7 +175,7 @@ int main(int argc, char **argv)
                     or = 'O';
                     break;
                 }
-                if (xr == x && yr == y && or == o)
+                if (xr == x && yr == y && or == o) // Si la position et l'orientation du robot correspondent
                     printf("La position du robot (%d, %d, %c) correspondent a ce qui est attendu: (%d, %d, %c) \n", xr, yr, or, x, y, o);
                 else
                     printf("La position du robot: (%d, %d, %c) ne correspondent pas a ce qui est attendu: (%d, %d, %c)\n", xr, yr, or, x, y, o);

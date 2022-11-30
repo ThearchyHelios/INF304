@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-21 16:45:13
- * @LastEditTime: 2022-11-29 11:59:12
+ * @LastEditTime: 2022-11-30 14:23:10
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /INF304/Projet_EnsembleTD6-9/robot_terrain.c
@@ -108,7 +108,7 @@ int robot_peut_avancer(Terrain *t, Robot *r)
 
 int main(int argc, char **argv)
 {
-	Terrain t;
+	Terrain t; 
 	FILE *f;
 	erreur_terrain e;
 	int x, y;

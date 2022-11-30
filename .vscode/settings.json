@@ -5,6 +5,7 @@
         "unistd.h": "c",
         "inet.h": "c",
         "interprete.h": "c",
-        "generation_terrains.h": "c"
+        "generation_terrains.h": "c",
+        "environnement.h": "c"
     }
 }
