@@ -1,10 +1,10 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-23 20:59:04
- * @LastEditTime: 2022-11-30 18:16:16
+ * @LastEditTime: 2022-12-01 12:18:31
  * @LastEditors: ThearchyHelios
  * @Description:
- * @FilePath: /INF304/Projet_EnsembleTD6-9/curiosity-obs.c
+ * @FilePath: /Projet_EnsembleTD6-9/curiosity-obs.c
  */
 
 #include "environnement.h"

@@ -12,7 +12,7 @@ Terrain: 5
 Terrain: 6
 -1
 Terrain: 7
--1
+-3
 Terrain: 8
 -1
 Terrain: 9
@@ -46,7 +46,7 @@ Terrain: 22
 Terrain: 23
 -1
 Terrain: 24
--3
+-1
 Terrain: 25
 -1
 Terrain: 26
@@ -56,7 +56,7 @@ Terrain: 27
 Terrain: 28
 -1
 Terrain: 29
--1
+-3
 Terrain: 30
 -1
 Terrain: 31
@@ -74,13 +74,13 @@ Terrain: 36
 Terrain: 37
 -1
 Terrain: 38
--3
+-1
 Terrain: 39
 -1
 Terrain: 40
 -1
 Terrain: 41
--1
+-2
 Terrain: 42
 -1
 Terrain: 43
@@ -98,11 +98,11 @@ Terrain: 48
 Terrain: 49
 -1
 Terrain: 50
--3
-Terrain: 51
--3
-Terrain: 52
 -1
+Terrain: 51
+-1
+Terrain: 52
+-2
 Terrain: 53
 -1
 Terrain: 54
@@ -128,17 +128,17 @@ Terrain: 63
 Terrain: 64
 -1
 Terrain: 65
--1
+58
 Terrain: 66
 -1
 Terrain: 67
 -1
 Terrain: 68
--3
+-1
 Terrain: 69
 -1
 Terrain: 70
--1
+58
 Terrain: 71
 -1
 Terrain: 72
@@ -154,17 +154,17 @@ Terrain: 76
 Terrain: 77
 -1
 Terrain: 78
--2
+-1
 Terrain: 79
 -1
 Terrain: 80
--3
+-1
 Terrain: 81
--3
+-1
 Terrain: 82
 -1
 Terrain: 83
--2
+-1
 Terrain: 84
 -1
 Terrain: 85
@@ -174,17 +174,17 @@ Terrain: 86
 Terrain: 87
 -1
 Terrain: 88
--1
+-3
 Terrain: 89
 -1
 Terrain: 90
-45
-Terrain: 91
--3
-Terrain: 92
--3
-Terrain: 93
 -1
+Terrain: 91
+-1
+Terrain: 92
+-1
+Terrain: 93
+-2
 Terrain: 94
 -1
 Terrain: 95
@@ -194,7 +194,7 @@ Terrain: 96
 Terrain: 97
 -1
 Terrain: 98
--1
+-2
 Terrain: 99
 -1
 Terrain: 100
@@ -226,9 +226,9 @@ Terrain: 112
 Terrain: 113
 -1
 Terrain: 114
--1
+-3
 Terrain: 115
--1
+-2
 Terrain: 116
 -1
 Terrain: 117
@@ -236,7 +236,7 @@ Terrain: 117
 Terrain: 118
 -1
 Terrain: 119
--1
+-2
 Terrain: 120
 -1
 Terrain: 121
@@ -260,11 +260,11 @@ Terrain: 129
 Terrain: 130
 -1
 Terrain: 131
--1
-Terrain: 132
-45
-Terrain: 133
 -3
+Terrain: 132
+-1
+Terrain: 133
+58
 Terrain: 134
 -1
 Terrain: 135
@@ -298,7 +298,7 @@ Terrain: 148
 Terrain: 149
 -1
 Terrain: 150
--1
+-2
 Terrain: 151
 -1
 Terrain: 152
@@ -320,7 +320,7 @@ Terrain: 159
 Terrain: 160
 -1
 Terrain: 161
-52
+-1
 Terrain: 162
 -1
 Terrain: 163
@@ -356,23 +356,23 @@ Terrain: 177
 Terrain: 178
 -1
 Terrain: 179
--1
-Terrain: 180
 -3
+Terrain: 180
+-1
 Terrain: 181
--2
+-3
 Terrain: 182
--2
+-3
 Terrain: 183
 -1
 Terrain: 184
 -1
 Terrain: 185
--3
+-1
 Terrain: 186
 -1
 Terrain: 187
--2
+-1
 Terrain: 188
 -1
 Terrain: 189
@@ -380,9 +380,9 @@ Terrain: 189
 Terrain: 190
 -1
 Terrain: 191
--1
-Terrain: 192
 -2
+Terrain: 192
+-1
 Terrain: 193
 -1
 Terrain: 194
@@ -396,7 +396,7 @@ Terrain: 197
 Terrain: 198
 -1
 Terrain: 199
--2
+-1
 Terrain: 200
 -1
 Terrain: 201
@@ -416,7 +416,7 @@ Terrain: 207
 Terrain: 208
 -1
 Terrain: 209
--2
+-1
 Terrain: 210
 -1
 Terrain: 211
@@ -426,7 +426,7 @@ Terrain: 212
 Terrain: 213
 -1
 Terrain: 214
--2
+-1
 Terrain: 215
 -1
 Terrain: 216
@@ -450,7 +450,7 @@ Terrain: 224
 Terrain: 225
 -1
 Terrain: 226
--1
+-3
 Terrain: 227
 -1
 Terrain: 228
@@ -460,11 +460,11 @@ Terrain: 229
 Terrain: 230
 -1
 Terrain: 231
--2
+-1
 Terrain: 232
 -1
 Terrain: 233
--2
+-3
 Terrain: 234
 -1
 Terrain: 235
@@ -472,7 +472,7 @@ Terrain: 235
 Terrain: 236
 -1
 Terrain: 237
--1
+-2
 Terrain: 238
 -1
 Terrain: 239
@@ -486,9 +486,9 @@ Terrain: 242
 Terrain: 243
 -1
 Terrain: 244
--2
+-1
 Terrain: 245
--2
+-1
 Terrain: 246
 -1
 Terrain: 247
@@ -496,7 +496,7 @@ Terrain: 247
 Terrain: 248
 -1
 Terrain: 249
--1
+-2
 Terrain: 250
 -1
 Terrain: 251
@@ -508,7 +508,7 @@ Terrain: 253
 Terrain: 254
 -1
 Terrain: 255
--3
+-1
 Terrain: 256
 -1
 Terrain: 257
@@ -522,7 +522,7 @@ Terrain: 260
 Terrain: 261
 -1
 Terrain: 262
--1
+-3
 Terrain: 263
 -1
 Terrain: 264
@@ -550,15 +550,15 @@ Terrain: 274
 Terrain: 275
 -1
 Terrain: 276
--1
-Terrain: 277
 -3
+Terrain: 277
+-1
 Terrain: 278
 -1
 Terrain: 279
 -1
 Terrain: 280
--2
+-1
 Terrain: 281
 -1
 Terrain: 282
@@ -576,15 +576,15 @@ Terrain: 287
 Terrain: 288
 -1
 Terrain: 289
--3
+-2
 Terrain: 290
--1
+-3
 Terrain: 291
 -1
 Terrain: 292
 -1
 Terrain: 293
--1
+-3
 Terrain: 294
 -1
 Terrain: 295
@@ -602,9 +602,9 @@ Terrain: 300
 Terrain: 301
 -1
 Terrain: 302
--3
+-1
 Terrain: 303
--3
+-1
 Terrain: 304
 -1
 Terrain: 305
@@ -622,7 +622,7 @@ Terrain: 310
 Terrain: 311
 -1
 Terrain: 312
--1
+58
 Terrain: 313
 -1
 Terrain: 314
@@ -636,7 +636,7 @@ Terrain: 317
 Terrain: 318
 -1
 Terrain: 319
--3
+-1
 Terrain: 320
 -1
 Terrain: 321
@@ -670,7 +670,7 @@ Terrain: 334
 Terrain: 335
 -1
 Terrain: 336
--2
+-1
 Terrain: 337
 -1
 Terrain: 338
@@ -678,9 +678,9 @@ Terrain: 338
 Terrain: 339
 -1
 Terrain: 340
--3
+-1
 Terrain: 341
--3
+-1
 Terrain: 342
 -1
 Terrain: 343
@@ -692,19 +692,19 @@ Terrain: 345
 Terrain: 346
 -1
 Terrain: 347
--2
+-1
 Terrain: 348
 -1
 Terrain: 349
--3
+-1
 Terrain: 350
 -1
 Terrain: 351
 -1
 Terrain: 352
--2
+-1
 Terrain: 353
--2
+-3
 Terrain: 354
 -1
 Terrain: 355
@@ -716,7 +716,7 @@ Terrain: 357
 Terrain: 358
 -1
 Terrain: 359
--1
+-3
 Terrain: 360
 -1
 Terrain: 361
@@ -724,7 +724,7 @@ Terrain: 361
 Terrain: 362
 -1
 Terrain: 363
--1
+-2
 Terrain: 364
 -1
 Terrain: 365
@@ -732,7 +732,7 @@ Terrain: 365
 Terrain: 366
 -1
 Terrain: 367
--1
+45
 Terrain: 368
 -1
 Terrain: 369
@@ -748,21 +748,21 @@ Terrain: 373
 Terrain: 374
 -1
 Terrain: 375
--1
+-2
 Terrain: 376
 -1
 Terrain: 377
 -1
 Terrain: 378
--1
+-3
 Terrain: 379
 -1
 Terrain: 380
 -1
 Terrain: 381
--3
-Terrain: 382
 -1
+Terrain: 382
+-3
 Terrain: 383
 -1
 Terrain: 384
@@ -772,13 +772,13 @@ Terrain: 385
 Terrain: 386
 -1
 Terrain: 387
--1
+-2
 Terrain: 388
 -1
 Terrain: 389
 -1
 Terrain: 390
-52
+-1
 Terrain: 391
 -1
 Terrain: 392
@@ -790,11 +790,11 @@ Terrain: 394
 Terrain: 395
 -1
 Terrain: 396
--2
+-1
 Terrain: 397
 -1
 Terrain: 398
--1
+-3
 Terrain: 399
 -1
 Terrain: 400
@@ -830,13 +830,13 @@ Terrain: 414
 Terrain: 415
 -1
 Terrain: 416
-52
-Terrain: 417
-52
-Terrain: 418
--2
-Terrain: 419
 -1
+Terrain: 417
+-1
+Terrain: 418
+-1
+Terrain: 419
+-3
 Terrain: 420
 -1
 Terrain: 421
@@ -844,17 +844,17 @@ Terrain: 421
 Terrain: 422
 -1
 Terrain: 423
--3
+-1
 Terrain: 424
 -1
 Terrain: 425
 -1
 Terrain: 426
--3
+-1
 Terrain: 427
 -1
 Terrain: 428
--3
+-1
 Terrain: 429
 -1
 Terrain: 430
@@ -872,15 +872,15 @@ Terrain: 435
 Terrain: 436
 -1
 Terrain: 437
--1
+-2
 Terrain: 438
--1
+-3
 Terrain: 439
 -1
 Terrain: 440
 -1
 Terrain: 441
--1
+-2
 Terrain: 442
 -1
 Terrain: 443
@@ -896,15 +896,15 @@ Terrain: 447
 Terrain: 448
 -1
 Terrain: 449
--3
+-1
 Terrain: 450
 -1
 Terrain: 451
 -1
 Terrain: 452
--2
+-1
 Terrain: 453
--2
+-1
 Terrain: 454
 -1
 Terrain: 455
@@ -918,17 +918,17 @@ Terrain: 458
 Terrain: 459
 -1
 Terrain: 460
--2
+-1
 Terrain: 461
 -1
 Terrain: 462
--3
+-1
 Terrain: 463
 -1
 Terrain: 464
 -1
 Terrain: 465
-45
+-1
 Terrain: 466
 -1
 Terrain: 467
@@ -936,7 +936,7 @@ Terrain: 467
 Terrain: 468
 -1
 Terrain: 469
--1
+-3
 Terrain: 470
 -1
 Terrain: 471
@@ -958,7 +958,7 @@ Terrain: 478
 Terrain: 479
 -1
 Terrain: 480
--2
+-1
 Terrain: 481
 -1
 Terrain: 482
@@ -968,9 +968,9 @@ Terrain: 483
 Terrain: 484
 -1
 Terrain: 485
--1
+-2
 Terrain: 486
--1
+-3
 Terrain: 487
 -1
 Terrain: 488
@@ -980,7 +980,7 @@ Terrain: 489
 Terrain: 490
 -1
 Terrain: 491
--2
+-1
 Terrain: 492
 -1
 Terrain: 493
@@ -990,7 +990,7 @@ Terrain: 494
 Terrain: 495
 -1
 Terrain: 496
-45
+-1
 Terrain: 497
 -1
 Terrain: 498
@@ -1024,7 +1024,7 @@ Terrain: 511
 Terrain: 512
 -1
 Terrain: 513
--1
+-2
 Terrain: 514
 -1
 Terrain: 515
@@ -1040,21 +1040,21 @@ Terrain: 519
 Terrain: 520
 -1
 Terrain: 521
--3
+-1
 Terrain: 522
 -1
 Terrain: 523
 -1
 Terrain: 524
--3
+-1
 Terrain: 525
--2
+-1
 Terrain: 526
 -1
 Terrain: 527
 -1
 Terrain: 528
-61
+-1
 Terrain: 529
 -1
 Terrain: 530
@@ -1062,7 +1062,7 @@ Terrain: 530
 Terrain: 531
 -1
 Terrain: 532
--1
+-2
 Terrain: 533
 -1
 Terrain: 534
@@ -1076,7 +1076,7 @@ Terrain: 537
 Terrain: 538
 -1
 Terrain: 539
--2
+-1
 Terrain: 540
 -1
 Terrain: 541
@@ -1088,17 +1088,17 @@ Terrain: 543
 Terrain: 544
 -1
 Terrain: 545
--2
+-1
 Terrain: 546
 -1
 Terrain: 547
--3
+-1
 Terrain: 548
 -1
 Terrain: 549
 -1
 Terrain: 550
--3
+-1
 Terrain: 551
 -1
 Terrain: 552
@@ -1114,7 +1114,7 @@ Terrain: 556
 Terrain: 557
 -1
 Terrain: 558
-61
+-1
 Terrain: 559
 -1
 Terrain: 560
@@ -1154,21 +1154,21 @@ Terrain: 576
 Terrain: 577
 -1
 Terrain: 578
--2
+-1
 Terrain: 579
 -1
 Terrain: 580
--1
+-2
 Terrain: 581
 -1
 Terrain: 582
 -1
 Terrain: 583
--1
+58
 Terrain: 584
--1
+-2
 Terrain: 585
--1
+-2
 Terrain: 586
 -1
 Terrain: 587
@@ -1176,13 +1176,13 @@ Terrain: 587
 Terrain: 588
 -1
 Terrain: 589
--1
+-2
 Terrain: 590
 -1
 Terrain: 591
 -1
 Terrain: 592
--3
+-1
 Terrain: 593
 -1
 Terrain: 594
@@ -1196,7 +1196,7 @@ Terrain: 597
 Terrain: 598
 -1
 Terrain: 599
--1
+-2
 Terrain: 600
 -1
 Terrain: 601
@@ -1234,7 +1234,7 @@ Terrain: 616
 Terrain: 617
 -1
 Terrain: 618
--1
+-3
 Terrain: 619
 -1
 Terrain: 620
@@ -1242,7 +1242,7 @@ Terrain: 620
 Terrain: 621
 -1
 Terrain: 622
--3
+-1
 Terrain: 623
 -1
 Terrain: 624
@@ -1256,7 +1256,7 @@ Terrain: 627
 Terrain: 628
 -1
 Terrain: 629
--2
+-1
 Terrain: 630
 -1
 Terrain: 631
@@ -1268,7 +1268,7 @@ Terrain: 633
 Terrain: 634
 -1
 Terrain: 635
--2
+-1
 Terrain: 636
 -1
 Terrain: 637
@@ -1278,7 +1278,7 @@ Terrain: 638
 Terrain: 639
 -1
 Terrain: 640
--1
+-3
 Terrain: 641
 -1
 Terrain: 642
@@ -1292,21 +1292,21 @@ Terrain: 645
 Terrain: 646
 -1
 Terrain: 647
--2
+-1
 Terrain: 648
 -1
 Terrain: 649
 -1
 Terrain: 650
--2
+-1
 Terrain: 651
 -1
 Terrain: 652
--3
+-1
 Terrain: 653
 -1
 Terrain: 654
--1
+-2
 Terrain: 655
 -1
 Terrain: 656
@@ -1314,21 +1314,21 @@ Terrain: 656
 Terrain: 657
 -1
 Terrain: 658
--1
+-3
 Terrain: 659
 -1
 Terrain: 660
 -1
 Terrain: 661
--2
+-1
 Terrain: 662
 -1
 Terrain: 663
--2
+-1
 Terrain: 664
 -1
 Terrain: 665
--1
+-3
 Terrain: 666
 -1
 Terrain: 667
@@ -1342,7 +1342,7 @@ Terrain: 670
 Terrain: 671
 -1
 Terrain: 672
--2
+-3
 Terrain: 673
 -1
 Terrain: 674
@@ -1358,15 +1358,15 @@ Terrain: 678
 Terrain: 679
 -1
 Terrain: 680
--2
+-1
 Terrain: 681
 -1
 Terrain: 682
--2
+-1
 Terrain: 683
 -1
 Terrain: 684
-79
+-1
 Terrain: 685
 -1
 Terrain: 686
@@ -1376,7 +1376,7 @@ Terrain: 687
 Terrain: 688
 -1
 Terrain: 689
--2
+-1
 Terrain: 690
 -1
 Terrain: 691
@@ -1404,23 +1404,23 @@ Terrain: 701
 Terrain: 702
 -1
 Terrain: 703
--3
+-2
 Terrain: 704
--3
+-1
 Terrain: 705
 -1
 Terrain: 706
 -1
 Terrain: 707
--1
+-3
 Terrain: 708
--1
+-2
 Terrain: 709
--1
+-3
 Terrain: 710
 -1
 Terrain: 711
--3
+-1
 Terrain: 712
 -1
 Terrain: 713
@@ -1446,11 +1446,11 @@ Terrain: 722
 Terrain: 723
 -1
 Terrain: 724
--1
+-2
 Terrain: 725
 -1
 Terrain: 726
--3
+-1
 Terrain: 727
 -1
 Terrain: 728
@@ -1458,13 +1458,13 @@ Terrain: 728
 Terrain: 729
 -1
 Terrain: 730
--1
+58
 Terrain: 731
 -1
 Terrain: 732
 -1
 Terrain: 733
--2
+-1
 Terrain: 734
 -1
 Terrain: 735
@@ -1472,7 +1472,7 @@ Terrain: 735
 Terrain: 736
 -1
 Terrain: 737
--1
+-2
 Terrain: 738
 -1
 Terrain: 739
@@ -1492,7 +1492,7 @@ Terrain: 745
 Terrain: 746
 -1
 Terrain: 747
--1
+-3
 Terrain: 748
 -1
 Terrain: 749
@@ -1502,19 +1502,19 @@ Terrain: 750
 Terrain: 751
 -1
 Terrain: 752
--2
+-1
 Terrain: 753
 -1
 Terrain: 754
--2
-Terrain: 755
 -1
+Terrain: 755
+-3
 Terrain: 756
 -1
 Terrain: 757
 -1
 Terrain: 758
--2
+-1
 Terrain: 759
 -1
 Terrain: 760
@@ -1526,21 +1526,21 @@ Terrain: 762
 Terrain: 763
 -1
 Terrain: 764
--1
+-2
 Terrain: 765
 -1
 Terrain: 766
--2
+-1
 Terrain: 767
 -1
 Terrain: 768
--1
+-2
 Terrain: 769
 -1
 Terrain: 770
 -1
 Terrain: 771
--3
+-1
 Terrain: 772
 -1
 Terrain: 773
@@ -1558,7 +1558,7 @@ Terrain: 778
 Terrain: 779
 -1
 Terrain: 780
--1
+-2
 Terrain: 781
 -1
 Terrain: 782
@@ -1576,7 +1576,7 @@ Terrain: 787
 Terrain: 788
 -1
 Terrain: 789
--1
+45
 Terrain: 790
 -1
 Terrain: 791
@@ -1630,23 +1630,23 @@ Terrain: 814
 Terrain: 815
 -1
 Terrain: 816
--3
-Terrain: 817
 -1
+Terrain: 817
+-2
 Terrain: 818
--3
+-1
 Terrain: 819
 -1
 Terrain: 820
--1
+-2
 Terrain: 821
--1
+-3
 Terrain: 822
 -1
 Terrain: 823
 -1
 Terrain: 824
--3
+-1
 Terrain: 825
 -1
 Terrain: 826
@@ -1668,13 +1668,13 @@ Terrain: 833
 Terrain: 834
 -1
 Terrain: 835
-68
-Terrain: 836
--2
-Terrain: 837
 -1
-Terrain: 838
+Terrain: 836
+-1
+Terrain: 837
 -3
+Terrain: 838
+-1
 Terrain: 839
 -1
 Terrain: 840
@@ -1684,7 +1684,7 @@ Terrain: 841
 Terrain: 842
 -1
 Terrain: 843
--1
+-2
 Terrain: 844
 -1
 Terrain: 845
@@ -1698,13 +1698,13 @@ Terrain: 848
 Terrain: 849
 -1
 Terrain: 850
--1
+-3
 Terrain: 851
 -1
 Terrain: 852
 -1
 Terrain: 853
--1
+-2
 Terrain: 854
 -1
 Terrain: 855
@@ -1722,7 +1722,7 @@ Terrain: 860
 Terrain: 861
 -1
 Terrain: 862
--1
+-3
 Terrain: 863
 -1
 Terrain: 864
@@ -1734,7 +1734,7 @@ Terrain: 866
 Terrain: 867
 -1
 Terrain: 868
--1
+-3
 Terrain: 869
 -1
 Terrain: 870
@@ -1778,7 +1778,7 @@ Terrain: 888
 Terrain: 889
 -1
 Terrain: 890
--1
+-2
 Terrain: 891
 -1
 Terrain: 892
@@ -1808,13 +1808,13 @@ Terrain: 903
 Terrain: 904
 -1
 Terrain: 905
--1
+-3
 Terrain: 906
 -1
 Terrain: 907
--1
+-2
 Terrain: 908
--1
+-2
 Terrain: 909
 -1
 Terrain: 910
@@ -1872,11 +1872,11 @@ Terrain: 935
 Terrain: 936
 -1
 Terrain: 937
--3
+-1
 Terrain: 938
 -1
 Terrain: 939
--1
+45
 Terrain: 940
 -1
 Terrain: 941
@@ -1888,21 +1888,21 @@ Terrain: 943
 Terrain: 944
 -1
 Terrain: 945
--1
+-2
 Terrain: 946
 -1
 Terrain: 947
--1
+-3
 Terrain: 948
--1
+-3
 Terrain: 949
 -1
 Terrain: 950
--3
+-1
 Terrain: 951
 -1
 Terrain: 952
--1
+-2
 Terrain: 953
 -1
 Terrain: 954
@@ -1910,9 +1910,9 @@ Terrain: 954
 Terrain: 955
 -1
 Terrain: 956
--1
+67
 Terrain: 957
--2
+-1
 Terrain: 958
 -1
 Terrain: 959
@@ -1948,13 +1948,13 @@ Terrain: 973
 Terrain: 974
 -1
 Terrain: 975
--3
+-1
 Terrain: 976
 -1
 Terrain: 977
--3
+-1
 Terrain: 978
-45
+-1
 Terrain: 979
 -1
 Terrain: 980
@@ -1964,9 +1964,9 @@ Terrain: 981
 Terrain: 982
 -1
 Terrain: 983
--1
+-2
 Terrain: 984
--1
+-2
 Terrain: 985
 -1
 Terrain: 986
@@ -1974,13 +1974,13 @@ Terrain: 986
 Terrain: 987
 -1
 Terrain: 988
--3
+-1
 Terrain: 989
 -1
 Terrain: 990
 -1
 Terrain: 991
--1
+-2
 Terrain: 992
 -1
 Terrain: 993
@@ -2002,11 +2002,11 @@ Terrain: 1000
 Terrain: 1001
 -1
 Terrain: 1002
--1
+45
 Terrain: 1003
 -1
 Terrain: 1004
--1
+-2
 Terrain: 1005
 -1
 Terrain: 1006
@@ -2020,15 +2020,15 @@ Terrain: 1009
 Terrain: 1010
 -1
 Terrain: 1011
--2
+-1
 Terrain: 1012
-61
+-1
 Terrain: 1013
 -1
 Terrain: 1014
 -1
 Terrain: 1015
--3
+-1
 Terrain: 1016
 -1
 Terrain: 1017
@@ -2038,9 +2038,9 @@ Terrain: 1018
 Terrain: 1019
 -1
 Terrain: 1020
--2
-Terrain: 1021
 -1
+Terrain: 1021
+-3
 Terrain: 1022
 -1
 Terrain: 1023
@@ -2058,13 +2058,13 @@ Terrain: 1028
 Terrain: 1029
 -1
 Terrain: 1030
--2
+-1
 Terrain: 1031
 -1
 Terrain: 1032
 -1
 Terrain: 1033
--2
+-1
 Terrain: 1034
 -1
 Terrain: 1035
@@ -2078,9 +2078,9 @@ Terrain: 1038
 Terrain: 1039
 -1
 Terrain: 1040
--1
+-2
 Terrain: 1041
--1
+-3
 Terrain: 1042
 -1
 Terrain: 1043
@@ -2088,7 +2088,7 @@ Terrain: 1043
 Terrain: 1044
 -1
 Terrain: 1045
--3
+-1
 Terrain: 1046
 -1
 Terrain: 1047
@@ -2096,7 +2096,7 @@ Terrain: 1047
 Terrain: 1048
 -1
 Terrain: 1049
-68
+-1
 Terrain: 1050
 -1
 Terrain: 1051
@@ -2104,7 +2104,7 @@ Terrain: 1051
 Terrain: 1052
 -1
 Terrain: 1053
--2
+-1
 Terrain: 1054
 -1
 Terrain: 1055
@@ -2112,13 +2112,13 @@ Terrain: 1055
 Terrain: 1056
 -1
 Terrain: 1057
--2
+-1
 Terrain: 1058
 -1
 Terrain: 1059
 -1
 Terrain: 1060
--1
+-3
 Terrain: 1061
 -1
 Terrain: 1062
@@ -2144,15 +2144,15 @@ Terrain: 1071
 Terrain: 1072
 -1
 Terrain: 1073
--1
+-3
 Terrain: 1074
-52
+-1
 Terrain: 1075
 -1
 Terrain: 1076
 -1
 Terrain: 1077
--1
+-3
 Terrain: 1078
 -1
 Terrain: 1079
@@ -2162,7 +2162,7 @@ Terrain: 1080
 Terrain: 1081
 -1
 Terrain: 1082
--2
+-1
 Terrain: 1083
 -1
 Terrain: 1084
@@ -2190,9 +2190,9 @@ Terrain: 1094
 Terrain: 1095
 -3
 Terrain: 1096
--3
+-1
 Terrain: 1097
--3
+-1
 Terrain: 1098
 -1
 Terrain: 1099
@@ -2206,9 +2206,9 @@ Terrain: 1102
 Terrain: 1103
 -1
 Terrain: 1104
--1
+-2
 Terrain: 1105
--3
+-1
 Terrain: 1106
 -1
 Terrain: 1107
@@ -2222,7 +2222,7 @@ Terrain: 1110
 Terrain: 1111
 -1
 Terrain: 1112
--3
+-1
 Terrain: 1113
 -1
 Terrain: 1114
@@ -2254,13 +2254,13 @@ Terrain: 1126
 Terrain: 1127
 -1
 Terrain: 1128
--2
+-1
 Terrain: 1129
 -1
 Terrain: 1130
--1
+-3
 Terrain: 1131
--2
+-1
 Terrain: 1132
 -1
 Terrain: 1133
@@ -2268,9 +2268,9 @@ Terrain: 1133
 Terrain: 1134
 -1
 Terrain: 1135
--1
+-2
 Terrain: 1136
--1
+-2
 Terrain: 1137
 -1
 Terrain: 1138
@@ -2298,9 +2298,9 @@ Terrain: 1148
 Terrain: 1149
 -1
 Terrain: 1150
--1
+-2
 Terrain: 1151
--1
+-3
 Terrain: 1152
 -1
 Terrain: 1153
@@ -2322,7 +2322,7 @@ Terrain: 1160
 Terrain: 1161
 -1
 Terrain: 1162
--3
+-1
 Terrain: 1163
 -2
 Terrain: 1164
@@ -2330,7 +2330,7 @@ Terrain: 1164
 Terrain: 1165
 -1
 Terrain: 1166
--2
+-1
 Terrain: 1167
 -1
 Terrain: 1168
@@ -2358,7 +2358,7 @@ Terrain: 1178
 Terrain: 1179
 -1
 Terrain: 1180
--2
+-1
 Terrain: 1181
 -1
 Terrain: 1182
@@ -2376,13 +2376,13 @@ Terrain: 1187
 Terrain: 1188
 -1
 Terrain: 1189
-68
+-1
 Terrain: 1190
 -1
 Terrain: 1191
 -1
 Terrain: 1192
--1
+-2
 Terrain: 1193
 -1
 Terrain: 1194
@@ -2394,7 +2394,7 @@ Terrain: 1196
 Terrain: 1197
 -1
 Terrain: 1198
--1
+-2
 Terrain: 1199
 -1
 Terrain: 1200
@@ -2420,7 +2420,7 @@ Terrain: 1209
 Terrain: 1210
 -1
 Terrain: 1211
--1
+-3
 Terrain: 1212
 -1
 Terrain: 1213
@@ -2438,11 +2438,11 @@ Terrain: 1218
 Terrain: 1219
 -1
 Terrain: 1220
--3
+-1
 Terrain: 1221
 -1
 Terrain: 1222
--1
+-2
 Terrain: 1223
 -1
 Terrain: 1224
@@ -2450,21 +2450,21 @@ Terrain: 1224
 Terrain: 1225
 -1
 Terrain: 1226
--1
+-2
 Terrain: 1227
 -1
 Terrain: 1228
 -1
 Terrain: 1229
--1
+67
 Terrain: 1230
 -1
 Terrain: 1231
--2
+-1
 Terrain: 1232
 -1
 Terrain: 1233
--3
+-1
 Terrain: 1234
 -3
 Terrain: 1235
@@ -2482,7 +2482,7 @@ Terrain: 1240
 Terrain: 1241
 -1
 Terrain: 1242
-45
+-1
 Terrain: 1243
 -1
 Terrain: 1244
@@ -2506,7 +2506,7 @@ Terrain: 1252
 Terrain: 1253
 -1
 Terrain: 1254
--3
+-1
 Terrain: 1255
 -1
 Terrain: 1256
@@ -2514,7 +2514,7 @@ Terrain: 1256
 Terrain: 1257
 -1
 Terrain: 1258
--3
+-1
 Terrain: 1259
 -1
 Terrain: 1260
@@ -2526,11 +2526,11 @@ Terrain: 1262
 Terrain: 1263
 -1
 Terrain: 1264
--3
+-2
 Terrain: 1265
 -1
 Terrain: 1266
--2
+-1
 Terrain: 1267
 -1
 Terrain: 1268
@@ -2540,17 +2540,17 @@ Terrain: 1269
 Terrain: 1270
 -1
 Terrain: 1271
--3
-Terrain: 1272
-52
-Terrain: 1273
 -1
+Terrain: 1272
+-1
+Terrain: 1273
+-3
 Terrain: 1274
 -1
 Terrain: 1275
 -1
 Terrain: 1276
--1
+-3
 Terrain: 1277
 -1
 Terrain: 1278
@@ -2562,7 +2562,7 @@ Terrain: 1280
 Terrain: 1281
 -1
 Terrain: 1282
--3
+-1
 Terrain: 1283
 -1
 Terrain: 1284
@@ -2572,9 +2572,9 @@ Terrain: 1285
 Terrain: 1286
 -1
 Terrain: 1287
--1
+-3
 Terrain: 1288
--1
+-2
 Terrain: 1289
 -1
 Terrain: 1290
@@ -2582,13 +2582,13 @@ Terrain: 1290
 Terrain: 1291
 -1
 Terrain: 1292
--1
+-2
 Terrain: 1293
 -1
 Terrain: 1294
 -1
 Terrain: 1295
-52
+-1
 Terrain: 1296
 -1
 Terrain: 1297
@@ -2604,15 +2604,15 @@ Terrain: 1301
 Terrain: 1302
 -1
 Terrain: 1303
--3
-Terrain: 1304
 -1
+Terrain: 1304
+-2
 Terrain: 1305
 -1
 Terrain: 1306
 -1
 Terrain: 1307
--1
+80
 Terrain: 1308
 -1
 Terrain: 1309
@@ -2634,9 +2634,9 @@ Terrain: 1316
 Terrain: 1317
 -1
 Terrain: 1318
--1
+-3
 Terrain: 1319
--1
+-3
 Terrain: 1320
 -1
 Terrain: 1321
@@ -2650,7 +2650,7 @@ Terrain: 1324
 Terrain: 1325
 -1
 Terrain: 1326
--1
+58
 Terrain: 1327
 -1
 Terrain: 1328
@@ -2662,25 +2662,25 @@ Terrain: 1330
 Terrain: 1331
 -1
 Terrain: 1332
--1
+-3
 Terrain: 1333
 -1
 Terrain: 1334
 -1
 Terrain: 1335
--1
+-3
 Terrain: 1336
 -1
 Terrain: 1337
--2
+-1
 Terrain: 1338
 -1
 Terrain: 1339
--1
+-3
 Terrain: 1340
 -1
 Terrain: 1341
--3
+-1
 Terrain: 1342
 -1
 Terrain: 1343
@@ -2708,7 +2708,7 @@ Terrain: 1353
 Terrain: 1354
 -1
 Terrain: 1355
--1
+-3
 Terrain: 1356
 -1
 Terrain: 1357
@@ -2716,7 +2716,7 @@ Terrain: 1357
 Terrain: 1358
 -1
 Terrain: 1359
--1
+58
 Terrain: 1360
 -1
 Terrain: 1361
@@ -2724,9 +2724,9 @@ Terrain: 1361
 Terrain: 1362
 -1
 Terrain: 1363
--1
-Terrain: 1364
 -2
+Terrain: 1364
+-3
 Terrain: 1365
 -1
 Terrain: 1366
@@ -2746,9 +2746,9 @@ Terrain: 1372
 Terrain: 1373
 -1
 Terrain: 1374
-52
-Terrain: 1375
 -1
+Terrain: 1375
+58
 Terrain: 1376
 -1
 Terrain: 1377
@@ -2756,7 +2756,7 @@ Terrain: 1377
 Terrain: 1378
 -1
 Terrain: 1379
--2
+-1
 Terrain: 1380
 -1
 Terrain: 1381
@@ -2780,13 +2780,13 @@ Terrain: 1389
 Terrain: 1390
 -1
 Terrain: 1391
--1
-Terrain: 1392
-52
-Terrain: 1393
--1
-Terrain: 1394
 -3
+Terrain: 1392
+-1
+Terrain: 1393
+-3
+Terrain: 1394
+-1
 Terrain: 1395
 -1
 Terrain: 1396
@@ -2796,7 +2796,7 @@ Terrain: 1397
 Terrain: 1398
 -1
 Terrain: 1399
--1
+-2
 Terrain: 1400
 -1
 Terrain: 1401
@@ -2806,7 +2806,7 @@ Terrain: 1402
 Terrain: 1403
 -1
 Terrain: 1404
--1
+-3
 Terrain: 1405
 -1
 Terrain: 1406
@@ -2816,13 +2816,13 @@ Terrain: 1407
 Terrain: 1408
 -1
 Terrain: 1409
--1
+-2
 Terrain: 1410
 -1
 Terrain: 1411
--1
+58
 Terrain: 1412
--1
+58
 Terrain: 1413
 -1
 Terrain: 1414
@@ -2866,17 +2866,17 @@ Terrain: 1432
 Terrain: 1433
 -1
 Terrain: 1434
--2
+-1
 Terrain: 1435
 -1
 Terrain: 1436
 -1
 Terrain: 1437
--2
+-1
 Terrain: 1438
 -1
 Terrain: 1439
--2
+-1
 Terrain: 1440
 -1
 Terrain: 1441
@@ -2884,13 +2884,13 @@ Terrain: 1441
 Terrain: 1442
 -1
 Terrain: 1443
--1
+-3
 Terrain: 1444
 -1
 Terrain: 1445
 -1
 Terrain: 1446
--1
+58
 Terrain: 1447
 -1
 Terrain: 1448
@@ -2916,25 +2916,25 @@ Terrain: 1457
 Terrain: 1458
 -1
 Terrain: 1459
--1
+-2
 Terrain: 1460
 -1
 Terrain: 1461
 -1
 Terrain: 1462
--3
+-1
 Terrain: 1463
 -1
 Terrain: 1464
 -1
 Terrain: 1465
--1
+-2
 Terrain: 1466
 -1
 Terrain: 1467
 -1
 Terrain: 1468
--1
+-2
 Terrain: 1469
 -1
 Terrain: 1470
@@ -2944,13 +2944,13 @@ Terrain: 1471
 Terrain: 1472
 -1
 Terrain: 1473
--1
+-2
 Terrain: 1474
 -1
 Terrain: 1475
 -1
 Terrain: 1476
--1
+-2
 Terrain: 1477
 -1
 Terrain: 1478
@@ -2958,13 +2958,13 @@ Terrain: 1478
 Terrain: 1479
 -1
 Terrain: 1480
--1
+-2
 Terrain: 1481
--3
+-1
 Terrain: 1482
 -1
 Terrain: 1483
--2
+-1
 Terrain: 1484
 -1
 Terrain: 1485
@@ -2986,15 +2986,15 @@ Terrain: 1492
 Terrain: 1493
 -1
 Terrain: 1494
--1
+-3
 Terrain: 1495
 -1
 Terrain: 1496
 -1
 Terrain: 1497
--3
+-1
 Terrain: 1498
-45
+-1
 Terrain: 1499
 -1
 Terrain: 1500
@@ -3028,7 +3028,7 @@ Terrain: 1513
 Terrain: 1514
 -1
 Terrain: 1515
--3
+-1
 Terrain: 1516
 -1
 Terrain: 1517
@@ -3050,9 +3050,9 @@ Terrain: 1524
 Terrain: 1525
 -1
 Terrain: 1526
--1
-Terrain: 1527
 -3
+Terrain: 1527
+-1
 Terrain: 1528
 -1
 Terrain: 1529
@@ -3066,7 +3066,7 @@ Terrain: 1532
 Terrain: 1533
 -1
 Terrain: 1534
--1
+-3
 Terrain: 1535
 -1
 Terrain: 1536
@@ -3074,7 +3074,7 @@ Terrain: 1536
 Terrain: 1537
 -1
 Terrain: 1538
--1
+-3
 Terrain: 1539
 -1
 Terrain: 1540
@@ -3086,15 +3086,15 @@ Terrain: 1542
 Terrain: 1543
 -1
 Terrain: 1544
--3
+-1
 Terrain: 1545
 -1
 Terrain: 1546
--3
-Terrain: 1547
 -1
+Terrain: 1547
+45
 Terrain: 1548
--3
+-1
 Terrain: 1549
 -1
 Terrain: 1550
@@ -3124,11 +3124,11 @@ Terrain: 1561
 Terrain: 1562
 -1
 Terrain: 1563
--1
+-3
 Terrain: 1564
--2
-Terrain: 1565
 -1
+Terrain: 1565
+-2
 Terrain: 1566
 -1
 Terrain: 1567
@@ -3138,15 +3138,15 @@ Terrain: 1568
 Terrain: 1569
 -1
 Terrain: 1570
-45
+-1
 Terrain: 1571
 -1
 Terrain: 1572
 -1
 Terrain: 1573
--3
-Terrain: 1574
 -1
+Terrain: 1574
+-3
 Terrain: 1575
 -1
 Terrain: 1576
@@ -3156,21 +3156,21 @@ Terrain: 1577
 Terrain: 1578
 -1
 Terrain: 1579
--1
+-3
 Terrain: 1580
 -1
 Terrain: 1581
--1
-Terrain: 1582
 -2
+Terrain: 1582
+-1
 Terrain: 1583
 -1
 Terrain: 1584
--2
+-1
 Terrain: 1585
 -1
 Terrain: 1586
--3
+-1
 Terrain: 1587
 -1
 Terrain: 1588
@@ -3198,7 +3198,7 @@ Terrain: 1598
 Terrain: 1599
 -1
 Terrain: 1600
--3
+-1
 Terrain: 1601
 -1
 Terrain: 1602
@@ -3224,7 +3224,7 @@ Terrain: 1611
 Terrain: 1612
 -1
 Terrain: 1613
--1
+-3
 Terrain: 1614
 -1
 Terrain: 1615
@@ -3232,7 +3232,7 @@ Terrain: 1615
 Terrain: 1616
 -1
 Terrain: 1617
--1
+-2
 Terrain: 1618
 -1
 Terrain: 1619
@@ -3266,9 +3266,9 @@ Terrain: 1632
 Terrain: 1633
 -1
 Terrain: 1634
--1
-Terrain: 1635
 -3
+Terrain: 1635
+-1
 Terrain: 1636
 -1
 Terrain: 1637
@@ -3308,7 +3308,7 @@ Terrain: 1653
 Terrain: 1654
 -1
 Terrain: 1655
--1
+-3
 Terrain: 1656
 -1
 Terrain: 1657
@@ -3322,7 +3322,7 @@ Terrain: 1660
 Terrain: 1661
 -1
 Terrain: 1662
--1
+-3
 Terrain: 1663
 -1
 Terrain: 1664
@@ -3338,7 +3338,7 @@ Terrain: 1668
 Terrain: 1669
 -1
 Terrain: 1670
--3
+-1
 Terrain: 1671
 -1
 Terrain: 1672
@@ -3346,7 +3346,7 @@ Terrain: 1672
 Terrain: 1673
 -1
 Terrain: 1674
--2
+-1
 Terrain: 1675
 -1
 Terrain: 1676
@@ -3356,7 +3356,7 @@ Terrain: 1677
 Terrain: 1678
 -1
 Terrain: 1679
--2
+-1
 Terrain: 1680
 -1
 Terrain: 1681
@@ -3364,7 +3364,7 @@ Terrain: 1681
 Terrain: 1682
 -1
 Terrain: 1683
--3
+-2
 Terrain: 1684
 -1
 Terrain: 1685
@@ -3372,11 +3372,11 @@ Terrain: 1685
 Terrain: 1686
 -1
 Terrain: 1687
--2
+-1
 Terrain: 1688
 -1
 Terrain: 1689
--1
+-2
 Terrain: 1690
 -1
 Terrain: 1691
@@ -3390,7 +3390,7 @@ Terrain: 1694
 Terrain: 1695
 -1
 Terrain: 1696
--1
+-2
 Terrain: 1697
 -1
 Terrain: 1698
@@ -3404,7 +3404,7 @@ Terrain: 1701
 Terrain: 1702
 -1
 Terrain: 1703
--3
+-1
 Terrain: 1704
 -1
 Terrain: 1705
@@ -3432,9 +3432,9 @@ Terrain: 1715
 Terrain: 1716
 -1
 Terrain: 1717
--2
-Terrain: 1718
 -1
+Terrain: 1718
+-2
 Terrain: 1719
 -1
 Terrain: 1720
@@ -3446,7 +3446,7 @@ Terrain: 1722
 Terrain: 1723
 -1
 Terrain: 1724
--1
+45
 Terrain: 1725
 -1
 Terrain: 1726
@@ -3454,15 +3454,15 @@ Terrain: 1726
 Terrain: 1727
 -1
 Terrain: 1728
--2
+-1
 Terrain: 1729
--2
+-1
 Terrain: 1730
 -1
 Terrain: 1731
 -1
 Terrain: 1732
--1
+-2
 Terrain: 1733
 -1
 Terrain: 1734
@@ -3470,7 +3470,7 @@ Terrain: 1734
 Terrain: 1735
 -1
 Terrain: 1736
--1
+-3
 Terrain: 1737
 -1
 Terrain: 1738
@@ -3492,7 +3492,7 @@ Terrain: 1745
 Terrain: 1746
 -1
 Terrain: 1747
--1
+-3
 Terrain: 1748
 -1
 Terrain: 1749
@@ -3514,7 +3514,7 @@ Terrain: 1756
 Terrain: 1757
 -1
 Terrain: 1758
-45
+-3
 Terrain: 1759
 -1
 Terrain: 1760
@@ -3534,7 +3534,7 @@ Terrain: 1766
 Terrain: 1767
 -1
 Terrain: 1768
--3
+-1
 Terrain: 1769
 -1
 Terrain: 1770
@@ -3542,7 +3542,7 @@ Terrain: 1770
 Terrain: 1771
 -1
 Terrain: 1772
--1
+-2
 Terrain: 1773
 -1
 Terrain: 1774
@@ -3558,7 +3558,7 @@ Terrain: 1778
 Terrain: 1779
 -1
 Terrain: 1780
--1
+67
 Terrain: 1781
 -1
 Terrain: 1782
@@ -3574,17 +3574,17 @@ Terrain: 1786
 Terrain: 1787
 -1
 Terrain: 1788
--2
+-1
 Terrain: 1789
-45
+-1
 Terrain: 1790
 -1
 Terrain: 1791
-61
+-1
 Terrain: 1792
 -1
 Terrain: 1793
-77
+-1
 Terrain: 1794
 -1
 Terrain: 1795
@@ -3600,9 +3600,9 @@ Terrain: 1799
 Terrain: 1800
 -1
 Terrain: 1801
--2
-Terrain: 1802
 -1
+Terrain: 1802
+-3
 Terrain: 1803
 -1
 Terrain: 1804
@@ -3616,7 +3616,7 @@ Terrain: 1807
 Terrain: 1808
 -1
 Terrain: 1809
--1
+-3
 Terrain: 1810
 -1
 Terrain: 1811
@@ -3634,11 +3634,11 @@ Terrain: 1816
 Terrain: 1817
 -1
 Terrain: 1818
--1
+-2
 Terrain: 1819
 -1
 Terrain: 1820
--1
+-2
 Terrain: 1821
 -1
 Terrain: 1822
@@ -3648,13 +3648,13 @@ Terrain: 1823
 Terrain: 1824
 -1
 Terrain: 1825
--1
+-2
 Terrain: 1826
 -1
 Terrain: 1827
--3
+-1
 Terrain: 1828
--3
+-1
 Terrain: 1829
 -1
 Terrain: 1830
@@ -3686,7 +3686,7 @@ Terrain: 1842
 Terrain: 1843
 -1
 Terrain: 1844
--3
+-1
 Terrain: 1845
 -1
 Terrain: 1846
@@ -3700,7 +3700,7 @@ Terrain: 1849
 Terrain: 1850
 -1
 Terrain: 1851
--2
+-1
 Terrain: 1852
 -1
 Terrain: 1853
@@ -3708,7 +3708,7 @@ Terrain: 1853
 Terrain: 1854
 -1
 Terrain: 1855
--3
+-2
 Terrain: 1856
 -1
 Terrain: 1857
@@ -3740,9 +3740,9 @@ Terrain: 1869
 Terrain: 1870
 -1
 Terrain: 1871
--1
+-2
 Terrain: 1872
--1
+45
 Terrain: 1873
 -1
 Terrain: 1874
@@ -3750,15 +3750,15 @@ Terrain: 1874
 Terrain: 1875
 -1
 Terrain: 1876
--3
+-1
 Terrain: 1877
 -1
 Terrain: 1878
--1
-Terrain: 1879
--1
-Terrain: 1880
 -2
+Terrain: 1879
+45
+Terrain: 1880
+-1
 Terrain: 1881
 -1
 Terrain: 1882
@@ -3766,7 +3766,7 @@ Terrain: 1882
 Terrain: 1883
 -1
 Terrain: 1884
--3
+-1
 Terrain: 1885
 -1
 Terrain: 1886
@@ -3774,19 +3774,19 @@ Terrain: 1886
 Terrain: 1887
 -1
 Terrain: 1888
--1
+-2
 Terrain: 1889
 -1
 Terrain: 1890
 -1
 Terrain: 1891
--3
+-1
 Terrain: 1892
 -1
 Terrain: 1893
 -1
 Terrain: 1894
--1
+-2
 Terrain: 1895
 -1
 Terrain: 1896
@@ -3796,11 +3796,11 @@ Terrain: 1897
 Terrain: 1898
 -1
 Terrain: 1899
--3
+-1
 Terrain: 1900
 -1
 Terrain: 1901
--3
+-1
 Terrain: 1902
 -1
 Terrain: 1903
@@ -3824,11 +3824,11 @@ Terrain: 1911
 Terrain: 1912
 -1
 Terrain: 1913
--3
+-1
 Terrain: 1914
 -1
 Terrain: 1915
--2
+-3
 Terrain: 1916
 -1
 Terrain: 1917
@@ -3848,7 +3848,7 @@ Terrain: 1923
 Terrain: 1924
 -1
 Terrain: 1925
--3
+-1
 Terrain: 1926
 -1
 Terrain: 1927
@@ -3862,7 +3862,7 @@ Terrain: 1930
 Terrain: 1931
 -1
 Terrain: 1932
--2
+-1
 Terrain: 1933
 -1
 Terrain: 1934
@@ -3870,31 +3870,31 @@ Terrain: 1934
 Terrain: 1935
 -1
 Terrain: 1936
--3
+-1
 Terrain: 1937
 -1
 Terrain: 1938
-52
+-1
 Terrain: 1939
 -1
 Terrain: 1940
 -1
 Terrain: 1941
--2
+-1
 Terrain: 1942
 -1
 Terrain: 1943
 -1
 Terrain: 1944
--1
+80
 Terrain: 1945
 -1
 Terrain: 1946
 -1
 Terrain: 1947
--1
+-2
 Terrain: 1948
--3
+-1
 Terrain: 1949
 -1
 Terrain: 1950
@@ -3914,25 +3914,25 @@ Terrain: 1956
 Terrain: 1957
 -1
 Terrain: 1958
--2
+-1
 Terrain: 1959
 -1
 Terrain: 1960
 -1
 Terrain: 1961
--1
+-3
 Terrain: 1962
 -1
 Terrain: 1963
--2
+-1
 Terrain: 1964
 -1
 Terrain: 1965
--1
+-3
 Terrain: 1966
--2
-Terrain: 1967
 -1
+Terrain: 1967
+-2
 Terrain: 1968
 -1
 Terrain: 1969
@@ -3948,21 +3948,21 @@ Terrain: 1973
 Terrain: 1974
 -1
 Terrain: 1975
--1
+-2
 Terrain: 1976
 -1
 Terrain: 1977
--1
+-2
 Terrain: 1978
 -1
 Terrain: 1979
 -1
 Terrain: 1980
--1
+-3
 Terrain: 1981
 -1
 Terrain: 1982
--2
+-1
 Terrain: 1983
 -1
 Terrain: 1984
@@ -3982,7 +3982,7 @@ Terrain: 1990
 Terrain: 1991
 -1
 Terrain: 1992
--3
+-1
 Terrain: 1993
 -1
 Terrain: 1994
@@ -3990,11 +3990,11 @@ Terrain: 1994
 Terrain: 1995
 -1
 Terrain: 1996
--1
+-2
 Terrain: 1997
 -1
 Terrain: 1998
--1
+-3
 Terrain: 1999
 -1
 Terrain: 2000
@@ -4002,13 +4002,13 @@ Terrain: 2000
 Terrain: 2001
 -1
 Terrain: 2002
--1
+-2
 Terrain: 2003
--1
+-2
 Terrain: 2004
 -1
 Terrain: 2005
--2
+-1
 Terrain: 2006
 -1
 Terrain: 2007
@@ -4018,7 +4018,7 @@ Terrain: 2008
 Terrain: 2009
 -1
 Terrain: 2010
--3
+-1
 Terrain: 2011
 -1
 Terrain: 2012
@@ -4032,9 +4032,9 @@ Terrain: 2015
 Terrain: 2016
 -2
 Terrain: 2017
--3
-Terrain: 2018
 -1
+Terrain: 2018
+58
 Terrain: 2019
 -1
 Terrain: 2020
@@ -4048,25 +4048,25 @@ Terrain: 2023
 Terrain: 2024
 -1
 Terrain: 2025
--2
+-1
 Terrain: 2026
 -1
 Terrain: 2027
 -1
 Terrain: 2028
--3
+-1
 Terrain: 2029
 -1
 Terrain: 2030
--2
-Terrain: 2031
 -1
+Terrain: 2031
+-3
 Terrain: 2032
 -1
 Terrain: 2033
 -1
 Terrain: 2034
--3
+-1
 Terrain: 2035
 -1
 Terrain: 2036
@@ -4078,11 +4078,11 @@ Terrain: 2038
 Terrain: 2039
 -1
 Terrain: 2040
--2
+-1
 Terrain: 2041
 -1
 Terrain: 2042
--1
+-3
 Terrain: 2043
 -1
 Terrain: 2044
@@ -4098,13 +4098,13 @@ Terrain: 2048
 Terrain: 2049
 -1
 Terrain: 2050
-45
+-1
 Terrain: 2051
--3
+-1
 Terrain: 2052
 -1
 Terrain: 2053
--1
+-3
 Terrain: 2054
 -1
 Terrain: 2055
@@ -4118,7 +4118,7 @@ Terrain: 2058
 Terrain: 2059
 -1
 Terrain: 2060
--1
+-2
 Terrain: 2061
 -1
 Terrain: 2062
@@ -4130,7 +4130,7 @@ Terrain: 2064
 Terrain: 2065
 -1
 Terrain: 2066
--1
+-3
 Terrain: 2067
 -1
 Terrain: 2068
@@ -4162,13 +4162,13 @@ Terrain: 2080
 Terrain: 2081
 -1
 Terrain: 2082
--2
+-1
 Terrain: 2083
 -1
 Terrain: 2084
 -1
 Terrain: 2085
--1
+-3
 Terrain: 2086
 -1
 Terrain: 2087
@@ -4176,7 +4176,7 @@ Terrain: 2087
 Terrain: 2088
 -1
 Terrain: 2089
--1
+-2
 Terrain: 2090
 -1
 Terrain: 2091
@@ -4190,13 +4190,13 @@ Terrain: 2094
 Terrain: 2095
 -1
 Terrain: 2096
--1
+-2
 Terrain: 2097
 -1
 Terrain: 2098
 -1
 Terrain: 2099
--1
+-2
 Terrain: 2100
 -1
 Terrain: 2101
@@ -4264,9 +4264,9 @@ Terrain: 2131
 Terrain: 2132
 -1
 Terrain: 2133
--3
-Terrain: 2134
 -1
+Terrain: 2134
+-3
 Terrain: 2135
 -1
 Terrain: 2136
@@ -4292,7 +4292,7 @@ Terrain: 2145
 Terrain: 2146
 -1
 Terrain: 2147
--1
+-2
 Terrain: 2148
 -1
 Terrain: 2149
@@ -4334,7 +4334,7 @@ Terrain: 2166
 Terrain: 2167
 -1
 Terrain: 2168
--2
+-1
 Terrain: 2169
 -1
 Terrain: 2170
@@ -4342,11 +4342,11 @@ Terrain: 2170
 Terrain: 2171
 -1
 Terrain: 2172
--3
+-1
 Terrain: 2173
 -1
 Terrain: 2174
--1
+-3
 Terrain: 2175
 -1
 Terrain: 2176
@@ -4358,17 +4358,17 @@ Terrain: 2178
 Terrain: 2179
 -1
 Terrain: 2180
--1
-Terrain: 2181
 -2
+Terrain: 2181
+-1
 Terrain: 2182
--1
+-2
 Terrain: 2183
--1
+-3
 Terrain: 2184
 -1
 Terrain: 2185
--3
+-1
 Terrain: 2186
 -1
 Terrain: 2187
@@ -4384,15 +4384,15 @@ Terrain: 2191
 Terrain: 2192
 -1
 Terrain: 2193
--3
+-1
 Terrain: 2194
--2
+-1
 Terrain: 2195
 -1
 Terrain: 2196
 -1
 Terrain: 2197
--1
+-2
 Terrain: 2198
 -1
 Terrain: 2199
@@ -4406,13 +4406,13 @@ Terrain: 2202
 Terrain: 2203
 -1
 Terrain: 2204
--2
+-1
 Terrain: 2205
 -1
 Terrain: 2206
 -1
 Terrain: 2207
--2
+-1
 Terrain: 2208
 -1
 Terrain: 2209
@@ -4426,7 +4426,7 @@ Terrain: 2212
 Terrain: 2213
 -1
 Terrain: 2214
--2
+-1
 Terrain: 2215
 -1
 Terrain: 2216
@@ -4450,15 +4450,15 @@ Terrain: 2224
 Terrain: 2225
 -1
 Terrain: 2226
--1
+-2
 Terrain: 2227
 -1
 Terrain: 2228
 -1
 Terrain: 2229
--2
+-1
 Terrain: 2230
--3
+-1
 Terrain: 2231
 -1
 Terrain: 2232
@@ -4472,9 +4472,9 @@ Terrain: 2235
 Terrain: 2236
 -1
 Terrain: 2237
--1
+-3
 Terrain: 2238
--1
+-2
 Terrain: 2239
 -1
 Terrain: 2240
@@ -4482,7 +4482,7 @@ Terrain: 2240
 Terrain: 2241
 -1
 Terrain: 2242
--3
+-1
 Terrain: 2243
 -1
 Terrain: 2244
@@ -4492,7 +4492,7 @@ Terrain: 2245
 Terrain: 2246
 -1
 Terrain: 2247
--2
+-1
 Terrain: 2248
 -1
 Terrain: 2249
@@ -4506,15 +4506,15 @@ Terrain: 2252
 Terrain: 2253
 -1
 Terrain: 2254
-45
+-1
 Terrain: 2255
 -1
 Terrain: 2256
 -1
 Terrain: 2257
--3
+-1
 Terrain: 2258
-45
+-1
 Terrain: 2259
 -1
 Terrain: 2260
@@ -4532,7 +4532,7 @@ Terrain: 2265
 Terrain: 2266
 -1
 Terrain: 2267
--2
+-1
 Terrain: 2268
 -1
 Terrain: 2269
@@ -4552,27 +4552,27 @@ Terrain: 2275
 Terrain: 2276
 -1
 Terrain: 2277
--2
-Terrain: 2278
 -1
+Terrain: 2278
+-3
 Terrain: 2279
 -1
 Terrain: 2280
 -1
 Terrain: 2281
--1
+-2
 Terrain: 2282
 -1
 Terrain: 2283
--1
+-3
 Terrain: 2284
--1
+45
 Terrain: 2285
 -1
 Terrain: 2286
 -1
 Terrain: 2287
--2
+-1
 Terrain: 2288
 -1
 Terrain: 2289
@@ -4580,7 +4580,7 @@ Terrain: 2289
 Terrain: 2290
 -1
 Terrain: 2291
-45
+-1
 Terrain: 2292
 -1
 Terrain: 2293
@@ -4602,9 +4602,9 @@ Terrain: 2300
 Terrain: 2301
 -1
 Terrain: 2302
--3
+-1
 Terrain: 2303
--2
+-1
 Terrain: 2304
 -1
 Terrain: 2305
@@ -4612,9 +4612,9 @@ Terrain: 2305
 Terrain: 2306
 -1
 Terrain: 2307
--3
-Terrain: 2308
 -1
+Terrain: 2308
+-2
 Terrain: 2309
 -1
 Terrain: 2310
@@ -4626,7 +4626,7 @@ Terrain: 2312
 Terrain: 2313
 -1
 Terrain: 2314
--3
+-2
 Terrain: 2315
 -1
 Terrain: 2316
@@ -4634,7 +4634,7 @@ Terrain: 2316
 Terrain: 2317
 -1
 Terrain: 2318
--1
+-2
 Terrain: 2319
 -1
 Terrain: 2320
@@ -4652,7 +4652,7 @@ Terrain: 2325
 Terrain: 2326
 -1
 Terrain: 2327
--1
+-2
 Terrain: 2328
 -1
 Terrain: 2329
@@ -4674,7 +4674,7 @@ Terrain: 2336
 Terrain: 2337
 -1
 Terrain: 2338
--1
+-3
 Terrain: 2339
 -1
 Terrain: 2340
@@ -4686,7 +4686,7 @@ Terrain: 2342
 Terrain: 2343
 -1
 Terrain: 2344
--3
+-1
 Terrain: 2345
 -1
 Terrain: 2346
@@ -4694,7 +4694,7 @@ Terrain: 2346
 Terrain: 2347
 -1
 Terrain: 2348
--1
+-2
 Terrain: 2349
 -1
 Terrain: 2350
@@ -4706,15 +4706,15 @@ Terrain: 2352
 Terrain: 2353
 -1
 Terrain: 2354
--2
+-1
 Terrain: 2355
 -1
 Terrain: 2356
 -1
 Terrain: 2357
-45
+-3
 Terrain: 2358
--1
+-2
 Terrain: 2359
 -1
 Terrain: 2360
@@ -4732,17 +4732,17 @@ Terrain: 2365
 Terrain: 2366
 -1
 Terrain: 2367
--3
+-1
 Terrain: 2368
--3
+-1
 Terrain: 2369
 -1
 Terrain: 2370
 -1
 Terrain: 2371
--1
-Terrain: 2372
 -3
+Terrain: 2372
+-1
 Terrain: 2373
 -1
 Terrain: 2374
@@ -4766,7 +4766,7 @@ Terrain: 2382
 Terrain: 2383
 -1
 Terrain: 2384
--1
+-3
 Terrain: 2385
 -1
 Terrain: 2386
@@ -4780,7 +4780,7 @@ Terrain: 2389
 Terrain: 2390
 -1
 Terrain: 2391
--1
+-3
 Terrain: 2392
 -1
 Terrain: 2393
@@ -4788,9 +4788,9 @@ Terrain: 2393
 Terrain: 2394
 -1
 Terrain: 2395
--2
-Terrain: 2396
 -1
+Terrain: 2396
+-2
 Terrain: 2397
 -1
 Terrain: 2398
@@ -4812,19 +4812,19 @@ Terrain: 2405
 Terrain: 2406
 -1
 Terrain: 2407
--1
-Terrain: 2408
 -3
+Terrain: 2408
+-2
 Terrain: 2409
 -1
 Terrain: 2410
 -1
 Terrain: 2411
--3
+-1
 Terrain: 2412
 -1
 Terrain: 2413
--2
+-1
 Terrain: 2414
 -1
 Terrain: 2415
@@ -4832,7 +4832,7 @@ Terrain: 2415
 Terrain: 2416
 -1
 Terrain: 2417
--1
+-3
 Terrain: 2418
 -1
 Terrain: 2419
@@ -4848,7 +4848,7 @@ Terrain: 2423
 Terrain: 2424
 -1
 Terrain: 2425
--3
+-1
 Terrain: 2426
 -1
 Terrain: 2427
@@ -4880,13 +4880,13 @@ Terrain: 2439
 Terrain: 2440
 -1
 Terrain: 2441
-45
-Terrain: 2442
 -1
+Terrain: 2442
+-3
 Terrain: 2443
 -1
 Terrain: 2444
--1
+-3
 Terrain: 2445
 -1
 Terrain: 2446
@@ -4910,7 +4910,7 @@ Terrain: 2454
 Terrain: 2455
 -1
 Terrain: 2456
--1
+76
 Terrain: 2457
 -1
 Terrain: 2458
@@ -4932,15 +4932,15 @@ Terrain: 2465
 Terrain: 2466
 -1
 Terrain: 2467
--1
-Terrain: 2468
 -3
+Terrain: 2468
+-1
 Terrain: 2469
 -1
 Terrain: 2470
 -1
 Terrain: 2471
--1
+-2
 Terrain: 2472
 -1
 Terrain: 2473
@@ -4960,7 +4960,7 @@ Terrain: 2479
 Terrain: 2480
 -1
 Terrain: 2481
-45
+-1
 Terrain: 2482
 -1
 Terrain: 2483
@@ -4968,7 +4968,7 @@ Terrain: 2483
 Terrain: 2484
 -1
 Terrain: 2485
--2
+-1
 Terrain: 2486
 -1
 Terrain: 2487
@@ -4976,11 +4976,11 @@ Terrain: 2487
 Terrain: 2488
 -1
 Terrain: 2489
--1
+-2
 Terrain: 2490
 -1
 Terrain: 2491
--1
+-2
 Terrain: 2492
 -1
 Terrain: 2493
@@ -4996,7 +4996,7 @@ Terrain: 2497
 Terrain: 2498
 -1
 Terrain: 2499
--2
+-1
 Terrain: 2500
 -1
 Terrain: 2501
@@ -5020,7 +5020,7 @@ Terrain: 2509
 Terrain: 2510
 -1
 Terrain: 2511
--1
+-2
 Terrain: 2512
 -1
 Terrain: 2513
@@ -5030,9 +5030,9 @@ Terrain: 2514
 Terrain: 2515
 -1
 Terrain: 2516
-45
-Terrain: 2517
 -1
+Terrain: 2517
+-2
 Terrain: 2518
 -1
 Terrain: 2519
@@ -5040,17 +5040,17 @@ Terrain: 2519
 Terrain: 2520
 -1
 Terrain: 2521
--1
+67
 Terrain: 2522
 -1
 Terrain: 2523
 -1
 Terrain: 2524
--2
+-1
 Terrain: 2525
 -1
 Terrain: 2526
-45
+-1
 Terrain: 2527
 -1
 Terrain: 2528
@@ -5062,7 +5062,7 @@ Terrain: 2530
 Terrain: 2531
 -1
 Terrain: 2532
--3
+-1
 Terrain: 2533
 -1
 Terrain: 2534
@@ -5074,9 +5074,9 @@ Terrain: 2536
 Terrain: 2537
 -1
 Terrain: 2538
--2
+-1
 Terrain: 2539
-52
+-1
 Terrain: 2540
 -1
 Terrain: 2541
@@ -5086,7 +5086,7 @@ Terrain: 2542
 Terrain: 2543
 -1
 Terrain: 2544
--1
+-3
 Terrain: 2545
 -1
 Terrain: 2546
@@ -5098,9 +5098,9 @@ Terrain: 2548
 Terrain: 2549
 -1
 Terrain: 2550
--2
-Terrain: 2551
 -1
+Terrain: 2551
+-3
 Terrain: 2552
 -1
 Terrain: 2553
@@ -5122,7 +5122,7 @@ Terrain: 2560
 Terrain: 2561
 -1
 Terrain: 2562
--1
+-2
 Terrain: 2563
 -1
 Terrain: 2564
@@ -5140,19 +5140,19 @@ Terrain: 2569
 Terrain: 2570
 -1
 Terrain: 2571
--2
+-1
 Terrain: 2572
 -1
 Terrain: 2573
 -1
 Terrain: 2574
--1
+-3
 Terrain: 2575
 -1
 Terrain: 2576
 -1
 Terrain: 2577
--2
+-1
 Terrain: 2578
 -1
 Terrain: 2579
@@ -5164,7 +5164,7 @@ Terrain: 2581
 Terrain: 2582
 -1
 Terrain: 2583
--1
+-2
 Terrain: 2584
 -1
 Terrain: 2585
@@ -5182,11 +5182,11 @@ Terrain: 2590
 Terrain: 2591
 -1
 Terrain: 2592
-52
+-1
 Terrain: 2593
 -1
 Terrain: 2594
--2
+-1
 Terrain: 2595
 -1
 Terrain: 2596
@@ -5194,15 +5194,15 @@ Terrain: 2596
 Terrain: 2597
 -1
 Terrain: 2598
--1
+-3
 Terrain: 2599
--1
+45
 Terrain: 2600
 -1
 Terrain: 2601
 -1
 Terrain: 2602
--1
+-2
 Terrain: 2603
 -1
 Terrain: 2604
@@ -5210,7 +5210,7 @@ Terrain: 2604
 Terrain: 2605
 -1
 Terrain: 2606
--3
+-2
 Terrain: 2607
 -1
 Terrain: 2608
@@ -5220,7 +5220,7 @@ Terrain: 2609
 Terrain: 2610
 -1
 Terrain: 2611
--2
+-1
 Terrain: 2612
 -1
 Terrain: 2613
@@ -5238,7 +5238,7 @@ Terrain: 2618
 Terrain: 2619
 -1
 Terrain: 2620
--1
+45
 Terrain: 2621
 -1
 Terrain: 2622
@@ -5246,7 +5246,7 @@ Terrain: 2622
 Terrain: 2623
 -1
 Terrain: 2624
--2
+-1
 Terrain: 2625
 -1
 Terrain: 2626
@@ -5254,7 +5254,7 @@ Terrain: 2626
 Terrain: 2627
 -1
 Terrain: 2628
--1
+-2
 Terrain: 2629
 -1
 Terrain: 2630
@@ -5270,7 +5270,7 @@ Terrain: 2634
 Terrain: 2635
 -1
 Terrain: 2636
--1
+-3
 Terrain: 2637
 -1
 Terrain: 2638
@@ -5278,13 +5278,13 @@ Terrain: 2638
 Terrain: 2639
 -1
 Terrain: 2640
--1
+58
 Terrain: 2641
--1
+-2
 Terrain: 2642
 -1
 Terrain: 2643
--2
+-1
 Terrain: 2644
 -1
 Terrain: 2645
@@ -5308,7 +5308,7 @@ Terrain: 2653
 Terrain: 2654
 -1
 Terrain: 2655
--3
+-1
 Terrain: 2656
 -1
 Terrain: 2657
@@ -5320,9 +5320,9 @@ Terrain: 2659
 Terrain: 2660
 -1
 Terrain: 2661
--1
-Terrain: 2662
 -2
+Terrain: 2662
+-1
 Terrain: 2663
 -1
 Terrain: 2664
@@ -5332,7 +5332,7 @@ Terrain: 2665
 Terrain: 2666
 -1
 Terrain: 2667
--1
+-2
 Terrain: 2668
 -1
 Terrain: 2669
@@ -5344,7 +5344,7 @@ Terrain: 2671
 Terrain: 2672
 -1
 Terrain: 2673
--1
+-3
 Terrain: 2674
 -1
 Terrain: 2675
@@ -5356,15 +5356,15 @@ Terrain: 2677
 Terrain: 2678
 -1
 Terrain: 2679
--1
+-2
 Terrain: 2680
 -1
 Terrain: 2681
 -1
 Terrain: 2682
--2
+-1
 Terrain: 2683
--3
+-1
 Terrain: 2684
 -1
 Terrain: 2685
@@ -5372,7 +5372,7 @@ Terrain: 2685
 Terrain: 2686
 -1
 Terrain: 2687
--3
+-1
 Terrain: 2688
 -1
 Terrain: 2689
@@ -5394,7 +5394,7 @@ Terrain: 2696
 Terrain: 2697
 -1
 Terrain: 2698
--1
+-2
 Terrain: 2699
 -1
 Terrain: 2700
@@ -5404,7 +5404,7 @@ Terrain: 2701
 Terrain: 2702
 -1
 Terrain: 2703
--1
+-2
 Terrain: 2704
 -1
 Terrain: 2705
@@ -5448,7 +5448,7 @@ Terrain: 2723
 Terrain: 2724
 -1
 Terrain: 2725
--1
+89
 Terrain: 2726
 -1
 Terrain: 2727
@@ -5456,25 +5456,25 @@ Terrain: 2727
 Terrain: 2728
 -1
 Terrain: 2729
--3
+-1
 Terrain: 2730
 -1
 Terrain: 2731
 -1
 Terrain: 2732
-45
+-1
 Terrain: 2733
 -1
 Terrain: 2734
 -1
 Terrain: 2735
--2
+-1
 Terrain: 2736
 -1
 Terrain: 2737
 -1
 Terrain: 2738
--2
+-1
 Terrain: 2739
 -1
 Terrain: 2740
@@ -5482,17 +5482,17 @@ Terrain: 2740
 Terrain: 2741
 -1
 Terrain: 2742
--3
+-1
 Terrain: 2743
 -1
 Terrain: 2744
--2
+-3
 Terrain: 2745
 -1
 Terrain: 2746
 -1
 Terrain: 2747
--2
+-1
 Terrain: 2748
 -1
 Terrain: 2749
@@ -5502,7 +5502,7 @@ Terrain: 2750
 Terrain: 2751
 -1
 Terrain: 2752
--2
+-1
 Terrain: 2753
 -1
 Terrain: 2754
@@ -5512,11 +5512,11 @@ Terrain: 2755
 Terrain: 2756
 -1
 Terrain: 2757
--1
+-3
 Terrain: 2758
 -1
 Terrain: 2759
--1
+-3
 Terrain: 2760
 -1
 Terrain: 2761
@@ -5538,7 +5538,7 @@ Terrain: 2768
 Terrain: 2769
 -1
 Terrain: 2770
--1
+45
 Terrain: 2771
 -1
 Terrain: 2772
@@ -5562,9 +5562,9 @@ Terrain: 2780
 Terrain: 2781
 -1
 Terrain: 2782
--1
-Terrain: 2783
 -2
+Terrain: 2783
+-1
 Terrain: 2784
 -1
 Terrain: 2785
@@ -5582,7 +5582,7 @@ Terrain: 2790
 Terrain: 2791
 -1
 Terrain: 2792
--1
+-2
 Terrain: 2793
 -1
 Terrain: 2794
@@ -5590,7 +5590,7 @@ Terrain: 2794
 Terrain: 2795
 -1
 Terrain: 2796
--3
+-1
 Terrain: 2797
 -1
 Terrain: 2798
@@ -5598,13 +5598,13 @@ Terrain: 2798
 Terrain: 2799
 -1
 Terrain: 2800
--1
+-2
 Terrain: 2801
 -1
 Terrain: 2802
 -1
 Terrain: 2803
--3
+-1
 Terrain: 2804
 -1
 Terrain: 2805
@@ -5612,7 +5612,7 @@ Terrain: 2805
 Terrain: 2806
 -1
 Terrain: 2807
-61
+-1
 Terrain: 2808
 -1
 Terrain: 2809
@@ -5620,7 +5620,7 @@ Terrain: 2809
 Terrain: 2810
 -1
 Terrain: 2811
--2
+-1
 Terrain: 2812
 -1
 Terrain: 2813
@@ -5628,17 +5628,17 @@ Terrain: 2813
 Terrain: 2814
 -1
 Terrain: 2815
--2
+-1
 Terrain: 2816
 -1
 Terrain: 2817
--1
+-3
 Terrain: 2818
 -1
 Terrain: 2819
 -1
 Terrain: 2820
--1
+-2
 Terrain: 2821
 -1
 Terrain: 2822
@@ -5646,25 +5646,25 @@ Terrain: 2822
 Terrain: 2823
 -1
 Terrain: 2824
--1
+-2
 Terrain: 2825
 -1
 Terrain: 2826
 -1
 Terrain: 2827
-61
+-3
 Terrain: 2828
 -1
 Terrain: 2829
 -1
 Terrain: 2830
--3
+-1
 Terrain: 2831
 -1
 Terrain: 2832
 -1
 Terrain: 2833
--2
+-1
 Terrain: 2834
 -1
 Terrain: 2835
@@ -5674,7 +5674,7 @@ Terrain: 2836
 Terrain: 2837
 -1
 Terrain: 2838
--1
+-3
 Terrain: 2839
 -1
 Terrain: 2840
@@ -5692,7 +5692,7 @@ Terrain: 2845
 Terrain: 2846
 -1
 Terrain: 2847
--1
+58
 Terrain: 2848
 -1
 Terrain: 2849
@@ -5716,7 +5716,7 @@ Terrain: 2857
 Terrain: 2858
 -1
 Terrain: 2859
--1
+-3
 Terrain: 2860
 -1
 Terrain: 2861
@@ -5726,9 +5726,9 @@ Terrain: 2862
 Terrain: 2863
 -1
 Terrain: 2864
--3
-Terrain: 2865
 -1
+Terrain: 2865
+-3
 Terrain: 2866
 -1
 Terrain: 2867
@@ -5736,7 +5736,7 @@ Terrain: 2867
 Terrain: 2868
 -1
 Terrain: 2869
--3
+-1
 Terrain: 2870
 -1
 Terrain: 2871
@@ -5760,17 +5760,17 @@ Terrain: 2879
 Terrain: 2880
 -1
 Terrain: 2881
--3
+-1
 Terrain: 2882
 -1
 Terrain: 2883
--2
+-1
 Terrain: 2884
 -1
 Terrain: 2885
 -1
 Terrain: 2886
--3
+-1
 Terrain: 2887
 -1
 Terrain: 2888
@@ -5778,13 +5778,13 @@ Terrain: 2888
 Terrain: 2889
 -1
 Terrain: 2890
--2
+-1
 Terrain: 2891
 -1
 Terrain: 2892
 -1
 Terrain: 2893
--1
+-2
 Terrain: 2894
 -1
 Terrain: 2895
@@ -5792,7 +5792,7 @@ Terrain: 2895
 Terrain: 2896
 -1
 Terrain: 2897
--1
+58
 Terrain: 2898
 -1
 Terrain: 2899
@@ -5800,7 +5800,7 @@ Terrain: 2899
 Terrain: 2900
 -1
 Terrain: 2901
--3
+-1
 Terrain: 2902
 -1
 Terrain: 2903
@@ -5816,9 +5816,9 @@ Terrain: 2907
 Terrain: 2908
 -1
 Terrain: 2909
--3
+-1
 Terrain: 2910
--3
+-2
 Terrain: 2911
 -1
 Terrain: 2912
@@ -5826,13 +5826,13 @@ Terrain: 2912
 Terrain: 2913
 -1
 Terrain: 2914
--2
+-1
 Terrain: 2915
 -1
 Terrain: 2916
 -1
 Terrain: 2917
--1
+-2
 Terrain: 2918
 -1
 Terrain: 2919
@@ -5840,11 +5840,11 @@ Terrain: 2919
 Terrain: 2920
 -1
 Terrain: 2921
--2
+-1
 Terrain: 2922
 -1
 Terrain: 2923
--1
+-2
 Terrain: 2924
 -1
 Terrain: 2925
@@ -5852,7 +5852,7 @@ Terrain: 2925
 Terrain: 2926
 -1
 Terrain: 2927
--1
+45
 Terrain: 2928
 -1
 Terrain: 2929
@@ -5866,7 +5866,7 @@ Terrain: 2932
 Terrain: 2933
 -1
 Terrain: 2934
--3
+-1
 Terrain: 2935
 -1
 Terrain: 2936
@@ -5892,7 +5892,7 @@ Terrain: 2945
 Terrain: 2946
 -1
 Terrain: 2947
--1
+-2
 Terrain: 2948
 -1
 Terrain: 2949
@@ -5934,7 +5934,7 @@ Terrain: 2966
 Terrain: 2967
 -1
 Terrain: 2968
--3
+-1
 Terrain: 2969
 -1
 Terrain: 2970
@@ -5950,7 +5950,7 @@ Terrain: 2974
 Terrain: 2975
 -1
 Terrain: 2976
--2
+-1
 Terrain: 2977
 -1
 Terrain: 2978
@@ -5958,7 +5958,7 @@ Terrain: 2978
 Terrain: 2979
 -1
 Terrain: 2980
--1
+-3
 Terrain: 2981
 -1
 Terrain: 2982
@@ -5968,17 +5968,17 @@ Terrain: 2983
 Terrain: 2984
 -1
 Terrain: 2985
--1
+-2
 Terrain: 2986
--3
+-1
 Terrain: 2987
 -1
 Terrain: 2988
--2
+-1
 Terrain: 2989
 -1
 Terrain: 2990
--2
+-3
 Terrain: 2991
 -1
 Terrain: 2992
@@ -5998,9 +5998,9 @@ Terrain: 2998
 Terrain: 2999
 -1
 Terrain: 3000
--1
+67
 Terrain: 3001
--2
+-1
 Terrain: 3002
 -1
 Terrain: 3003
@@ -6016,7 +6016,7 @@ Terrain: 3007
 Terrain: 3008
 -1
 Terrain: 3009
-45
+-1
 Terrain: 3010
 -1
 Terrain: 3011
@@ -6024,17 +6024,17 @@ Terrain: 3011
 Terrain: 3012
 -1
 Terrain: 3013
--3
-Terrain: 3014
 -1
+Terrain: 3014
+-3
 Terrain: 3015
 -1
 Terrain: 3016
 -1
 Terrain: 3017
--2
-Terrain: 3018
 -1
+Terrain: 3018
+-3
 Terrain: 3019
 -1
 Terrain: 3020
@@ -6046,7 +6046,7 @@ Terrain: 3022
 Terrain: 3023
 -1
 Terrain: 3024
-52
+-1
 Terrain: 3025
 -1
 Terrain: 3026
@@ -6058,7 +6058,7 @@ Terrain: 3028
 Terrain: 3029
 -1
 Terrain: 3030
--1
+-3
 Terrain: 3031
 -1
 Terrain: 3032
@@ -6082,7 +6082,7 @@ Terrain: 3040
 Terrain: 3041
 -1
 Terrain: 3042
--1
+-3
 Terrain: 3043
 -1
 Terrain: 3044
@@ -6100,13 +6100,13 @@ Terrain: 3049
 Terrain: 3050
 -1
 Terrain: 3051
--1
+-2
 Terrain: 3052
 -1
 Terrain: 3053
 -1
 Terrain: 3054
--2
+-1
 Terrain: 3055
 -1
 Terrain: 3056
@@ -6136,13 +6136,13 @@ Terrain: 3067
 Terrain: 3068
 -1
 Terrain: 3069
--1
+-3
 Terrain: 3070
--1
+-2
 Terrain: 3071
 -1
 Terrain: 3072
-52
+-1
 Terrain: 3073
 -1
 Terrain: 3074
@@ -6162,25 +6162,25 @@ Terrain: 3080
 Terrain: 3081
 -1
 Terrain: 3082
--2
-Terrain: 3083
 -1
+Terrain: 3083
+-3
 Terrain: 3084
 -1
 Terrain: 3085
 -1
 Terrain: 3086
-45
+-1
 Terrain: 3087
 -1
 Terrain: 3088
--1
+-3
 Terrain: 3089
 -1
 Terrain: 3090
 -1
 Terrain: 3091
--2
+-1
 Terrain: 3092
 -1
 Terrain: 3093
@@ -6194,7 +6194,7 @@ Terrain: 3096
 Terrain: 3097
 -1
 Terrain: 3098
-45
+-1
 Terrain: 3099
 -1
 Terrain: 3100
@@ -6212,7 +6212,7 @@ Terrain: 3105
 Terrain: 3106
 -1
 Terrain: 3107
--1
+-3
 Terrain: 3108
 -1
 Terrain: 3109
@@ -6222,7 +6222,7 @@ Terrain: 3110
 Terrain: 3111
 -1
 Terrain: 3112
--3
+-1
 Terrain: 3113
 -1
 Terrain: 3114
@@ -6234,7 +6234,7 @@ Terrain: 3116
 Terrain: 3117
 -1
 Terrain: 3118
--1
+-3
 Terrain: 3119
 -1
 Terrain: 3120
@@ -6244,7 +6244,7 @@ Terrain: 3121
 Terrain: 3122
 -1
 Terrain: 3123
--2
+-1
 Terrain: 3124
 -1
 Terrain: 3125
@@ -6282,13 +6282,13 @@ Terrain: 3140
 Terrain: 3141
 -1
 Terrain: 3142
--2
+-1
 Terrain: 3143
 -1
 Terrain: 3144
 -1
 Terrain: 3145
-45
+-1
 Terrain: 3146
 -1
 Terrain: 3147
@@ -6298,7 +6298,7 @@ Terrain: 3148
 Terrain: 3149
 -1
 Terrain: 3150
--3
+-1
 Terrain: 3151
 -1
 Terrain: 3152
@@ -6310,7 +6310,7 @@ Terrain: 3154
 Terrain: 3155
 -1
 Terrain: 3156
--1
+-3
 Terrain: 3157
 -1
 Terrain: 3158
@@ -6326,7 +6326,7 @@ Terrain: 3162
 Terrain: 3163
 -1
 Terrain: 3164
--1
+58
 Terrain: 3165
 -1
 Terrain: 3166
@@ -6334,7 +6334,7 @@ Terrain: 3166
 Terrain: 3167
 -1
 Terrain: 3168
--1
+-3
 Terrain: 3169
 -1
 Terrain: 3170
@@ -6352,23 +6352,23 @@ Terrain: 3175
 Terrain: 3176
 -1
 Terrain: 3177
--2
-Terrain: 3178
 -1
+Terrain: 3178
+-2
 Terrain: 3179
 -1
 Terrain: 3180
--3
+-1
 Terrain: 3181
 -1
 Terrain: 3182
--2
+-1
 Terrain: 3183
 -1
 Terrain: 3184
 -1
 Terrain: 3185
--1
+-2
 Terrain: 3186
 -1
 Terrain: 3187
@@ -6378,7 +6378,7 @@ Terrain: 3188
 Terrain: 3189
 -1
 Terrain: 3190
-45
+-1
 Terrain: 3191
 -1
 Terrain: 3192
@@ -6386,7 +6386,7 @@ Terrain: 3192
 Terrain: 3193
 -1
 Terrain: 3194
--1
+-2
 Terrain: 3195
 -1
 Terrain: 3196
@@ -6410,7 +6410,7 @@ Terrain: 3204
 Terrain: 3205
 -1
 Terrain: 3206
--1
+-2
 Terrain: 3207
 -1
 Terrain: 3208
@@ -6420,15 +6420,15 @@ Terrain: 3209
 Terrain: 3210
 -1
 Terrain: 3211
--3
+-1
 Terrain: 3212
 -1
 Terrain: 3213
--3
+-1
 Terrain: 3214
 -1
 Terrain: 3215
--1
+45
 Terrain: 3216
 -1
 Terrain: 3217
@@ -6436,9 +6436,9 @@ Terrain: 3217
 Terrain: 3218
 -1
 Terrain: 3219
--1
+-2
 Terrain: 3220
--1
+-2
 Terrain: 3221
 -1
 Terrain: 3222
@@ -6448,7 +6448,7 @@ Terrain: 3223
 Terrain: 3224
 -1
 Terrain: 3225
--1
+58
 Terrain: 3226
 -1
 Terrain: 3227
@@ -6460,15 +6460,15 @@ Terrain: 3229
 Terrain: 3230
 -1
 Terrain: 3231
--2
+-1
 Terrain: 3232
--2
+-1
 Terrain: 3233
 -1
 Terrain: 3234
 -1
 Terrain: 3235
--2
+-1
 Terrain: 3236
 -1
 Terrain: 3237
@@ -6480,21 +6480,21 @@ Terrain: 3239
 Terrain: 3240
 -1
 Terrain: 3241
--2
+-1
 Terrain: 3242
 -1
 Terrain: 3243
 -1
 Terrain: 3244
-45
+-1
 Terrain: 3245
 -1
 Terrain: 3246
 -1
 Terrain: 3247
--1
+-3
 Terrain: 3248
--1
+-3
 Terrain: 3249
 -1
 Terrain: 3250
@@ -6502,7 +6502,7 @@ Terrain: 3250
 Terrain: 3251
 -1
 Terrain: 3252
--2
+-1
 Terrain: 3253
 -1
 Terrain: 3254
@@ -6510,7 +6510,7 @@ Terrain: 3254
 Terrain: 3255
 -1
 Terrain: 3256
--1
+-2
 Terrain: 3257
 -1
 Terrain: 3258
@@ -6518,13 +6518,13 @@ Terrain: 3258
 Terrain: 3259
 -1
 Terrain: 3260
--2
+-1
 Terrain: 3261
 -1
 Terrain: 3262
 -1
 Terrain: 3263
--3
+-1
 Terrain: 3264
 -1
 Terrain: 3265
@@ -6532,7 +6532,7 @@ Terrain: 3265
 Terrain: 3266
 -1
 Terrain: 3267
--1
+-2
 Terrain: 3268
 -1
 Terrain: 3269
@@ -6542,9 +6542,9 @@ Terrain: 3270
 Terrain: 3271
 -1
 Terrain: 3272
--2
+-1
 Terrain: 3273
--3
+-1
 Terrain: 3274
 -1
 Terrain: 3275
@@ -6560,15 +6560,15 @@ Terrain: 3279
 Terrain: 3280
 -1
 Terrain: 3281
--1
+-2
 Terrain: 3282
 -1
 Terrain: 3283
--1
+-2
 Terrain: 3284
 -1
 Terrain: 3285
--1
+45
 Terrain: 3286
 -1
 Terrain: 3287
@@ -6606,11 +6606,11 @@ Terrain: 3302
 Terrain: 3303
 -1
 Terrain: 3304
-52
+-3
 Terrain: 3305
 -1
 Terrain: 3306
--2
+-1
 Terrain: 3307
 -1
 Terrain: 3308
@@ -6622,13 +6622,13 @@ Terrain: 3310
 Terrain: 3311
 -1
 Terrain: 3312
--2
+-3
 Terrain: 3313
 -1
 Terrain: 3314
 -1
 Terrain: 3315
--1
+-2
 Terrain: 3316
 -1
 Terrain: 3317
@@ -6642,15 +6642,15 @@ Terrain: 3320
 Terrain: 3321
 -1
 Terrain: 3322
--1
+-2
 Terrain: 3323
--1
+67
 Terrain: 3324
 -1
 Terrain: 3325
 -1
 Terrain: 3326
--2
+-1
 Terrain: 3327
 -1
 Terrain: 3328
@@ -6658,7 +6658,7 @@ Terrain: 3328
 Terrain: 3329
 -1
 Terrain: 3330
--1
+-3
 Terrain: 3331
 -1
 Terrain: 3332
@@ -6668,11 +6668,11 @@ Terrain: 3333
 Terrain: 3334
 -1
 Terrain: 3335
--3
+-1
 Terrain: 3336
 -1
 Terrain: 3337
--2
+-1
 Terrain: 3338
 -1
 Terrain: 3339
@@ -6682,15 +6682,15 @@ Terrain: 3340
 Terrain: 3341
 -1
 Terrain: 3342
-45
+-1
 Terrain: 3343
 -1
 Terrain: 3344
-70
+-1
 Terrain: 3345
 -1
 Terrain: 3346
--2
+-1
 Terrain: 3347
 -1
 Terrain: 3348
@@ -6698,7 +6698,7 @@ Terrain: 3348
 Terrain: 3349
 -1
 Terrain: 3350
--1
+67
 Terrain: 3351
 -1
 Terrain: 3352
@@ -6706,13 +6706,13 @@ Terrain: 3352
 Terrain: 3353
 -1
 Terrain: 3354
--1
+-2
 Terrain: 3355
--1
+-3
 Terrain: 3356
 -1
 Terrain: 3357
--3
+-1
 Terrain: 3358
 -1
 Terrain: 3359
@@ -6720,11 +6720,11 @@ Terrain: 3359
 Terrain: 3360
 -1
 Terrain: 3361
--2
+-1
 Terrain: 3362
 -1
 Terrain: 3363
--2
+-3
 Terrain: 3364
 -1
 Terrain: 3365
@@ -6742,7 +6742,7 @@ Terrain: 3370
 Terrain: 3371
 -1
 Terrain: 3372
--1
+-3
 Terrain: 3373
 -1
 Terrain: 3374
@@ -6752,15 +6752,15 @@ Terrain: 3375
 Terrain: 3376
 -1
 Terrain: 3377
--1
+-3
 Terrain: 3378
--2
+-1
 Terrain: 3379
 -1
 Terrain: 3380
 -1
 Terrain: 3381
--2
+-1
 Terrain: 3382
 -1
 Terrain: 3383
@@ -6772,23 +6772,23 @@ Terrain: 3385
 Terrain: 3386
 -1
 Terrain: 3387
-45
-Terrain: 3388
 -1
+Terrain: 3388
+-3
 Terrain: 3389
 -1
 Terrain: 3390
--1
+-2
 Terrain: 3391
--1
+-2
 Terrain: 3392
 -1
 Terrain: 3393
 -1
 Terrain: 3394
-52
-Terrain: 3395
 -1
+Terrain: 3395
+-3
 Terrain: 3396
 -1
 Terrain: 3397
@@ -6798,11 +6798,11 @@ Terrain: 3398
 Terrain: 3399
 -1
 Terrain: 3400
-45
+-1
 Terrain: 3401
 -1
 Terrain: 3402
--1
+-3
 Terrain: 3403
 -1
 Terrain: 3404
@@ -6810,7 +6810,7 @@ Terrain: 3404
 Terrain: 3405
 -1
 Terrain: 3406
--1
+-3
 Terrain: 3407
 -1
 Terrain: 3408
@@ -6818,37 +6818,37 @@ Terrain: 3408
 Terrain: 3409
 -1
 Terrain: 3410
--1
+-3
 Terrain: 3411
 -1
 Terrain: 3412
--2
-Terrain: 3413
 -1
+Terrain: 3413
+-3
 Terrain: 3414
 -1
 Terrain: 3415
--1
+-2
 Terrain: 3416
 -1
 Terrain: 3417
 -1
 Terrain: 3418
-52
-Terrain: 3419
 -1
+Terrain: 3419
+-2
 Terrain: 3420
 -1
 Terrain: 3421
 -1
 Terrain: 3422
--1
+-3
 Terrain: 3423
--1
+-2
 Terrain: 3424
 -1
 Terrain: 3425
--1
+67
 Terrain: 3426
 -1
 Terrain: 3427
@@ -6856,7 +6856,7 @@ Terrain: 3427
 Terrain: 3428
 -1
 Terrain: 3429
--2
+-3
 Terrain: 3430
 -1
 Terrain: 3431
@@ -6864,23 +6864,23 @@ Terrain: 3431
 Terrain: 3432
 -1
 Terrain: 3433
--3
-Terrain: 3434
 -1
+Terrain: 3434
+-2
 Terrain: 3435
 -1
 Terrain: 3436
 -1
 Terrain: 3437
--1
+58
 Terrain: 3438
 -1
 Terrain: 3439
 -1
 Terrain: 3440
--3
+-1
 Terrain: 3441
--3
+-1
 Terrain: 3442
 -1
 Terrain: 3443
@@ -6892,7 +6892,7 @@ Terrain: 3445
 Terrain: 3446
 -1
 Terrain: 3447
--1
+-3
 Terrain: 3448
 -1
 Terrain: 3449
@@ -6910,7 +6910,7 @@ Terrain: 3454
 Terrain: 3455
 -1
 Terrain: 3456
--1
+45
 Terrain: 3457
 -1
 Terrain: 3458
@@ -6926,7 +6926,7 @@ Terrain: 3462
 Terrain: 3463
 -1
 Terrain: 3464
--2
+-1
 Terrain: 3465
 -1
 Terrain: 3466
@@ -6950,19 +6950,19 @@ Terrain: 3474
 Terrain: 3475
 -1
 Terrain: 3476
--1
+-2
 Terrain: 3477
--1
-Terrain: 3478
 -3
+Terrain: 3478
+-1
 Terrain: 3479
 -1
 Terrain: 3480
 -1
 Terrain: 3481
--1
+-2
 Terrain: 3482
--1
+45
 Terrain: 3483
 -1
 Terrain: 3484
@@ -6970,9 +6970,9 @@ Terrain: 3484
 Terrain: 3485
 -1
 Terrain: 3486
--1
-Terrain: 3487
 -3
+Terrain: 3487
+-1
 Terrain: 3488
 -1
 Terrain: 3489
@@ -6984,17 +6984,17 @@ Terrain: 3491
 Terrain: 3492
 -1
 Terrain: 3493
--1
+-3
 Terrain: 3494
 -1
 Terrain: 3495
--3
+-1
 Terrain: 3496
 -1
 Terrain: 3497
 -1
 Terrain: 3498
--3
+-1
 Terrain: 3499
 -1
 Terrain: 3500
@@ -7004,17 +7004,17 @@ Terrain: 3501
 Terrain: 3502
 -1
 Terrain: 3503
--1
+-3
 Terrain: 3504
 -1
 Terrain: 3505
 -1
 Terrain: 3506
--1
+45
 Terrain: 3507
 -1
 Terrain: 3508
--3
+-1
 Terrain: 3509
 -1
 Terrain: 3510
@@ -7030,7 +7030,7 @@ Terrain: 3514
 Terrain: 3515
 -1
 Terrain: 3516
--1
+-3
 Terrain: 3517
 -1
 Terrain: 3518
@@ -7046,7 +7046,7 @@ Terrain: 3522
 Terrain: 3523
 -1
 Terrain: 3524
--3
+-1
 Terrain: 3525
 -1
 Terrain: 3526
@@ -7058,11 +7058,11 @@ Terrain: 3528
 Terrain: 3529
 -1
 Terrain: 3530
--3
+-1
 Terrain: 3531
 -1
 Terrain: 3532
--3
+-1
 Terrain: 3533
 -1
 Terrain: 3534
@@ -7098,7 +7098,7 @@ Terrain: 3548
 Terrain: 3549
 -1
 Terrain: 3550
--1
+-2
 Terrain: 3551
 -1
 Terrain: 3552
@@ -7124,7 +7124,7 @@ Terrain: 3561
 Terrain: 3562
 -1
 Terrain: 3563
--1
+-2
 Terrain: 3564
 -1
 Terrain: 3565
@@ -7132,17 +7132,17 @@ Terrain: 3565
 Terrain: 3566
 -1
 Terrain: 3567
--3
+-1
 Terrain: 3568
 -1
 Terrain: 3569
--1
+-3
 Terrain: 3570
--2
+-1
 Terrain: 3571
 -1
 Terrain: 3572
-68
+-1
 Terrain: 3573
 -1
 Terrain: 3574
@@ -7154,7 +7154,7 @@ Terrain: 3576
 Terrain: 3577
 -1
 Terrain: 3578
--1
+80
 Terrain: 3579
 -1
 Terrain: 3580
@@ -7164,11 +7164,11 @@ Terrain: 3581
 Terrain: 3582
 -1
 Terrain: 3583
--1
+-3
 Terrain: 3584
--1
+-3
 Terrain: 3585
--1
+-3
 Terrain: 3586
 -1
 Terrain: 3587
@@ -7218,23 +7218,23 @@ Terrain: 3608
 Terrain: 3609
 -1
 Terrain: 3610
--1
+-3
 Terrain: 3611
 -1
 Terrain: 3612
--1
+-2
 Terrain: 3613
--1
+-2
 Terrain: 3614
--1
+-3
 Terrain: 3615
--1
+-2
 Terrain: 3616
 -1
 Terrain: 3617
--3
-Terrain: 3618
 -1
+Terrain: 3618
+-2
 Terrain: 3619
 -1
 Terrain: 3620
@@ -7242,7 +7242,7 @@ Terrain: 3620
 Terrain: 3621
 -1
 Terrain: 3622
--1
+-2
 Terrain: 3623
 -1
 Terrain: 3624
@@ -7254,7 +7254,7 @@ Terrain: 3626
 Terrain: 3627
 -1
 Terrain: 3628
--3
+-1
 Terrain: 3629
 -1
 Terrain: 3630
@@ -7262,13 +7262,13 @@ Terrain: 3630
 Terrain: 3631
 -3
 Terrain: 3632
--1
+-3
 Terrain: 3633
 -1
 Terrain: 3634
--1
+-2
 Terrain: 3635
-68
+-1
 Terrain: 3636
 -1
 Terrain: 3637
@@ -7284,11 +7284,11 @@ Terrain: 3641
 Terrain: 3642
 -1
 Terrain: 3643
--1
+-3
 Terrain: 3644
--1
+-2
 Terrain: 3645
--1
+-3
 Terrain: 3646
 -1
 Terrain: 3647
@@ -7298,7 +7298,7 @@ Terrain: 3648
 Terrain: 3649
 -1
 Terrain: 3650
--1
+58
 Terrain: 3651
 -1
 Terrain: 3652
@@ -7314,7 +7314,7 @@ Terrain: 3656
 Terrain: 3657
 -1
 Terrain: 3658
--1
+-2
 Terrain: 3659
 -1
 Terrain: 3660
@@ -7342,7 +7342,7 @@ Terrain: 3670
 Terrain: 3671
 -1
 Terrain: 3672
--3
+-1
 Terrain: 3673
 -1
 Terrain: 3674
@@ -7358,17 +7358,17 @@ Terrain: 3678
 Terrain: 3679
 -1
 Terrain: 3680
--3
+-1
 Terrain: 3681
 -1
 Terrain: 3682
--1
+-3
 Terrain: 3683
 -1
 Terrain: 3684
 -1
 Terrain: 3685
--2
+-1
 Terrain: 3686
 -1
 Terrain: 3687
@@ -7376,15 +7376,15 @@ Terrain: 3687
 Terrain: 3688
 -1
 Terrain: 3689
--2
+-1
 Terrain: 3690
 -1
 Terrain: 3691
 -1
 Terrain: 3692
--3
-Terrain: 3693
 -1
+Terrain: 3693
+-2
 Terrain: 3694
 -1
 Terrain: 3695
@@ -7396,11 +7396,11 @@ Terrain: 3697
 Terrain: 3698
 -1
 Terrain: 3699
--2
+-1
 Terrain: 3700
 -1
 Terrain: 3701
--2
+-1
 Terrain: 3702
 -1
 Terrain: 3703
@@ -7412,7 +7412,7 @@ Terrain: 3705
 Terrain: 3706
 -1
 Terrain: 3707
--1
+-2
 Terrain: 3708
 -1
 Terrain: 3709
@@ -7426,21 +7426,21 @@ Terrain: 3712
 Terrain: 3713
 -1
 Terrain: 3714
--2
+-1
 Terrain: 3715
-52
+-3
 Terrain: 3716
 -1
 Terrain: 3717
 -1
 Terrain: 3718
--2
+-1
 Terrain: 3719
 -1
 Terrain: 3720
 -1
 Terrain: 3721
--1
+-3
 Terrain: 3722
 -1
 Terrain: 3723
@@ -7456,7 +7456,7 @@ Terrain: 3727
 Terrain: 3728
 -1
 Terrain: 3729
--1
+-3
 Terrain: 3730
 -1
 Terrain: 3731
@@ -7478,11 +7478,11 @@ Terrain: 3738
 Terrain: 3739
 -1
 Terrain: 3740
--2
+-1
 Terrain: 3741
 -1
 Terrain: 3742
--2
+-1
 Terrain: 3743
 -1
 Terrain: 3744
@@ -7500,9 +7500,9 @@ Terrain: 3749
 Terrain: 3750
 -1
 Terrain: 3751
--1
+-3
 Terrain: 3752
--1
+67
 Terrain: 3753
 -1
 Terrain: 3754
@@ -7518,35 +7518,35 @@ Terrain: 3758
 Terrain: 3759
 -1
 Terrain: 3760
--1
+-3
 Terrain: 3761
--2
+-1
 Terrain: 3762
 -1
 Terrain: 3763
 -1
 Terrain: 3764
--1
+-3
 Terrain: 3765
 -1
 Terrain: 3766
 -1
 Terrain: 3767
--2
+-1
 Terrain: 3768
 -1
 Terrain: 3769
--2
+-1
 Terrain: 3770
 -1
 Terrain: 3771
--1
+-3
 Terrain: 3772
 -1
 Terrain: 3773
 -1
 Terrain: 3774
--1
+-2
 Terrain: 3775
 -1
 Terrain: 3776
@@ -7556,7 +7556,7 @@ Terrain: 3777
 Terrain: 3778
 -1
 Terrain: 3779
--3
+-1
 Terrain: 3780
 -1
 Terrain: 3781
@@ -7570,29 +7570,29 @@ Terrain: 3784
 Terrain: 3785
 -1
 Terrain: 3786
--3
+-1
 Terrain: 3787
 -1
 Terrain: 3788
 -1
 Terrain: 3789
-52
+-1
 Terrain: 3790
 -1
 Terrain: 3791
--1
+-2
 Terrain: 3792
--1
+-3
 Terrain: 3793
 -1
 Terrain: 3794
--1
+67
 Terrain: 3795
 -1
 Terrain: 3796
 -1
 Terrain: 3797
--3
+-1
 Terrain: 3798
 -1
 Terrain: 3799
@@ -7628,13 +7628,13 @@ Terrain: 3813
 Terrain: 3814
 -1
 Terrain: 3815
--1
+-2
 Terrain: 3816
 -1
 Terrain: 3817
 -1
 Terrain: 3818
--3
+-1
 Terrain: 3819
 -1
 Terrain: 3820
@@ -7660,13 +7660,13 @@ Terrain: 3829
 Terrain: 3830
 -1
 Terrain: 3831
--3
+-1
 Terrain: 3832
 -1
 Terrain: 3833
-77
-Terrain: 3834
 -1
+Terrain: 3834
+-2
 Terrain: 3835
 -1
 Terrain: 3836
@@ -7694,17 +7694,17 @@ Terrain: 3846
 Terrain: 3847
 -1
 Terrain: 3848
--1
+-2
 Terrain: 3849
 -1
 Terrain: 3850
--3
+-1
 Terrain: 3851
 -1
 Terrain: 3852
 -1
 Terrain: 3853
-61
+-2
 Terrain: 3854
 -1
 Terrain: 3855
@@ -7714,7 +7714,7 @@ Terrain: 3856
 Terrain: 3857
 -1
 Terrain: 3858
--1
+-2
 Terrain: 3859
 -1
 Terrain: 3860
@@ -7738,11 +7738,11 @@ Terrain: 3868
 Terrain: 3869
 -1
 Terrain: 3870
--2
+-3
 Terrain: 3871
--1
+-3
 Terrain: 3872
--2
+-1
 Terrain: 3873
 -1
 Terrain: 3874
@@ -7750,11 +7750,11 @@ Terrain: 3874
 Terrain: 3875
 -1
 Terrain: 3876
--1
+-2
 Terrain: 3877
 -1
 Terrain: 3878
--1
+-2
 Terrain: 3879
 -1
 Terrain: 3880
@@ -7764,7 +7764,7 @@ Terrain: 3881
 Terrain: 3882
 -1
 Terrain: 3883
--1
+-3
 Terrain: 3884
 -1
 Terrain: 3885
@@ -7814,7 +7814,7 @@ Terrain: 3906
 Terrain: 3907
 -1
 Terrain: 3908
--1
+-3
 Terrain: 3909
 -1
 Terrain: 3910
@@ -7822,15 +7822,15 @@ Terrain: 3910
 Terrain: 3911
 -1
 Terrain: 3912
--1
+45
 Terrain: 3913
 -1
 Terrain: 3914
--1
+58
 Terrain: 3915
 -1
 Terrain: 3916
--1
+-2
 Terrain: 3917
 -1
 Terrain: 3918
@@ -7844,7 +7844,7 @@ Terrain: 3921
 Terrain: 3922
 -1
 Terrain: 3923
--2
+-1
 Terrain: 3924
 -1
 Terrain: 3925
@@ -7854,7 +7854,7 @@ Terrain: 3926
 Terrain: 3927
 -1
 Terrain: 3928
--1
+-3
 Terrain: 3929
 -1
 Terrain: 3930
@@ -7882,15 +7882,15 @@ Terrain: 3940
 Terrain: 3941
 -1
 Terrain: 3942
--2
+-1
 Terrain: 3943
--2
+-1
 Terrain: 3944
--3
+-1
 Terrain: 3945
 -1
 Terrain: 3946
--1
+-3
 Terrain: 3947
 -1
 Terrain: 3948
@@ -7898,15 +7898,15 @@ Terrain: 3948
 Terrain: 3949
 -1
 Terrain: 3950
--3
+-1
 Terrain: 3951
--2
+-1
 Terrain: 3952
 -1
 Terrain: 3953
 -1
 Terrain: 3954
--2
+-1
 Terrain: 3955
 -1
 Terrain: 3956
@@ -7924,23 +7924,23 @@ Terrain: 3961
 Terrain: 3962
 -1
 Terrain: 3963
--2
+-1
 Terrain: 3964
 -1
 Terrain: 3965
 -1
 Terrain: 3966
--3
+-1
 Terrain: 3967
--1
+-2
 Terrain: 3968
--1
+-2
 Terrain: 3969
 -3
 Terrain: 3970
 -1
 Terrain: 3971
--3
+-1
 Terrain: 3972
 -1
 Terrain: 3973
@@ -7950,7 +7950,7 @@ Terrain: 3974
 Terrain: 3975
 -1
 Terrain: 3976
-52
+-1
 Terrain: 3977
 -1
 Terrain: 3978
@@ -7970,23 +7970,23 @@ Terrain: 3984
 Terrain: 3985
 -1
 Terrain: 3986
--1
+58
 Terrain: 3987
--1
+-3
 Terrain: 3988
 -1
 Terrain: 3989
 -1
 Terrain: 3990
--1
+-3
 Terrain: 3991
 -1
 Terrain: 3992
-52
+-1
 Terrain: 3993
 -1
 Terrain: 3994
-61
+-1
 Terrain: 3995
 -1
 Terrain: 3996
@@ -7998,19 +7998,19 @@ Terrain: 3998
 Terrain: 3999
 -1
 Terrain: 4000
--3
+-1
 Terrain: 4001
 -1
 Terrain: 4002
 -1
 Terrain: 4003
--1
+-3
 Terrain: 4004
 -1
 Terrain: 4005
--1
+-2
 Terrain: 4006
--1
+45
 Terrain: 4007
 -1
 Terrain: 4008
@@ -8028,7 +8028,7 @@ Terrain: 4013
 Terrain: 4014
 -1
 Terrain: 4015
--3
+-1
 Terrain: 4016
 -1
 Terrain: 4017
@@ -8040,9 +8040,9 @@ Terrain: 4019
 Terrain: 4020
 -1
 Terrain: 4021
-45
+-1
 Terrain: 4022
--3
+-1
 Terrain: 4023
 -1
 Terrain: 4024
@@ -8060,7 +8060,7 @@ Terrain: 4029
 Terrain: 4030
 -1
 Terrain: 4031
--2
+-1
 Terrain: 4032
 -1
 Terrain: 4033
@@ -8084,9 +8084,9 @@ Terrain: 4041
 Terrain: 4042
 -1
 Terrain: 4043
--2
+-1
 Terrain: 4044
--3
+-1
 Terrain: 4045
 -1
 Terrain: 4046
@@ -8098,23 +8098,23 @@ Terrain: 4048
 Terrain: 4049
 -1
 Terrain: 4050
-52
+-1
 Terrain: 4051
 -1
 Terrain: 4052
--1
+-2
 Terrain: 4053
 -1
 Terrain: 4054
--2
+45
 Terrain: 4055
--1
+-2
 Terrain: 4056
 -1
 Terrain: 4057
 -1
 Terrain: 4058
--3
+-1
 Terrain: 4059
 -1
 Terrain: 4060
@@ -8146,7 +8146,7 @@ Terrain: 4072
 Terrain: 4073
 -1
 Terrain: 4074
--2
+-1
 Terrain: 4075
 -1
 Terrain: 4076
@@ -8162,7 +8162,7 @@ Terrain: 4080
 Terrain: 4081
 -1
 Terrain: 4082
--1
+45
 Terrain: 4083
 -1
 Terrain: 4084
@@ -8192,7 +8192,7 @@ Terrain: 4095
 Terrain: 4096
 -1
 Terrain: 4097
--3
+-1
 Terrain: 4098
 -1
 Terrain: 4099
@@ -8230,9 +8230,9 @@ Terrain: 4114
 Terrain: 4115
 -1
 Terrain: 4116
-45
+-1
 Terrain: 4117
-68
+-1
 Terrain: 4118
 -1
 Terrain: 4119
@@ -8246,11 +8246,11 @@ Terrain: 4122
 Terrain: 4123
 -1
 Terrain: 4124
--1
+-3
 Terrain: 4125
 -1
 Terrain: 4126
--1
+-3
 Terrain: 4127
 -1
 Terrain: 4128
@@ -8268,7 +8268,7 @@ Terrain: 4133
 Terrain: 4134
 -1
 Terrain: 4135
--1
+-3
 Terrain: 4136
 -1
 Terrain: 4137
@@ -8288,9 +8288,9 @@ Terrain: 4143
 Terrain: 4144
 -1
 Terrain: 4145
-45
-Terrain: 4146
 -1
+Terrain: 4146
+58
 Terrain: 4147
 -1
 Terrain: 4148
@@ -8306,7 +8306,7 @@ Terrain: 4152
 Terrain: 4153
 -1
 Terrain: 4154
--1
+45
 Terrain: 4155
 -1
 Terrain: 4156
@@ -8314,7 +8314,7 @@ Terrain: 4156
 Terrain: 4157
 -1
 Terrain: 4158
--1
+-3
 Terrain: 4159
 -1
 Terrain: 4160
@@ -8336,7 +8336,7 @@ Terrain: 4167
 Terrain: 4168
 -1
 Terrain: 4169
--1
+-2
 Terrain: 4170
 -1
 Terrain: 4171
@@ -8344,13 +8344,13 @@ Terrain: 4171
 Terrain: 4172
 -1
 Terrain: 4173
--1
+-2
 Terrain: 4174
 -1
 Terrain: 4175
 -1
 Terrain: 4176
--3
+-1
 Terrain: 4177
 -1
 Terrain: 4178
@@ -8376,7 +8376,7 @@ Terrain: 4187
 Terrain: 4188
 -1
 Terrain: 4189
--3
+-1
 Terrain: 4190
 -1
 Terrain: 4191
@@ -8392,7 +8392,7 @@ Terrain: 4195
 Terrain: 4196
 -1
 Terrain: 4197
--1
+-3
 Terrain: 4198
 -1
 Terrain: 4199
@@ -8406,7 +8406,7 @@ Terrain: 4202
 Terrain: 4203
 -1
 Terrain: 4204
--1
+-3
 Terrain: 4205
 -1
 Terrain: 4206
@@ -8432,31 +8432,31 @@ Terrain: 4215
 Terrain: 4216
 -1
 Terrain: 4217
--3
+-1
 Terrain: 4218
--1
+-2
 Terrain: 4219
--1
+-3
 Terrain: 4220
-45
+-1
 Terrain: 4221
 -1
 Terrain: 4222
 -1
 Terrain: 4223
--2
+80
 Terrain: 4224
 -1
 Terrain: 4225
 -1
 Terrain: 4226
--3
-Terrain: 4227
 -1
+Terrain: 4227
+45
 Terrain: 4228
 -1
 Terrain: 4229
--2
+-1
 Terrain: 4230
 -1
 Terrain: 4231
@@ -8468,11 +8468,11 @@ Terrain: 4233
 Terrain: 4234
 -1
 Terrain: 4235
--2
-Terrain: 4236
 -1
+Terrain: 4236
+-2
 Terrain: 4237
--3
+-1
 Terrain: 4238
 -1
 Terrain: 4239
@@ -8484,13 +8484,13 @@ Terrain: 4241
 Terrain: 4242
 -1
 Terrain: 4243
--3
+-1
 Terrain: 4244
 -1
 Terrain: 4245
-52
+-1
 Terrain: 4246
--3
+-1
 Terrain: 4247
 -1
 Terrain: 4248
@@ -8508,17 +8508,17 @@ Terrain: 4253
 Terrain: 4254
 -1
 Terrain: 4255
--1
+-3
 Terrain: 4256
 -1
 Terrain: 4257
 -1
 Terrain: 4258
--1
+-2
 Terrain: 4259
 -1
 Terrain: 4260
--2
+-1
 Terrain: 4261
 -1
 Terrain: 4262
@@ -8560,17 +8560,17 @@ Terrain: 4279
 Terrain: 4280
 -1
 Terrain: 4281
--2
+-1
 Terrain: 4282
 -1
 Terrain: 4283
 -1
 Terrain: 4284
--2
+-1
 Terrain: 4285
 -1
 Terrain: 4286
--2
+-1
 Terrain: 4287
 -1
 Terrain: 4288
@@ -8590,9 +8590,9 @@ Terrain: 4294
 Terrain: 4295
 -1
 Terrain: 4296
--1
-Terrain: 4297
 -2
+Terrain: 4297
+-1
 Terrain: 4298
 -1
 Terrain: 4299
@@ -8616,25 +8616,25 @@ Terrain: 4307
 Terrain: 4308
 -1
 Terrain: 4309
--2
+-1
 Terrain: 4310
 -1
 Terrain: 4311
 -1
 Terrain: 4312
--3
-Terrain: 4313
 -1
+Terrain: 4313
+-2
 Terrain: 4314
 -1
 Terrain: 4315
--2
+-1
 Terrain: 4316
-52
+-1
 Terrain: 4317
 -1
 Terrain: 4318
--1
+67
 Terrain: 4319
 -1
 Terrain: 4320
@@ -8648,13 +8648,13 @@ Terrain: 4323
 Terrain: 4324
 -1
 Terrain: 4325
--3
+-1
 Terrain: 4326
 -1
 Terrain: 4327
 -1
 Terrain: 4328
--1
+-3
 Terrain: 4329
 -1
 Terrain: 4330
@@ -8668,7 +8668,7 @@ Terrain: 4333
 Terrain: 4334
 -1
 Terrain: 4335
--3
+-1
 Terrain: 4336
 -1
 Terrain: 4337
@@ -8682,9 +8682,9 @@ Terrain: 4340
 Terrain: 4341
 -1
 Terrain: 4342
-52
-Terrain: 4343
 -1
+Terrain: 4343
+-3
 Terrain: 4344
 -1
 Terrain: 4345
@@ -8698,7 +8698,7 @@ Terrain: 4348
 Terrain: 4349
 -1
 Terrain: 4350
--1
+-2
 Terrain: 4351
 -1
 Terrain: 4352
@@ -8714,7 +8714,7 @@ Terrain: 4356
 Terrain: 4357
 -1
 Terrain: 4358
--3
+-1
 Terrain: 4359
 -1
 Terrain: 4360
@@ -8732,21 +8732,21 @@ Terrain: 4365
 Terrain: 4366
 -1
 Terrain: 4367
--1
+-2
 Terrain: 4368
 -1
 Terrain: 4369
--1
+-2
 Terrain: 4370
--1
+-3
 Terrain: 4371
--1
+-2
 Terrain: 4372
 -1
 Terrain: 4373
 -1
 Terrain: 4374
--1
+-2
 Terrain: 4375
 -1
 Terrain: 4376
@@ -8762,7 +8762,7 @@ Terrain: 4380
 Terrain: 4381
 -1
 Terrain: 4382
--2
+-1
 Terrain: 4383
 -1
 Terrain: 4384
@@ -8780,11 +8780,11 @@ Terrain: 4389
 Terrain: 4390
 -1
 Terrain: 4391
--1
+-3
 Terrain: 4392
 -1
 Terrain: 4393
--1
+-3
 Terrain: 4394
 -1
 Terrain: 4395
@@ -8802,11 +8802,11 @@ Terrain: 4400
 Terrain: 4401
 -1
 Terrain: 4402
--1
+45
 Terrain: 4403
 -1
 Terrain: 4404
--1
+67
 Terrain: 4405
 -1
 Terrain: 4406
@@ -8818,7 +8818,7 @@ Terrain: 4408
 Terrain: 4409
 -1
 Terrain: 4410
--2
+-1
 Terrain: 4411
 -1
 Terrain: 4412
@@ -8844,29 +8844,29 @@ Terrain: 4421
 Terrain: 4422
 -1
 Terrain: 4423
--3
+-1
 Terrain: 4424
 -1
 Terrain: 4425
--2
+-1
 Terrain: 4426
-45
+-1
 Terrain: 4427
--2
+-1
 Terrain: 4428
--3
+-1
 Terrain: 4429
 -1
 Terrain: 4430
--1
+-2
 Terrain: 4431
--1
+-2
 Terrain: 4432
 -1
 Terrain: 4433
 -1
 Terrain: 4434
--1
+-2
 Terrain: 4435
 -1
 Terrain: 4436
@@ -8880,7 +8880,7 @@ Terrain: 4439
 Terrain: 4440
 -1
 Terrain: 4441
--1
+80
 Terrain: 4442
 -1
 Terrain: 4443
@@ -8894,17 +8894,17 @@ Terrain: 4446
 Terrain: 4447
 -1
 Terrain: 4448
--1
+58
 Terrain: 4449
--1
+-3
 Terrain: 4450
 -1
 Terrain: 4451
 -1
 Terrain: 4452
-52
-Terrain: 4453
 -1
+Terrain: 4453
+-3
 Terrain: 4454
 -1
 Terrain: 4455
@@ -8926,7 +8926,7 @@ Terrain: 4462
 Terrain: 4463
 -1
 Terrain: 4464
--1
+-2
 Terrain: 4465
 -1
 Terrain: 4466
@@ -8944,7 +8944,7 @@ Terrain: 4471
 Terrain: 4472
 -1
 Terrain: 4473
--3
+-1
 Terrain: 4474
 -1
 Terrain: 4475
@@ -8960,15 +8960,15 @@ Terrain: 4479
 Terrain: 4480
 -1
 Terrain: 4481
--2
+-1
 Terrain: 4482
--1
+-2
 Terrain: 4483
--1
+-2
 Terrain: 4484
 -1
 Terrain: 4485
--3
+58
 Terrain: 4486
 -1
 Terrain: 4487
@@ -8984,9 +8984,9 @@ Terrain: 4491
 Terrain: 4492
 -1
 Terrain: 4493
--1
+58
 Terrain: 4494
--1
+-2
 Terrain: 4495
 -1
 Terrain: 4496
@@ -8994,11 +8994,11 @@ Terrain: 4496
 Terrain: 4497
 -1
 Terrain: 4498
--3
+-1
 Terrain: 4499
 -1
 Terrain: 4500
-45
+-1
 Terrain: 4501
 -1
 Terrain: 4502
@@ -9008,7 +9008,7 @@ Terrain: 4503
 Terrain: 4504
 -1
 Terrain: 4505
--1
+45
 Terrain: 4506
 -1
 Terrain: 4507
@@ -9018,9 +9018,9 @@ Terrain: 4508
 Terrain: 4509
 -1
 Terrain: 4510
--1
+67
 Terrain: 4511
--1
+-3
 Terrain: 4512
 -1
 Terrain: 4513
@@ -9032,7 +9032,7 @@ Terrain: 4515
 Terrain: 4516
 -1
 Terrain: 4517
--1
+-2
 Terrain: 4518
 -1
 Terrain: 4519
@@ -9054,7 +9054,7 @@ Terrain: 4526
 Terrain: 4527
 -1
 Terrain: 4528
--1
+-3
 Terrain: 4529
 -1
 Terrain: 4530
@@ -9062,7 +9062,7 @@ Terrain: 4530
 Terrain: 4531
 -1
 Terrain: 4532
--1
+-3
 Terrain: 4533
 -1
 Terrain: 4534
@@ -9072,9 +9072,9 @@ Terrain: 4535
 Terrain: 4536
 -1
 Terrain: 4537
--1
-Terrain: 4538
 -3
+Terrain: 4538
+-1
 Terrain: 4539
 -1
 Terrain: 4540
@@ -9082,7 +9082,7 @@ Terrain: 4540
 Terrain: 4541
 -1
 Terrain: 4542
--2
+-1
 Terrain: 4543
 -1
 Terrain: 4544
@@ -9102,17 +9102,17 @@ Terrain: 4550
 Terrain: 4551
 -1
 Terrain: 4552
--1
+-3
 Terrain: 4553
 -1
 Terrain: 4554
--1
+-2
 Terrain: 4555
 -1
 Terrain: 4556
 -1
 Terrain: 4557
--1
+-2
 Terrain: 4558
 -1
 Terrain: 4559
@@ -9120,7 +9120,7 @@ Terrain: 4559
 Terrain: 4560
 -1
 Terrain: 4561
--2
+-1
 Terrain: 4562
 -1
 Terrain: 4563
@@ -9130,23 +9130,23 @@ Terrain: 4564
 Terrain: 4565
 -1
 Terrain: 4566
--1
+-2
 Terrain: 4567
 -1
 Terrain: 4568
--2
+-1
 Terrain: 4569
 -1
 Terrain: 4570
 -1
 Terrain: 4571
--1
+-2
 Terrain: 4572
 -1
 Terrain: 4573
 -1
 Terrain: 4574
--3
+-1
 Terrain: 4575
 -1
 Terrain: 4576
@@ -9158,17 +9158,17 @@ Terrain: 4578
 Terrain: 4579
 -1
 Terrain: 4580
--1
+-3
 Terrain: 4581
--1
+-3
 Terrain: 4582
 -1
 Terrain: 4583
 -1
 Terrain: 4584
--1
+-2
 Terrain: 4585
--1
+-2
 Terrain: 4586
 -1
 Terrain: 4587
@@ -9182,15 +9182,15 @@ Terrain: 4590
 Terrain: 4591
 -1
 Terrain: 4592
--1
+-2
 Terrain: 4593
--3
-Terrain: 4594
 -1
+Terrain: 4594
+-2
 Terrain: 4595
 -1
 Terrain: 4596
--1
+-3
 Terrain: 4597
 -1
 Terrain: 4598
@@ -9202,9 +9202,9 @@ Terrain: 4600
 Terrain: 4601
 -1
 Terrain: 4602
--1
+-2
 Terrain: 4603
--1
+-2
 Terrain: 4604
 -1
 Terrain: 4605
@@ -9214,9 +9214,9 @@ Terrain: 4606
 Terrain: 4607
 -1
 Terrain: 4608
--1
+-3
 Terrain: 4609
--1
+-3
 Terrain: 4610
 -1
 Terrain: 4611
@@ -9244,7 +9244,7 @@ Terrain: 4621
 Terrain: 4622
 -1
 Terrain: 4623
--2
+-1
 Terrain: 4624
 -1
 Terrain: 4625
@@ -9268,9 +9268,9 @@ Terrain: 4633
 Terrain: 4634
 -1
 Terrain: 4635
--2
-Terrain: 4636
 -1
+Terrain: 4636
+-2
 Terrain: 4637
 -1
 Terrain: 4638
@@ -9278,7 +9278,7 @@ Terrain: 4638
 Terrain: 4639
 -1
 Terrain: 4640
-52
+45
 Terrain: 4641
 -1
 Terrain: 4642
@@ -9302,7 +9302,7 @@ Terrain: 4650
 Terrain: 4651
 -1
 Terrain: 4652
--2
+-1
 Terrain: 4653
 -1
 Terrain: 4654
@@ -9312,7 +9312,7 @@ Terrain: 4655
 Terrain: 4656
 -1
 Terrain: 4657
-52
+-1
 Terrain: 4658
 -1
 Terrain: 4659
@@ -9322,7 +9322,7 @@ Terrain: 4660
 Terrain: 4661
 -1
 Terrain: 4662
--1
+-2
 Terrain: 4663
 -1
 Terrain: 4664
@@ -9332,7 +9332,7 @@ Terrain: 4665
 Terrain: 4666
 -1
 Terrain: 4667
--3
+-1
 Terrain: 4668
 -1
 Terrain: 4669
@@ -9346,25 +9346,25 @@ Terrain: 4672
 Terrain: 4673
 -1
 Terrain: 4674
--1
+-3
 Terrain: 4675
 -1
 Terrain: 4676
 -1
 Terrain: 4677
--3
+-1
 Terrain: 4678
 -1
 Terrain: 4679
-45
+-1
 Terrain: 4680
--1
+-3
 Terrain: 4681
--1
+-3
 Terrain: 4682
 -1
 Terrain: 4683
--3
+-1
 Terrain: 4684
 -1
 Terrain: 4685
@@ -9378,11 +9378,11 @@ Terrain: 4688
 Terrain: 4689
 -1
 Terrain: 4690
-52
+-1
 Terrain: 4691
 -1
 Terrain: 4692
--3
+-1
 Terrain: 4693
 -1
 Terrain: 4694
@@ -9394,11 +9394,11 @@ Terrain: 4696
 Terrain: 4697
 -1
 Terrain: 4698
--1
+58
 Terrain: 4699
 -1
 Terrain: 4700
--1
+58
 Terrain: 4701
 -1
 Terrain: 4702
@@ -9406,9 +9406,9 @@ Terrain: 4702
 Terrain: 4703
 -1
 Terrain: 4704
--1
+-3
 Terrain: 4705
--2
+-3
 Terrain: 4706
 -1
 Terrain: 4707
@@ -9420,11 +9420,11 @@ Terrain: 4709
 Terrain: 4710
 -1
 Terrain: 4711
--1
+-3
 Terrain: 4712
 -1
 Terrain: 4713
--1
+-3
 Terrain: 4714
 -1
 Terrain: 4715
@@ -9434,7 +9434,7 @@ Terrain: 4716
 Terrain: 4717
 -1
 Terrain: 4718
--2
+-1
 Terrain: 4719
 -1
 Terrain: 4720
@@ -9444,15 +9444,15 @@ Terrain: 4721
 Terrain: 4722
 -1
 Terrain: 4723
--2
-Terrain: 4724
 -1
+Terrain: 4724
+58
 Terrain: 4725
 -1
 Terrain: 4726
 -1
 Terrain: 4727
--1
+58
 Terrain: 4728
 -1
 Terrain: 4729
@@ -9460,7 +9460,7 @@ Terrain: 4729
 Terrain: 4730
 -1
 Terrain: 4731
--1
+-3
 Terrain: 4732
 -1
 Terrain: 4733
@@ -9470,19 +9470,19 @@ Terrain: 4734
 Terrain: 4735
 -1
 Terrain: 4736
--1
+45
 Terrain: 4737
--1
+-2
 Terrain: 4738
 -1
 Terrain: 4739
--1
+-3
 Terrain: 4740
 -1
 Terrain: 4741
 -1
 Terrain: 4742
--3
+-2
 Terrain: 4743
 -1
 Terrain: 4744
@@ -9500,7 +9500,7 @@ Terrain: 4749
 Terrain: 4750
 -1
 Terrain: 4751
--3
+-1
 Terrain: 4752
 -1
 Terrain: 4753
@@ -9516,7 +9516,7 @@ Terrain: 4757
 Terrain: 4758
 -1
 Terrain: 4759
--1
+-3
 Terrain: 4760
 -1
 Terrain: 4761
@@ -9524,9 +9524,9 @@ Terrain: 4761
 Terrain: 4762
 -1
 Terrain: 4763
--1
-Terrain: 4764
 45
+Terrain: 4764
+-1
 Terrain: 4765
 -1
 Terrain: 4766
@@ -9540,7 +9540,7 @@ Terrain: 4769
 Terrain: 4770
 -1
 Terrain: 4771
--1
+-2
 Terrain: 4772
 -1
 Terrain: 4773
@@ -9558,13 +9558,13 @@ Terrain: 4778
 Terrain: 4779
 -1
 Terrain: 4780
--1
+-3
 Terrain: 4781
 -1
 Terrain: 4782
 -1
 Terrain: 4783
-45
+-1
 Terrain: 4784
 -1
 Terrain: 4785
@@ -9574,13 +9574,13 @@ Terrain: 4786
 Terrain: 4787
 -1
 Terrain: 4788
--1
+-3
 Terrain: 4789
 -1
 Terrain: 4790
 -1
 Terrain: 4791
--3
+-2
 Terrain: 4792
 -1
 Terrain: 4793
@@ -9592,23 +9592,23 @@ Terrain: 4795
 Terrain: 4796
 -1
 Terrain: 4797
--1
+-3
 Terrain: 4798
 -1
 Terrain: 4799
--3
-Terrain: 4800
 -1
+Terrain: 4800
+-3
 Terrain: 4801
 -1
 Terrain: 4802
--1
-Terrain: 4803
 -3
+Terrain: 4803
+-1
 Terrain: 4804
 -1
 Terrain: 4805
--2
+-1
 Terrain: 4806
 -1
 Terrain: 4807
@@ -9616,13 +9616,13 @@ Terrain: 4807
 Terrain: 4808
 -1
 Terrain: 4809
--2
+-1
 Terrain: 4810
 -1
 Terrain: 4811
 -1
 Terrain: 4812
--2
+-1
 Terrain: 4813
 -1
 Terrain: 4814
@@ -9630,7 +9630,7 @@ Terrain: 4814
 Terrain: 4815
 -1
 Terrain: 4816
-45
+-1
 Terrain: 4817
 -1
 Terrain: 4818
@@ -9646,7 +9646,7 @@ Terrain: 4822
 Terrain: 4823
 -1
 Terrain: 4824
--1
+-3
 Terrain: 4825
 -1
 Terrain: 4826
@@ -9654,11 +9654,11 @@ Terrain: 4826
 Terrain: 4827
 -1
 Terrain: 4828
--2
+-1
 Terrain: 4829
 -1
 Terrain: 4830
--1
+-3
 Terrain: 4831
 -1
 Terrain: 4832
@@ -9666,35 +9666,35 @@ Terrain: 4832
 Terrain: 4833
 -1
 Terrain: 4834
-52
+-1
 Terrain: 4835
 -1
 Terrain: 4836
 -1
 Terrain: 4837
--1
+-2
 Terrain: 4838
--3
-Terrain: 4839
 -1
+Terrain: 4839
+-2
 Terrain: 4840
 -1
 Terrain: 4841
 -1
 Terrain: 4842
--1
+58
 Terrain: 4843
 -1
 Terrain: 4844
 -1
 Terrain: 4845
--1
+-3
 Terrain: 4846
 -1
 Terrain: 4847
 -1
 Terrain: 4848
--1
+45
 Terrain: 4849
 -1
 Terrain: 4850
@@ -9702,7 +9702,7 @@ Terrain: 4850
 Terrain: 4851
 -1
 Terrain: 4852
--1
+-2
 Terrain: 4853
 -1
 Terrain: 4854
@@ -9720,13 +9720,13 @@ Terrain: 4859
 Terrain: 4860
 -1
 Terrain: 4861
--3
+-1
 Terrain: 4862
 -1
 Terrain: 4863
--1
+-3
 Terrain: 4864
--2
+-1
 Terrain: 4865
 -1
 Terrain: 4866
@@ -9734,7 +9734,7 @@ Terrain: 4866
 Terrain: 4867
 -1
 Terrain: 4868
-45
+-1
 Terrain: 4869
 -1
 Terrain: 4870
@@ -9744,13 +9744,13 @@ Terrain: 4871
 Terrain: 4872
 -1
 Terrain: 4873
--3
+-1
 Terrain: 4874
 -1
 Terrain: 4875
 -1
 Terrain: 4876
--1
+-2
 Terrain: 4877
 -1
 Terrain: 4878
@@ -9768,7 +9768,7 @@ Terrain: 4883
 Terrain: 4884
 -1
 Terrain: 4885
--1
+-2
 Terrain: 4886
 -1
 Terrain: 4887
@@ -9780,17 +9780,17 @@ Terrain: 4889
 Terrain: 4890
 -1
 Terrain: 4891
-52
+-1
 Terrain: 4892
 -1
 Terrain: 4893
 -1
 Terrain: 4894
--2
+-1
 Terrain: 4895
 -1
 Terrain: 4896
--2
+-1
 Terrain: 4897
 -1
 Terrain: 4898
@@ -9806,7 +9806,7 @@ Terrain: 4902
 Terrain: 4903
 -1
 Terrain: 4904
--1
+-2
 Terrain: 4905
 -1
 Terrain: 4906
@@ -9834,7 +9834,7 @@ Terrain: 4916
 Terrain: 4917
 -1
 Terrain: 4918
--1
+45
 Terrain: 4919
 -1
 Terrain: 4920
@@ -9852,15 +9852,15 @@ Terrain: 4925
 Terrain: 4926
 -1
 Terrain: 4927
--2
-Terrain: 4928
 -1
+Terrain: 4928
+58
 Terrain: 4929
 -1
 Terrain: 4930
 -1
 Terrain: 4931
--1
+-2
 Terrain: 4932
 -1
 Terrain: 4933
@@ -9876,7 +9876,7 @@ Terrain: 4937
 Terrain: 4938
 -1
 Terrain: 4939
--1
+-2
 Terrain: 4940
 -1
 Terrain: 4941
@@ -9886,7 +9886,7 @@ Terrain: 4942
 Terrain: 4943
 -1
 Terrain: 4944
--1
+-2
 Terrain: 4945
 -1
 Terrain: 4946
@@ -9894,7 +9894,7 @@ Terrain: 4946
 Terrain: 4947
 -1
 Terrain: 4948
--1
+-3
 Terrain: 4949
 -1
 Terrain: 4950
@@ -9904,7 +9904,7 @@ Terrain: 4951
 Terrain: 4952
 -1
 Terrain: 4953
--3
+-2
 Terrain: 4954
 -1
 Terrain: 4955
@@ -9916,7 +9916,7 @@ Terrain: 4957
 Terrain: 4958
 -1
 Terrain: 4959
--1
+-2
 Terrain: 4960
 -1
 Terrain: 4961
@@ -9932,7 +9932,7 @@ Terrain: 4965
 Terrain: 4966
 -1
 Terrain: 4967
--1
+-2
 Terrain: 4968
 -1
 Terrain: 4969
@@ -9942,7 +9942,7 @@ Terrain: 4970
 Terrain: 4971
 -1
 Terrain: 4972
--1
+-2
 Terrain: 4973
 -1
 Terrain: 4974
@@ -9956,7 +9956,7 @@ Terrain: 4977
 Terrain: 4978
 -1
 Terrain: 4979
-45
+-1
 Terrain: 4980
 -1
 Terrain: 4981
@@ -9966,7 +9966,7 @@ Terrain: 4982
 Terrain: 4983
 -1
 Terrain: 4984
-61
+-1
 Terrain: 4985
 -1
 Terrain: 4986
@@ -10022,7 +10022,7 @@ Terrain: 5010
 Terrain: 5011
 -1
 Terrain: 5012
--1
+-2
 Terrain: 5013
 -1
 Terrain: 5014
@@ -10032,7 +10032,7 @@ Terrain: 5015
 Terrain: 5016
 -1
 Terrain: 5017
--2
+-1
 Terrain: 5018
 -1
 Terrain: 5019
@@ -10054,7 +10054,7 @@ Terrain: 5026
 Terrain: 5027
 -1
 Terrain: 5028
--2
+-1
 Terrain: 5029
 -1
 Terrain: 5030
@@ -10076,7 +10076,7 @@ Terrain: 5037
 Terrain: 5038
 -1
 Terrain: 5039
--1
+-2
 Terrain: 5040
 -1
 Terrain: 5041
@@ -10104,11 +10104,11 @@ Terrain: 5051
 Terrain: 5052
 -1
 Terrain: 5053
--1
+45
 Terrain: 5054
 -1
 Terrain: 5055
--2
+-1
 Terrain: 5056
 -1
 Terrain: 5057
@@ -10130,15 +10130,15 @@ Terrain: 5064
 Terrain: 5065
 -1
 Terrain: 5066
--1
+-3
 Terrain: 5067
--2
+-1
 Terrain: 5068
 -1
 Terrain: 5069
-45
-Terrain: 5070
 -1
+Terrain: 5070
+-3
 Terrain: 5071
 -1
 Terrain: 5072
@@ -10154,7 +10154,7 @@ Terrain: 5076
 Terrain: 5077
 -1
 Terrain: 5078
--1
+-2
 Terrain: 5079
 -1
 Terrain: 5080
@@ -10174,7 +10174,7 @@ Terrain: 5086
 Terrain: 5087
 -1
 Terrain: 5088
--1
+-3
 Terrain: 5089
 -1
 Terrain: 5090
@@ -10196,7 +10196,7 @@ Terrain: 5097
 Terrain: 5098
 -1
 Terrain: 5099
--2
+-1
 Terrain: 5100
 -1
 Terrain: 5101
@@ -10204,11 +10204,11 @@ Terrain: 5101
 Terrain: 5102
 -1
 Terrain: 5103
--1
+-2
 Terrain: 5104
 -1
 Terrain: 5105
--2
+-1
 Terrain: 5106
 -1
 Terrain: 5107
@@ -10242,13 +10242,13 @@ Terrain: 5120
 Terrain: 5121
 -1
 Terrain: 5122
--2
+-1
 Terrain: 5123
 -1
 Terrain: 5124
 -1
 Terrain: 5125
-52
+-3
 Terrain: 5126
 -1
 Terrain: 5127
@@ -10260,7 +10260,7 @@ Terrain: 5129
 Terrain: 5130
 -1
 Terrain: 5131
--1
+-3
 Terrain: 5132
 -1
 Terrain: 5133
@@ -10282,7 +10282,7 @@ Terrain: 5140
 Terrain: 5141
 -1
 Terrain: 5142
-95
+-1
 Terrain: 5143
 -1
 Terrain: 5144
@@ -10306,7 +10306,7 @@ Terrain: 5152
 Terrain: 5153
 -1
 Terrain: 5154
--2
+-1
 Terrain: 5155
 -1
 Terrain: 5156
@@ -10314,7 +10314,7 @@ Terrain: 5156
 Terrain: 5157
 -1
 Terrain: 5158
--2
+-1
 Terrain: 5159
 -1
 Terrain: 5160
@@ -10354,7 +10354,7 @@ Terrain: 5176
 Terrain: 5177
 -1
 Terrain: 5178
--1
+-3
 Terrain: 5179
 -1
 Terrain: 5180
@@ -10384,7 +10384,7 @@ Terrain: 5191
 Terrain: 5192
 -1
 Terrain: 5193
-52
+-1
 Terrain: 5194
 -1
 Terrain: 5195
@@ -10392,11 +10392,11 @@ Terrain: 5195
 Terrain: 5196
 -1
 Terrain: 5197
--2
+-1
 Terrain: 5198
 -1
 Terrain: 5199
--3
+76
 Terrain: 5200
 -1
 Terrain: 5201
@@ -10420,7 +10420,7 @@ Terrain: 5209
 Terrain: 5210
 -1
 Terrain: 5211
--2
+-1
 Terrain: 5212
 -1
 Terrain: 5213
@@ -10448,7 +10448,7 @@ Terrain: 5223
 Terrain: 5224
 -1
 Terrain: 5225
--3
+-2
 Terrain: 5226
 -1
 Terrain: 5227
@@ -10460,7 +10460,7 @@ Terrain: 5229
 Terrain: 5230
 -1
 Terrain: 5231
--2
+-1
 Terrain: 5232
 -1
 Terrain: 5233
@@ -10474,7 +10474,7 @@ Terrain: 5236
 Terrain: 5237
 -1
 Terrain: 5238
--3
+-1
 Terrain: 5239
 -1
 Terrain: 5240
@@ -10482,7 +10482,7 @@ Terrain: 5240
 Terrain: 5241
 -1
 Terrain: 5242
--3
+-1
 Terrain: 5243
 -1
 Terrain: 5244
@@ -10506,13 +10506,13 @@ Terrain: 5252
 Terrain: 5253
 -1
 Terrain: 5254
--2
+-1
 Terrain: 5255
 -1
 Terrain: 5256
 -1
 Terrain: 5257
--2
+-1
 Terrain: 5258
 -1
 Terrain: 5259
@@ -10522,7 +10522,7 @@ Terrain: 5260
 Terrain: 5261
 -1
 Terrain: 5262
--3
+-1
 Terrain: 5263
 -1
 Terrain: 5264
@@ -10532,13 +10532,13 @@ Terrain: 5265
 Terrain: 5266
 -1
 Terrain: 5267
--1
+-2
 Terrain: 5268
 -1
 Terrain: 5269
 -1
 Terrain: 5270
--3
+-2
 Terrain: 5271
 -1
 Terrain: 5272
@@ -10568,33 +10568,33 @@ Terrain: 5283
 Terrain: 5284
 -1
 Terrain: 5285
--3
-Terrain: 5286
--3
-Terrain: 5287
 -2
+Terrain: 5286
+-1
+Terrain: 5287
+-1
 Terrain: 5288
 -1
 Terrain: 5289
--1
+-2
 Terrain: 5290
 -1
 Terrain: 5291
 -1
 Terrain: 5292
--2
+-1
 Terrain: 5293
 -1
 Terrain: 5294
--1
+-2
 Terrain: 5295
--3
+-1
 Terrain: 5296
 -1
 Terrain: 5297
--3
-Terrain: 5298
 -1
+Terrain: 5298
+45
 Terrain: 5299
 -1
 Terrain: 5300
@@ -10614,9 +10614,9 @@ Terrain: 5306
 Terrain: 5307
 -1
 Terrain: 5308
-45
+-1
 Terrain: 5309
--3
+-1
 Terrain: 5310
 -1
 Terrain: 5311
@@ -10630,21 +10630,21 @@ Terrain: 5314
 Terrain: 5315
 -1
 Terrain: 5316
--1
+-3
 Terrain: 5317
 -1
 Terrain: 5318
 -1
 Terrain: 5319
--2
-Terrain: 5320
 -1
+Terrain: 5320
+-2
 Terrain: 5321
 -1
 Terrain: 5322
 -1
 Terrain: 5323
--1
+-2
 Terrain: 5324
 -1
 Terrain: 5325
@@ -10672,15 +10672,15 @@ Terrain: 5335
 Terrain: 5336
 -1
 Terrain: 5337
--1
+-2
 Terrain: 5338
 -1
 Terrain: 5339
 -1
 Terrain: 5340
--3
+-1
 Terrain: 5341
--3
+-1
 Terrain: 5342
 -1
 Terrain: 5343
@@ -10694,7 +10694,7 @@ Terrain: 5346
 Terrain: 5347
 -1
 Terrain: 5348
--1
+-3
 Terrain: 5349
 -1
 Terrain: 5350
@@ -10738,7 +10738,7 @@ Terrain: 5368
 Terrain: 5369
 -1
 Terrain: 5370
--1
+58
 Terrain: 5371
 -1
 Terrain: 5372
@@ -10824,21 +10824,21 @@ Terrain: 5411
 Terrain: 5412
 -1
 Terrain: 5413
--1
+-2
 Terrain: 5414
 -1
 Terrain: 5415
 -1
 Terrain: 5416
--1
+-2
 Terrain: 5417
 -1
 Terrain: 5418
--1
+-3
 Terrain: 5419
 -1
 Terrain: 5420
--1
+-3
 Terrain: 5421
 -1
 Terrain: 5422
@@ -10846,7 +10846,7 @@ Terrain: 5422
 Terrain: 5423
 -1
 Terrain: 5424
--3
+-1
 Terrain: 5425
 -1
 Terrain: 5426
@@ -10858,7 +10858,7 @@ Terrain: 5428
 Terrain: 5429
 -1
 Terrain: 5430
--3
+-1
 Terrain: 5431
 -1
 Terrain: 5432
@@ -10890,39 +10890,39 @@ Terrain: 5444
 Terrain: 5445
 -1
 Terrain: 5446
--2
-Terrain: 5447
 -1
-Terrain: 5448
--2
-Terrain: 5449
+Terrain: 5447
 -3
+Terrain: 5448
+-1
+Terrain: 5449
+-1
 Terrain: 5450
 -1
 Terrain: 5451
 -1
 Terrain: 5452
--1
+-2
 Terrain: 5453
--1
+-3
 Terrain: 5454
 -1
 Terrain: 5455
--1
+45
 Terrain: 5456
--1
+-2
 Terrain: 5457
 -1
 Terrain: 5458
 -1
 Terrain: 5459
--3
+-2
 Terrain: 5460
--1
+-2
 Terrain: 5461
 -1
 Terrain: 5462
--1
+-3
 Terrain: 5463
 -1
 Terrain: 5464
@@ -10934,7 +10934,7 @@ Terrain: 5466
 Terrain: 5467
 -1
 Terrain: 5468
--3
+-1
 Terrain: 5469
 -1
 Terrain: 5470
@@ -10942,17 +10942,17 @@ Terrain: 5470
 Terrain: 5471
 -1
 Terrain: 5472
--2
+-1
 Terrain: 5473
 -1
 Terrain: 5474
--3
+-1
 Terrain: 5475
-45
+-1
 Terrain: 5476
 -1
 Terrain: 5477
--3
+-1
 Terrain: 5478
 -1
 Terrain: 5479
@@ -10962,7 +10962,7 @@ Terrain: 5480
 Terrain: 5481
 -1
 Terrain: 5482
--2
+-1
 Terrain: 5483
 -1
 Terrain: 5484
@@ -10980,7 +10980,7 @@ Terrain: 5489
 Terrain: 5490
 -1
 Terrain: 5491
--1
+-3
 Terrain: 5492
 -1
 Terrain: 5493
@@ -10988,11 +10988,11 @@ Terrain: 5493
 Terrain: 5494
 -1
 Terrain: 5495
--3
+-1
 Terrain: 5496
 -1
 Terrain: 5497
-52
+-1
 Terrain: 5498
 -1
 Terrain: 5499
@@ -11000,17 +11000,17 @@ Terrain: 5499
 Terrain: 5500
 -1
 Terrain: 5501
--1
+-2
 Terrain: 5502
 -1
 Terrain: 5503
-52
+-1
 Terrain: 5504
 -1
 Terrain: 5505
 -1
 Terrain: 5506
--1
+-3
 Terrain: 5507
 -1
 Terrain: 5508
@@ -11022,11 +11022,11 @@ Terrain: 5510
 Terrain: 5511
 -1
 Terrain: 5512
--1
+45
 Terrain: 5513
 -1
 Terrain: 5514
--1
+-2
 Terrain: 5515
 -1
 Terrain: 5516
@@ -11036,11 +11036,11 @@ Terrain: 5517
 Terrain: 5518
 -1
 Terrain: 5519
--1
+-3
 Terrain: 5520
 -1
 Terrain: 5521
--1
+-2
 Terrain: 5522
 -1
 Terrain: 5523
@@ -11050,7 +11050,7 @@ Terrain: 5524
 Terrain: 5525
 -1
 Terrain: 5526
--1
+67
 Terrain: 5527
 -1
 Terrain: 5528
@@ -11060,7 +11060,7 @@ Terrain: 5529
 Terrain: 5530
 -1
 Terrain: 5531
--1
+-2
 Terrain: 5532
 -1
 Terrain: 5533
@@ -11072,7 +11072,7 @@ Terrain: 5535
 Terrain: 5536
 -1
 Terrain: 5537
--2
+-1
 Terrain: 5538
 -1
 Terrain: 5539
@@ -11090,7 +11090,7 @@ Terrain: 5544
 Terrain: 5545
 -1
 Terrain: 5546
-45
+-1
 Terrain: 5547
 -1
 Terrain: 5548
@@ -11110,7 +11110,7 @@ Terrain: 5554
 Terrain: 5555
 -1
 Terrain: 5556
--1
+-3
 Terrain: 5557
 -1
 Terrain: 5558
@@ -11122,7 +11122,7 @@ Terrain: 5560
 Terrain: 5561
 -1
 Terrain: 5562
--1
+45
 Terrain: 5563
 -1
 Terrain: 5564
@@ -11132,11 +11132,11 @@ Terrain: 5565
 Terrain: 5566
 -1
 Terrain: 5567
--3
+-1
 Terrain: 5568
 -1
 Terrain: 5569
--1
+-2
 Terrain: 5570
 -1
 Terrain: 5571
@@ -11148,17 +11148,17 @@ Terrain: 5573
 Terrain: 5574
 -1
 Terrain: 5575
--3
+-1
 Terrain: 5576
 -1
 Terrain: 5577
 -1
 Terrain: 5578
--2
+-1
 Terrain: 5579
 -1
 Terrain: 5580
--3
+-1
 Terrain: 5581
 -1
 Terrain: 5582
@@ -11188,11 +11188,11 @@ Terrain: 5593
 Terrain: 5594
 -1
 Terrain: 5595
--2
-Terrain: 5596
 -1
+Terrain: 5596
+45
 Terrain: 5597
--3
+-1
 Terrain: 5598
 -1
 Terrain: 5599
@@ -11200,13 +11200,13 @@ Terrain: 5599
 Terrain: 5600
 -1
 Terrain: 5601
--3
+-1
 Terrain: 5602
 -1
 Terrain: 5603
 -1
 Terrain: 5604
--2
+-1
 Terrain: 5605
 -1
 Terrain: 5606
@@ -11226,13 +11226,13 @@ Terrain: 5612
 Terrain: 5613
 -1
 Terrain: 5614
--1
+-2
 Terrain: 5615
 -1
 Terrain: 5616
 -1
 Terrain: 5617
-45
+-1
 Terrain: 5618
 -1
 Terrain: 5619
@@ -11246,11 +11246,11 @@ Terrain: 5622
 Terrain: 5623
 -1
 Terrain: 5624
--1
+-2
 Terrain: 5625
 -1
 Terrain: 5626
--1
+58
 Terrain: 5627
 -1
 Terrain: 5628
@@ -11270,7 +11270,7 @@ Terrain: 5634
 Terrain: 5635
 -1
 Terrain: 5636
--1
+-3
 Terrain: 5637
 -1
 Terrain: 5638
@@ -11288,13 +11288,13 @@ Terrain: 5643
 Terrain: 5644
 -1
 Terrain: 5645
--3
+-1
 Terrain: 5646
-93
+-1
 Terrain: 5647
 -1
 Terrain: 5648
--1
+-2
 Terrain: 5649
 -1
 Terrain: 5650
@@ -11324,25 +11324,25 @@ Terrain: 5661
 Terrain: 5662
 -1
 Terrain: 5663
--1
+-2
 Terrain: 5664
 -1
 Terrain: 5665
 -1
 Terrain: 5666
--3
-Terrain: 5667
 -1
+Terrain: 5667
+-2
 Terrain: 5668
 -1
 Terrain: 5669
--3
+-1
 Terrain: 5670
--2
+-1
 Terrain: 5671
 -1
 Terrain: 5672
--2
+-3
 Terrain: 5673
 -1
 Terrain: 5674
@@ -11360,9 +11360,9 @@ Terrain: 5679
 Terrain: 5680
 -1
 Terrain: 5681
--2
+-1
 Terrain: 5682
--3
+-1
 Terrain: 5683
 -1
 Terrain: 5684
@@ -11370,7 +11370,7 @@ Terrain: 5684
 Terrain: 5685
 -1
 Terrain: 5686
--2
+-1
 Terrain: 5687
 -1
 Terrain: 5688
@@ -11382,9 +11382,9 @@ Terrain: 5690
 Terrain: 5691
 -1
 Terrain: 5692
--3
-Terrain: 5693
 -1
+Terrain: 5693
+-2
 Terrain: 5694
 -1
 Terrain: 5695
@@ -11406,15 +11406,15 @@ Terrain: 5702
 Terrain: 5703
 -1
 Terrain: 5704
--1
+-3
 Terrain: 5705
 -1
 Terrain: 5706
 -1
 Terrain: 5707
--1
+45
 Terrain: 5708
--2
+-3
 Terrain: 5709
 -1
 Terrain: 5710
@@ -11432,7 +11432,7 @@ Terrain: 5715
 Terrain: 5716
 -1
 Terrain: 5717
--1
+-3
 Terrain: 5718
 -1
 Terrain: 5719
@@ -11444,7 +11444,7 @@ Terrain: 5721
 Terrain: 5722
 -1
 Terrain: 5723
--1
+-3
 Terrain: 5724
 -1
 Terrain: 5725
@@ -11454,7 +11454,7 @@ Terrain: 5726
 Terrain: 5727
 -1
 Terrain: 5728
--3
+-1
 Terrain: 5729
 -1
 Terrain: 5730
@@ -11466,11 +11466,11 @@ Terrain: 5732
 Terrain: 5733
 -1
 Terrain: 5734
--3
+-1
 Terrain: 5735
 -1
 Terrain: 5736
--1
+-2
 Terrain: 5737
 -1
 Terrain: 5738
@@ -11478,11 +11478,11 @@ Terrain: 5738
 Terrain: 5739
 -1
 Terrain: 5740
--2
-Terrain: 5741
--2
-Terrain: 5742
 -1
+Terrain: 5741
+-3
+Terrain: 5742
+-2
 Terrain: 5743
 -1
 Terrain: 5744
@@ -11498,7 +11498,7 @@ Terrain: 5748
 Terrain: 5749
 -1
 Terrain: 5750
--3
+-1
 Terrain: 5751
 -1
 Terrain: 5752
@@ -11518,11 +11518,11 @@ Terrain: 5758
 Terrain: 5759
 -1
 Terrain: 5760
--2
+-1
 Terrain: 5761
 -1
 Terrain: 5762
--2
+-1
 Terrain: 5763
 -1
 Terrain: 5764
@@ -11536,7 +11536,7 @@ Terrain: 5767
 Terrain: 5768
 -1
 Terrain: 5769
--1
+76
 Terrain: 5770
 -1
 Terrain: 5771
@@ -11548,15 +11548,15 @@ Terrain: 5773
 Terrain: 5774
 -1
 Terrain: 5775
--3
-Terrain: 5776
 -1
+Terrain: 5776
+-3
 Terrain: 5777
 -1
 Terrain: 5778
--3
-Terrain: 5779
 -1
+Terrain: 5779
+-2
 Terrain: 5780
 -1
 Terrain: 5781
@@ -11588,9 +11588,9 @@ Terrain: 5793
 Terrain: 5794
 -1
 Terrain: 5795
--2
+-1
 Terrain: 5796
-45
+-1
 Terrain: 5797
 -1
 Terrain: 5798
@@ -11606,7 +11606,7 @@ Terrain: 5802
 Terrain: 5803
 -1
 Terrain: 5804
--2
+-1
 Terrain: 5805
 -1
 Terrain: 5806
@@ -11622,15 +11622,15 @@ Terrain: 5810
 Terrain: 5811
 -1
 Terrain: 5812
--1
+-3
 Terrain: 5813
 -1
 Terrain: 5814
--2
+-1
 Terrain: 5815
 -1
 Terrain: 5816
--1
+45
 Terrain: 5817
 -1
 Terrain: 5818
@@ -11674,7 +11674,7 @@ Terrain: 5836
 Terrain: 5837
 -1
 Terrain: 5838
--1
+-3
 Terrain: 5839
 -1
 Terrain: 5840
@@ -11694,11 +11694,11 @@ Terrain: 5846
 Terrain: 5847
 -1
 Terrain: 5848
--1
+-2
 Terrain: 5849
 -1
 Terrain: 5850
--2
+80
 Terrain: 5851
 -1
 Terrain: 5852
@@ -11706,7 +11706,7 @@ Terrain: 5852
 Terrain: 5853
 -1
 Terrain: 5854
--1
+-3
 Terrain: 5855
 -1
 Terrain: 5856
@@ -11716,13 +11716,13 @@ Terrain: 5857
 Terrain: 5858
 -1
 Terrain: 5859
--3
-Terrain: 5860
 -1
+Terrain: 5860
+-3
 Terrain: 5861
 -1
 Terrain: 5862
--2
+-1
 Terrain: 5863
 -1
 Terrain: 5864
@@ -11740,7 +11740,7 @@ Terrain: 5869
 Terrain: 5870
 -1
 Terrain: 5871
--1
+45
 Terrain: 5872
 -2
 Terrain: 5873
@@ -11748,23 +11748,23 @@ Terrain: 5873
 Terrain: 5874
 -1
 Terrain: 5875
--1
-Terrain: 5876
--1
-Terrain: 5877
 -3
+Terrain: 5876
+-3
+Terrain: 5877
+-1
 Terrain: 5878
--2
+-1
 Terrain: 5879
 -1
 Terrain: 5880
 -1
 Terrain: 5881
--3
+-1
 Terrain: 5882
 -1
 Terrain: 5883
--2
+-1
 Terrain: 5884
 -1
 Terrain: 5885
@@ -11776,9 +11776,9 @@ Terrain: 5887
 Terrain: 5888
 -1
 Terrain: 5889
--2
-Terrain: 5890
 -1
+Terrain: 5890
+-3
 Terrain: 5891
 -1
 Terrain: 5892
@@ -11792,19 +11792,19 @@ Terrain: 5895
 Terrain: 5896
 -1
 Terrain: 5897
--1
+-2
 Terrain: 5898
 -1
 Terrain: 5899
 -1
 Terrain: 5900
--3
+-2
 Terrain: 5901
 -1
 Terrain: 5902
 -1
 Terrain: 5903
--3
+-1
 Terrain: 5904
 -1
 Terrain: 5905
@@ -11822,7 +11822,7 @@ Terrain: 5910
 Terrain: 5911
 -1
 Terrain: 5912
--1
+45
 Terrain: 5913
 -1
 Terrain: 5914
@@ -11846,17 +11846,17 @@ Terrain: 5922
 Terrain: 5923
 -1
 Terrain: 5924
--3
+-1
 Terrain: 5925
 -1
 Terrain: 5926
--3
+-1
 Terrain: 5927
 -1
 Terrain: 5928
--1
+-2
 Terrain: 5929
--3
+-1
 Terrain: 5930
 -1
 Terrain: 5931
@@ -11878,7 +11878,7 @@ Terrain: 5938
 Terrain: 5939
 -1
 Terrain: 5940
--2
+-1
 Terrain: 5941
 -1
 Terrain: 5942
@@ -11900,7 +11900,7 @@ Terrain: 5949
 Terrain: 5950
 -1
 Terrain: 5951
--1
+80
 Terrain: 5952
 -1
 Terrain: 5953
@@ -11914,21 +11914,21 @@ Terrain: 5956
 Terrain: 5957
 -1
 Terrain: 5958
--1
+-3
 Terrain: 5959
 -1
 Terrain: 5960
 -1
 Terrain: 5961
--2
+-1
 Terrain: 5962
 -1
 Terrain: 5963
--1
+-2
 Terrain: 5964
 -1
 Terrain: 5965
--3
+-1
 Terrain: 5966
 -1
 Terrain: 5967
@@ -11938,7 +11938,7 @@ Terrain: 5968
 Terrain: 5969
 -1
 Terrain: 5970
--1
+-3
 Terrain: 5971
 -1
 Terrain: 5972
@@ -11954,7 +11954,7 @@ Terrain: 5976
 Terrain: 5977
 -1
 Terrain: 5978
--2
+-1
 Terrain: 5979
 -1
 Terrain: 5980
@@ -11962,7 +11962,7 @@ Terrain: 5980
 Terrain: 5981
 -1
 Terrain: 5982
--2
+-1
 Terrain: 5983
 -1
 Terrain: 5984
@@ -11978,9 +11978,9 @@ Terrain: 5988
 Terrain: 5989
 -1
 Terrain: 5990
--1
-Terrain: 5991
 -2
+Terrain: 5991
+-1
 Terrain: 5992
 -1
 Terrain: 5993
@@ -11990,9 +11990,9 @@ Terrain: 5994
 Terrain: 5995
 -1
 Terrain: 5996
--1
+-2
 Terrain: 5997
--3
+-1
 Terrain: 5998
 -1
 Terrain: 5999
@@ -12016,7 +12016,7 @@ Terrain: 6007
 Terrain: 6008
 -1
 Terrain: 6009
--1
+58
 Terrain: 6010
 -1
 Terrain: 6011
@@ -12030,11 +12030,11 @@ Terrain: 6014
 Terrain: 6015
 -1
 Terrain: 6016
--1
+-2
 Terrain: 6017
 -1
 Terrain: 6018
--3
+-1
 Terrain: 6019
 -1
 Terrain: 6020
@@ -12056,7 +12056,7 @@ Terrain: 6027
 Terrain: 6028
 -1
 Terrain: 6029
--3
+-1
 Terrain: 6030
 -1
 Terrain: 6031
@@ -12066,7 +12066,7 @@ Terrain: 6032
 Terrain: 6033
 -1
 Terrain: 6034
--1
+-3
 Terrain: 6035
 -1
 Terrain: 6036
@@ -12074,7 +12074,7 @@ Terrain: 6036
 Terrain: 6037
 -1
 Terrain: 6038
--3
+-2
 Terrain: 6039
 -1
 Terrain: 6040
@@ -12084,13 +12084,13 @@ Terrain: 6041
 Terrain: 6042
 -1
 Terrain: 6043
--1
+-3
 Terrain: 6044
--1
+-3
 Terrain: 6045
 -1
 Terrain: 6046
--1
+-2
 Terrain: 6047
 -1
 Terrain: 6048
@@ -12118,13 +12118,13 @@ Terrain: 6058
 Terrain: 6059
 -1
 Terrain: 6060
-52
+-1
 Terrain: 6061
 -1
 Terrain: 6062
--1
+-3
 Terrain: 6063
--1
+-2
 Terrain: 6064
 -1
 Terrain: 6065
@@ -12132,9 +12132,9 @@ Terrain: 6065
 Terrain: 6066
 -1
 Terrain: 6067
-45
+-2
 Terrain: 6068
--1
+-2
 Terrain: 6069
 -3
 Terrain: 6070
@@ -12142,13 +12142,13 @@ Terrain: 6070
 Terrain: 6071
 -1
 Terrain: 6072
--1
+-2
 Terrain: 6073
 -1
 Terrain: 6074
 -1
 Terrain: 6075
-45
+-1
 Terrain: 6076
 -1
 Terrain: 6077
@@ -12164,7 +12164,7 @@ Terrain: 6081
 Terrain: 6082
 -1
 Terrain: 6083
--2
+-1
 Terrain: 6084
 -1
 Terrain: 6085
@@ -12172,7 +12172,7 @@ Terrain: 6085
 Terrain: 6086
 -1
 Terrain: 6087
--3
+-1
 Terrain: 6088
 -1
 Terrain: 6089
@@ -12184,29 +12184,29 @@ Terrain: 6091
 Terrain: 6092
 -1
 Terrain: 6093
-52
+-1
 Terrain: 6094
--2
+-3
 Terrain: 6095
 -1
 Terrain: 6096
 -1
 Terrain: 6097
--1
+-2
 Terrain: 6098
 -1
 Terrain: 6099
--2
+-1
 Terrain: 6100
 -1
 Terrain: 6101
--3
-Terrain: 6102
 -1
+Terrain: 6102
+-2
 Terrain: 6103
 -1
 Terrain: 6104
--1
+-3
 Terrain: 6105
 -1
 Terrain: 6106
@@ -12214,17 +12214,17 @@ Terrain: 6106
 Terrain: 6107
 -1
 Terrain: 6108
--1
+-3
 Terrain: 6109
 -1
 Terrain: 6110
--3
+-1
 Terrain: 6111
--2
+-1
 Terrain: 6112
 -1
 Terrain: 6113
--3
+-1
 Terrain: 6114
 -1
 Terrain: 6115
@@ -12232,9 +12232,9 @@ Terrain: 6115
 Terrain: 6116
 -1
 Terrain: 6117
-68
+-1
 Terrain: 6118
--3
+-2
 Terrain: 6119
 -1
 Terrain: 6120
@@ -12252,7 +12252,7 @@ Terrain: 6125
 Terrain: 6126
 -1
 Terrain: 6127
--3
+-2
 Terrain: 6128
 -1
 Terrain: 6129
@@ -12262,11 +12262,11 @@ Terrain: 6130
 Terrain: 6131
 -1
 Terrain: 6132
--3
+-1
 Terrain: 6133
 -1
 Terrain: 6134
--3
+-1
 Terrain: 6135
 -1
 Terrain: 6136
@@ -12280,11 +12280,11 @@ Terrain: 6139
 Terrain: 6140
 -1
 Terrain: 6141
--1
+-2
 Terrain: 6142
 -1
 Terrain: 6143
--2
+-1
 Terrain: 6144
 -1
 Terrain: 6145
@@ -12302,17 +12302,17 @@ Terrain: 6150
 Terrain: 6151
 -1
 Terrain: 6152
-52
+-1
 Terrain: 6153
 -1
 Terrain: 6154
 -1
 Terrain: 6155
--3
+-2
 Terrain: 6156
 -1
 Terrain: 6157
--1
+-2
 Terrain: 6158
 -1
 Terrain: 6159
@@ -12336,7 +12336,7 @@ Terrain: 6167
 Terrain: 6168
 -1
 Terrain: 6169
--3
+-1
 Terrain: 6170
 -1
 Terrain: 6171
@@ -12346,13 +12346,13 @@ Terrain: 6172
 Terrain: 6173
 -1
 Terrain: 6174
--1
+-2
 Terrain: 6175
 -1
 Terrain: 6176
--1
+45
 Terrain: 6177
--2
+-1
 Terrain: 6178
 -1
 Terrain: 6179
@@ -12372,7 +12372,7 @@ Terrain: 6185
 Terrain: 6186
 -1
 Terrain: 6187
--3
+-1
 Terrain: 6188
 -1
 Terrain: 6189
@@ -12384,13 +12384,13 @@ Terrain: 6191
 Terrain: 6192
 -1
 Terrain: 6193
--2
+-1
 Terrain: 6194
 -1
 Terrain: 6195
 -1
 Terrain: 6196
--2
+-1
 Terrain: 6197
 -1
 Terrain: 6198
@@ -12404,11 +12404,11 @@ Terrain: 6201
 Terrain: 6202
 -1
 Terrain: 6203
--3
+-1
 Terrain: 6204
 -1
 Terrain: 6205
--1
+58
 Terrain: 6206
 -1
 Terrain: 6207
@@ -12416,7 +12416,7 @@ Terrain: 6207
 Terrain: 6208
 -1
 Terrain: 6209
--1
+45
 Terrain: 6210
 -1
 Terrain: 6211
@@ -12424,13 +12424,13 @@ Terrain: 6211
 Terrain: 6212
 -1
 Terrain: 6213
--2
+-1
 Terrain: 6214
 -1
 Terrain: 6215
 -1
 Terrain: 6216
--3
+-1
 Terrain: 6217
 -1
 Terrain: 6218
@@ -12452,7 +12452,7 @@ Terrain: 6225
 Terrain: 6226
 -1
 Terrain: 6227
--1
+-3
 Terrain: 6228
 -1
 Terrain: 6229
@@ -12464,7 +12464,7 @@ Terrain: 6231
 Terrain: 6232
 -1
 Terrain: 6233
--1
+-2
 Terrain: 6234
 -1
 Terrain: 6235
@@ -12478,23 +12478,23 @@ Terrain: 6238
 Terrain: 6239
 -1
 Terrain: 6240
--3
+-1
 Terrain: 6241
 -1
 Terrain: 6242
 -1
 Terrain: 6243
--1
+-3
 Terrain: 6244
 -1
 Terrain: 6245
--1
+-3
 Terrain: 6246
--1
+-2
 Terrain: 6247
 -1
 Terrain: 6248
--1
+-2
 Terrain: 6249
 -1
 Terrain: 6250
@@ -12504,7 +12504,7 @@ Terrain: 6251
 Terrain: 6252
 -1
 Terrain: 6253
-45
+-1
 Terrain: 6254
 -1
 Terrain: 6255
@@ -12522,7 +12522,7 @@ Terrain: 6260
 Terrain: 6261
 -1
 Terrain: 6262
--1
+-3
 Terrain: 6263
 -1
 Terrain: 6264
@@ -12536,7 +12536,7 @@ Terrain: 6267
 Terrain: 6268
 -1
 Terrain: 6269
--1
+45
 Terrain: 6270
 -1
 Terrain: 6271
@@ -12588,23 +12588,23 @@ Terrain: 6293
 Terrain: 6294
 -1
 Terrain: 6295
--1
+58
 Terrain: 6296
--1
+-2
 Terrain: 6297
--1
+-3
 Terrain: 6298
 -1
 Terrain: 6299
 -1
 Terrain: 6300
--1
+-3
 Terrain: 6301
 -1
 Terrain: 6302
 -1
 Terrain: 6303
--2
+-1
 Terrain: 6304
 -1
 Terrain: 6305
@@ -12616,27 +12616,27 @@ Terrain: 6307
 Terrain: 6308
 -1
 Terrain: 6309
--1
+-2
 Terrain: 6310
 -1
 Terrain: 6311
-52
+-1
 Terrain: 6312
 -1
 Terrain: 6313
--1
+-3
 Terrain: 6314
 -1
 Terrain: 6315
 -1
 Terrain: 6316
--3
+-1
 Terrain: 6317
 -1
 Terrain: 6318
 -1
 Terrain: 6319
--1
+-2
 Terrain: 6320
 -1
 Terrain: 6321
@@ -12648,7 +12648,7 @@ Terrain: 6323
 Terrain: 6324
 -1
 Terrain: 6325
--3
+-1
 Terrain: 6326
 -1
 Terrain: 6327
@@ -12660,11 +12660,11 @@ Terrain: 6329
 Terrain: 6330
 -1
 Terrain: 6331
--3
+-1
 Terrain: 6332
 -1
 Terrain: 6333
--1
+-2
 Terrain: 6334
 -1
 Terrain: 6335
@@ -12680,7 +12680,7 @@ Terrain: 6339
 Terrain: 6340
 -1
 Terrain: 6341
--3
+-1
 Terrain: 6342
 -1
 Terrain: 6343
@@ -12688,17 +12688,17 @@ Terrain: 6343
 Terrain: 6344
 -1
 Terrain: 6345
--1
-Terrain: 6346
 -3
-Terrain: 6347
+Terrain: 6346
 -1
+Terrain: 6347
+45
 Terrain: 6348
 -1
 Terrain: 6349
--1
+-3
 Terrain: 6350
--1
+58
 Terrain: 6351
 -1
 Terrain: 6352
@@ -12708,19 +12708,19 @@ Terrain: 6353
 Terrain: 6354
 -1
 Terrain: 6355
-61
-Terrain: 6356
 -1
+Terrain: 6356
+-3
 Terrain: 6357
 -1
 Terrain: 6358
 -1
 Terrain: 6359
--1
+-2
 Terrain: 6360
 -3
 Terrain: 6361
--1
+-2
 Terrain: 6362
 -1
 Terrain: 6363
@@ -12746,7 +12746,7 @@ Terrain: 6372
 Terrain: 6373
 -1
 Terrain: 6374
-61
+-1
 Terrain: 6375
 -1
 Terrain: 6376
@@ -12756,7 +12756,7 @@ Terrain: 6377
 Terrain: 6378
 -1
 Terrain: 6379
--1
+-3
 Terrain: 6380
 -1
 Terrain: 6381
@@ -12790,7 +12790,7 @@ Terrain: 6394
 Terrain: 6395
 -1
 Terrain: 6396
--1
+-3
 Terrain: 6397
 -1
 Terrain: 6398
@@ -12798,13 +12798,13 @@ Terrain: 6398
 Terrain: 6399
 -1
 Terrain: 6400
--3
+-1
 Terrain: 6401
 -1
 Terrain: 6402
 -1
 Terrain: 6403
--1
+-3
 Terrain: 6404
 -1
 Terrain: 6405
@@ -12826,7 +12826,7 @@ Terrain: 6412
 Terrain: 6413
 -1
 Terrain: 6414
--3
+-1
 Terrain: 6415
 -1
 Terrain: 6416
@@ -12842,13 +12842,13 @@ Terrain: 6420
 Terrain: 6421
 -1
 Terrain: 6422
--1
+-2
 Terrain: 6423
 -1
 Terrain: 6424
 -1
 Terrain: 6425
--1
+45
 Terrain: 6426
 -1
 Terrain: 6427
@@ -12860,9 +12860,9 @@ Terrain: 6429
 Terrain: 6430
 -1
 Terrain: 6431
--2
+-1
 Terrain: 6432
--3
+-1
 Terrain: 6433
 -1
 Terrain: 6434
@@ -12874,7 +12874,7 @@ Terrain: 6436
 Terrain: 6437
 -1
 Terrain: 6438
-45
+-1
 Terrain: 6439
 -1
 Terrain: 6440
@@ -12884,13 +12884,13 @@ Terrain: 6441
 Terrain: 6442
 -1
 Terrain: 6443
--3
+-1
 Terrain: 6444
 -1
 Terrain: 6445
 -1
 Terrain: 6446
--1
+58
 Terrain: 6447
 -1
 Terrain: 6448
@@ -12902,7 +12902,7 @@ Terrain: 6450
 Terrain: 6451
 -1
 Terrain: 6452
--1
+-2
 Terrain: 6453
 -1
 Terrain: 6454
@@ -12914,19 +12914,19 @@ Terrain: 6456
 Terrain: 6457
 -1
 Terrain: 6458
--2
+-1
 Terrain: 6459
 -1
 Terrain: 6460
 -1
 Terrain: 6461
--2
+-1
 Terrain: 6462
--3
+-1
 Terrain: 6463
 -1
 Terrain: 6464
--2
+-1
 Terrain: 6465
 -1
 Terrain: 6466
@@ -12946,25 +12946,25 @@ Terrain: 6472
 Terrain: 6473
 -1
 Terrain: 6474
--2
+-1
 Terrain: 6475
 -1
 Terrain: 6476
--1
+-3
 Terrain: 6477
--2
+-1
 Terrain: 6478
--2
+-1
 Terrain: 6479
 -1
 Terrain: 6480
--2
+-1
 Terrain: 6481
 -1
 Terrain: 6482
 -1
 Terrain: 6483
--3
+-1
 Terrain: 6484
 -1
 Terrain: 6485
@@ -12972,19 +12972,19 @@ Terrain: 6485
 Terrain: 6486
 -1
 Terrain: 6487
--1
+-2
 Terrain: 6488
 -1
 Terrain: 6489
--1
+-2
 Terrain: 6490
 -1
 Terrain: 6491
--2
+-1
 Terrain: 6492
--2
+-1
 Terrain: 6493
--2
+-1
 Terrain: 6494
 -1
 Terrain: 6495
@@ -12998,11 +12998,11 @@ Terrain: 6498
 Terrain: 6499
 -1
 Terrain: 6500
--1
+-3
 Terrain: 6501
-45
-Terrain: 6502
 -1
+Terrain: 6502
+-3
 Terrain: 6503
 -1
 Terrain: 6504
@@ -13020,7 +13020,7 @@ Terrain: 6509
 Terrain: 6510
 -1
 Terrain: 6511
--2
+-1
 Terrain: 6512
 -1
 Terrain: 6513
@@ -13040,11 +13040,11 @@ Terrain: 6519
 Terrain: 6520
 -1
 Terrain: 6521
--1
+45
 Terrain: 6522
--1
+-3
 Terrain: 6523
--1
+-2
 Terrain: 6524
 -1
 Terrain: 6525
@@ -13054,11 +13054,11 @@ Terrain: 6526
 Terrain: 6527
 -1
 Terrain: 6528
--1
+-2
 Terrain: 6529
 -1
 Terrain: 6530
--1
+-2
 Terrain: 6531
 -1
 Terrain: 6532
@@ -13068,13 +13068,13 @@ Terrain: 6533
 Terrain: 6534
 -1
 Terrain: 6535
--1
+-2
 Terrain: 6536
--3
+-1
 Terrain: 6537
 -1
 Terrain: 6538
--1
+-2
 Terrain: 6539
 -1
 Terrain: 6540
@@ -13084,7 +13084,7 @@ Terrain: 6541
 Terrain: 6542
 -1
 Terrain: 6543
--3
+-1
 Terrain: 6544
 -1
 Terrain: 6545
@@ -13122,13 +13122,13 @@ Terrain: 6560
 Terrain: 6561
 -1
 Terrain: 6562
--1
+45
 Terrain: 6563
 -1
 Terrain: 6564
 -1
 Terrain: 6565
--2
+-1
 Terrain: 6566
 -1
 Terrain: 6567
@@ -13140,9 +13140,9 @@ Terrain: 6569
 Terrain: 6570
 -1
 Terrain: 6571
--1
+-3
 Terrain: 6572
--1
+-3
 Terrain: 6573
 -1
 Terrain: 6574
@@ -13172,13 +13172,13 @@ Terrain: 6585
 Terrain: 6586
 -1
 Terrain: 6587
-52
+-1
 Terrain: 6588
 -1
 Terrain: 6589
--3
-Terrain: 6590
 -1
+Terrain: 6590
+-2
 Terrain: 6591
 -1
 Terrain: 6592
@@ -13194,9 +13194,9 @@ Terrain: 6596
 Terrain: 6597
 -1
 Terrain: 6598
--2
+-1
 Terrain: 6599
--3
+-1
 Terrain: 6600
 -1
 Terrain: 6601
@@ -13204,11 +13204,11 @@ Terrain: 6601
 Terrain: 6602
 -1
 Terrain: 6603
--1
+-3
 Terrain: 6604
--3
+-1
 Terrain: 6605
--3
+-1
 Terrain: 6606
 -1
 Terrain: 6607
@@ -13224,21 +13224,21 @@ Terrain: 6611
 Terrain: 6612
 -1
 Terrain: 6613
-45
+-1
 Terrain: 6614
 -1
 Terrain: 6615
--1
+-3
 Terrain: 6616
 -1
 Terrain: 6617
 -1
 Terrain: 6618
--3
+-1
 Terrain: 6619
--3
+-1
 Terrain: 6620
--3
+45
 Terrain: 6621
 -1
 Terrain: 6622
@@ -13246,7 +13246,7 @@ Terrain: 6622
 Terrain: 6623
 -1
 Terrain: 6624
--3
+-1
 Terrain: 6625
 -1
 Terrain: 6626
@@ -13262,11 +13262,11 @@ Terrain: 6630
 Terrain: 6631
 -1
 Terrain: 6632
--2
+-1
 Terrain: 6633
 -1
 Terrain: 6634
--3
+-1
 Terrain: 6635
 -1
 Terrain: 6636
@@ -13280,11 +13280,11 @@ Terrain: 6639
 Terrain: 6640
 -1
 Terrain: 6641
--1
+-2
 Terrain: 6642
 -1
 Terrain: 6643
--1
+45
 Terrain: 6644
 -1
 Terrain: 6645
@@ -13292,7 +13292,7 @@ Terrain: 6645
 Terrain: 6646
 -1
 Terrain: 6647
-52
+-1
 Terrain: 6648
 -1
 Terrain: 6649
@@ -13306,13 +13306,13 @@ Terrain: 6652
 Terrain: 6653
 -1
 Terrain: 6654
--1
+-2
 Terrain: 6655
--1
+-3
 Terrain: 6656
 -1
 Terrain: 6657
--1
+-2
 Terrain: 6658
 -1
 Terrain: 6659
@@ -13326,13 +13326,13 @@ Terrain: 6662
 Terrain: 6663
 -1
 Terrain: 6664
--1
+-3
 Terrain: 6665
 -1
 Terrain: 6666
 -1
 Terrain: 6667
--2
+-1
 Terrain: 6668
 -1
 Terrain: 6669
@@ -13346,25 +13346,25 @@ Terrain: 6672
 Terrain: 6673
 -1
 Terrain: 6674
-45
+-1
 Terrain: 6675
 -1
 Terrain: 6676
--2
+-1
 Terrain: 6677
 -1
 Terrain: 6678
--2
+-1
 Terrain: 6679
 -1
 Terrain: 6680
--1
+-3
 Terrain: 6681
 -1
 Terrain: 6682
 -1
 Terrain: 6683
--1
+-2
 Terrain: 6684
 -1
 Terrain: 6685
@@ -13374,7 +13374,7 @@ Terrain: 6686
 Terrain: 6687
 -1
 Terrain: 6688
--3
+-1
 Terrain: 6689
 -1
 Terrain: 6690
@@ -13396,7 +13396,7 @@ Terrain: 6697
 Terrain: 6698
 -1
 Terrain: 6699
--1
+-3
 Terrain: 6700
 -1
 Terrain: 6701
@@ -13412,23 +13412,23 @@ Terrain: 6705
 Terrain: 6706
 -1
 Terrain: 6707
--2
+-1
 Terrain: 6708
 -1
 Terrain: 6709
 -1
 Terrain: 6710
-45
+-1
 Terrain: 6711
 -1
 Terrain: 6712
 -1
 Terrain: 6713
--2
+-1
 Terrain: 6714
 -1
 Terrain: 6715
--1
+-3
 Terrain: 6716
 -1
 Terrain: 6717
@@ -13472,7 +13472,7 @@ Terrain: 6735
 Terrain: 6736
 -1
 Terrain: 6737
--1
+-3
 Terrain: 6738
 -1
 Terrain: 6739
@@ -13486,15 +13486,15 @@ Terrain: 6742
 Terrain: 6743
 -1
 Terrain: 6744
--2
+67
 Terrain: 6745
 -1
 Terrain: 6746
--1
+-3
 Terrain: 6747
--1
+-3
 Terrain: 6748
--1
+-3
 Terrain: 6749
 -1
 Terrain: 6750
@@ -13504,11 +13504,11 @@ Terrain: 6751
 Terrain: 6752
 -1
 Terrain: 6753
--3
+-1
 Terrain: 6754
 -1
 Terrain: 6755
--1
+-2
 Terrain: 6756
 -1
 Terrain: 6757
@@ -13530,11 +13530,11 @@ Terrain: 6764
 Terrain: 6765
 -1
 Terrain: 6766
--1
+-2
 Terrain: 6767
 -1
 Terrain: 6768
--1
+45
 Terrain: 6769
 -1
 Terrain: 6770
@@ -13556,25 +13556,25 @@ Terrain: 6777
 Terrain: 6778
 -1
 Terrain: 6779
--3
+-1
 Terrain: 6780
 -1
 Terrain: 6781
 -1
 Terrain: 6782
--3
+-1
 Terrain: 6783
--3
+-1
 Terrain: 6784
 -1
 Terrain: 6785
--3
+-1
 Terrain: 6786
 -1
 Terrain: 6787
--3
-Terrain: 6788
 -1
+Terrain: 6788
+-3
 Terrain: 6789
 -1
 Terrain: 6790
@@ -13618,11 +13618,11 @@ Terrain: 6808
 Terrain: 6809
 -1
 Terrain: 6810
--3
+-1
 Terrain: 6811
 -1
 Terrain: 6812
--2
+-1
 Terrain: 6813
 -1
 Terrain: 6814
@@ -13634,7 +13634,7 @@ Terrain: 6816
 Terrain: 6817
 -1
 Terrain: 6818
--1
+-2
 Terrain: 6819
 -1
 Terrain: 6820
@@ -13660,19 +13660,19 @@ Terrain: 6829
 Terrain: 6830
 -1
 Terrain: 6831
--1
+58
 Terrain: 6832
 -1
 Terrain: 6833
--1
+-3
 Terrain: 6834
 -1
 Terrain: 6835
 -1
 Terrain: 6836
--1
+45
 Terrain: 6837
--2
+-1
 Terrain: 6838
 -1
 Terrain: 6839
@@ -13680,7 +13680,7 @@ Terrain: 6839
 Terrain: 6840
 -1
 Terrain: 6841
--3
+-2
 Terrain: 6842
 -1
 Terrain: 6843
@@ -13692,15 +13692,15 @@ Terrain: 6845
 Terrain: 6846
 -1
 Terrain: 6847
--3
+-1
 Terrain: 6848
 -1
 Terrain: 6849
 -1
 Terrain: 6850
--1
-Terrain: 6851
 -3
+Terrain: 6851
+-1
 Terrain: 6852
 -1
 Terrain: 6853
@@ -13722,19 +13722,19 @@ Terrain: 6860
 Terrain: 6861
 -1
 Terrain: 6862
-45
+-1
 Terrain: 6863
 -1
 Terrain: 6864
 -1
 Terrain: 6865
--1
+-2
 Terrain: 6866
 -1
 Terrain: 6867
--3
-Terrain: 6868
 -1
+Terrain: 6868
+-2
 Terrain: 6869
 -1
 Terrain: 6870
@@ -13746,7 +13746,7 @@ Terrain: 6872
 Terrain: 6873
 -1
 Terrain: 6874
--3
+-1
 Terrain: 6875
 -1
 Terrain: 6876
@@ -13760,13 +13760,13 @@ Terrain: 6879
 Terrain: 6880
 -1
 Terrain: 6881
--3
+-2
 Terrain: 6882
 -1
 Terrain: 6883
 -1
 Terrain: 6884
--1
+-3
 Terrain: 6885
 -1
 Terrain: 6886
@@ -13778,7 +13778,7 @@ Terrain: 6888
 Terrain: 6889
 -1
 Terrain: 6890
--1
+80
 Terrain: 6891
 -1
 Terrain: 6892
@@ -13788,19 +13788,19 @@ Terrain: 6893
 Terrain: 6894
 -1
 Terrain: 6895
--1
+-3
 Terrain: 6896
 -1
 Terrain: 6897
--1
+-2
 Terrain: 6898
 -1
 Terrain: 6899
--2
+-1
 Terrain: 6900
 -1
 Terrain: 6901
--1
+-2
 Terrain: 6902
 -1
 Terrain: 6903
@@ -13808,7 +13808,7 @@ Terrain: 6903
 Terrain: 6904
 -1
 Terrain: 6905
--1
+45
 Terrain: 6906
 -1
 Terrain: 6907
@@ -13836,21 +13836,21 @@ Terrain: 6917
 Terrain: 6918
 -1
 Terrain: 6919
--2
+-1
 Terrain: 6920
 -1
 Terrain: 6921
--1
+-2
 Terrain: 6922
 -1
 Terrain: 6923
--2
+-1
 Terrain: 6924
 -1
 Terrain: 6925
 -1
 Terrain: 6926
--3
+-1
 Terrain: 6927
 -1
 Terrain: 6928
@@ -13860,13 +13860,13 @@ Terrain: 6929
 Terrain: 6930
 -1
 Terrain: 6931
--1
+58
 Terrain: 6932
 -1
 Terrain: 6933
 -1
 Terrain: 6934
--1
+67
 Terrain: 6935
 -1
 Terrain: 6936
@@ -13876,7 +13876,7 @@ Terrain: 6937
 Terrain: 6938
 -1
 Terrain: 6939
--1
+-2
 Terrain: 6940
 -1
 Terrain: 6941
@@ -13896,15 +13896,15 @@ Terrain: 6947
 Terrain: 6948
 -1
 Terrain: 6949
--1
+-3
 Terrain: 6950
--2
+-1
 Terrain: 6951
 -1
 Terrain: 6952
 -1
 Terrain: 6953
--2
+-1
 Terrain: 6954
 -1
 Terrain: 6955
@@ -13918,35 +13918,35 @@ Terrain: 6958
 Terrain: 6959
 -1
 Terrain: 6960
--3
-Terrain: 6961
 -1
+Terrain: 6961
+45
 Terrain: 6962
 -1
 Terrain: 6963
 -1
 Terrain: 6964
--2
+-1
 Terrain: 6965
-45
+-1
 Terrain: 6966
 -1
 Terrain: 6967
 -1
 Terrain: 6968
-52
+-2
 Terrain: 6969
 -1
 Terrain: 6970
 -1
 Terrain: 6971
--1
+58
 Terrain: 6972
--2
+-1
 Terrain: 6973
 -1
 Terrain: 6974
--3
+-1
 Terrain: 6975
 -1
 Terrain: 6976
@@ -13956,9 +13956,9 @@ Terrain: 6977
 Terrain: 6978
 -1
 Terrain: 6979
--1
+-3
 Terrain: 6980
--2
+-1
 Terrain: 6981
 -1
 Terrain: 6982
@@ -13986,7 +13986,7 @@ Terrain: 6992
 Terrain: 6993
 -1
 Terrain: 6994
-52
+-2
 Terrain: 6995
 -1
 Terrain: 6996
@@ -14008,11 +14008,11 @@ Terrain: 7003
 Terrain: 7004
 -1
 Terrain: 7005
--1
+-3
 Terrain: 7006
 -1
 Terrain: 7007
--3
+-1
 Terrain: 7008
 -1
 Terrain: 7009
@@ -14040,27 +14040,27 @@ Terrain: 7019
 Terrain: 7020
 -1
 Terrain: 7021
--1
+-2
 Terrain: 7022
 -1
 Terrain: 7023
-45
+-1
 Terrain: 7024
 -1
 Terrain: 7025
 -1
 Terrain: 7026
--1
-Terrain: 7027
--1
-Terrain: 7028
 -3
+Terrain: 7027
+-2
+Terrain: 7028
+-1
 Terrain: 7029
 -1
 Terrain: 7030
 -1
 Terrain: 7031
--2
+-1
 Terrain: 7032
 -1
 Terrain: 7033
@@ -14068,9 +14068,9 @@ Terrain: 7033
 Terrain: 7034
 -1
 Terrain: 7035
--3
+-1
 Terrain: 7036
--3
+-1
 Terrain: 7037
 -1
 Terrain: 7038
@@ -14092,7 +14092,7 @@ Terrain: 7045
 Terrain: 7046
 -1
 Terrain: 7047
--1
+-3
 Terrain: 7048
 -2
 Terrain: 7049
@@ -14136,11 +14136,11 @@ Terrain: 7067
 Terrain: 7068
 -1
 Terrain: 7069
--1
-Terrain: 7070
--3
-Terrain: 7071
 -2
+Terrain: 7070
+-1
+Terrain: 7071
+-1
 Terrain: 7072
 -1
 Terrain: 7073
@@ -14148,7 +14148,7 @@ Terrain: 7073
 Terrain: 7074
 -1
 Terrain: 7075
--1
+-2
 Terrain: 7076
 -1
 Terrain: 7077
@@ -14164,7 +14164,7 @@ Terrain: 7081
 Terrain: 7082
 -1
 Terrain: 7083
--1
+-2
 Terrain: 7084
 -1
 Terrain: 7085
@@ -14174,9 +14174,9 @@ Terrain: 7086
 Terrain: 7087
 -1
 Terrain: 7088
--1
+-3
 Terrain: 7089
--1
+-2
 Terrain: 7090
 -1
 Terrain: 7091
@@ -14188,13 +14188,13 @@ Terrain: 7093
 Terrain: 7094
 -1
 Terrain: 7095
--3
+-1
 Terrain: 7096
 -1
 Terrain: 7097
 -1
 Terrain: 7098
-52
+-1
 Terrain: 7099
 -1
 Terrain: 7100
@@ -14214,7 +14214,7 @@ Terrain: 7106
 Terrain: 7107
 -1
 Terrain: 7108
--1
+-2
 Terrain: 7109
 -1
 Terrain: 7110
@@ -14222,11 +14222,11 @@ Terrain: 7110
 Terrain: 7111
 -1
 Terrain: 7112
--3
+-1
 Terrain: 7113
 -1
 Terrain: 7114
--2
+-1
 Terrain: 7115
 -1
 Terrain: 7116
@@ -14234,7 +14234,7 @@ Terrain: 7116
 Terrain: 7117
 -1
 Terrain: 7118
--2
+-1
 Terrain: 7119
 -1
 Terrain: 7120
@@ -14242,9 +14242,9 @@ Terrain: 7120
 Terrain: 7121
 -1
 Terrain: 7122
--2
+-1
 Terrain: 7123
--3
+-1
 Terrain: 7124
 -1
 Terrain: 7125
@@ -14252,11 +14252,11 @@ Terrain: 7125
 Terrain: 7126
 -1
 Terrain: 7127
--3
-Terrain: 7128
 -1
+Terrain: 7128
+58
 Terrain: 7129
-52
+-1
 Terrain: 7130
 -1
 Terrain: 7131
@@ -14274,7 +14274,7 @@ Terrain: 7136
 Terrain: 7137
 -1
 Terrain: 7138
--2
+-1
 Terrain: 7139
 -1
 Terrain: 7140
@@ -14332,7 +14332,7 @@ Terrain: 7165
 Terrain: 7166
 -1
 Terrain: 7167
--1
+-3
 Terrain: 7168
 -1
 Terrain: 7169
@@ -14344,7 +14344,7 @@ Terrain: 7171
 Terrain: 7172
 -1
 Terrain: 7173
-52
+-1
 Terrain: 7174
 -1
 Terrain: 7175
@@ -14360,15 +14360,15 @@ Terrain: 7179
 Terrain: 7180
 -1
 Terrain: 7181
--1
+58
 Terrain: 7182
 -1
 Terrain: 7183
--3
+-1
 Terrain: 7184
 -1
 Terrain: 7185
-52
+-1
 Terrain: 7186
 -1
 Terrain: 7187
@@ -14382,13 +14382,13 @@ Terrain: 7190
 Terrain: 7191
 -1
 Terrain: 7192
--2
+-1
 Terrain: 7193
 -1
 Terrain: 7194
 -1
 Terrain: 7195
--1
+67
 Terrain: 7196
 -1
 Terrain: 7197
@@ -14396,9 +14396,9 @@ Terrain: 7197
 Terrain: 7198
 -1
 Terrain: 7199
--1
+-2
 Terrain: 7200
-45
+-1
 Terrain: 7201
 -1
 Terrain: 7202
@@ -14406,15 +14406,15 @@ Terrain: 7202
 Terrain: 7203
 -1
 Terrain: 7204
--1
+-3
 Terrain: 7205
 -1
 Terrain: 7206
--2
+-1
 Terrain: 7207
 -1
 Terrain: 7208
--1
+-3
 Terrain: 7209
 -1
 Terrain: 7210
@@ -14430,7 +14430,7 @@ Terrain: 7214
 Terrain: 7215
 -1
 Terrain: 7216
--3
+-1
 Terrain: 7217
 -1
 Terrain: 7218
@@ -14442,15 +14442,15 @@ Terrain: 7220
 Terrain: 7221
 -1
 Terrain: 7222
--3
+-1
 Terrain: 7223
--2
+-1
 Terrain: 7224
 -1
 Terrain: 7225
--2
+-1
 Terrain: 7226
--3
+-1
 Terrain: 7227
 -1
 Terrain: 7228
@@ -14492,7 +14492,7 @@ Terrain: 7245
 Terrain: 7246
 -1
 Terrain: 7247
--2
+-1
 Terrain: 7248
 -1
 Terrain: 7249
@@ -14500,11 +14500,11 @@ Terrain: 7249
 Terrain: 7250
 -1
 Terrain: 7251
--3
+-1
 Terrain: 7252
--2
+-1
 Terrain: 7253
--2
+-1
 Terrain: 7254
 -1
 Terrain: 7255
@@ -14512,21 +14512,21 @@ Terrain: 7255
 Terrain: 7256
 -1
 Terrain: 7257
--1
+-2
 Terrain: 7258
 -1
 Terrain: 7259
 -1
 Terrain: 7260
--2
+-1
 Terrain: 7261
 -1
 Terrain: 7262
 -1
 Terrain: 7263
-77
-Terrain: 7264
 -1
+Terrain: 7264
+-3
 Terrain: 7265
 -1
 Terrain: 7266
@@ -14538,7 +14538,7 @@ Terrain: 7268
 Terrain: 7269
 -1
 Terrain: 7270
--2
+-1
 Terrain: 7271
 -1
 Terrain: 7272
@@ -14546,7 +14546,7 @@ Terrain: 7272
 Terrain: 7273
 -1
 Terrain: 7274
--1
+-3
 Terrain: 7275
 -1
 Terrain: 7276
@@ -14558,15 +14558,15 @@ Terrain: 7278
 Terrain: 7279
 -1
 Terrain: 7280
--1
+-3
 Terrain: 7281
 -1
 Terrain: 7282
 -1
 Terrain: 7283
--3
-Terrain: 7284
 -2
+Terrain: 7284
+-1
 Terrain: 7285
 -1
 Terrain: 7286
@@ -14588,9 +14588,9 @@ Terrain: 7293
 Terrain: 7294
 -1
 Terrain: 7295
--1
+-2
 Terrain: 7296
--1
+58
 Terrain: 7297
 -1
 Terrain: 7298
@@ -14624,7 +14624,7 @@ Terrain: 7311
 Terrain: 7312
 -1
 Terrain: 7313
--1
+-2
 Terrain: 7314
 -1
 Terrain: 7315
@@ -14638,7 +14638,7 @@ Terrain: 7318
 Terrain: 7319
 -1
 Terrain: 7320
--3
+-1
 Terrain: 7321
 -1
 Terrain: 7322
@@ -14682,7 +14682,7 @@ Terrain: 7340
 Terrain: 7341
 -1
 Terrain: 7342
-70
+-1
 Terrain: 7343
 -1
 Terrain: 7344
@@ -14704,7 +14704,7 @@ Terrain: 7351
 Terrain: 7352
 -1
 Terrain: 7353
-52
+-2
 Terrain: 7354
 -1
 Terrain: 7355
@@ -14714,17 +14714,17 @@ Terrain: 7356
 Terrain: 7357
 -1
 Terrain: 7358
--2
+-1
 Terrain: 7359
 -1
 Terrain: 7360
--2
+-1
 Terrain: 7361
--3
+-1
 Terrain: 7362
 -1
 Terrain: 7363
--3
+45
 Terrain: 7364
 -1
 Terrain: 7365
@@ -14734,15 +14734,15 @@ Terrain: 7366
 Terrain: 7367
 -1
 Terrain: 7368
--2
+-1
 Terrain: 7369
 -1
 Terrain: 7370
--3
+-1
 Terrain: 7371
--3
+-1
 Terrain: 7372
--3
+-1
 Terrain: 7373
 -1
 Terrain: 7374
@@ -14754,15 +14754,15 @@ Terrain: 7376
 Terrain: 7377
 -1
 Terrain: 7378
--3
+-1
 Terrain: 7379
 -1
 Terrain: 7380
--2
+-1
 Terrain: 7381
 -1
 Terrain: 7382
--3
+-1
 Terrain: 7383
 -1
 Terrain: 7384
@@ -14770,7 +14770,7 @@ Terrain: 7384
 Terrain: 7385
 -1
 Terrain: 7386
--1
+-3
 Terrain: 7387
 -1
 Terrain: 7388
@@ -14778,7 +14778,7 @@ Terrain: 7388
 Terrain: 7389
 -1
 Terrain: 7390
--1
+-3
 Terrain: 7391
 -1
 Terrain: 7392
@@ -14786,23 +14786,23 @@ Terrain: 7392
 Terrain: 7393
 -1
 Terrain: 7394
--3
+-1
 Terrain: 7395
--2
+-1
 Terrain: 7396
 -1
 Terrain: 7397
--1
+58
 Terrain: 7398
 -1
 Terrain: 7399
 -1
 Terrain: 7400
--3
+-1
 Terrain: 7401
--1
+45
 Terrain: 7402
--1
+45
 Terrain: 7403
 -1
 Terrain: 7404
@@ -14816,7 +14816,7 @@ Terrain: 7407
 Terrain: 7408
 -1
 Terrain: 7409
--3
+-1
 Terrain: 7410
 -1
 Terrain: 7411
@@ -14836,7 +14836,7 @@ Terrain: 7417
 Terrain: 7418
 -1
 Terrain: 7419
-68
+-1
 Terrain: 7420
 -1
 Terrain: 7421
@@ -14862,23 +14862,23 @@ Terrain: 7430
 Terrain: 7431
 -1
 Terrain: 7432
--1
+-2
 Terrain: 7433
--1
+-3
 Terrain: 7434
 -1
 Terrain: 7435
--1
+-3
 Terrain: 7436
 -1
 Terrain: 7437
 -1
 Terrain: 7438
--2
+-1
 Terrain: 7439
--1
+58
 Terrain: 7440
--1
+-2
 Terrain: 7441
 -1
 Terrain: 7442
@@ -14888,7 +14888,7 @@ Terrain: 7443
 Terrain: 7444
 -1
 Terrain: 7445
--1
+-2
 Terrain: 7446
 -1
 Terrain: 7447
@@ -14904,17 +14904,17 @@ Terrain: 7451
 Terrain: 7452
 -1
 Terrain: 7453
--2
+-3
 Terrain: 7454
 -1
 Terrain: 7455
--2
+-1
 Terrain: 7456
 -1
 Terrain: 7457
 -1
 Terrain: 7458
--2
+-1
 Terrain: 7459
 -1
 Terrain: 7460
@@ -14922,7 +14922,7 @@ Terrain: 7460
 Terrain: 7461
 -1
 Terrain: 7462
-61
+-1
 Terrain: 7463
 -1
 Terrain: 7464
@@ -14938,7 +14938,7 @@ Terrain: 7468
 Terrain: 7469
 -1
 Terrain: 7470
--3
+-1
 Terrain: 7471
 -1
 Terrain: 7472
@@ -14976,17 +14976,17 @@ Terrain: 7487
 Terrain: 7488
 -1
 Terrain: 7489
--2
+-1
 Terrain: 7490
 -1
 Terrain: 7491
--1
+-2
 Terrain: 7492
--3
+-1
 Terrain: 7493
 -1
 Terrain: 7494
--2
+-1
 Terrain: 7495
 -1
 Terrain: 7496
@@ -15008,9 +15008,9 @@ Terrain: 7503
 Terrain: 7504
 -1
 Terrain: 7505
--3
-Terrain: 7506
 -1
+Terrain: 7506
+-3
 Terrain: 7507
 -1
 Terrain: 7508
@@ -15042,7 +15042,7 @@ Terrain: 7520
 Terrain: 7521
 -1
 Terrain: 7522
--2
+-3
 Terrain: 7523
 -1
 Terrain: 7524
@@ -15052,7 +15052,7 @@ Terrain: 7525
 Terrain: 7526
 -1
 Terrain: 7527
--2
+-3
 Terrain: 7528
 -1
 Terrain: 7529
@@ -15060,9 +15060,9 @@ Terrain: 7529
 Terrain: 7530
 -1
 Terrain: 7531
--1
+-2
 Terrain: 7532
--3
+-1
 Terrain: 7533
 -1
 Terrain: 7534
@@ -15080,7 +15080,7 @@ Terrain: 7539
 Terrain: 7540
 -1
 Terrain: 7541
--1
+45
 Terrain: 7542
 -1
 Terrain: 7543
@@ -15096,7 +15096,7 @@ Terrain: 7547
 Terrain: 7548
 -1
 Terrain: 7549
--2
+-1
 Terrain: 7550
 -1
 Terrain: 7551
@@ -15142,33 +15142,33 @@ Terrain: 7570
 Terrain: 7571
 -1
 Terrain: 7572
--1
+-2
 Terrain: 7573
 -1
 Terrain: 7574
-45
+-1
 Terrain: 7575
 -1
 Terrain: 7576
--1
+-3
 Terrain: 7577
 -1
 Terrain: 7578
--1
+-3
 Terrain: 7579
 -1
 Terrain: 7580
 -1
 Terrain: 7581
--1
+-3
 Terrain: 7582
 -1
 Terrain: 7583
 -1
 Terrain: 7584
--3
+-1
 Terrain: 7585
--2
+-1
 Terrain: 7586
 -1
 Terrain: 7587
@@ -15184,9 +15184,9 @@ Terrain: 7591
 Terrain: 7592
 -1
 Terrain: 7593
--3
+-1
 Terrain: 7594
--3
+-1
 Terrain: 7595
 -1
 Terrain: 7596
@@ -15194,15 +15194,15 @@ Terrain: 7596
 Terrain: 7597
 -1
 Terrain: 7598
--3
+-1
 Terrain: 7599
--1
+-2
 Terrain: 7600
--1
+-2
 Terrain: 7601
 -1
 Terrain: 7602
--2
+-1
 Terrain: 7603
 -1
 Terrain: 7604
@@ -15230,7 +15230,7 @@ Terrain: 7614
 Terrain: 7615
 -1
 Terrain: 7616
--2
+-1
 Terrain: 7617
 -1
 Terrain: 7618
@@ -15244,9 +15244,9 @@ Terrain: 7621
 Terrain: 7622
 -1
 Terrain: 7623
-52
+-1
 Terrain: 7624
--2
+-1
 Terrain: 7625
 -1
 Terrain: 7626
@@ -15254,17 +15254,17 @@ Terrain: 7626
 Terrain: 7627
 -1
 Terrain: 7628
--1
+-2
 Terrain: 7629
 -1
 Terrain: 7630
--3
-Terrain: 7631
 -1
+Terrain: 7631
+-3
 Terrain: 7632
 -1
 Terrain: 7633
--1
+-2
 Terrain: 7634
 -1
 Terrain: 7635
@@ -15276,27 +15276,27 @@ Terrain: 7637
 Terrain: 7638
 -1
 Terrain: 7639
--1
+-3
 Terrain: 7640
 -1
 Terrain: 7641
 -1
 Terrain: 7642
--1
+-2
 Terrain: 7643
 -1
 Terrain: 7644
--2
+-1
 Terrain: 7645
 -1
 Terrain: 7646
-52
+-1
 Terrain: 7647
 -1
 Terrain: 7648
 -1
 Terrain: 7649
--2
+45
 Terrain: 7650
 -1
 Terrain: 7651
@@ -15306,7 +15306,7 @@ Terrain: 7652
 Terrain: 7653
 -1
 Terrain: 7654
--1
+-3
 Terrain: 7655
 -1
 Terrain: 7656
@@ -15354,7 +15354,7 @@ Terrain: 7676
 Terrain: 7677
 -1
 Terrain: 7678
--3
+-1
 Terrain: 7679
 -1
 Terrain: 7680
@@ -15388,19 +15388,19 @@ Terrain: 7693
 Terrain: 7694
 -1
 Terrain: 7695
--2
+-1
 Terrain: 7696
 -1
 Terrain: 7697
--1
+-2
 Terrain: 7698
 -1
 Terrain: 7699
--1
+-2
 Terrain: 7700
 -1
 Terrain: 7701
--3
+-1
 Terrain: 7702
 -1
 Terrain: 7703
@@ -15420,9 +15420,9 @@ Terrain: 7709
 Terrain: 7710
 -1
 Terrain: 7711
--1
+-3
 Terrain: 7712
--1
+-2
 Terrain: 7713
 -1
 Terrain: 7714
@@ -15430,7 +15430,7 @@ Terrain: 7714
 Terrain: 7715
 -1
 Terrain: 7716
--3
+-1
 Terrain: 7717
 -1
 Terrain: 7718
@@ -15440,23 +15440,23 @@ Terrain: 7719
 Terrain: 7720
 -1
 Terrain: 7721
--2
+-1
 Terrain: 7722
 -1
 Terrain: 7723
 -1
 Terrain: 7724
--1
+-3
 Terrain: 7725
 -1
 Terrain: 7726
 -1
 Terrain: 7727
--1
+-3
 Terrain: 7728
 -1
 Terrain: 7729
--3
+-1
 Terrain: 7730
 -1
 Terrain: 7731
@@ -15464,17 +15464,17 @@ Terrain: 7731
 Terrain: 7732
 -1
 Terrain: 7733
--1
+58
 Terrain: 7734
 -1
 Terrain: 7735
--2
+-1
 Terrain: 7736
 -1
 Terrain: 7737
 -1
 Terrain: 7738
-45
+80
 Terrain: 7739
 -1
 Terrain: 7740
@@ -15484,19 +15484,19 @@ Terrain: 7741
 Terrain: 7742
 -1
 Terrain: 7743
--1
+-3
 Terrain: 7744
 -1
 Terrain: 7745
 -1
 Terrain: 7746
--2
+-1
 Terrain: 7747
 -1
 Terrain: 7748
 -1
 Terrain: 7749
-45
+-1
 Terrain: 7750
 -1
 Terrain: 7751
@@ -15514,13 +15514,13 @@ Terrain: 7756
 Terrain: 7757
 -1
 Terrain: 7758
--1
+-2
 Terrain: 7759
 -1
 Terrain: 7760
 -1
 Terrain: 7761
--2
+-1
 Terrain: 7762
 -1
 Terrain: 7763
@@ -15530,13 +15530,13 @@ Terrain: 7764
 Terrain: 7765
 -1
 Terrain: 7766
--2
+-1
 Terrain: 7767
 -1
 Terrain: 7768
 -1
 Terrain: 7769
-45
+-1
 Terrain: 7770
 -1
 Terrain: 7771
@@ -15548,7 +15548,7 @@ Terrain: 7773
 Terrain: 7774
 -1
 Terrain: 7775
--1
+-2
 Terrain: 7776
 -1
 Terrain: 7777
@@ -15564,7 +15564,7 @@ Terrain: 7781
 Terrain: 7782
 -1
 Terrain: 7783
--1
+-2
 Terrain: 7784
 -1
 Terrain: 7785
@@ -15572,13 +15572,13 @@ Terrain: 7785
 Terrain: 7786
 -1
 Terrain: 7787
--2
+-1
 Terrain: 7788
 -1
 Terrain: 7789
--1
-Terrain: 7790
 -3
+Terrain: 7790
+-1
 Terrain: 7791
 -1
 Terrain: 7792
@@ -15586,7 +15586,7 @@ Terrain: 7792
 Terrain: 7793
 -1
 Terrain: 7794
-45
+-1
 Terrain: 7795
 -1
 Terrain: 7796
@@ -15596,7 +15596,7 @@ Terrain: 7797
 Terrain: 7798
 -1
 Terrain: 7799
--1
+-2
 Terrain: 7800
 -1
 Terrain: 7801
@@ -15604,7 +15604,7 @@ Terrain: 7801
 Terrain: 7802
 -1
 Terrain: 7803
--1
+-2
 Terrain: 7804
 -1
 Terrain: 7805
@@ -15612,7 +15612,7 @@ Terrain: 7805
 Terrain: 7806
 -1
 Terrain: 7807
--1
+-3
 Terrain: 7808
 -1
 Terrain: 7809
@@ -15632,7 +15632,7 @@ Terrain: 7815
 Terrain: 7816
 -1
 Terrain: 7817
--3
+-1
 Terrain: 7818
 -1
 Terrain: 7819
@@ -15648,7 +15648,7 @@ Terrain: 7823
 Terrain: 7824
 -1
 Terrain: 7825
-52
+-1
 Terrain: 7826
 -1
 Terrain: 7827
@@ -15666,7 +15666,7 @@ Terrain: 7832
 Terrain: 7833
 -1
 Terrain: 7834
--1
+45
 Terrain: 7835
 -1
 Terrain: 7836
@@ -15678,19 +15678,19 @@ Terrain: 7838
 Terrain: 7839
 -1
 Terrain: 7840
--1
+-3
 Terrain: 7841
 -1
 Terrain: 7842
--2
-Terrain: 7843
 -1
+Terrain: 7843
+58
 Terrain: 7844
 -1
 Terrain: 7845
 -1
 Terrain: 7846
--1
+-3
 Terrain: 7847
 -1
 Terrain: 7848
@@ -15698,7 +15698,7 @@ Terrain: 7848
 Terrain: 7849
 -1
 Terrain: 7850
--1
+67
 Terrain: 7851
 -1
 Terrain: 7852
@@ -15708,7 +15708,7 @@ Terrain: 7853
 Terrain: 7854
 -1
 Terrain: 7855
--1
+-2
 Terrain: 7856
 -1
 Terrain: 7857
@@ -15718,9 +15718,9 @@ Terrain: 7858
 Terrain: 7859
 -1
 Terrain: 7860
--1
+-2
 Terrain: 7861
--1
+-3
 Terrain: 7862
 -1
 Terrain: 7863
@@ -15750,11 +15750,11 @@ Terrain: 7874
 Terrain: 7875
 -1
 Terrain: 7876
--1
+-2
 Terrain: 7877
 -1
 Terrain: 7878
-86
+-1
 Terrain: 7879
 -1
 Terrain: 7880
@@ -15778,19 +15778,19 @@ Terrain: 7888
 Terrain: 7889
 -1
 Terrain: 7890
--3
+-1
 Terrain: 7891
 -1
 Terrain: 7892
--1
+-3
 Terrain: 7893
 -1
 Terrain: 7894
--1
+-2
 Terrain: 7895
 -1
 Terrain: 7896
--1
+-2
 Terrain: 7897
 -1
 Terrain: 7898
@@ -15804,11 +15804,11 @@ Terrain: 7901
 Terrain: 7902
 -1
 Terrain: 7903
--1
+-3
 Terrain: 7904
 -1
 Terrain: 7905
--1
+58
 Terrain: 7906
 -1
 Terrain: 7907
@@ -15820,7 +15820,7 @@ Terrain: 7909
 Terrain: 7910
 -1
 Terrain: 7911
--2
+-1
 Terrain: 7912
 -1
 Terrain: 7913
@@ -15832,7 +15832,7 @@ Terrain: 7915
 Terrain: 7916
 -1
 Terrain: 7917
--2
+-1
 Terrain: 7918
 -1
 Terrain: 7919
@@ -15870,13 +15870,13 @@ Terrain: 7934
 Terrain: 7935
 -1
 Terrain: 7936
--1
+-3
 Terrain: 7937
 -1
 Terrain: 7938
--1
+-3
 Terrain: 7939
--1
+-2
 Terrain: 7940
 -1
 Terrain: 7941
@@ -15888,7 +15888,7 @@ Terrain: 7943
 Terrain: 7944
 -1
 Terrain: 7945
--1
+-2
 Terrain: 7946
 -1
 Terrain: 7947
@@ -15896,9 +15896,9 @@ Terrain: 7947
 Terrain: 7948
 -1
 Terrain: 7949
--1
+-3
 Terrain: 7950
--2
+-1
 Terrain: 7951
 -1
 Terrain: 7952
@@ -15938,11 +15938,11 @@ Terrain: 7968
 Terrain: 7969
 -1
 Terrain: 7970
--3
-Terrain: 7971
--2
-Terrain: 7972
 -1
+Terrain: 7971
+-1
+Terrain: 7972
+-2
 Terrain: 7973
 -1
 Terrain: 7974
@@ -16006,7 +16006,7 @@ Terrain: 8002
 Terrain: 8003
 -1
 Terrain: 8004
--1
+45
 Terrain: 8005
 -1
 Terrain: 8006
@@ -16016,9 +16016,9 @@ Terrain: 8007
 Terrain: 8008
 -1
 Terrain: 8009
--1
+-2
 Terrain: 8010
--1
+-3
 Terrain: 8011
 -1
 Terrain: 8012
@@ -16026,19 +16026,19 @@ Terrain: 8012
 Terrain: 8013
 -1
 Terrain: 8014
-52
-Terrain: 8015
 -1
+Terrain: 8015
+-3
 Terrain: 8016
--2
+-1
 Terrain: 8017
 -1
 Terrain: 8018
--1
+-3
 Terrain: 8019
 -1
 Terrain: 8020
--3
+-1
 Terrain: 8021
 -1
 Terrain: 8022
@@ -16054,11 +16054,11 @@ Terrain: 8026
 Terrain: 8027
 -1
 Terrain: 8028
--1
+-3
 Terrain: 8029
 -1
 Terrain: 8030
--1
+-3
 Terrain: 8031
 -1
 Terrain: 8032
@@ -16066,11 +16066,11 @@ Terrain: 8032
 Terrain: 8033
 -1
 Terrain: 8034
--3
+-1
 Terrain: 8035
-70
+-1
 Terrain: 8036
-45
+-1
 Terrain: 8037
 -1
 Terrain: 8038
@@ -16094,7 +16094,7 @@ Terrain: 8046
 Terrain: 8047
 -1
 Terrain: 8048
--1
+80
 Terrain: 8049
 -1
 Terrain: 8050
@@ -16102,7 +16102,7 @@ Terrain: 8050
 Terrain: 8051
 -1
 Terrain: 8052
--3
+-1
 Terrain: 8053
 -1
 Terrain: 8054
@@ -16110,7 +16110,7 @@ Terrain: 8054
 Terrain: 8055
 -1
 Terrain: 8056
-70
+-1
 Terrain: 8057
 -1
 Terrain: 8058
@@ -16120,9 +16120,9 @@ Terrain: 8059
 Terrain: 8060
 -1
 Terrain: 8061
--3
-Terrain: 8062
 -1
+Terrain: 8062
+-2
 Terrain: 8063
 -1
 Terrain: 8064
@@ -16142,19 +16142,19 @@ Terrain: 8070
 Terrain: 8071
 -1
 Terrain: 8072
--2
+-1
 Terrain: 8073
 -1
 Terrain: 8074
 -1
 Terrain: 8075
--3
+-1
 Terrain: 8076
--1
+-2
 Terrain: 8077
--1
+-2
 Terrain: 8078
-52
+-1
 Terrain: 8079
 -1
 Terrain: 8080
@@ -16172,7 +16172,7 @@ Terrain: 8085
 Terrain: 8086
 -1
 Terrain: 8087
--2
+-1
 Terrain: 8088
 -1
 Terrain: 8089
@@ -16182,7 +16182,7 @@ Terrain: 8090
 Terrain: 8091
 -1
 Terrain: 8092
--1
+-2
 Terrain: 8093
 -1
 Terrain: 8094
@@ -16202,19 +16202,19 @@ Terrain: 8100
 Terrain: 8101
 -1
 Terrain: 8102
--1
+45
 Terrain: 8103
 -1
 Terrain: 8104
 -1
 Terrain: 8105
-45
+-1
 Terrain: 8106
 -1
 Terrain: 8107
 -1
 Terrain: 8108
--1
+-2
 Terrain: 8109
 -1
 Terrain: 8110
@@ -16230,7 +16230,7 @@ Terrain: 8114
 Terrain: 8115
 -1
 Terrain: 8116
--1
+45
 Terrain: 8117
 -1
 Terrain: 8118
@@ -16238,23 +16238,23 @@ Terrain: 8118
 Terrain: 8119
 -1
 Terrain: 8120
--1
+45
 Terrain: 8121
--1
-Terrain: 8122
 -3
+Terrain: 8122
+-1
 Terrain: 8123
 -1
 Terrain: 8124
 -1
 Terrain: 8125
--3
+-2
 Terrain: 8126
 -1
 Terrain: 8127
 -1
 Terrain: 8128
--1
+-2
 Terrain: 8129
 -1
 Terrain: 8130
@@ -16266,7 +16266,7 @@ Terrain: 8132
 Terrain: 8133
 -1
 Terrain: 8134
--1
+-3
 Terrain: 8135
 -1
 Terrain: 8136
@@ -16278,7 +16278,7 @@ Terrain: 8138
 Terrain: 8139
 -1
 Terrain: 8140
--1
+-2
 Terrain: 8141
 -1
 Terrain: 8142
@@ -16286,7 +16286,7 @@ Terrain: 8142
 Terrain: 8143
 -1
 Terrain: 8144
--1
+-2
 Terrain: 8145
 -1
 Terrain: 8146
@@ -16326,7 +16326,7 @@ Terrain: 8162
 Terrain: 8163
 -1
 Terrain: 8164
--1
+-2
 Terrain: 8165
 -1
 Terrain: 8166
@@ -16340,7 +16340,7 @@ Terrain: 8169
 Terrain: 8170
 -1
 Terrain: 8171
--3
+-1
 Terrain: 8172
 -1
 Terrain: 8173
@@ -16380,9 +16380,9 @@ Terrain: 8189
 Terrain: 8190
 -1
 Terrain: 8191
--2
-Terrain: 8192
 -1
+Terrain: 8192
+-2
 Terrain: 8193
 -1
 Terrain: 8194
@@ -16406,7 +16406,7 @@ Terrain: 8202
 Terrain: 8203
 -1
 Terrain: 8204
--1
+-3
 Terrain: 8205
 -1
 Terrain: 8206
@@ -16414,11 +16414,11 @@ Terrain: 8206
 Terrain: 8207
 -1
 Terrain: 8208
--1
+-2
 Terrain: 8209
 -1
 Terrain: 8210
--1
+45
 Terrain: 8211
 -1
 Terrain: 8212
@@ -16428,13 +16428,13 @@ Terrain: 8213
 Terrain: 8214
 -1
 Terrain: 8215
--1
+-3
 Terrain: 8216
-52
+-1
 Terrain: 8217
 -1
 Terrain: 8218
--2
+-1
 Terrain: 8219
 -1
 Terrain: 8220
@@ -16456,7 +16456,7 @@ Terrain: 8227
 Terrain: 8228
 -1
 Terrain: 8229
--1
+-2
 Terrain: 8230
 -1
 Terrain: 8231
@@ -16480,13 +16480,13 @@ Terrain: 8239
 Terrain: 8240
 -1
 Terrain: 8241
-45
+-1
 Terrain: 8242
 -1
 Terrain: 8243
 -1
 Terrain: 8244
--1
+-3
 Terrain: 8245
 -1
 Terrain: 8246
@@ -16498,7 +16498,7 @@ Terrain: 8248
 Terrain: 8249
 -1
 Terrain: 8250
--2
+-1
 Terrain: 8251
 -1
 Terrain: 8252
@@ -16508,13 +16508,13 @@ Terrain: 8253
 Terrain: 8254
 -1
 Terrain: 8255
--1
-Terrain: 8256
 -2
+Terrain: 8256
+-1
 Terrain: 8257
 -1
 Terrain: 8258
--1
+-3
 Terrain: 8259
 -1
 Terrain: 8260
@@ -16522,9 +16522,9 @@ Terrain: 8260
 Terrain: 8261
 -1
 Terrain: 8262
--1
-Terrain: 8263
 -3
+Terrain: 8263
+-1
 Terrain: 8264
 -1
 Terrain: 8265
@@ -16540,11 +16540,11 @@ Terrain: 8269
 Terrain: 8270
 -1
 Terrain: 8271
--1
+67
 Terrain: 8272
 -1
 Terrain: 8273
--3
+-1
 Terrain: 8274
 -1
 Terrain: 8275
@@ -16558,7 +16558,7 @@ Terrain: 8278
 Terrain: 8279
 -1
 Terrain: 8280
-45
+-1
 Terrain: 8281
 -1
 Terrain: 8282
@@ -16570,7 +16570,7 @@ Terrain: 8284
 Terrain: 8285
 -1
 Terrain: 8286
--3
+-1
 Terrain: 8287
 -1
 Terrain: 8288
@@ -16584,9 +16584,9 @@ Terrain: 8291
 Terrain: 8292
 -1
 Terrain: 8293
--1
+-3
 Terrain: 8294
--1
+45
 Terrain: 8295
 -1
 Terrain: 8296
@@ -16604,11 +16604,11 @@ Terrain: 8301
 Terrain: 8302
 -1
 Terrain: 8303
--3
+-1
 Terrain: 8304
 -1
 Terrain: 8305
--2
+-1
 Terrain: 8306
 -1
 Terrain: 8307
@@ -16632,7 +16632,7 @@ Terrain: 8315
 Terrain: 8316
 -1
 Terrain: 8317
-45
+-1
 Terrain: 8318
 -1
 Terrain: 8319
@@ -16682,15 +16682,15 @@ Terrain: 8340
 Terrain: 8341
 -1
 Terrain: 8342
--1
+-3
 Terrain: 8343
--1
+-2
 Terrain: 8344
--1
+-3
 Terrain: 8345
 -1
 Terrain: 8346
--1
+-3
 Terrain: 8347
 -1
 Terrain: 8348
@@ -16704,7 +16704,7 @@ Terrain: 8351
 Terrain: 8352
 -1
 Terrain: 8353
--3
+-1
 Terrain: 8354
 -1
 Terrain: 8355
@@ -16716,11 +16716,11 @@ Terrain: 8357
 Terrain: 8358
 -1
 Terrain: 8359
--1
+-2
 Terrain: 8360
 -1
 Terrain: 8361
--1
+-3
 Terrain: 8362
 -1
 Terrain: 8363
@@ -16736,7 +16736,7 @@ Terrain: 8367
 Terrain: 8368
 -1
 Terrain: 8369
--2
+-1
 Terrain: 8370
 -1
 Terrain: 8371
@@ -16748,13 +16748,13 @@ Terrain: 8373
 Terrain: 8374
 -1
 Terrain: 8375
--2
+-1
 Terrain: 8376
 -1
 Terrain: 8377
--3
-Terrain: 8378
 -1
+Terrain: 8378
+-3
 Terrain: 8379
 -1
 Terrain: 8380
@@ -16770,7 +16770,7 @@ Terrain: 8384
 Terrain: 8385
 -1
 Terrain: 8386
--1
+-2
 Terrain: 8387
 -1
 Terrain: 8388
@@ -16778,9 +16778,9 @@ Terrain: 8388
 Terrain: 8389
 -1
 Terrain: 8390
--2
+-1
 Terrain: 8391
--2
+-1
 Terrain: 8392
 -1
 Terrain: 8393
@@ -16796,27 +16796,27 @@ Terrain: 8397
 Terrain: 8398
 -1
 Terrain: 8399
--2
+-1
 Terrain: 8400
 -1
 Terrain: 8401
 -1
 Terrain: 8402
--1
+-2
 Terrain: 8403
 -1
 Terrain: 8404
-52
-Terrain: 8405
 -1
+Terrain: 8405
+-2
 Terrain: 8406
-52
+-1
 Terrain: 8407
 -1
 Terrain: 8408
--2
-Terrain: 8409
 -1
+Terrain: 8409
+-3
 Terrain: 8410
 -1
 Terrain: 8411
@@ -16826,7 +16826,7 @@ Terrain: 8412
 Terrain: 8413
 -1
 Terrain: 8414
--1
+45
 Terrain: 8415
 -1
 Terrain: 8416
@@ -16846,7 +16846,7 @@ Terrain: 8422
 Terrain: 8423
 -1
 Terrain: 8424
--3
+-1
 Terrain: 8425
 -1
 Terrain: 8426
@@ -16854,7 +16854,7 @@ Terrain: 8426
 Terrain: 8427
 -1
 Terrain: 8428
--2
+-1
 Terrain: 8429
 -1
 Terrain: 8430
@@ -16878,13 +16878,13 @@ Terrain: 8438
 Terrain: 8439
 -1
 Terrain: 8440
--3
+-1
 Terrain: 8441
 -1
 Terrain: 8442
 -1
 Terrain: 8443
--1
+-3
 Terrain: 8444
 -1
 Terrain: 8445
@@ -16900,7 +16900,7 @@ Terrain: 8449
 Terrain: 8450
 -1
 Terrain: 8451
--3
+-1
 Terrain: 8452
 -1
 Terrain: 8453
@@ -16928,7 +16928,7 @@ Terrain: 8463
 Terrain: 8464
 -1
 Terrain: 8465
--2
+-1
 Terrain: 8466
 -1
 Terrain: 8467
@@ -16958,7 +16958,7 @@ Terrain: 8478
 Terrain: 8479
 -1
 Terrain: 8480
--2
+-1
 Terrain: 8481
 -1
 Terrain: 8482
@@ -16972,27 +16972,27 @@ Terrain: 8485
 Terrain: 8486
 -1
 Terrain: 8487
--3
+-1
 Terrain: 8488
 -1
 Terrain: 8489
--2
+-1
 Terrain: 8490
 -1
 Terrain: 8491
 -1
 Terrain: 8492
--3
+-1
 Terrain: 8493
 -1
 Terrain: 8494
--3
+-1
 Terrain: 8495
 -1
 Terrain: 8496
--1
+-3
 Terrain: 8497
--2
+-3
 Terrain: 8498
 -1
 Terrain: 8499
@@ -17002,15 +17002,15 @@ Terrain: 8500
 Terrain: 8501
 -1
 Terrain: 8502
--3
-Terrain: 8503
 -1
+Terrain: 8503
+-2
 Terrain: 8504
 -1
 Terrain: 8505
 -1
 Terrain: 8506
--3
+-1
 Terrain: 8507
 -1
 Terrain: 8508
@@ -17022,13 +17022,13 @@ Terrain: 8510
 Terrain: 8511
 -1
 Terrain: 8512
--1
+-3
 Terrain: 8513
 -1
 Terrain: 8514
 -1
 Terrain: 8515
--2
+58
 Terrain: 8516
 -1
 Terrain: 8517
@@ -17042,7 +17042,7 @@ Terrain: 8520
 Terrain: 8521
 -1
 Terrain: 8522
--1
+-2
 Terrain: 8523
 -1
 Terrain: 8524
@@ -17070,13 +17070,13 @@ Terrain: 8534
 Terrain: 8535
 -1
 Terrain: 8536
--1
+-2
 Terrain: 8537
--3
+-1
 Terrain: 8538
 -1
 Terrain: 8539
--2
+-1
 Terrain: 8540
 -1
 Terrain: 8541
@@ -17098,17 +17098,17 @@ Terrain: 8548
 Terrain: 8549
 -1
 Terrain: 8550
--3
+-1
 Terrain: 8551
--3
+-2
 Terrain: 8552
--3
+-1
 Terrain: 8553
 -1
 Terrain: 8554
 -1
 Terrain: 8555
--1
+-2
 Terrain: 8556
 -1
 Terrain: 8557
@@ -17122,11 +17122,11 @@ Terrain: 8560
 Terrain: 8561
 -1
 Terrain: 8562
--1
+67
 Terrain: 8563
 -1
 Terrain: 8564
-45
+-1
 Terrain: 8565
 -1
 Terrain: 8566
@@ -17140,7 +17140,7 @@ Terrain: 8569
 Terrain: 8570
 -1
 Terrain: 8571
--1
+-3
 Terrain: 8572
 -1
 Terrain: 8573
@@ -17148,25 +17148,25 @@ Terrain: 8573
 Terrain: 8574
 -1
 Terrain: 8575
--3
+-1
 Terrain: 8576
 -1
 Terrain: 8577
--1
+-3
 Terrain: 8578
 -1
 Terrain: 8579
--2
+-1
 Terrain: 8580
 -1
 Terrain: 8581
-45
+-1
 Terrain: 8582
 -1
 Terrain: 8583
 -1
 Terrain: 8584
-45
+-1
 Terrain: 8585
 -1
 Terrain: 8586
@@ -17178,7 +17178,7 @@ Terrain: 8588
 Terrain: 8589
 -1
 Terrain: 8590
--1
+-3
 Terrain: 8591
 -1
 Terrain: 8592
@@ -17194,13 +17194,13 @@ Terrain: 8596
 Terrain: 8597
 -1
 Terrain: 8598
--1
+-2
 Terrain: 8599
--3
+-1
 Terrain: 8600
 -1
 Terrain: 8601
--2
+-3
 Terrain: 8602
 -1
 Terrain: 8603
@@ -17218,9 +17218,9 @@ Terrain: 8608
 Terrain: 8609
 -1
 Terrain: 8610
--3
+-1
 Terrain: 8611
--3
+-1
 Terrain: 8612
 -1
 Terrain: 8613
@@ -17238,11 +17238,11 @@ Terrain: 8618
 Terrain: 8619
 -1
 Terrain: 8620
--2
+-1
 Terrain: 8621
 -1
 Terrain: 8622
--1
+-3
 Terrain: 8623
 -1
 Terrain: 8624
@@ -17252,13 +17252,13 @@ Terrain: 8625
 Terrain: 8626
 -1
 Terrain: 8627
--3
+-1
 Terrain: 8628
 -1
 Terrain: 8629
 -1
 Terrain: 8630
--2
+-1
 Terrain: 8631
 -1
 Terrain: 8632
@@ -17270,7 +17270,7 @@ Terrain: 8634
 Terrain: 8635
 -1
 Terrain: 8636
--3
+-1
 Terrain: 8637
 -1
 Terrain: 8638
@@ -17282,7 +17282,7 @@ Terrain: 8640
 Terrain: 8641
 -1
 Terrain: 8642
-77
+-1
 Terrain: 8643
 -1
 Terrain: 8644
@@ -17292,17 +17292,17 @@ Terrain: 8645
 Terrain: 8646
 -1
 Terrain: 8647
--1
+45
 Terrain: 8648
--3
+-1
 Terrain: 8649
 -1
 Terrain: 8650
--1
+-3
 Terrain: 8651
--1
-Terrain: 8652
 -2
+Terrain: 8652
+-1
 Terrain: 8653
 -1
 Terrain: 8654
@@ -17316,7 +17316,7 @@ Terrain: 8657
 Terrain: 8658
 -1
 Terrain: 8659
--1
+45
 Terrain: 8660
 -1
 Terrain: 8661
@@ -17328,7 +17328,7 @@ Terrain: 8663
 Terrain: 8664
 -1
 Terrain: 8665
--1
+67
 Terrain: 8666
 -1
 Terrain: 8667
@@ -17342,13 +17342,13 @@ Terrain: 8670
 Terrain: 8671
 -1
 Terrain: 8672
--1
+-3
 Terrain: 8673
 -1
 Terrain: 8674
--3
+-1
 Terrain: 8675
--2
+-1
 Terrain: 8676
 -1
 Terrain: 8677
@@ -17372,11 +17372,11 @@ Terrain: 8685
 Terrain: 8686
 -1
 Terrain: 8687
--3
+-1
 Terrain: 8688
 -1
 Terrain: 8689
--1
+-2
 Terrain: 8690
 -1
 Terrain: 8691
@@ -17390,19 +17390,19 @@ Terrain: 8694
 Terrain: 8695
 -1
 Terrain: 8696
--2
+-1
 Terrain: 8697
--3
+-1
 Terrain: 8698
--1
+-3
 Terrain: 8699
--1
+-2
 Terrain: 8700
 -1
 Terrain: 8701
 -1
 Terrain: 8702
--3
+-1
 Terrain: 8703
 -1
 Terrain: 8704
@@ -17420,7 +17420,7 @@ Terrain: 8709
 Terrain: 8710
 -1
 Terrain: 8711
--2
+-1
 Terrain: 8712
 -1
 Terrain: 8713
@@ -17430,7 +17430,7 @@ Terrain: 8714
 Terrain: 8715
 -1
 Terrain: 8716
--1
+-3
 Terrain: 8717
 -1
 Terrain: 8718
@@ -17440,7 +17440,7 @@ Terrain: 8719
 Terrain: 8720
 -1
 Terrain: 8721
--1
+-2
 Terrain: 8722
 -1
 Terrain: 8723
@@ -17452,11 +17452,11 @@ Terrain: 8725
 Terrain: 8726
 -1
 Terrain: 8727
--1
+-3
 Terrain: 8728
 -1
 Terrain: 8729
--2
+-1
 Terrain: 8730
 -1
 Terrain: 8731
@@ -17490,7 +17490,7 @@ Terrain: 8744
 Terrain: 8745
 -1
 Terrain: 8746
--1
+-3
 Terrain: 8747
 -1
 Terrain: 8748
@@ -17500,7 +17500,7 @@ Terrain: 8749
 Terrain: 8750
 -1
 Terrain: 8751
--3
+-1
 Terrain: 8752
 -1
 Terrain: 8753
@@ -17516,7 +17516,7 @@ Terrain: 8757
 Terrain: 8758
 -1
 Terrain: 8759
--1
+-2
 Terrain: 8760
 -1
 Terrain: 8761
@@ -17528,7 +17528,7 @@ Terrain: 8763
 Terrain: 8764
 -1
 Terrain: 8765
--1
+76
 Terrain: 8766
 -1
 Terrain: 8767
@@ -17548,13 +17548,13 @@ Terrain: 8773
 Terrain: 8774
 -1
 Terrain: 8775
--1
+-2
 Terrain: 8776
 -1
 Terrain: 8777
-45
-Terrain: 8778
 -1
+Terrain: 8778
+-3
 Terrain: 8779
 -1
 Terrain: 8780
@@ -17566,7 +17566,7 @@ Terrain: 8782
 Terrain: 8783
 -1
 Terrain: 8784
--1
+-2
 Terrain: 8785
 -1
 Terrain: 8786
@@ -17578,7 +17578,7 @@ Terrain: 8788
 Terrain: 8789
 -1
 Terrain: 8790
-45
+-1
 Terrain: 8791
 -1
 Terrain: 8792
@@ -17604,9 +17604,9 @@ Terrain: 8801
 Terrain: 8802
 -1
 Terrain: 8803
--1
+-3
 Terrain: 8804
--1
+-2
 Terrain: 8805
 -1
 Terrain: 8806
@@ -17630,7 +17630,7 @@ Terrain: 8814
 Terrain: 8815
 -1
 Terrain: 8816
--2
+-1
 Terrain: 8817
 -1
 Terrain: 8818
@@ -17638,7 +17638,7 @@ Terrain: 8818
 Terrain: 8819
 -1
 Terrain: 8820
--3
+-1
 Terrain: 8821
 -1
 Terrain: 8822
@@ -17648,7 +17648,7 @@ Terrain: 8823
 Terrain: 8824
 -1
 Terrain: 8825
--2
+-1
 Terrain: 8826
 -1
 Terrain: 8827
@@ -17658,11 +17658,11 @@ Terrain: 8828
 Terrain: 8829
 -1
 Terrain: 8830
--3
+-1
 Terrain: 8831
 -1
 Terrain: 8832
--1
+-3
 Terrain: 8833
 -1
 Terrain: 8834
@@ -17670,7 +17670,7 @@ Terrain: 8834
 Terrain: 8835
 -1
 Terrain: 8836
--1
+-3
 Terrain: 8837
 -1
 Terrain: 8838
@@ -17678,7 +17678,7 @@ Terrain: 8838
 Terrain: 8839
 -1
 Terrain: 8840
--3
+-1
 Terrain: 8841
 -1
 Terrain: 8842
@@ -17692,13 +17692,13 @@ Terrain: 8845
 Terrain: 8846
 -1
 Terrain: 8847
--2
+-1
 Terrain: 8848
 -1
 Terrain: 8849
-45
+-1
 Terrain: 8850
--2
+-1
 Terrain: 8851
 -1
 Terrain: 8852
@@ -17718,21 +17718,21 @@ Terrain: 8858
 Terrain: 8859
 -1
 Terrain: 8860
--1
+-2
 Terrain: 8861
 -1
 Terrain: 8862
 -1
 Terrain: 8863
--3
+-2
 Terrain: 8864
 -1
 Terrain: 8865
 -1
 Terrain: 8866
--1
-Terrain: 8867
 -2
+Terrain: 8867
+-1
 Terrain: 8868
 -1
 Terrain: 8869
@@ -17756,21 +17756,21 @@ Terrain: 8877
 Terrain: 8878
 -1
 Terrain: 8879
--3
+-2
 Terrain: 8880
 -1
 Terrain: 8881
 -1
 Terrain: 8882
--1
+-3
 Terrain: 8883
 -1
 Terrain: 8884
 -1
 Terrain: 8885
-52
+-1
 Terrain: 8886
--3
+-1
 Terrain: 8887
 -1
 Terrain: 8888
@@ -17786,9 +17786,9 @@ Terrain: 8892
 Terrain: 8893
 -1
 Terrain: 8894
--1
+-3
 Terrain: 8895
--2
+-1
 Terrain: 8896
 -1
 Terrain: 8897
@@ -17808,7 +17808,7 @@ Terrain: 8903
 Terrain: 8904
 -1
 Terrain: 8905
--1
+-3
 Terrain: 8906
 -1
 Terrain: 8907
@@ -17842,27 +17842,27 @@ Terrain: 8920
 Terrain: 8921
 -1
 Terrain: 8922
--3
+-1
 Terrain: 8923
 -1
 Terrain: 8924
 -1
 Terrain: 8925
--1
+-3
 Terrain: 8926
 -1
 Terrain: 8927
--2
+-1
 Terrain: 8928
 -1
 Terrain: 8929
 -1
 Terrain: 8930
-45
+-1
 Terrain: 8931
 -1
 Terrain: 8932
--3
+-1
 Terrain: 8933
 -1
 Terrain: 8934
@@ -17880,7 +17880,7 @@ Terrain: 8939
 Terrain: 8940
 -2
 Terrain: 8941
--1
+58
 Terrain: 8942
 -1
 Terrain: 8943
@@ -17894,9 +17894,9 @@ Terrain: 8946
 Terrain: 8947
 -1
 Terrain: 8948
--1
-Terrain: 8949
 -2
+Terrain: 8949
+-1
 Terrain: 8950
 -1
 Terrain: 8951
@@ -17922,7 +17922,7 @@ Terrain: 8960
 Terrain: 8961
 -1
 Terrain: 8962
--2
+-1
 Terrain: 8963
 -1
 Terrain: 8964
@@ -17940,7 +17940,7 @@ Terrain: 8969
 Terrain: 8970
 -1
 Terrain: 8971
--3
+-1
 Terrain: 8972
 -1
 Terrain: 8973
@@ -17958,13 +17958,13 @@ Terrain: 8978
 Terrain: 8979
 -1
 Terrain: 8980
--3
+-1
 Terrain: 8981
 -1
 Terrain: 8982
--1
+-3
 Terrain: 8983
--1
+-3
 Terrain: 8984
 -1
 Terrain: 8985
@@ -17984,7 +17984,7 @@ Terrain: 8991
 Terrain: 8992
 -1
 Terrain: 8993
-45
+-3
 Terrain: 8994
 -1
 Terrain: 8995
@@ -18010,23 +18010,23 @@ Terrain: 9004
 Terrain: 9005
 -1
 Terrain: 9006
--1
+-3
 Terrain: 9007
 -1
 Terrain: 9008
 -1
 Terrain: 9009
--2
-Terrain: 9010
 -1
+Terrain: 9010
+-3
 Terrain: 9011
 -1
 Terrain: 9012
--1
+-3
 Terrain: 9013
 -1
 Terrain: 9014
--2
+-1
 Terrain: 9015
 -3
 Terrain: 9016
@@ -18040,11 +18040,11 @@ Terrain: 9019
 Terrain: 9020
 -1
 Terrain: 9021
--1
+-3
 Terrain: 9022
 -1
 Terrain: 9023
--3
+-1
 Terrain: 9024
 -1
 Terrain: 9025
@@ -18052,23 +18052,23 @@ Terrain: 9025
 Terrain: 9026
 -1
 Terrain: 9027
--2
+-1
 Terrain: 9028
 -1
 Terrain: 9029
 -1
 Terrain: 9030
-45
+-1
 Terrain: 9031
 -1
 Terrain: 9032
--1
+-3
 Terrain: 9033
 -1
 Terrain: 9034
--1
-Terrain: 9035
 -3
+Terrain: 9035
+-1
 Terrain: 9036
 -1
 Terrain: 9037
@@ -18086,7 +18086,7 @@ Terrain: 9042
 Terrain: 9043
 -1
 Terrain: 9044
--3
+-1
 Terrain: 9045
 -1
 Terrain: 9046
@@ -18096,13 +18096,13 @@ Terrain: 9047
 Terrain: 9048
 -1
 Terrain: 9049
--1
+-2
 Terrain: 9050
 -1
 Terrain: 9051
 -1
 Terrain: 9052
--2
+-1
 Terrain: 9053
 -1
 Terrain: 9054
@@ -18118,7 +18118,7 @@ Terrain: 9058
 Terrain: 9059
 -1
 Terrain: 9060
--3
+-1
 Terrain: 9061
 -1
 Terrain: 9062
@@ -18140,17 +18140,17 @@ Terrain: 9069
 Terrain: 9070
 -1
 Terrain: 9071
--2
+-1
 Terrain: 9072
 -1
 Terrain: 9073
--1
+-2
 Terrain: 9074
 -1
 Terrain: 9075
 -1
 Terrain: 9076
--3
+-1
 Terrain: 9077
 -1
 Terrain: 9078
@@ -18164,15 +18164,15 @@ Terrain: 9081
 Terrain: 9082
 -1
 Terrain: 9083
--3
+-1
 Terrain: 9084
 -1
 Terrain: 9085
--3
+-1
 Terrain: 9086
 -1
 Terrain: 9087
--3
+-1
 Terrain: 9088
 -1
 Terrain: 9089
@@ -18182,7 +18182,7 @@ Terrain: 9090
 Terrain: 9091
 -1
 Terrain: 9092
--1
+-3
 Terrain: 9093
 -1
 Terrain: 9094
@@ -18196,7 +18196,7 @@ Terrain: 9097
 Terrain: 9098
 -1
 Terrain: 9099
--1
+-2
 Terrain: 9100
 -1
 Terrain: 9101
@@ -18204,7 +18204,7 @@ Terrain: 9101
 Terrain: 9102
 -1
 Terrain: 9103
--1
+58
 Terrain: 9104
 -1
 Terrain: 9105
@@ -18216,19 +18216,19 @@ Terrain: 9107
 Terrain: 9108
 -1
 Terrain: 9109
--3
+-1
 Terrain: 9110
 -1
 Terrain: 9111
--2
+-1
 Terrain: 9112
 -1
 Terrain: 9113
--3
+-1
 Terrain: 9114
 -1
 Terrain: 9115
--1
+-3
 Terrain: 9116
 -1
 Terrain: 9117
@@ -18238,7 +18238,7 @@ Terrain: 9118
 Terrain: 9119
 -1
 Terrain: 9120
--2
+-1
 Terrain: 9121
 -1
 Terrain: 9122
@@ -18246,15 +18246,15 @@ Terrain: 9122
 Terrain: 9123
 -1
 Terrain: 9124
-61
+-1
 Terrain: 9125
 -1
 Terrain: 9126
 -1
 Terrain: 9127
-45
-Terrain: 9128
 -1
+Terrain: 9128
+-2
 Terrain: 9129
 -1
 Terrain: 9130
@@ -18290,7 +18290,7 @@ Terrain: 9144
 Terrain: 9145
 -1
 Terrain: 9146
--3
+-1
 Terrain: 9147
 -1
 Terrain: 9148
@@ -18304,7 +18304,7 @@ Terrain: 9151
 Terrain: 9152
 -1
 Terrain: 9153
--1
+-3
 Terrain: 9154
 -1
 Terrain: 9155
@@ -18322,7 +18322,7 @@ Terrain: 9160
 Terrain: 9161
 -1
 Terrain: 9162
--1
+-2
 Terrain: 9163
 -1
 Terrain: 9164
@@ -18332,11 +18332,11 @@ Terrain: 9165
 Terrain: 9166
 -1
 Terrain: 9167
--2
+-1
 Terrain: 9168
--1
+58
 Terrain: 9169
--1
+-3
 Terrain: 9170
 -1
 Terrain: 9171
@@ -18346,15 +18346,15 @@ Terrain: 9172
 Terrain: 9173
 -1
 Terrain: 9174
--2
+-1
 Terrain: 9175
--3
+-2
 Terrain: 9176
 -1
 Terrain: 9177
 -1
 Terrain: 9178
--1
+-3
 Terrain: 9179
 -1
 Terrain: 9180
@@ -18364,7 +18364,7 @@ Terrain: 9181
 Terrain: 9182
 -1
 Terrain: 9183
--1
+45
 Terrain: 9184
 -1
 Terrain: 9185
@@ -18384,7 +18384,7 @@ Terrain: 9191
 Terrain: 9192
 -1
 Terrain: 9193
--1
+-3
 Terrain: 9194
 -1
 Terrain: 9195
@@ -18396,13 +18396,13 @@ Terrain: 9197
 Terrain: 9198
 -1
 Terrain: 9199
--2
+-1
 Terrain: 9200
 -1
 Terrain: 9201
 -1
 Terrain: 9202
--3
+-1
 Terrain: 9203
 -1
 Terrain: 9204
@@ -18416,7 +18416,7 @@ Terrain: 9207
 Terrain: 9208
 -1
 Terrain: 9209
--1
+-3
 Terrain: 9210
 -1
 Terrain: 9211
@@ -18424,7 +18424,7 @@ Terrain: 9211
 Terrain: 9212
 -1
 Terrain: 9213
--1
+45
 Terrain: 9214
 -1
 Terrain: 9215
@@ -18438,9 +18438,9 @@ Terrain: 9218
 Terrain: 9219
 -1
 Terrain: 9220
--1
+-3
 Terrain: 9221
--1
+-3
 Terrain: 9222
 -1
 Terrain: 9223
@@ -18448,7 +18448,7 @@ Terrain: 9223
 Terrain: 9224
 -1
 Terrain: 9225
--1
+-3
 Terrain: 9226
 -1
 Terrain: 9227
@@ -18458,13 +18458,13 @@ Terrain: 9228
 Terrain: 9229
 -1
 Terrain: 9230
--2
+-1
 Terrain: 9231
 -1
 Terrain: 9232
 -1
 Terrain: 9233
--3
+-1
 Terrain: 9234
 -1
 Terrain: 9235
@@ -18476,13 +18476,13 @@ Terrain: 9237
 Terrain: 9238
 -1
 Terrain: 9239
--1
+-2
 Terrain: 9240
 -1
 Terrain: 9241
 -1
 Terrain: 9242
--2
+-1
 Terrain: 9243
 -1
 Terrain: 9244
@@ -18498,7 +18498,7 @@ Terrain: 9248
 Terrain: 9249
 -1
 Terrain: 9250
--1
+-3
 Terrain: 9251
 -1
 Terrain: 9252
@@ -18516,7 +18516,7 @@ Terrain: 9257
 Terrain: 9258
 -1
 Terrain: 9259
--1
+-2
 Terrain: 9260
 -1
 Terrain: 9261
@@ -18530,13 +18530,13 @@ Terrain: 9264
 Terrain: 9265
 -1
 Terrain: 9266
--1
+-2
 Terrain: 9267
 -1
 Terrain: 9268
--1
+-3
 Terrain: 9269
--2
+-3
 Terrain: 9270
 -1
 Terrain: 9271
@@ -18552,7 +18552,7 @@ Terrain: 9275
 Terrain: 9276
 -1
 Terrain: 9277
--1
+-3
 Terrain: 9278
 -1
 Terrain: 9279
@@ -18570,7 +18570,7 @@ Terrain: 9284
 Terrain: 9285
 -1
 Terrain: 9286
-52
+-1
 Terrain: 9287
 -1
 Terrain: 9288
@@ -18578,25 +18578,25 @@ Terrain: 9288
 Terrain: 9289
 -1
 Terrain: 9290
--1
+58
 Terrain: 9291
 -1
 Terrain: 9292
--2
+-1
 Terrain: 9293
 -1
 Terrain: 9294
 -1
 Terrain: 9295
--2
+-1
 Terrain: 9296
 -1
 Terrain: 9297
 -1
 Terrain: 9298
--3
+-1
 Terrain: 9299
--3
+-1
 Terrain: 9300
 -1
 Terrain: 9301
@@ -18612,9 +18612,9 @@ Terrain: 9305
 Terrain: 9306
 -1
 Terrain: 9307
--1
+-3
 Terrain: 9308
--1
+-2
 Terrain: 9309
 -1
 Terrain: 9310
@@ -18628,19 +18628,19 @@ Terrain: 9313
 Terrain: 9314
 -1
 Terrain: 9315
--1
+-3
 Terrain: 9316
--1
+-3
 Terrain: 9317
 -1
 Terrain: 9318
--2
+-1
 Terrain: 9319
 -1
 Terrain: 9320
 -2
 Terrain: 9321
--1
+-3
 Terrain: 9322
 -1
 Terrain: 9323
@@ -18660,7 +18660,7 @@ Terrain: 9329
 Terrain: 9330
 -1
 Terrain: 9331
--1
+-3
 Terrain: 9332
 -1
 Terrain: 9333
@@ -18668,9 +18668,9 @@ Terrain: 9333
 Terrain: 9334
 -1
 Terrain: 9335
--2
-Terrain: 9336
 -1
+Terrain: 9336
+-3
 Terrain: 9337
 -1
 Terrain: 9338
@@ -18678,7 +18678,7 @@ Terrain: 9338
 Terrain: 9339
 -1
 Terrain: 9340
--1
+-2
 Terrain: 9341
 -1
 Terrain: 9342
@@ -18700,11 +18700,11 @@ Terrain: 9349
 Terrain: 9350
 -1
 Terrain: 9351
--2
+-1
 Terrain: 9352
 -1
 Terrain: 9353
--2
+-1
 Terrain: 9354
 -1
 Terrain: 9355
@@ -18714,13 +18714,13 @@ Terrain: 9356
 Terrain: 9357
 -1
 Terrain: 9358
--1
+-3
 Terrain: 9359
 -1
 Terrain: 9360
 -1
 Terrain: 9361
--1
+-3
 Terrain: 9362
 -1
 Terrain: 9363
@@ -18728,7 +18728,7 @@ Terrain: 9363
 Terrain: 9364
 -1
 Terrain: 9365
--2
+-1
 Terrain: 9366
 -1
 Terrain: 9367
@@ -18750,7 +18750,7 @@ Terrain: 9374
 Terrain: 9375
 -1
 Terrain: 9376
--2
+-1
 Terrain: 9377
 -1
 Terrain: 9378
@@ -18768,13 +18768,13 @@ Terrain: 9383
 Terrain: 9384
 -1
 Terrain: 9385
-45
+-1
 Terrain: 9386
 -1
 Terrain: 9387
 -1
 Terrain: 9388
--1
+-2
 Terrain: 9389
 -1
 Terrain: 9390
@@ -18792,7 +18792,7 @@ Terrain: 9395
 Terrain: 9396
 -1
 Terrain: 9397
--1
+-2
 Terrain: 9398
 -1
 Terrain: 9399
@@ -18810,13 +18810,13 @@ Terrain: 9404
 Terrain: 9405
 -1
 Terrain: 9406
--3
+-1
 Terrain: 9407
 -1
 Terrain: 9408
--1
+-3
 Terrain: 9409
--2
+-1
 Terrain: 9410
 -1
 Terrain: 9411
@@ -18830,35 +18830,35 @@ Terrain: 9414
 Terrain: 9415
 -1
 Terrain: 9416
--3
+-1
 Terrain: 9417
 -1
 Terrain: 9418
 -1
 Terrain: 9419
--1
+-3
 Terrain: 9420
--1
+45
 Terrain: 9421
 -1
 Terrain: 9422
 -1
 Terrain: 9423
--3
+-1
 Terrain: 9424
 -1
 Terrain: 9425
 -1
 Terrain: 9426
--1
+-2
 Terrain: 9427
 -1
 Terrain: 9428
 -1
 Terrain: 9429
--1
+-3
 Terrain: 9430
--2
+-1
 Terrain: 9431
 -1
 Terrain: 9432
@@ -18866,15 +18866,15 @@ Terrain: 9432
 Terrain: 9433
 -1
 Terrain: 9434
--1
+-3
 Terrain: 9435
--1
+-2
 Terrain: 9436
 -1
 Terrain: 9437
 -1
 Terrain: 9438
--3
+-1
 Terrain: 9439
 -1
 Terrain: 9440
@@ -18882,7 +18882,7 @@ Terrain: 9440
 Terrain: 9441
 -1
 Terrain: 9442
--3
+-1
 Terrain: 9443
 -1
 Terrain: 9444
@@ -18894,7 +18894,7 @@ Terrain: 9446
 Terrain: 9447
 -1
 Terrain: 9448
--1
+58
 Terrain: 9449
 -1
 Terrain: 9450
@@ -18920,7 +18920,7 @@ Terrain: 9459
 Terrain: 9460
 -1
 Terrain: 9461
--1
+-3
 Terrain: 9462
 -1
 Terrain: 9463
@@ -18930,7 +18930,7 @@ Terrain: 9464
 Terrain: 9465
 -1
 Terrain: 9466
--1
+-2
 Terrain: 9467
 -1
 Terrain: 9468
@@ -18950,9 +18950,9 @@ Terrain: 9474
 Terrain: 9475
 -1
 Terrain: 9476
--1
+-2
 Terrain: 9477
--1
+-3
 Terrain: 9478
 -1
 Terrain: 9479
@@ -18968,21 +18968,21 @@ Terrain: 9483
 Terrain: 9484
 -1
 Terrain: 9485
--2
+-1
 Terrain: 9486
--2
+-1
 Terrain: 9487
 -1
 Terrain: 9488
 -1
 Terrain: 9489
--2
+-1
 Terrain: 9490
 -1
 Terrain: 9491
 -1
 Terrain: 9492
--1
+-2
 Terrain: 9493
 -1
 Terrain: 9494
@@ -18994,7 +18994,7 @@ Terrain: 9496
 Terrain: 9497
 -1
 Terrain: 9498
-45
+-1
 Terrain: 9499
 -1
 Terrain: 9500
@@ -19010,7 +19010,7 @@ Terrain: 9504
 Terrain: 9505
 -1
 Terrain: 9506
--3
+-1
 Terrain: 9507
 -1
 Terrain: 9508
@@ -19018,7 +19018,7 @@ Terrain: 9508
 Terrain: 9509
 -1
 Terrain: 9510
--1
+-2
 Terrain: 9511
 -1
 Terrain: 9512
@@ -19028,7 +19028,7 @@ Terrain: 9513
 Terrain: 9514
 -1
 Terrain: 9515
--3
+-1
 Terrain: 9516
 -1
 Terrain: 9517
@@ -19058,7 +19058,7 @@ Terrain: 9528
 Terrain: 9529
 -1
 Terrain: 9530
--2
+-1
 Terrain: 9531
 -1
 Terrain: 9532
@@ -19080,19 +19080,19 @@ Terrain: 9539
 Terrain: 9540
 -1
 Terrain: 9541
--3
+-1
 Terrain: 9542
 -1
 Terrain: 9543
--2
+-1
 Terrain: 9544
--2
+-1
 Terrain: 9545
 -1
 Terrain: 9546
 -1
 Terrain: 9547
--3
+-1
 Terrain: 9548
 -1
 Terrain: 9549
@@ -19104,7 +19104,7 @@ Terrain: 9551
 Terrain: 9552
 -1
 Terrain: 9553
--1
+58
 Terrain: 9554
 -1
 Terrain: 9555
@@ -19122,7 +19122,7 @@ Terrain: 9560
 Terrain: 9561
 -1
 Terrain: 9562
--1
+45
 Terrain: 9563
 -1
 Terrain: 9564
@@ -19132,21 +19132,21 @@ Terrain: 9565
 Terrain: 9566
 -1
 Terrain: 9567
--3
+-1
 Terrain: 9568
 -1
 Terrain: 9569
 -1
 Terrain: 9570
--3
+-1
 Terrain: 9571
 -1
 Terrain: 9572
 -1
 Terrain: 9573
--1
+-2
 Terrain: 9574
--1
+-2
 Terrain: 9575
 -1
 Terrain: 9576
@@ -19166,13 +19166,13 @@ Terrain: 9582
 Terrain: 9583
 -1
 Terrain: 9584
-45
+-1
 Terrain: 9585
 -1
 Terrain: 9586
 -1
 Terrain: 9587
--3
+-1
 Terrain: 9588
 -1
 Terrain: 9589
@@ -19198,7 +19198,7 @@ Terrain: 9598
 Terrain: 9599
 -1
 Terrain: 9600
--2
+-1
 Terrain: 9601
 -1
 Terrain: 9602
@@ -19212,11 +19212,11 @@ Terrain: 9605
 Terrain: 9606
 -1
 Terrain: 9607
-61
+-1
 Terrain: 9608
 -1
 Terrain: 9609
--2
+-1
 Terrain: 9610
 -1
 Terrain: 9611
@@ -19228,13 +19228,13 @@ Terrain: 9613
 Terrain: 9614
 -1
 Terrain: 9615
-52
+-1
 Terrain: 9616
 -1
 Terrain: 9617
--1
+58
 Terrain: 9618
--1
+-2
 Terrain: 9619
 -1
 Terrain: 9620
@@ -19276,11 +19276,11 @@ Terrain: 9637
 Terrain: 9638
 -1
 Terrain: 9639
--2
+-1
 Terrain: 9640
 -1
 Terrain: 9641
--1
+58
 Terrain: 9642
 -1
 Terrain: 9643
@@ -19312,9 +19312,9 @@ Terrain: 9655
 Terrain: 9656
 -1
 Terrain: 9657
--1
+-2
 Terrain: 9658
--1
+45
 Terrain: 9659
 -1
 Terrain: 9660
@@ -19330,9 +19330,9 @@ Terrain: 9664
 Terrain: 9665
 -1
 Terrain: 9666
--1
+-2
 Terrain: 9667
--1
+-2
 Terrain: 9668
 -1
 Terrain: 9669
@@ -19350,7 +19350,7 @@ Terrain: 9674
 Terrain: 9675
 -1
 Terrain: 9676
--1
+-2
 Terrain: 9677
 -1
 Terrain: 9678
@@ -19370,9 +19370,9 @@ Terrain: 9684
 Terrain: 9685
 -1
 Terrain: 9686
--3
+-1
 Terrain: 9687
--2
+-1
 Terrain: 9688
 -1
 Terrain: 9689
@@ -19382,7 +19382,7 @@ Terrain: 9690
 Terrain: 9691
 -1
 Terrain: 9692
--2
+-1
 Terrain: 9693
 -1
 Terrain: 9694
@@ -19392,7 +19392,7 @@ Terrain: 9695
 Terrain: 9696
 -1
 Terrain: 9697
--3
+-1
 Terrain: 9698
 -1
 Terrain: 9699
@@ -19408,7 +19408,7 @@ Terrain: 9703
 Terrain: 9704
 -1
 Terrain: 9705
--3
+-1
 Terrain: 9706
 -1
 Terrain: 9707
@@ -19418,7 +19418,7 @@ Terrain: 9708
 Terrain: 9709
 -1
 Terrain: 9710
--3
+-1
 Terrain: 9711
 -1
 Terrain: 9712
@@ -19432,13 +19432,13 @@ Terrain: 9715
 Terrain: 9716
 -1
 Terrain: 9717
--3
+-1
 Terrain: 9718
 -1
 Terrain: 9719
 -1
 Terrain: 9720
-52
+-1
 Terrain: 9721
 -1
 Terrain: 9722
@@ -19460,7 +19460,7 @@ Terrain: 9729
 Terrain: 9730
 -1
 Terrain: 9731
-45
+-1
 Terrain: 9732
 -1
 Terrain: 9733
@@ -19474,15 +19474,15 @@ Terrain: 9736
 Terrain: 9737
 -1
 Terrain: 9738
--3
+-1
 Terrain: 9739
--2
+-1
 Terrain: 9740
 -1
 Terrain: 9741
 -1
 Terrain: 9742
--1
+-3
 Terrain: 9743
 -1
 Terrain: 9744
@@ -19494,17 +19494,17 @@ Terrain: 9746
 Terrain: 9747
 -1
 Terrain: 9748
--2
+-1
 Terrain: 9749
 -1
 Terrain: 9750
--1
+-3
 Terrain: 9751
 -1
 Terrain: 9752
 -1
 Terrain: 9753
--1
+-2
 Terrain: 9754
 -1
 Terrain: 9755
@@ -19520,9 +19520,9 @@ Terrain: 9759
 Terrain: 9760
 -1
 Terrain: 9761
--3
+-1
 Terrain: 9762
-61
+-1
 Terrain: 9763
 -1
 Terrain: 9764
@@ -19532,13 +19532,13 @@ Terrain: 9765
 Terrain: 9766
 -1
 Terrain: 9767
--2
-Terrain: 9768
 -1
-Terrain: 9769
--2
-Terrain: 9770
+Terrain: 9768
 -3
+Terrain: 9769
+-1
+Terrain: 9770
+-1
 Terrain: 9771
 -1
 Terrain: 9772
@@ -19550,7 +19550,7 @@ Terrain: 9774
 Terrain: 9775
 -1
 Terrain: 9776
--3
+-1
 Terrain: 9777
 -1
 Terrain: 9778
@@ -19582,9 +19582,9 @@ Terrain: 9790
 Terrain: 9791
 -1
 Terrain: 9792
--2
+-1
 Terrain: 9793
--3
+-1
 Terrain: 9794
 -1
 Terrain: 9795
@@ -19610,7 +19610,7 @@ Terrain: 9804
 Terrain: 9805
 -1
 Terrain: 9806
--3
+-1
 Terrain: 9807
 -1
 Terrain: 9808
@@ -19634,7 +19634,7 @@ Terrain: 9816
 Terrain: 9817
 -1
 Terrain: 9818
--2
+-1
 Terrain: 9819
 -1
 Terrain: 9820
@@ -19646,7 +19646,7 @@ Terrain: 9822
 Terrain: 9823
 -1
 Terrain: 9824
--2
+-1
 Terrain: 9825
 -1
 Terrain: 9826
@@ -19660,7 +19660,7 @@ Terrain: 9829
 Terrain: 9830
 -1
 Terrain: 9831
--1
+58
 Terrain: 9832
 -1
 Terrain: 9833
@@ -19668,11 +19668,11 @@ Terrain: 9833
 Terrain: 9834
 -1
 Terrain: 9835
-45
+-1
 Terrain: 9836
 -1
 Terrain: 9837
--1
+-3
 Terrain: 9838
 -1
 Terrain: 9839
@@ -19690,25 +19690,25 @@ Terrain: 9844
 Terrain: 9845
 -1
 Terrain: 9846
--1
+-3
 Terrain: 9847
 -1
 Terrain: 9848
--1
+-2
 Terrain: 9849
--1
+58
 Terrain: 9850
--3
+-1
 Terrain: 9851
 -1
 Terrain: 9852
--3
+-1
 Terrain: 9853
 -1
 Terrain: 9854
 -1
 Terrain: 9855
-45
+-1
 Terrain: 9856
 -1
 Terrain: 9857
@@ -19724,11 +19724,11 @@ Terrain: 9861
 Terrain: 9862
 -1
 Terrain: 9863
--3
+-1
 Terrain: 9864
 -1
 Terrain: 9865
--1
+-3
 Terrain: 9866
 -1
 Terrain: 9867
@@ -19750,13 +19750,13 @@ Terrain: 9874
 Terrain: 9875
 -1
 Terrain: 9876
--2
+-1
 Terrain: 9877
 -1
 Terrain: 9878
 -1
 Terrain: 9879
--2
+-1
 Terrain: 9880
 -1
 Terrain: 9881
@@ -19774,11 +19774,11 @@ Terrain: 9886
 Terrain: 9887
 -1
 Terrain: 9888
--3
+-1
 Terrain: 9889
 -1
 Terrain: 9890
--3
+-1
 Terrain: 9891
 -1
 Terrain: 9892
@@ -19788,9 +19788,9 @@ Terrain: 9893
 Terrain: 9894
 -1
 Terrain: 9895
--2
+-1
 Terrain: 9896
--3
+-1
 Terrain: 9897
 -1
 Terrain: 9898
@@ -19808,7 +19808,7 @@ Terrain: 9903
 Terrain: 9904
 -1
 Terrain: 9905
--1
+-2
 Terrain: 9906
 -1
 Terrain: 9907
@@ -19824,7 +19824,7 @@ Terrain: 9911
 Terrain: 9912
 -1
 Terrain: 9913
--1
+-3
 Terrain: 9914
 -1
 Terrain: 9915
@@ -19838,21 +19838,21 @@ Terrain: 9918
 Terrain: 9919
 -1
 Terrain: 9920
--2
+-1
 Terrain: 9921
 -1
 Terrain: 9922
 -1
 Terrain: 9923
--1
+-2
 Terrain: 9924
 -1
 Terrain: 9925
--3
+-1
 Terrain: 9926
 -1
 Terrain: 9927
--1
+-2
 Terrain: 9928
 -1
 Terrain: 9929
@@ -19872,7 +19872,7 @@ Terrain: 9935
 Terrain: 9936
 -1
 Terrain: 9937
--1
+-2
 Terrain: 9938
 -1
 Terrain: 9939
@@ -19882,13 +19882,13 @@ Terrain: 9940
 Terrain: 9941
 -1
 Terrain: 9942
--1
+-2
 Terrain: 9943
 -1
 Terrain: 9944
 -1
 Terrain: 9945
--1
+-2
 Terrain: 9946
 -1
 Terrain: 9947
@@ -19908,7 +19908,7 @@ Terrain: 9953
 Terrain: 9954
 -1
 Terrain: 9955
--1
+58
 Terrain: 9956
 -1
 Terrain: 9957
@@ -19926,13 +19926,13 @@ Terrain: 9962
 Terrain: 9963
 -1
 Terrain: 9964
--1
+58
 Terrain: 9965
 -1
 Terrain: 9966
 -1
 Terrain: 9967
--2
+-1
 Terrain: 9968
 -1
 Terrain: 9969
@@ -19942,7 +19942,7 @@ Terrain: 9970
 Terrain: 9971
 -1
 Terrain: 9972
--1
+-3
 Terrain: 9973
 -1
 Terrain: 9974
@@ -19952,7 +19952,7 @@ Terrain: 9975
 Terrain: 9976
 -1
 Terrain: 9977
--3
+-1
 Terrain: 9978
 -1
 Terrain: 9979
@@ -19960,7 +19960,7 @@ Terrain: 9979
 Terrain: 9980
 -1
 Terrain: 9981
--2
+-1
 Terrain: 9982
 -1
 Terrain: 9983
@@ -19970,11 +19970,11 @@ Terrain: 9984
 Terrain: 9985
 -1
 Terrain: 9986
--1
+-2
 Terrain: 9987
 -1
 Terrain: 9988
--1
+-3
 Terrain: 9989
 -1
 Terrain: 9990
@@ -19986,11 +19986,11 @@ Terrain: 9992
 Terrain: 9993
 -1
 Terrain: 9994
--1
+-3
 Terrain: 9995
 -1
 Terrain: 9996
--3
+-1
 Terrain: 9997
 -1
 Terrain: 9998

@@ -7,6 +7,7 @@
         "generation_terrains.h": "c",
         "stdlib.h": "c",
         "stdio.h": "c",
-        "terrain.h": "c"
+        "terrain.h": "c",
+        "observateur.h": "c"
     }
 }

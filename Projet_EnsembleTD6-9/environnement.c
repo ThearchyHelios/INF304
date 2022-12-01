@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-20 23:00:57
- * @LastEditTime: 2022-11-30 18:45:43
+ * @LastEditTime: 2022-12-01 12:18:54
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /Projet_EnsembleTD6-9/environnement.c
@@ -33,6 +33,7 @@ erreur_terrain initialise_environnement(Environnement *envt,
 	}
 
 	init_robot(&(envt->r), x, y, Est);
+	envt->etat_obs = initial();
 
 	return errt;
 }
@@ -40,6 +41,8 @@ erreur_terrain initialise_environnement(Environnement *envt,
 resultat_deplacement avancer_envt(Environnement *envt)
 {
 	int x, y; // Position devant le robot
+
+	envt->etat_obs = transition(envt->etat_obs, A);
 
 	// Récupérer la position devant le robot
 	position_devant(&(envt->r), &x, &y);
@@ -70,10 +73,18 @@ resultat_deplacement avancer_envt(Environnement *envt)
 }
 
 /* Tourner le robot à gauche */
-void gauche_envt(Environnement *envt) { tourner_a_gauche(&(envt->r)); }
+void gauche_envt(Environnement *envt)
+{
+	tourner_a_gauche(&(envt->r));
+	envt->etat_obs = transition(envt->etat_obs, G);
+}
 
 /* Tourner le robot à droite */
-void droite_envt(Environnement *envt) { tourner_a_droite(&(envt->r)); }
+void droite_envt(Environnement *envt)
+{
+	tourner_a_droite(&(envt->r));
+	envt->etat_obs = transition(envt->etat_obs, D);
+}
 
 /* Effectuer une mesure
    Paramètre d : la direction de la mesure
@@ -127,6 +138,7 @@ int mesure_envt(Environnement *envt, int d)
 		my = y;
 		break;
 	case 1: // devant
+		envt->etat_obs = transition(envt->etat_obs, M);
 		mx = x + dx;
 		my = y + dy;
 		break;
@@ -235,10 +247,5 @@ void afficher_envt(Environnement *envt)
 
 int resultat_obs(Environnement *envt) // Renvoie le resultat de l'observation
 {
-	if (envt->etat_obs != Erreur){
-		return 1;
-	}
-	else{
-		return 0;
-	}
+	return est_final(envt->etat_obs);
 }

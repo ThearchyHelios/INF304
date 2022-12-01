@@ -1,7 +1,7 @@
 /*
  * @Author: ThearchyHelios
  * @Date: 2022-11-26 18:06:12
- * @LastEditTime: 2022-11-30 18:47:30
+ * @LastEditTime: 2022-12-01 12:19:48
  * @LastEditors: ThearchyHelios
  * @Description:
  * @FilePath: /Projet_EnsembleTD6-9/observateur.c
@@ -47,4 +47,4 @@ Etat transition(Etat e, Alphabet c)
         return Erreur;
     }
 }
-int est_final(Etat e) { return e != Erreur; }
+int est_final(Etat e) { return e != Erreur; } // On renvoie 1 si l'état est final, 0 sinon
